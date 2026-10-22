@@ -65,7 +65,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1743853058,
+        "date_updated": 1792661006,
         "url": "https://www.qualtrics.com/careers/us/en/job/6774164/Machine-Learning-Engineer-I-Data-Insights",
         "company_name": "Qualtrics",
         "title": "Machine Learning Engineer I",
@@ -73,7 +73,7 @@
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "1d46f93f-ca3b-4f28-9f10-1f05d72e7a8b",
         "date_posted": 1743853058,
@@ -81,7 +81,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1743853380,
+        "date_updated": 1792661006,
         "url": "https://www.amazon.jobs/en/jobs/2945843/system-development-engineer-project-kuiper",
         "company_name": "Amazon",
         "title": "System Development Engineer, Project Kuiper",
@@ -89,7 +89,7 @@
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "9cbd8738-c04e-4434-9035-032d154629a3",
         "date_posted": 1743853380,
@@ -97,7 +97,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1743853467,
+        "date_updated": 1792661006,
         "url": "https://careers.roblox.com/jobs/6759944",
         "company_name": "Roblox",
         "title": "Software Engineer, Builder Tools",
@@ -105,7 +105,7 @@
             "San Mateo, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "ee508fa1-ac39-4d8c-8b2a-4a04b4aa0997",
         "date_posted": 1743853467,
@@ -161,7 +161,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1743853872,
+        "date_updated": 1792661006,
         "url": "https://www.amazon.jobs/en/jobs/2944002/software-engineer",
         "company_name": "Twitch",
         "title": "Software Engineer",
@@ -170,7 +170,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "b4856bd2-329b-44a8-ad50-76aaad47a547",
         "date_posted": 1743853872,
@@ -242,7 +242,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1743854358,
+        "date_updated": 1792661006,
         "url": "https://careers.roblox.com/jobs/6749070",
         "company_name": "Roblox",
         "title": "New Grad 2025: Software Engineer, Game Solutions Engineering",
@@ -250,7 +250,7 @@
             "San Mateo, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "cvrve-bot",
         "id": "7b5acac0-f9bd-41ec-9452-d6b4e40f8488",
         "date_posted": 1743854358,
@@ -295,7 +295,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1744157845,
+        "date_updated": 1792661006,
         "url": "https://jobs.ashbyhq.com/creditgenie/016056e0-61cd-4a19-9d42-5f3cd88fed02",
         "company_name": "Credit Genie",
         "title": "New Grad: Software Engineer",
@@ -303,7 +303,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "b26e4dea-7809-4ece-96c8-ebd97f5e3021",
         "date_posted": 1744157845,
@@ -498,7 +498,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1744461456,
+        "date_updated": 1792661006,
         "url": "https://www.amazon.jobs/en/jobs/2950609/software-dev-engineer-computer-science",
         "company_name": "Amazon",
         "title": "Software Dev Engineer",
@@ -513,7 +513,7 @@
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "f09dd0db-3818-4822-9386-f33f414113fb",
         "date_posted": 1744461456,
@@ -521,7 +521,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1744461490,
+        "date_updated": 1792661006,
         "url": "https://www.amazon.jobs/en/jobs/2953226/systems-development-engineer-mechatronics-and-sustainable-packaging",
         "company_name": "Amazon",
         "title": "Systems Development Engineer, Mechatronics and Sustainable Packaging",
@@ -529,7 +529,7 @@
             "Bellevue, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "13365f9a-2971-485b-9148-90cac76f3f3d",
         "date_posted": 1744461490,
@@ -619,7 +619,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1744462129,
+        "date_updated": 1792661006,
         "url": "https://amperity.com/careers/6799726?gh_jid=6799726&gh_src=053ff1fc1us&gh_jid=6799726",
         "company_name": "Amperity",
         "title": "Software Development Engineer I",
@@ -627,7 +627,7 @@
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "7403096c-37ed-4440-8f23-871cdc957c4b",
         "date_posted": 1744462129,
@@ -635,7 +635,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1744462175,
+        "date_updated": 1792661006,
         "url": "https://amazon.jobs/en/jobs/2855790/software-development-engineer-i-2025-computer-science",
         "company_name": "Amazon",
         "title": "New Grad 2025: Software Development Engineer I",
@@ -644,7 +644,7 @@
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "17c35d70-b2fc-4725-be99-5f4707b80d62",
         "date_posted": 1744462175,
@@ -652,7 +652,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1744462229,
+        "date_updated": 1792661006,
         "url": "https://www.esri.com/careers/4700976007?gh_jid=4700976007",
         "company_name": "Esri",
         "title": "Backend Java Engineer I - Data Pipelines",
@@ -660,7 +660,7 @@
             "Redlands, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "5bf6c42e-5b70-43db-b340-58297de9224d",
         "date_posted": 1744462229,
@@ -702,7 +702,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1744658217,
+        "date_updated": 1792661006,
         "url": "https://jobs.bentley.com/job/Exton-Software-Engineer-PA-19341/1281097600",
         "company_name": "Bentley",
         "title": "Software Engineer",
@@ -710,7 +710,7 @@
             "Exton, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "f7e1156c-709a-4cc3-a9ba-db7b853fc330",
         "date_posted": 1744658217,
@@ -718,7 +718,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1744658336,
+        "date_updated": 1792661006,
         "url": "https://canada-appliedsystems.icims.com/jobs/6506/software-engineer/job",
         "company_name": "Applied Systems",
         "title": "Software Engineer",
@@ -726,7 +726,7 @@
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "d99e9ba5-1107-4b80-81b8-e25705c8d5aa",
         "date_posted": 1744658336,
@@ -734,7 +734,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1744658370,
+        "date_updated": 1792661006,
         "url": "https://www.careers.peraton.com/jobs/junior-software-engineer-sterling-virginia-156109-jobs--information-technology--?iis=Job%2BBoard&iisn=Vansh",
         "company_name": "Peraton",
         "title": "Junior Software Engineer",
@@ -742,7 +742,7 @@
             "Sterling, VA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "fab300f9-0870-4674-98e2-bbfb2fc9307f",
         "date_posted": 1744658370,
@@ -1000,7 +1000,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1746307881,
+        "date_updated": 1792661006,
         "url": "https://careers.sig.com/job/SUSQA004Y9261",
         "company_name": "SIG",
         "title": "New Grad: Software Developer",
@@ -1008,7 +1008,7 @@
             "Bala Cynwyd, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "fec7501c-18a5-4233-9d14-fed4d85a8a32",
         "date_posted": 1746307881,
@@ -1131,7 +1131,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1747298295,
+        "date_updated": 1792661006,
         "url": "https://www.amazon.jobs/en/jobs/2981483/mission-operations-engineer-project-kuiper-mission-operations-ground-software",
         "company_name": "Amazon",
         "title": "Mission Operations Engineer, Project Kuiper",
@@ -1139,7 +1139,7 @@
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "0c35e9f4-a5ce-4927-bd98-ed37816d8816",
         "date_posted": 1747298295,
@@ -1163,7 +1163,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1747298469,
+        "date_updated": 1792661006,
         "url": "https://jobs.ashbyhq.com/pylon/6f714dd0-e472-4e70-a749-80493cd29420",
         "company_name": "Pylon",
         "title": "New Grad 2025: Software Engineer",
@@ -1171,7 +1171,7 @@
             "Menlo Park, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "0231c8fb-8945-471c-9d37-74ff2806b84a",
         "date_posted": 1747298469,
@@ -1279,7 +1279,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1747299236,
+        "date_updated": 1792661006,
         "url": "https://www.google.com/about/careers/applications/jobs/results/92218003445162694-relations-developer-cloud-and-generative-ai",
         "company_name": "Google",
         "title": "Relations Developer, Cloud and Generative AI",
@@ -1293,7 +1293,7 @@
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "b6459484-ed25-4466-833a-b71ff611ee69",
         "date_posted": 1747299236,
@@ -1317,7 +1317,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1747299286,
+        "date_updated": 1792661006,
         "url": "https://careers.snowflake.com/us/en/job/SNCOUSEBC678A52AB04A4EB7946E4E684BA055EXTERNALENUSAA0C5E9173DE47C2B57EF66519942F19/-Software-Engineer-Traffic",
         "company_name": "Snowflake",
         "title": "Software Engineer - Traffic",
@@ -1325,7 +1325,7 @@
             "Bellevue, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "8ae00741-2219-448f-b49e-9d5a6ccaba61",
         "date_posted": 1747299286,
@@ -1333,7 +1333,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1747299426,
+        "date_updated": 1792661006,
         "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20842",
         "company_name": "Nokia",
         "title": "Jr. Applied R&D Engineer",
@@ -1341,7 +1341,7 @@
             "Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "12506280-4642-48a4-a296-95ba6d259ff4",
         "date_posted": 1747299426,
@@ -1349,7 +1349,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1747299459,
+        "date_updated": 1792661006,
         "url": "https://jobs.ea.com/en_US/careers/JobDetail/Gameplay-Software-Engineer/208511",
         "company_name": "Electronic Arts",
         "title": "Gameplay Software Engineer",
@@ -1357,7 +1357,7 @@
             "Vancouver, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "b48f46f6-b2a2-46e6-a886-4be91b269618",
         "date_posted": 1747299459,
@@ -1365,7 +1365,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1747299485,
+        "date_updated": 1792661006,
         "url": "https://careers.mastercard.com/us/en/job/MASRUSR245943EXTERNALENUS/Software-Engineer-I-SDET-Java",
         "company_name": "Mastercard",
         "title": "Software Engineer I",
@@ -1373,7 +1373,7 @@
             "Vancouver, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "2b64a7c3-2798-4646-8e75-76a20fdd2b3d",
         "date_posted": 1747299485,
@@ -1512,7 +1512,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1747462008,
+        "date_updated": 1792661006,
         "url": "https://www.esri.com/careers/4735889007?gh_jid=4735889007",
         "company_name": "Esri",
         "title": "C++ Software Engineer I, Maps SDKs",
@@ -1520,7 +1520,7 @@
             "Redlands, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "749308cb-6a36-4030-9529-3d42908816e3",
         "date_posted": 1747462008,
@@ -1712,7 +1712,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748025115,
+        "date_updated": 1792661006,
         "url": "https://careers.garmin.com/careers-home/jobs/15924",
         "company_name": "Garmin",
         "title": "C#/.NET Software Engineer 1",
@@ -1720,7 +1720,7 @@
             "Cary, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "3832d89d-def2-4d3d-b33b-214faf17c758",
         "date_posted": 1748025115,
@@ -1840,7 +1840,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748025566,
+        "date_updated": 1792661006,
         "url": "https://careers.adobe.com/us/en/job/ADOBUSR155500EXTERNALENUS/Software-Development-Engineer",
         "company_name": "Adobe",
         "title": "Software Development Engineer",
@@ -1848,7 +1848,7 @@
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "8661ae07-7db1-48fe-b7b4-366060961ce4",
         "date_posted": 1748025566,
@@ -1920,7 +1920,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748025848,
+        "date_updated": 1792661006,
         "url": "https://www.qualtrics.com/careers/us/en/job/QUALUS6889008EXTERNALENUS/Software-Development-Engineer-I-Customer-Experience-Seattle",
         "company_name": "Qualtrics",
         "title": "Software Development Engineer I, Customer Experience",
@@ -1928,7 +1928,7 @@
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "ca43347d-2b94-49e5-9ba2-dca0f9058d20",
         "date_posted": 1748025848,
@@ -2161,7 +2161,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748583495,
+        "date_updated": 1792661006,
         "url": "https://www.pega.com/about/careers/21949/associate-software-engineer-ux-engineering",
         "company_name": "Pega",
         "title": "Associate Software Engineer, UX Engineering",
@@ -2169,7 +2169,7 @@
             "Waltham, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "e0c6321d-2747-4446-954d-57f30119f246",
         "date_posted": 1748583495,
@@ -2177,7 +2177,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748583524,
+        "date_updated": 1792661006,
         "url": "https://jobs.spectrum.com/job/-/-/4673/81850982400",
         "company_name": "Spectrum",
         "title": "Software Engineer I",
@@ -2185,7 +2185,7 @@
             "Englewood, CO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "a21fd6a2-935b-4644-b202-2269be829a7e",
         "date_posted": 1748583524,
@@ -2193,7 +2193,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748583625,
+        "date_updated": 1792661006,
         "url": "https://jobs.smartrecruiters.com/SquareTrade1/744000045758179-associate-software-engineer?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73",
         "company_name": "SquareTrade",
         "title": "Associate Software Engineer",
@@ -2201,7 +2201,7 @@
             "Brisbane, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "34e6d9f1-3982-42b3-944a-df9b33b26baf",
         "date_posted": 1748583625,
@@ -2339,7 +2339,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748644726,
+        "date_updated": 1792661006,
         "url": "https://jobs.ashbyhq.com/mandolin/703bd697-dd8f-4a42-8df3-999402605c2f",
         "company_name": "Mandolin",
         "title": "New Grad: Forward Deployed Engineer",
@@ -2347,7 +2347,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "2dafc73c-0316-4ed5-8696-88da13fb1de6",
         "date_posted": 1748644726,
@@ -2355,7 +2355,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748645366,
+        "date_updated": 1792661006,
         "url": "https://jobs.ashbyhq.com/mandolin/30bae6c7-6739-4cd6-97c4-fdb7662edf3b",
         "company_name": "Mandolin",
         "title": "New Grad: Front-End Engineer",
@@ -2363,7 +2363,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "957d2fb0-fc92-4f86-839f-10824ac54951",
         "date_posted": 1748645366,
@@ -2403,7 +2403,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748717473,
+        "date_updated": 1792661006,
         "url": "https://elrj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/search/job/4261",
         "company_name": "Omnicell",
         "title": "Software Engineer I",
@@ -2411,7 +2411,7 @@
             "Cranberry Township, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "565f3ae2-5bf8-487a-9086-724d5c3c981c",
         "date_posted": 1748717473,
@@ -2570,7 +2570,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1749184941,
+        "date_updated": 1792661006,
         "url": "https://elrj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/search/job/4131",
         "company_name": "Omnicell",
         "title": "Software Engineer I",
@@ -2578,7 +2578,7 @@
             "Cranberry Township, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "3ff357fb-9844-4a3b-947d-97401b3fd93e",
         "date_posted": 1749184941,
@@ -2720,7 +2720,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1749297259,
+        "date_updated": 1792661006,
         "url": "https://careers.viasat.com/jobs/4457",
         "company_name": "Viasat",
         "title": "Full Stack Software Engineer, Early Career",
@@ -2729,7 +2729,7 @@
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "e99e9d74-ff1a-42cd-a01e-32f38fb42973",
         "date_posted": 1749297259,
@@ -2737,7 +2737,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1749297401,
+        "date_updated": 1792661006,
         "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25037&siteid=5010&PageType=JobDetails&jobid=792011#jobDetails=792011_5010",
         "company_name": "Lockheed Martin",
         "title": "AI Platform Engineer",
@@ -2745,7 +2745,7 @@
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "6997bf4d-a67e-41b4-9b11-d378b82ede26",
         "date_posted": 1749297401,
@@ -2913,7 +2913,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1749599880,
+        "date_updated": 1792661006,
         "url": "https://careers.leonardodrs.com/job/San-Diego-Software-Engineer-CA-92127/1298209000/",
         "company_name": "DRS",
         "title": "Software Engineer I",
@@ -2921,7 +2921,7 @@
             "San Diego, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "50dbfbb6-86b3-4d28-8be4-8a699807d614",
         "date_posted": 1749599880,
@@ -2929,7 +2929,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1750133757,
+        "date_updated": 1792661006,
         "url": "https://wellfound.com/l/2BpbUc",
         "company_name": "Strac",
         "title": "Full Stack Engineer",
@@ -2938,7 +2938,7 @@
             "Austin, TX"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "alfred-strac",
         "id": "ef6ed6f6-d0bc-4296-b015-cfaea17043e8",
         "date_posted": 1750133757,
@@ -2946,7 +2946,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1750135082,
+        "date_updated": 1792661006,
         "url": "https://jobs.ashbyhq.com/sentry/90fb5dd4-410d-4672-9f40-3f11ea01c75d",
         "company_name": "Sentry",
         "title": "New Grad 2025: Software Engineer",
@@ -2954,7 +2954,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "b562fdec-1ab1-4886-a2a1-864620b7d2d8",
         "date_posted": 1750135082,
@@ -3058,7 +3058,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1750531077,
+        "date_updated": 1792661006,
         "url": "https://www.collective.com/careers/6614825003",
         "company_name": "Collective Hub, Inc",
         "title": "New Grad: Software Engineer",
@@ -3066,7 +3066,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "eaa94c8f-a590-4ae1-9915-b0947f8f89d5",
         "date_posted": 1750531077,
@@ -3186,7 +3186,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751050825,
+        "date_updated": 1792661006,
         "url": "https://jobs.smartrecruiters.com/Visa/744000066662880-systems-engineer-virtualization-linux-engineering-junior-level-",
         "company_name": "Visa",
         "title": "Systems Engineer, Virtualization/Linux Engineering",
@@ -3194,7 +3194,7 @@
             "Highlands Ranch, CO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "fcd8f6f4-41e9-4247-8af4-763e843d780f",
         "date_posted": 1751050825,
@@ -3250,7 +3250,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751051124,
+        "date_updated": 1792661006,
         "url": "https://www.amazon.jobs/en/jobs/3018378/system-development-engineer-i-ops-tech-solutions",
         "company_name": "Amazon",
         "title": "System Development Engineer I, Ops Tech Solutions",
@@ -3258,7 +3258,7 @@
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "d9e46800-6754-46cc-8e65-40b67693a643",
         "date_posted": 1751051124,
@@ -3266,7 +3266,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751051534,
+        "date_updated": 1792661006,
         "url": "https://careers.roblox.com/jobs/6993225",
         "company_name": "Roblox",
         "title": "Software Engineer, Infra Foundation",
@@ -3274,7 +3274,7 @@
             "San Mateo, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "38b53a1d-e8f0-4bba-973b-2f0c6fce07be",
         "date_posted": 1751051534,
@@ -3314,7 +3314,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751245042,
+        "date_updated": 1792661006,
         "url": "https://www.amazon.jobs/en/jobs/3013296/mission-operations-engineer-project-kuiper-mission-operations",
         "company_name": "Amazon",
         "title": "Mission Operations Engineer, Project Kuiper - Mission Operations",
@@ -3322,7 +3322,7 @@
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "ba0dc511-3973-4881-99f4-c6bf1eeb7199",
         "date_posted": 1751245042,
@@ -3330,7 +3330,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751245071,
+        "date_updated": 1792661006,
         "url": "https://www.amazon.jobs/en/jobs/3012833/security-engineer-appsec-testing-automation-and-insights",
         "company_name": "Amazon",
         "title": "Security Engineer, AppSec Testing Automation and Insights",
@@ -3338,7 +3338,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "f3f974a6-676b-4651-8382-b7559f9def36",
         "date_posted": 1751245071,
@@ -3362,7 +3362,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751245140,
+        "date_updated": 1792661006,
         "url": "https://www.qualtrics.com/careers/us/en/job/QUALUS6957175EXTERNALENUS/Software-Engineer-I-Employee-Experience",
         "company_name": "Qualtrics",
         "title": "Software Engineer I, Employee Experience",
@@ -3370,7 +3370,7 @@
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "30e20599-08d5-4f27-a53d-281034abd678",
         "date_posted": 1751245140,
@@ -3378,7 +3378,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751245162,
+        "date_updated": 1792661006,
         "url": "https://www.amazon.jobs/en/jobs/3019865/software-engineer-creator",
         "company_name": "Twitch",
         "title": "Software Engineer - Creator",
@@ -3389,7 +3389,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "77906d39-eea8-451c-bf47-22bc038eea15",
         "date_posted": 1751245162,
@@ -3397,7 +3397,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751245224,
+        "date_updated": 1792661006,
         "url": "https://www.hashicorp.com/en/career/6914251",
         "company_name": "HashiCorp",
         "title": "Backend Engineer - Enterprise Identity",
@@ -3406,7 +3406,7 @@
             "US"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "4b3fb235-b883-4cba-b398-92ad4de7b401",
         "date_posted": 1751245224,
@@ -3478,7 +3478,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751245429,
+        "date_updated": 1792661006,
         "url": "https://www.amazon.jobs/en/jobs/3020911/software-engineer",
         "company_name": "Twitch",
         "title": "Software Engineer",
@@ -3488,7 +3488,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "5fdd3b33-084f-4e98-851b-953cea9d15d1",
         "date_posted": 1751245429,
@@ -3512,7 +3512,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751245625,
+        "date_updated": 1792661006,
         "url": "https://jobs.cvshealth.com/us/en/job/CVSCHLUSR0632604EXTERNALENUS/Associate-Software-Engineer",
         "company_name": "CVS Health",
         "title": "Associate Software Engineer",
@@ -3520,7 +3520,7 @@
             "Irving, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "03761046-05de-4fe9-8754-3ef666d42e4a",
         "date_posted": 1751245625,
@@ -3544,7 +3544,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751245782,
+        "date_updated": 1792661006,
         "url": "https://jobs.citi.com/job/-/-/287/79829803904",
         "company_name": "Citi",
         "title": "Software Engineer",
@@ -3552,7 +3552,7 @@
             "Tampa, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "0f78041c-d885-480c-8999-141a2fc0f165",
         "date_posted": 1751245782,
@@ -3736,13 +3736,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751752018,
+        "date_updated": 1792661006,
         "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4580753101",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "IMC",
         "title": "Quantitative Researcher",
         "source": "vanshb03",
@@ -3768,13 +3768,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751752034,
+        "date_updated": 1792661006,
         "url": "https://optiver.com/working-at-optiver/career-opportunities/7967601002",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Optiver",
         "title": "Graduate Quantitative Researcher",
         "source": "vanshb03",
@@ -3784,13 +3784,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751752042,
+        "date_updated": 1792661006,
         "url": "https://optiver.com/working-at-optiver/career-opportunities/7986419002",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Optiver",
         "title": "New Grad 2026: Software Engineer",
         "source": "vanshb03",
@@ -3800,13 +3800,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751752051,
+        "date_updated": 1792661006,
         "url": "https://optiver.com/working-at-optiver/career-opportunities/7986421002",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Optiver",
         "title": "New Grad 2026: Software Engineer",
         "source": "vanshb03",
@@ -3899,13 +3899,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751752109,
+        "date_updated": 1792661006,
         "url": "https://careers.duolingo.com/jobs/8062269002?gh_jid=8062269002",
         "locations": [
             "Pittsburgh, PA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Duolingo",
         "title": "AI Product Engineer, Math",
         "source": "vanshb03",
@@ -3963,13 +3963,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751752151,
+        "date_updated": 1792661006,
         "url": "https://jobs.ashbyhq.com/quora/e8acc816-a9af-445d-8135-47599ac9be0f",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Quora",
         "title": "New Grad: Machine Learning Engineer",
         "source": "vanshb03",
@@ -3979,13 +3979,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751752180,
+        "date_updated": 1792661006,
         "url": "https://jobs.bitstoatoms.com/bits-to-atoms/953ef025-ec88-450d-8f8f-2cb38cc8e839",
         "locations": [
             "Berkeley, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Bits to Atoms",
         "title": "Software Engineer",
         "source": "vanshb03",
@@ -4011,13 +4011,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751752202,
+        "date_updated": 1792661006,
         "url": "https://www.amazon.jobs/en/jobs/2940695/hardware-simulator-sde-i-aws-machine-learning-accelerators-annapurna-labs",
         "locations": [
             "Cupertino, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Amazon",
         "title": "Hardware Simulator SDE I, AWS Machine Learning Accelerators, Annapurna Labs",
         "source": "vanshb03",
@@ -4078,7 +4078,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1752525717,
+        "date_updated": 1792661006,
         "url": "https://careers.blackrock.com/job/new-york/2026-full-time-analyst-program-amers/45831/83232695408",
         "company_name": "BlackRock",
         "title": "Analyst",
@@ -4090,7 +4090,7 @@
             "New York, NY"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "kalam635",
         "id": "2f99baab-d50c-477b-a476-12f4de5bf36c",
         "date_posted": 1752525717,
@@ -4339,7 +4339,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1752526695,
+        "date_updated": 1792661006,
         "url": "https://jobs.ashbyhq.com/candidhealth/8d1922f8-e89d-433e-a21f-b724eabc003b?utm_source=Simplify&ref=Simplify",
         "locations": [
             "San Francisco, CA",
@@ -4347,7 +4347,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Candid Health",
         "title": "New Grad: Forward Deployed Software Engineer",
         "source": "vanshb03",
@@ -4391,13 +4391,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1752527703,
+        "date_updated": 1792661006,
         "url": "https://recruiting.paylocity.com/recruiting/jobs/Details/3409369/Cryptic-Vector/Full-Stack-Developer?source=Indeed_Feed",
         "locations": [
             "Cincinnati, OH"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Cryptic Vector",
         "title": "Full Stack Developer",
         "source": "vanshb03",
@@ -4407,13 +4407,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1752607265,
+        "date_updated": 1792661006,
         "url": "https://optiver.com/working-at-optiver/career-opportunities/8033327002/",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Optiver",
         "title": "New Grad 2026: FPGA Engineer",
         "source": "vanshb03",
@@ -4423,13 +4423,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1752607275,
+        "date_updated": 1792661006,
         "url": "https://optiver.com/working-at-optiver/career-opportunities/7973721002/",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Optiver",
         "title": "New Grad 2026: FPGA Engineer",
         "source": "vanshb03",
@@ -4794,14 +4794,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753370435,
+        "date_updated": 1792661006,
         "url": "https://careers.amd.com/careers-home/jobs/67592",
         "locations": [
             "Calgary, Canada",
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AMD",
         "title": "Software Developer - GPU IO Libraries",
         "source": "vanshb03",
@@ -4875,13 +4875,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753480426,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7400808756194461961?spread=5MWH5CQ&utm_source=apmseason",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2025: Product Manager",
         "source": "vanshb03",
@@ -4891,13 +4891,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753480434,
+        "date_updated": 1792661006,
         "url": "https://aexp.eightfold.ai/careers/job/29705941?hl=en&domain=aexp.com&utm_source=apmseason",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "American Express",
         "title": "Associate - Digital Product Management",
         "source": "vanshb03",
@@ -4971,13 +4971,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753910441,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7530759738491226386?spread=5MWH5CQ",
         "locations": [
             "Seattle"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Backend Engineer Graduate, Risk and Response",
         "source": "vanshb03",
@@ -4987,13 +4987,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753910449,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7532626300897937682?spread=5MWH5CQ",
         "locations": [
             "Seattle"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Software Engineer Graduate Short Video (BS/MS)",
         "source": "vanshb03",
@@ -5003,13 +5003,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753910456,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7531161909615593735?spread=5MWH5CQ",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Software Engineer Graduate (Ads Measurement Signal Technology)",
         "source": "vanshb03",
@@ -5019,13 +5019,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753910460,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7532629935644002578?spread=5MWH5CQ",
         "locations": [
             "Los Angeles, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Software Engineer",
         "source": "vanshb03",
@@ -5035,13 +5035,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753910466,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7530771170938865928?spread=5MWH5CQ",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "Research Scientist Graduate- CV/NLP/Multimodal LLM, Trust and Safety",
         "source": "vanshb03",
@@ -5051,13 +5051,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753910471,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7530772847212644616?spread=5MWH5CQ",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "Research Scientist Graduate- CV/NLP/Multimodal LLM, Trust and Safety",
         "source": "vanshb03",
@@ -5067,13 +5067,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753910477,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7530752375372466439?spread=5MWH5CQ",
         "locations": [
             "Seattle"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Engineer (Backend Software Engineer, Trust and Safety- Seattle)",
         "source": "vanshb03",
@@ -5083,13 +5083,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753910481,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7532627069594224903?spread=5MWH5CQ",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Software Engineer",
         "source": "vanshb03",
@@ -5099,13 +5099,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753910487,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7532457296103295239?spread=5MWH5CQ",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Software Engineer Graduate (Monetization Technology - Ads Creative)",
         "source": "vanshb03",
@@ -5115,13 +5115,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753910494,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7532627066714753288?spread=5MWH5CQ",
         "locations": [
             "San Jose"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Software Engineer Graduate Music",
         "source": "vanshb03",
@@ -5131,13 +5131,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753910501,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7530765464767826184?spread=5MWH5CQ",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "Software Development Engineer in Test Graduate (Trust and Safety)",
         "source": "vanshb03",
@@ -5147,13 +5147,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753910508,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7532631803707738376?spread=5MWH5CQ",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Software Engineer Graduate Live-Foundation-Ecosystem",
         "source": "vanshb03",
@@ -5163,13 +5163,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753910513,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7532436539684702471?spread=5MWH5CQ",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Software Engineer/Mobile Engineer Graduate (Monetization Technology - Ads Core Demonstration)",
         "source": "vanshb03",
@@ -5179,13 +5179,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753910518,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7531158608336242962?spread=5MWH5CQ",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Machine Learning Engineer (Commerce Ads)",
         "source": "vanshb03",
@@ -5195,13 +5195,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753910522,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7532349111480273159?spread=5MWH5CQ",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Machine Learning/Research Engineer (Ads Core Global)",
         "source": "vanshb03",
@@ -5211,13 +5211,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753910528,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7532240517976721671?spread=5MWH5CQ",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Machine Learning Engineer Graduate (Lead Ads Technology)",
         "source": "vanshb03",
@@ -5275,13 +5275,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753910593,
+        "date_updated": 1792661006,
         "url": "https://careers.servicenow.com/jobs/744000073378905/associate-systems-engineer/?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73",
         "locations": [
             "San Diego, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ServiceNow",
         "title": "Associate Systems Engineer",
         "source": "vanshb03",
@@ -5291,13 +5291,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753910606,
+        "date_updated": 1792661006,
         "url": "https://www.qualtrics.com/careers/us/en/job/QUALUS6580294EXTERNALENUS/Machine-Learning-Engineer",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Qualtrics",
         "title": "Machine Learning Engineer",
         "source": "vanshb03",
@@ -5307,13 +5307,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753910614,
+        "date_updated": 1792661006,
         "url": "https://www.qualtrics.com/careers/us/en/job/QUALUS6922762EXTERNALENUS/Software-Engineer-I-PAAS",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Qualtrics",
         "title": "Software Engineer I - PAAS",
         "source": "vanshb03",
@@ -5392,14 +5392,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753910680,
+        "date_updated": 1792661006,
         "url": "https://jobs.ashbyhq.com/evenup/fe3d36b4-696b-4c47-be72-2186b266035b",
         "locations": [
             "San Francisco, CA",
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "EvenUp",
         "title": "Early Career Machine Learning Engineer",
         "source": "vanshb03",
@@ -5425,13 +5425,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753910696,
+        "date_updated": 1792661006,
         "url": "https://www.shopify.com/careers/ml-ops-engineers_896a7d5f-5925-4915-a8e8-3438068464a4",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Shopify",
         "title": "ML Ops Engineers",
         "source": "vanshb03",
@@ -5441,13 +5441,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753910701,
+        "date_updated": 1792661006,
         "url": "https://www.shopify.com/careers/data-platform-engineers_4684c36e-f913-42a8-8ff5-f4b789a8e61d",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Shopify",
         "title": "Data Platform Engineers",
         "source": "vanshb03",
@@ -5457,13 +5457,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753910710,
+        "date_updated": 1792661006,
         "url": "https://www.amazon.jobs/en/jobs/3044177/system-development-engineer-aws-vetting",
         "locations": [
             "Cupertino, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Amazon",
         "title": "System Development Engineer, AWS Vetting",
         "source": "vanshb03",
@@ -5473,13 +5473,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753910729,
+        "date_updated": 1792661006,
         "url": "https://www.amazon.jobs/en/jobs/3047432/system-development-engineer-ots-delivery-software-engineering",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Amazon",
         "title": "System Development Engineer, OTS Delivery Software Engineering",
         "source": "vanshb03",
@@ -5506,13 +5506,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753910831,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7531158600791705874?spread=5MWH5CQ",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Software Engineer (Ads ML Infrastructure)",
         "source": "vanshb03",
@@ -5539,13 +5539,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754182271,
+        "date_updated": 1792661006,
         "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4648133101",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "StubHub",
         "title": "Associate Product Manager - Consumer Experience",
         "source": "vanshb03",
@@ -5555,13 +5555,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754190450,
+        "date_updated": 1792661006,
         "url": "https://jobs.ashbyhq.com/ramp/83075cf0-9c22-4475-9c6b-e21923a96df8",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Ramp",
         "title": "New Grad 2026: Software Engineer - Backend",
         "source": "vanshb03",
@@ -5571,13 +5571,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754190456,
+        "date_updated": 1792661006,
         "url": "https://jobs.ashbyhq.com/ramp/a1229aec-1105-4c47-8533-b912e732ed89",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Ramp",
         "title": "New Grad 2026: Software Engineer - Frontend",
         "source": "vanshb03",
@@ -5623,13 +5623,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754557917,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7533739605041645832?spread=5MWH5CQ",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "SDET, Software Development Engineer in Test Graduate (TikTok Eng Test-PGC)",
         "source": "vanshb03",
@@ -5639,13 +5639,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754557922,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7534641634584185095?spread=5MWH5CQ",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Machine Learning Engineer",
         "source": "vanshb03",
@@ -5655,13 +5655,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754557932,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7533712518582503687?spread=5MWH5CQ",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "Product Security Engineer Graduate (Security Assurance)",
         "source": "vanshb03",
@@ -5671,13 +5671,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754557937,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7532626482364909842?spread=5MWH5CQ",
         "locations": [
             "Los Angeles, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Software Engineer",
         "source": "vanshb03",
@@ -5687,13 +5687,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754557941,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7535215880842791176?spread=5MWH5CQ",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Software Engineer Graduate (Data Arch - AI/ML Infrastructure)",
         "source": "vanshb03",
@@ -5703,13 +5703,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754557945,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7535250563068528903?spread=5MWH5CQ",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Software Engineer Graduate (Data Arch - ShortText Rec) (BS/MS)",
         "source": "vanshb03",
@@ -5719,13 +5719,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754557950,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7533377192370194706?spread=5MWH5CQ",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: (Machine Learning Engineer, Data-Search-TikTok Recommendation",
         "source": "vanshb03",
@@ -5735,13 +5735,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754557954,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7533371534829095175?spread=5MWH5CQ",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Machine Learning Engineer - Data - Search",
         "source": "vanshb03",
@@ -5751,13 +5751,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754557958,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7535528357414570248?spread=5MWH5CQ",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Software Engineer Graduate (Data Platfrom TikTok BP)",
         "source": "vanshb03",
@@ -5767,13 +5767,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754557962,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7535396503751772423?spread=5MWH5CQ",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Machine Learning Engineer (Brand Ads)",
         "source": "vanshb03",
@@ -5783,13 +5783,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754557966,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7534826542867106066?spread=5MWH5CQ",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "Frontend Engineer Graduate, Trust and Safety",
         "source": "vanshb03",
@@ -5799,13 +5799,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754557971,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7535549508735174930?spread=5MWH5CQ",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "Site Reliability Engineer Graduate (Compute Platform)",
         "source": "vanshb03",
@@ -5815,13 +5815,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754557975,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7535544480956483848?spread=5MWH5CQ",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "Site Reliability Engineer Graduate (Compute Platform)",
         "source": "vanshb03",
@@ -5831,13 +5831,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754557979,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7535220808265681159?spread=5MWH5CQ",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Software Engineer Graduate (Data Arch - Data Ecosystem )",
         "source": "vanshb03",
@@ -5847,13 +5847,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754557983,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7532627070011230482?spread=5MWH5CQ",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Software Engineer Graduate Social",
         "source": "vanshb03",
@@ -5863,13 +5863,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754557987,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7535599554659010834?spread=5MWH5CQ",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Software Engineer Graduate (Monetization Technology - Brand Ads)",
         "source": "vanshb03",
@@ -5879,13 +5879,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754557991,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7530759729113680135?spread=5MWH5CQ",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "Frontend Engineer Graduate, Trust and Safety",
         "source": "vanshb03",
@@ -5895,13 +5895,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754558055,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7534641468595489032?spread=5MWH5CQ",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Machine Learning Engineer - Local Services Search (BS/MS)",
         "source": "vanshb03",
@@ -5911,13 +5911,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754558137,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7533292831260920082?spread=5MWH5CQ",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Data Engineer (E-commerce)",
         "source": "vanshb03",
@@ -5927,13 +5927,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754558141,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7533292447687493896?spread=5MWH5CQ",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Data Engineer (Data Platfrom TikTok BP)",
         "source": "vanshb03",
@@ -5943,13 +5943,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754558145,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7534794210978187527?spread=5MWH5CQ",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Software Engineer Graduate Mobile Reliability (Android)",
         "source": "vanshb03",
@@ -5959,13 +5959,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754558149,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7534641209890588946?spread=5MWH5CQ",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Machine Learning Engineer Graduate -Search E-Commerce",
         "source": "vanshb03",
@@ -5975,13 +5975,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754558154,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7533289397581842696?spread=5MWH5CQ",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Software Engineer",
         "source": "vanshb03",
@@ -5991,13 +5991,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754558158,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7532629935045232903?spread=5MWH5CQ",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Software Engineer Graduate Intelligent Creation",
         "source": "vanshb03",
@@ -6007,13 +6007,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754558165,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7533278507406182674?spread=5MWH5CQ",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Software Engineer (Experimentation and Evaluation)",
         "source": "vanshb03",
@@ -6023,13 +6023,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754558171,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7532629934058178824?spread=5MWH5CQ",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Software Engineer Graduate User Growth",
         "source": "vanshb03",
@@ -6039,13 +6039,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754558175,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7532627070011771154?spread=5MWH5CQ",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Software Engineer Graduate Search",
         "source": "vanshb03",
@@ -6055,13 +6055,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754558180,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7533106620768012562?spread=5MWH5CQ",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Software Engineer Graduate Product Infrastructure",
         "source": "vanshb03",
@@ -6071,13 +6071,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754558184,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7532626353242786055?spread=5MWH5CQ",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Software Engineer Graduate Open Platform",
         "source": "vanshb03",
@@ -6087,13 +6087,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754558188,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7533387057666754834?spread=5MWH5CQ",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "SDET, Software Development Engineer in Test Graduate (TikTok Eng Test-Privacy Product)",
         "source": "vanshb03",
@@ -6103,13 +6103,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754558202,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7532631803707263240?spread=5MWH5CQ",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Software Engineer Graduate PGC",
         "source": "vanshb03",
@@ -6119,13 +6119,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754558209,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7533719102990190866?spread=5MWH5CQ",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Software Engineer Graduate - Data-Search",
         "source": "vanshb03",
@@ -6231,13 +6231,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754558357,
+        "date_updated": 1792661006,
         "url": "https://www.amazon.jobs/en/jobs/3051896/system-development-engineer-amazon-robotics",
         "locations": [
             "Arlington, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Amazon",
         "title": "System Development Engineer, Amazon Robotics",
         "source": "vanshb03",
@@ -6295,13 +6295,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754558675,
+        "date_updated": 1792661006,
         "url": "https://jobs.royalcaribbeangroup.com/job/Miramar-Associate-Engineer%2C-Software-FL-33132/1314694500/",
         "locations": [
             "Miramar, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Royal Caribbean Group",
         "title": "Associate Engineer, Software",
         "source": "vanshb03",
@@ -6311,13 +6311,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754558686,
+        "date_updated": 1792661006,
         "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3477495",
         "locations": [
             "Troy, MI"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Detroit Defense",
         "title": "Software Test Engineer",
         "source": "vanshb03",
@@ -6392,13 +6392,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754558748,
+        "date_updated": 1792661006,
         "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25024266",
         "locations": [
             "Shakopee, MN"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Emerson",
         "title": "Embedded Software Engineer",
         "source": "vanshb03",
@@ -6504,7 +6504,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754706230,
+        "date_updated": 1792661006,
         "url": "https://www.databricks.com/company/careers/university-recruiting/software-engineer---new-grad-2026-start-6865698002",
         "locations": [
             "Bellevue, WA",
@@ -6512,7 +6512,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Databricks",
         "title": "New Grad 2026: Software Engineer",
         "source": "vanshb03",
@@ -6522,14 +6522,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754706376,
+        "date_updated": 1792661006,
         "url": "https://www.databricks.com/company/careers/university-recruiting/data-scientist---new-grad-2026-start-6866554002",
         "locations": [
             "Mountain View, CA",
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Databricks",
         "title": "New Grad 2026: Data Scientist",
         "source": "vanshb03",
@@ -6571,14 +6571,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1755113970,
+        "date_updated": 1792661006,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/entry-level-full-stack-software-engineer/job",
         "company_name": "i3",
         "title": "Full-Stack Software Engineer",
         "locations": [
             "Hunstville, AL"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "36285a24-404c-424b-8113-e60475bd09d4",
         "date_posted": 1755113970,
@@ -6619,14 +6619,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1755113970,
+        "date_updated": 1792661006,
         "url": "https://careers.roblox.com/jobs/7114754?gh_jid=7114754",
         "company_name": "Roblox",
         "title": "Software Engineer - Early Career",
         "locations": [
             "San Mateo, CA"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "a7c65e95-7b7a-44b6-ab78-77df6ef85f05",
         "date_posted": 1755113970,
@@ -6651,14 +6651,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1755113970,
+        "date_updated": 1792661006,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/job",
         "company_name": "i3",
         "title": "Entry Level Full-Stack Software Engineer",
         "locations": [
             "Huntsville, AL"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "bcccb7d7-836e-4fd2-9c12-339db8b1ade2",
         "date_posted": 1755113970,
@@ -6844,14 +6844,14 @@
         "sponsorship": "U.S. Citizenship is Required"
     },
     {
-        "date_updated": 1755113970,
+        "date_updated": 1792661006,
         "url": "https://careers-peraton.icims.com/jobs/158789/software-engineering%2c-associate/job",
         "company_name": "Peraton",
         "title": "Software Engineering, Associate",
         "locations": [
             "Herndon, VA"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "3ba072d2-b1ea-44e6-9761-57214ac33e65",
         "date_posted": 1755113970,
@@ -7251,7 +7251,7 @@
         "sponsorship": "Does Not Offer Sponsorship"
     },
     {
-        "date_updated": 1755113970,
+        "date_updated": 1792661006,
         "url": "https://careers-gannettfleming.icims.com/jobs/12404/entry-level-software-developer/job",
         "company_name": "Gannett Fleming",
         "title": "Entry Level Software Developer",
@@ -7259,7 +7259,7 @@
             "San Diego, CA",
             "Chicago, IL"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "6a43aabf-45df-4a04-9cca-191d81cc8a3e",
         "date_posted": 1755113970,
@@ -7316,14 +7316,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755115157,
+        "date_updated": 1792661006,
         "url": "https://jobs.ashbyhq.com/suno/991c9785-9bd5-499a-98aa-146e8c947752",
         "locations": [
             "Boston, MA",
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Suno",
         "title": "Software Engineer, Early Career",
         "source": "vanshb03",
@@ -7365,13 +7365,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755115173,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7535606471191824647?spread=5MWH5CQ",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Machine Learning Engineer (Monetization Technology - TikTok Ads Creative & Ecosystem)",
         "source": "vanshb03",
@@ -7397,13 +7397,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755115188,
+        "date_updated": 1792661006,
         "url": "https://www.amazon.jobs/en/jobs/3057120/systems-development-engineer-i-ops-tech-solution-ots",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Amazon",
         "title": "Systems Development Engineer I, Ops Tech Solution (OTS)",
         "source": "vanshb03",
@@ -7429,13 +7429,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755115238,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7536356589390301458?spread=5MWH5CQ",
         "locations": [
             "San Jose"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Software Engineer Graduate (Recommendation Platform)",
         "source": "vanshb03",
@@ -7461,13 +7461,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755115416,
+        "date_updated": 1792661006,
         "url": "https://www.jumptrading.com/careers/7078491/",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Jump Trading",
         "title": "Tech Ops Engineer",
         "source": "vanshb03",
@@ -7509,7 +7509,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755115488,
+        "date_updated": 1792661006,
         "url": "https://www.amazon.jobs/en/jobs/3054843/robotics-systems-engineer-amazon-robotics-deployment-engineering",
         "locations": [
             "Austin, TX",
@@ -7517,7 +7517,7 @@
             "North Reading, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Amazon",
         "title": "Robotics Systems Engineer, Amazon Robotics Deployment Engineering",
         "source": "vanshb03",
@@ -7527,13 +7527,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755115496,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7532281787985840392?spread=5MWH5CQ",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Product Manager Graduate (TikTok Shop User Product)",
         "source": "vanshb03",
@@ -7559,13 +7559,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755115509,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7534966101852539144?spread=5MWH5CQ",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Product Manager (SMB)",
         "source": "vanshb03",
@@ -7575,13 +7575,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755115517,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7532815853353863432?spread=5MWH5CQ",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Product Manager, Content Ecosystem",
         "source": "vanshb03",
@@ -7802,13 +7802,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755347519,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7538325343598741767",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Software Engineer Graduate (Foundation Platform)",
         "source": "vanshb03",
@@ -7818,13 +7818,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755347525,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7538318336657606930",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Software Engineer (Media Platform)",
         "source": "vanshb03",
@@ -7834,13 +7834,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755347531,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7534982208201984274",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "Machine Learning Engineer Graduate (TikTok Short Video Content Understanding/Multimodal Recommendation)",
         "source": "vanshb03",
@@ -7850,13 +7850,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755347539,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7538320612860446994",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Software Engineer (Media Engine)",
         "source": "vanshb03",
@@ -7866,13 +7866,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755347544,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7538325771954637074",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Software Engineer (Live Service)",
         "source": "vanshb03",
@@ -7915,13 +7915,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755347578,
+        "date_updated": 1792661006,
         "url": "https://www.disneycareers.com/en/job/-/-/391/85002977104",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Disney",
         "title": "Software Engineer I",
         "source": "vanshb03",
@@ -7931,13 +7931,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755347611,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7538213896365689096",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Software Engineer (Commerce Ads)",
         "source": "vanshb03",
@@ -7983,14 +7983,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755347665,
+        "date_updated": 1792661006,
         "url": "https://jobs.ashbyhq.com/notion/4b10e40a-6136-4efe-8b05-cad43458e9e9",
         "locations": [
             "New York, NY",
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Notion",
         "title": "Software Engineer, Search Platform",
         "source": "vanshb03",
@@ -8080,14 +8080,14 @@
         "sponsorship": "Offers Sponsorship"
     },
     {
-        "date_updated": 1755437357,
+        "date_updated": 1792661006,
         "url": "https://jobs.baesystems.com/global/en/job/BAE1US115338BREXTERNAL/Junior-Software-Engineer",
         "company_name": "BAE Systems",
         "title": "Junior Software Engineer",
         "locations": [
             "Hill AFB, UT"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "78d451b7-7d85-4d58-a03f-5254f0620fac",
         "date_posted": 1755437357,
@@ -8129,14 +8129,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755437574,
+        "date_updated": 1792661006,
         "url": "https://careers.unitedhealthgroup.com/job/22310390/associate-software-engineer-vancouver-ca/",
         "locations": [
             "Vancouver, Canada",
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Optum",
         "title": "Associate Software Engineer",
         "source": "vanshb03",
@@ -8146,13 +8146,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755437585,
+        "date_updated": 1792661006,
         "url": "https://careers.amd.com/careers-home/jobs/68783",
         "locations": [
             "Vancouver, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AMD",
         "title": "Firmware Security Engineer",
         "source": "vanshb03",
@@ -8162,13 +8162,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755437599,
+        "date_updated": 1792661006,
         "url": "https://careers.amd.com/careers-home/jobs/68831",
         "locations": [
             "Markham, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AMD",
         "title": "ROCm AI - GPU Software Engineer",
         "source": "vanshb03",
@@ -8178,13 +8178,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755437606,
+        "date_updated": 1792661006,
         "url": "https://ats.rippling.com/en-CA/neo-financial/jobs/a2fd15b5-5bee-483e-b28f-66980dad691b",
         "locations": [
             "Calgary, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Neo Financial",
         "title": "Software Developer",
         "source": "vanshb03",
@@ -8227,13 +8227,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755437627,
+        "date_updated": 1792661006,
         "url": "https://careers.codan.com.au/job/Victoria-Associate-Software-Engineer-Cana/1213160701/",
         "locations": [
             "Victoria, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Codan Limited",
         "title": "Associate Software Engineer",
         "source": "vanshb03",
@@ -8243,13 +8243,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755437637,
+        "date_updated": 1792661006,
         "url": "https://www.okta.com/company/careers/product/software-engineer-i-7169515/",
         "locations": [
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Okta",
         "title": "Software Engineer I",
         "source": "vanshb03",
@@ -8259,13 +8259,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755437648,
+        "date_updated": 1792661006,
         "url": "https://careers.mastercard.com/us/en/job/MASRUSR258140EXTERNALENUS/Software-Engineer-I-Backend-Java",
         "locations": [
             "Vancouver, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Mastercard",
         "title": "Software Engineer I (Backend - Java)",
         "source": "vanshb03",
@@ -8291,13 +8291,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755523369,
+        "date_updated": 1792661006,
         "url": "https://ats.rippling.com/en-CA/edgehog-trading/jobs/a39cf004-d79c-4588-9a5f-6bdce04a85ee",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Edgehog Trading",
         "title": "C++ Software Developer \u2013 Trading Strategy Execution",
         "source": "vanshb03",
@@ -8307,7 +8307,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755523390,
+        "date_updated": 1792661006,
         "url": "https://jobs.ashbyhq.com/cohere/b470a959-e111-4a65-a8eb-5665b24d48b5",
         "locations": [
             "Toronto, Canada",
@@ -8316,7 +8316,7 @@
             "Vancouver, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cohere",
         "title": "Full-Stack Senior Engineer (Front-End Leaning)",
         "source": "vanshb03",
@@ -8326,13 +8326,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755523398,
+        "date_updated": 1792661006,
         "url": "https://app.dover.com/wanderlog/8c09ee66-6444-42d4-b2dc-1029b2f9b23d",
         "locations": [
             "Remote, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Wanderlog",
         "title": "Full-Stack Software Engineer",
         "source": "vanshb03",
@@ -8406,13 +8406,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755612780,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7538571931517159698",
         "locations": [
             "Los Angeles, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "Special Project Strategist Graduate (TikTok Shop - Operations)",
         "source": "vanshb03",
@@ -8422,13 +8422,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755612787,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7538896306908252434",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "Product Manager Ads Attribution and Measurement Graduate (Measurement Signal and Privacy Product)",
         "source": "vanshb03",
@@ -8438,13 +8438,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755612826,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7538903496654407943",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "Product Manager Ads Measurement Graduate (Measurement Signal and Privacy Product)",
         "source": "vanshb03",
@@ -8486,13 +8486,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755612858,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7535871317771634952",
         "locations": [
             "Seattle"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Software Engineer Graduate (Data Arch - E-commerce)",
         "source": "vanshb03",
@@ -8502,13 +8502,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755612863,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7538319953965287698",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Software Engineer Graduate (Video-on-Demand Algorithm)",
         "source": "vanshb03",
@@ -8584,13 +8584,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755818787,
+        "date_updated": 1792661006,
         "url": "https://careers.amd.com/careers-home/jobs/68553",
         "locations": [
             "Bellevue, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AMD",
         "title": "Graphics Software Development Engineer",
         "source": "vanshb03",
@@ -8616,13 +8616,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755900049,
+        "date_updated": 1792661006,
         "url": "https://jobs.ashbyhq.com/zip/5f28357a-c95d-485a-84f9-feff64ce9fb3",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Zip",
         "title": "New Grad 2026: Software Engineer",
         "source": "vanshb03",
@@ -8680,13 +8680,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755900089,
+        "date_updated": 1792661006,
         "url": "https://jobs.jobvite.com/emoneyadvisor-review/job/oD9hxfwk",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "eMoney Advisor, LLC",
         "title": "Associate Software Engineer",
         "source": "vanshb03",
@@ -8712,13 +8712,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755918800,
+        "date_updated": 1792661006,
         "url": "https://jobs.ashbyhq.com/harvey/fe8e594b-f2e1-453b-8a0d-e0b0bfdf745b",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Harvey",
         "title": "New Grad: Software Engineer",
         "source": "vanshb03",
@@ -8728,13 +8728,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755918810,
+        "date_updated": 1792661006,
         "url": "https://careers.publicisgroupe.com/jobs/119914",
         "locations": [
             "Irving, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Epsilon",
         "title": "New Grad 2025: Associate, Software Engineer",
         "source": "vanshb03",
@@ -8776,14 +8776,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755918852,
+        "date_updated": 1792661006,
         "url": "https://careers.adobe.com/us/en/job/ADOBUSR158632EXTERNALENUS/2026-University-Graduate-Machine-Learning-Engineer",
         "locations": [
             "San Jose, CA",
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Adobe",
         "title": "New Grad 2026: Machine Learning Engineer",
         "source": "vanshb03",
@@ -8813,13 +8813,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755918929,
+        "date_updated": 1792661006,
         "url": "https://www.amazon.jobs/en/jobs/3064596/antenna-systems-engineer-antenna-calibration-kuiper",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Amazon",
         "title": "Antenna Systems Engineer, Antenna Calibration, Kuiper",
         "source": "vanshb03",
@@ -8829,14 +8829,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755918941,
+        "date_updated": 1792661006,
         "url": "https://jobs.ashbyhq.com/Citizen%20Health/ea388b8a-16cb-4b1b-b64f-479f0dc69764",
         "locations": [
             "San Francisco, CA",
             "San Mateo, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Citizen Health",
         "title": "Software Engineer",
         "source": "vanshb03",
@@ -8929,13 +8929,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756356219,
+        "date_updated": 1792661006,
         "url": "https://jobs.ashbyhq.com/Commure-Athelas/00dbfa4a-986c-4c98-a966-47874d1ff0f8",
         "locations": [
             "Mountain View, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Commure",
         "title": "New Grad 2026: Software Engineer",
         "source": "vanshb03",
@@ -8945,13 +8945,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756356228,
+        "date_updated": 1792661006,
         "url": "https://www.samsara.com/company/careers/roles/7172579",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Samsara",
         "title": "New Grad: Software Engineering",
         "source": "vanshb03",
@@ -9091,13 +9091,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756356289,
+        "date_updated": 1792661006,
         "url": "https://www.amazon.jobs/en/jobs/3066890/system-dev-engineer-i-analytics-adc",
         "locations": [
             "Denver, CO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Amazon",
         "title": "System Dev Engineer I, Analytics ADC",
         "source": "vanshb03",
@@ -9107,13 +9107,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756356294,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7541178634444589319",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: AI/ML Software Engineer (Data Platform TikTok BP)",
         "source": "vanshb03",
@@ -9155,14 +9155,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1756872100,
+        "date_updated": 1792661006,
         "url": "https://jobs.ashbyhq.com/pylon-labs/ecf0d509-cfb9-43c6-b628-1e685d6f5f42/application",
         "company_name": "Pylon",
         "title": "New Grad - Software Engineer",
         "locations": [
             "SF"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "a95a2395-1387-4ebd-8439-64dd2660d81e",
         "date_posted": 1756872100,
@@ -9171,14 +9171,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1756872100,
+        "date_updated": 1792661006,
         "url": "https://jobs.jobvite.com/nutanix/job/oGXDxfwx?nl=1&nl=1&fr=false",
         "company_name": "Nutanix",
         "title": "Software Engineer 1 / Early Career - Backend C++/Linux/AWS-S3",
         "locations": [
             "Durham, NC"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "8791b328-dea4-4b7e-ae50-500a0164e5f1",
         "date_posted": 1756872100,
@@ -9446,7 +9446,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1756872100,
+        "date_updated": 1792661006,
         "url": "https://jobs.ashbyhq.com/gecko-robotics/7d9ce912-14c3-405b-9f8a-7f261fe8230d/application",
         "company_name": "Gecko Robotics",
         "title": "Software Engineer - New Graduate Rotational Development Program",
@@ -9454,7 +9454,7 @@
             "Boston, MA",
             "NYC"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "1fe62028-1608-4bc3-98f3-13c95345faf1",
         "date_posted": 1756872100,
@@ -9528,14 +9528,14 @@
         "sponsorship": "U.S. Citizenship is Required"
     },
     {
-        "date_updated": 1756868183,
+        "date_updated": 1792661006,
         "url": "https://jobs.smartrecruiters.com/LinkedIn3/a3b09881-7c3e-444c-9e65-ac0e2c6a8970",
         "locations": [
             "Mountain View, CA",
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "LinkedIn",
         "title": "Associate Product Builder (APB) - Rotational Program",
         "source": "vanshb03",
@@ -9545,13 +9545,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756871952,
+        "date_updated": 1792661006,
         "url": "https://careers.roblox.com/jobs/7167345",
         "locations": [
             "San Mateo, CA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Roblox",
         "title": "New Grad 2026: Associate Product Designer",
         "source": "vanshb03",
@@ -9561,13 +9561,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756871962,
+        "date_updated": 1792661006,
         "url": "https://careers.roblox.com/jobs/7167343",
         "locations": [
             "San Mateo, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Roblox",
         "title": "New Grad 2026: Associate Product Manager",
         "source": "vanshb03",
@@ -9689,14 +9689,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756922282,
+        "date_updated": 1792661006,
         "url": "https://jobs.ashbyhq.com/Cape/bd280ded-4298-47de-a186-1aebd1bd94b8",
         "locations": [
             "New York, NY",
             "Washington, DC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cape",
         "title": "New Grad: Software Engineer",
         "source": "vanshb03",
@@ -9706,13 +9706,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756922292,
+        "date_updated": 1792661006,
         "url": "https://careers-americas.icims.com/jobs/20901/software-engineer%252c-2026-graduate-u.s./job",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Atlassian",
         "title": "New Grad 2026: Software Engineer",
         "source": "vanshb03",
@@ -9722,13 +9722,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756935023,
+        "date_updated": 1792661006,
         "url": "https://careers.garmin.com/jobs/16827",
         "locations": [
             "Olathe, KS"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Garmin",
         "title": "Software Engineer I - Embedded Software",
         "source": "vanshb03",
@@ -9754,13 +9754,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756934962,
+        "date_updated": 1792661006,
         "url": "https://jobs.ashbyhq.com/luma-ai/f41a9fc6-40b5-4063-b093-b50ffe919ad8",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Luma",
         "title": "Research Scientist / Engineer - Data",
         "source": "vanshb03",
@@ -9770,14 +9770,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756934978,
+        "date_updated": 1792661006,
         "url": "https://stripe.com/jobs/listing/software-engineer-new-grad/7210112",
         "locations": [
             "South San Francisco, CA",
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Stripe",
         "title": "New Grad: Software Engineer",
         "source": "vanshb03",
@@ -9868,14 +9868,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1757068097,
+        "date_updated": 1792661006,
         "url": "https://www.alticeusacareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1322496900/?ats=successfactors",
         "company_name": "Altice USA",
         "title": "Software Dev Engineer I",
         "locations": [
             "Plainview, NY"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "b4aac097-5de4-42fc-b590-3ae449911f69",
         "date_posted": 1757068097,
@@ -9918,14 +9918,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1757068097,
+        "date_updated": 1792661006,
         "url": "https://careers.aflac.com/job/Software-Engineer-I-GA-31999/1323022100/?ats=successfactors",
         "company_name": "Aflac",
         "title": "Software Engineer I",
         "locations": [
             "Columbus, GA"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "f7314607-a633-4e02-a83f-a9c060b540f5",
         "date_posted": 1757068097,
@@ -9934,14 +9934,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1757068097,
+        "date_updated": 1792661006,
         "url": "https://jobs.ashbyhq.com/ellipsislabs/caa49297-d5a3-4d03-b8c9-bdc7b77fb0bb/application",
         "company_name": "Ellipsis Labs",
         "title": "Software Engineer",
         "locations": [
             "NYC"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "467e789e-178c-412e-bfa8-0793332e5f86",
         "date_posted": 1757068097,
@@ -10030,13 +10030,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757305981,
+        "date_updated": 1792661006,
         "url": "https://www.amazon.jobs/en/jobs/3071644/security-engineer-aws-global-services-security",
         "locations": [
             "Dallas, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Amazon",
         "title": "Security Engineer",
         "source": "vanshb03",
@@ -10159,13 +10159,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757306063,
+        "date_updated": 1792661006,
         "url": "https://careers.arm.com/job/austin/graduate-software-applications-engineer/33099/85831486416",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Arm",
         "title": "New Grad 2025: Software Applications Engineer",
         "source": "vanshb03",
@@ -10175,13 +10175,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757306071,
+        "date_updated": 1792661006,
         "url": "https://careers-americas.icims.com/jobs/20906/machine-learning-engineer%252c-2026-graduate-u.s./job",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Atlassian",
         "title": "New Grad 2026: Machine Learning Engineer",
         "source": "vanshb03",
@@ -10239,13 +10239,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757306208,
+        "date_updated": 1792661006,
         "url": "https://careers.publicisgroupe.com/jobs/121504",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Epsilon",
         "title": "New Grad: Associate, Software Engineer",
         "source": "vanshb03",
@@ -10255,13 +10255,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757306213,
+        "date_updated": 1792661006,
         "url": "https://careers.publicisgroupe.com/jobs/121511",
         "locations": [
             "Irving, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Epsilon",
         "title": "Associate, Software Engineer",
         "source": "vanshb03",
@@ -10271,13 +10271,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757306221,
+        "date_updated": 1792661006,
         "url": "https://jobs.ashbyhq.com/decagon/2a435dd5-1212-42bb-ae5a-d7432902acd2",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Decagon",
         "title": "New Grad 2026: Agent Software Engineer",
         "source": "vanshb03",
@@ -10287,14 +10287,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757306243,
+        "date_updated": 1792661006,
         "url": "https://www.disneycareers.com/en/job/-/-/391/85823385568",
         "locations": [
             "Glendale, CA",
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Disney",
         "title": "Software Engineer I",
         "source": "vanshb03",
@@ -10355,14 +10355,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1757306495,
+        "date_updated": 1792661006,
         "url": "https://careers-ebscoind.icims.com/jobs/1834/job",
         "company_name": "EBSCO",
         "title": "Software Dev Engineer I",
         "locations": [
             "Remote in USA"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "d4ed9044-2930-4ee9-a4d8-6226510a7165",
         "date_posted": 1757306495,
@@ -10570,13 +10570,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757346813,
+        "date_updated": 1792661006,
         "url": "https://careers.blackrock.com/job/-/-/45831/84712805504",
         "locations": [
             "Sausalito, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "BlackRock",
         "title": "Associate, Research Associate \u2013 SMA Solutions, Quantitative Investment Solutions (QIS)",
         "source": "vanshb03",
@@ -10619,13 +10619,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757347298,
+        "date_updated": 1792661006,
         "url": "https://www.workatastartup.com/jobs/81292",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "YouLearn",
         "title": "Founding Engineer (Full Stack)",
         "source": "vanshb03",
@@ -10651,13 +10651,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757347433,
+        "date_updated": 1792661006,
         "url": "https://www.workatastartup.com/jobs/81060",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Sonia",
         "title": "Founding Design Engineer",
         "source": "vanshb03",
@@ -10667,13 +10667,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757347440,
+        "date_updated": 1792661006,
         "url": "https://www.workatastartup.com/jobs/81052",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "InQuery",
         "title": "New Grad: Founding Engineer",
         "source": "vanshb03",
@@ -10799,13 +10799,13 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1757464983,
+        "date_updated": 1792661006,
         "url": "https://www.workatastartup.com/jobs/81441",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Agave (W22)",
         "title": "New Grad 2025: Software Engineer",
         "source": "vanshb03",
@@ -10815,14 +10815,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757465361,
+        "date_updated": 1792661006,
         "url": "https://careers.adobe.com/us/en/job/ADOBUSR159164EXTERNALENUS/2026-University-Graduate-Application-Security-Engineer",
         "locations": [
             "San Jose, CA",
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Adobe",
         "title": "New Grad 2026: Application Security Engineer",
         "source": "vanshb03",
@@ -10832,13 +10832,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757465364,
+        "date_updated": 1792661006,
         "url": "https://careers.adobe.com/us/en/job/ADOBUSR157573EXTERNALENUS/2026-University-Graduate-Machine-Learning-Engineer",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Adobe",
         "title": "New Grad 2026: Machine Learning Engineer",
         "source": "vanshb03",
@@ -10931,13 +10931,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757467936,
+        "date_updated": 1792661006,
         "url": "https://jobs.smartrecruiters.com/visa/744000080643295-associate-product-manager-apm-new-college-graduate-rotational-program-2026",
         "locations": [
             "Foster City, CA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Visa",
         "title": "New Grad 2026: Associate Product Manager (APM)",
         "source": "vanshb03",
@@ -10947,13 +10947,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757467966,
+        "date_updated": 1792661006,
         "url": "https://jobs.smartrecruiters.com/visa/744000080904205-software-engineer-new-college-grad-2026",
         "locations": [
             "Bellevue, WA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Visa",
         "title": "New Grad 2026: Software Engineer",
         "source": "vanshb03",
@@ -10963,13 +10963,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757467997,
+        "date_updated": 1792661006,
         "url": "https://jobs.smartrecruiters.com/visa/744000080905065-software-engineer-new-college-grad-2026",
         "locations": [
             "Foster City, CA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Visa",
         "title": "New Grad 2026: Software Engineer",
         "source": "vanshb03",
@@ -10979,13 +10979,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757468002,
+        "date_updated": 1792661006,
         "url": "https://jobs.smartrecruiters.com/visa/744000080905285-software-engineer-new-college-grad-2026",
         "locations": [
             "Highlands Ranch, CO"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Visa",
         "title": "New Grad 2026: Software Engineer",
         "source": "vanshb03",
@@ -10995,13 +10995,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757468004,
+        "date_updated": 1792661006,
         "url": "https://jobs.smartrecruiters.com/visa/744000080905162-site-reliability-engineer-new-college-grad-2026",
         "locations": [
             "Highlands Ranch, CO"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Visa",
         "title": "New Grad 2026: Site Reliability Engineer",
         "source": "vanshb03",
@@ -11011,13 +11011,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757468009,
+        "date_updated": 1792661006,
         "url": "https://jobs.smartrecruiters.com/visa/744000080906246-site-reliability-engineer-new-college-grad-2026",
         "locations": [
             "Highlands Ranch, CO"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Visa",
         "title": "New Grad 2026: Site Reliability Engineer",
         "source": "vanshb03",
@@ -11027,13 +11027,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757468012,
+        "date_updated": 1792661006,
         "url": "https://jobs.smartrecruiters.com/visa/744000080906904-software-engineer-new-college-grad-2026",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Visa",
         "title": "New Grad 2026: Software Engineer",
         "source": "vanshb03",
@@ -11043,13 +11043,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757468036,
+        "date_updated": 1792661006,
         "url": "https://jobs.smartrecruiters.com/visa/744000080906828-software-engineer-new-college-grad-2026",
         "locations": [
             "Highlands Ranch, CO"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Visa",
         "title": "New Grad 2026: Software Engineer",
         "source": "vanshb03",
@@ -11059,13 +11059,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757468040,
+        "date_updated": 1792661006,
         "url": "https://jobs.smartrecruiters.com/visa/744000080908246-site-reliability-engineer-new-college-grad-2026",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Visa",
         "title": "New Grad 2026: Site Reliability Engineer",
         "source": "vanshb03",
@@ -11075,13 +11075,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757468043,
+        "date_updated": 1792661006,
         "url": "https://jobs.smartrecruiters.com/visa/744000080909305-site-reliability-engineer-new-college-grad-2026",
         "locations": [
             "Ashburn, VA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Visa",
         "title": "New Grad 2026: Site Reliability Engineer",
         "source": "vanshb03",
@@ -11091,7 +11091,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757571659,
+        "date_updated": 1792661006,
         "url": "https://www.janestreet.com/join-jane-street/position/8053215002/",
         "company_name": "Jane Street",
         "title": "Cybersecurity Analyst",
@@ -11099,7 +11099,7 @@
             "New York"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "source": "cslegasse",
         "id": "b3337990-2f02-4417-9430-85c72fc5c5a7",
         "date_posted": 1757571659,
@@ -11107,7 +11107,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757571691,
+        "date_updated": 1792661006,
         "url": "https://join.atlassian.com/atlassian-talent-community/jobs/20908?lang=en-us",
         "company_name": "Atlassian",
         "title": "New Grad 2026: Software Engineer",
@@ -11115,7 +11115,7 @@
             "Canada"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "billyao021031",
         "id": "1133c4b4-7c0a-4f83-a978-519b8f8d0cb3",
         "date_posted": 1757571691,
@@ -11139,13 +11139,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757578688,
+        "date_updated": 1792661006,
         "url": "https://careers.nordstrom.com/engineer-1-full-stack-store-pos-team-hybrid-seattle-wa/job/4D8A4B0EBC4BABF554018E5C28260729",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Nordstrom",
         "title": "Engineer 1, Full Stack, Store POS+ Team",
         "source": "vanshb03",
@@ -11187,13 +11187,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757578703,
+        "date_updated": 1792661006,
         "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-iOS-IL-60607/1322170500/",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "McDonald's Corporation",
         "title": "Software Engineer I, iOS",
         "source": "vanshb03",
@@ -11251,14 +11251,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757670431,
+        "date_updated": 1792661006,
         "url": "https://careers-daytonfreight.icims.com/jobs/16714/job?mobile=true&needsRedirect=false",
         "company_name": "Dayton Freight Lines",
         "title": "Entry Level Software Developer",
         "locations": [
             "Dayton, OH"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "2d4f397b-bd4f-4200-b13f-9d8321eb8495",
         "date_posted": 1757670431,
@@ -11318,14 +11318,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1757670431,
+        "date_updated": 1792661006,
         "url": "https://jobs.ashbyhq.com/eliseai/1ffbd278-a5fe-443c-984f-521d61a97353",
         "company_name": "EliseAI",
         "title": "Software Engineer",
         "locations": [
             "New York, NY"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "018a1202-7227-4245-8869-141708b0c588",
         "date_posted": 1757670431,
@@ -11334,14 +11334,14 @@
         "sponsorship": "Offers Sponsorship"
     },
     {
-        "date_updated": 1757670431,
+        "date_updated": 1792661006,
         "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
         "company_name": "Susquehanna International Group (SIG)",
         "title": "New Grad: Software Developer, Sprc",
         "locations": [
             "Ardmore, PA"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "83035c63-cf51-43dd-af16-3dbceba30fce",
         "date_posted": 1757670431,
@@ -11350,14 +11350,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1757670431,
+        "date_updated": 1792661006,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/job?mobile=true&needsRedirect=false",
         "company_name": "Integration Innovation (i3)",
         "title": "Entry Level Full-Stack Software Engineer",
         "locations": [
             "Huntsville, AL"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "2c3fabe3-95cd-418d-988f-e31b79b4ebfb",
         "date_posted": 1757670431,
@@ -11382,14 +11382,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1757670431,
+        "date_updated": 1792661006,
         "url": "https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false",
         "company_name": "Sev1Tech",
         "title": "Entry Level Software Developer",
         "locations": [
             "Lawton, OK"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "b613ccb0-7dc2-4056-b507-9415cf812734",
         "date_posted": 1757670431,
@@ -11398,14 +11398,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1757670431,
+        "date_updated": 1792661006,
         "url": "https://careers-gdms.icims.com/jobs/67972/job?mobile=true&needsRedirect=false",
         "company_name": "General Dynamics Mission Systems",
         "title": "Entry Level Software Engineer",
         "locations": [
             "Pittsfield, MA"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "7ed10785-49a3-4087-9990-79a4584496ac",
         "date_posted": 1757670431,
@@ -11431,13 +11431,13 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1757670412,
+        "date_updated": 1792661006,
         "url": "https://www.workatastartup.com/jobs/81444",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Sonia",
         "title": "Founding AI Engineer",
         "source": "vanshb03",
@@ -11447,14 +11447,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757670708,
+        "date_updated": 1792661006,
         "url": "https://careers.garmin.com/jobs/16774",
         "locations": [
             "Chandler, AZ",
             "Olathe, KS"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Garmin",
         "title": "Software Engineer I, Aviation Web Development",
         "source": "vanshb03",
@@ -11512,14 +11512,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757670732,
+        "date_updated": 1792661006,
         "url": "https://careers.adobe.com/us/en/job/ADOBUSR159933EXTERNALENUS/2026-University-Graduate-Software-Engineer",
         "locations": [
             "San Jose, CA",
             "Lehi, UT"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Adobe",
         "title": "New Grad 2026: Software Engineer",
         "source": "vanshb03",
@@ -11529,14 +11529,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757670758,
+        "date_updated": 1792661006,
         "url": "https://careers.adobe.com/us/en/job/ADOBUSR159163EXTERNALENUS/2026-University-Graduate-Software-Engineer",
         "locations": [
             "San Jose, CA",
             "Lehi, UT"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Adobe",
         "title": "New Grad 2026: Software Engineer",
         "source": "vanshb03",
@@ -11644,13 +11644,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757825139,
+        "date_updated": 1792661006,
         "url": "https://jobs.ashbyhq.com/Anima/a6b86f92-0679-423b-b575-a23f8677dfd1",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Anima",
         "title": "Software Engineer",
         "source": "vanshb03",
@@ -11660,13 +11660,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757825155,
+        "date_updated": 1792661006,
         "url": "https://www.coalitioninc.com/job-posting/4560711005",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Coalition",
         "title": "Software Engineer I",
         "source": "vanshb03",
@@ -11676,13 +11676,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757827837,
+        "date_updated": 1792661006,
         "url": "https://www.workatastartup.com/jobs/81629",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Planbase",
         "title": "Founding Engineer (Full-Stack)",
         "source": "vanshb03",
@@ -11692,14 +11692,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757827869,
+        "date_updated": 1792661006,
         "url": "https://www.workatastartup.com/jobs/81628",
         "locations": [
             "San Francisco, CA",
             "New York, NY"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Benchify",
         "title": "Founding Engineer",
         "source": "vanshb03",
@@ -11938,14 +11938,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1758125187,
+        "date_updated": 1792661006,
         "url": "https://jobs.ashbyhq.com/eventualcomputing/becb5675-3480-4d2b-b126-2acad40fd088/application",
         "company_name": "Eventual",
         "title": "New Grad: Software Engineer",
         "locations": [
             "San Francisco, CA"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "cf97f5fb-b4f1-4cbc-aa5b-7b933ce604a7",
         "date_posted": 1758125187,
@@ -12181,13 +12181,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758387560,
+        "date_updated": 1792661006,
         "url": "https://www.workatastartup.com/jobs/80837",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Channel3",
         "title": "Founding Engineer",
         "source": "vanshb03",
@@ -12197,13 +12197,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758392904,
+        "date_updated": 1792661006,
         "url": "https://jobs.ashbyhq.com/interaction/56b66af2-bce5-4ad7-baf9-ace14eb6a29a",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Interaction",
         "title": "Member of Technical Staff",
         "source": "vanshb03",
@@ -12213,14 +12213,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758689296,
+        "date_updated": 1792661006,
         "url": "https://jobs.ashbyhq.com/notion/f7399542-9122-481a-bf64-43bf8093748b",
         "locations": [
             "San Francisco, CA",
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Notion",
         "title": "Software Engineer, Fullstack, Early Career",
         "source": "vanshb03",
@@ -12230,14 +12230,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758689300,
+        "date_updated": 1792661006,
         "url": "https://jobs.ashbyhq.com/notion/add58865-8b9f-4cf7-9720-2908ba5f4d80",
         "locations": [
             "San Francisco, CA",
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Notion",
         "title": "Software Engineer, Infrastructure, Early Career",
         "source": "vanshb03",
@@ -12280,14 +12280,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758917913,
+        "date_updated": 1792661006,
         "url": "https://careers-cellularsales.icims.com/jobs/19001/junior-data-engineer/job",
         "company_name": "Cellular Sales",
         "title": "Junior Data Engineer",
         "locations": [
             "Knoxville, TN"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "f9d05374-9676-45f8-bb09-2ac27984ff13",
         "date_posted": 1758917913,
@@ -12424,14 +12424,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1758917913,
+        "date_updated": 1792661006,
         "url": "https://jobs.ashbyhq.com/persona/fd4d41b2-42b4-454e-91ad-d61fdc6a0042/application",
         "company_name": "Persona",
         "title": "Software Engineer 2026 New Grad",
         "locations": [
             "SF"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "1d77402b-0403-4c71-9e9e-77961cad162e",
         "date_posted": 1758917913,
@@ -12568,7 +12568,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1758917913,
+        "date_updated": 1792661006,
         "url": "https://www.pinterestcareers.com/job-form?gh_jid=7211012",
         "company_name": "Pinterest",
         "title": "New Grad 2026: Software Engineer",
@@ -12577,7 +12577,7 @@
             "Seattle, WA",
             "SF"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "0c3bcf3e-35a0-496e-8bf8-9800832fcb89",
         "date_posted": 1758917913,
@@ -12602,14 +12602,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1758917913,
+        "date_updated": 1792661006,
         "url": "https://jobs.ashbyhq.com/parafin/ced48a0b-f5ed-491a-ae38-2301fb881bd9/application",
         "company_name": "Parafin",
         "title": "New Grad: Software Engineer",
         "locations": [
             "SF"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "288067b5-2d3b-4992-9a00-75e18a4ab1de",
         "date_posted": 1758917913,
@@ -12634,13 +12634,13 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1759260774,
+        "date_updated": 1792661006,
         "url": "https://www.google.com/about/careers/applications/jobs/results/79125737784648390",
         "locations": [
             "Mountain View, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Google",
         "title": "New Grad 2026: Software Engineer",
         "source": "vanshb03",
@@ -12682,14 +12682,14 @@
         "sponsorship": "U.S. Citizenship is Required"
     },
     {
-        "date_updated": 1759261119,
+        "date_updated": 1792661006,
         "url": "https://www.esri.com/careers/4921407007?gh_jid=4921407007",
         "company_name": "Esri",
         "title": "Software Development Engineer 1",
         "locations": [
             "St. Louis, MO"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "e7033ae3-4fdf-4b13-bcec-f06522c7de00",
         "date_posted": 1759261119,
@@ -12717,14 +12717,14 @@
         "sponsorship": "Does Not Offer Sponsorship"
     },
     {
-        "date_updated": 1759261119,
+        "date_updated": 1792661006,
         "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-IL-60607/1329771000/?ats=successfactors",
         "company_name": "McDonald's",
         "title": "Software Engineer 1",
         "locations": [
             "Chicago, IL"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "d498e3ce-cfb7-4ead-b889-14e9ea23cc76",
         "date_posted": 1759261119,
@@ -12749,7 +12749,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1759261119,
+        "date_updated": 1792661006,
         "url": "https://jobs.comcast.com/job/-/-/45483/86516813920",
         "company_name": "Comcast",
         "title": "Software Engineer 1",
@@ -12757,7 +12757,7 @@
             "Chicago, IL",
             "Englewood, CO"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "5e55899d-b3f7-4b46-ad42-c0a0d05a7997",
         "date_posted": 1759261119,
@@ -12820,14 +12820,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1759786116,
+        "date_updated": 1792661006,
         "url": "https://aexp.eightfold.ai/careers/job/38270703",
         "company_name": "American Express",
         "title": "Software Engineer 1, Technology",
         "locations": [
             "Plantation, FL"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "2fadd3ac-6894-4d22-9d69-f498454ebd43",
         "date_posted": 1759786116,
@@ -12855,14 +12855,14 @@
         "sponsorship": "Does Not Offer Sponsorship"
     },
     {
-        "date_updated": 1759786116,
+        "date_updated": 1792661006,
         "url": "https://careers-gdms.icims.com/jobs/68413",
         "company_name": "General Dynamics Mission Systems",
         "title": "Junior Software Engineer",
         "locations": [
             "Dedham, MA"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "c40c9f50-3e5d-463c-84b6-ee03c44e7c0c",
         "date_posted": 1759786116,
@@ -13069,13 +13069,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1759976813,
+        "date_updated": 1792661006,
         "url": "https://university-uber.icims.com/jobs/149558/job",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Uber",
         "title": "New Grad 2025: Software Engineer I",
         "source": "vanshb03",
@@ -13085,14 +13085,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760071515,
+        "date_updated": 1792661006,
         "url": "https://jobs.ashbyhq.com/anyscale/31d09081-f5e7-45e4-b561-1c53d0ca9200",
         "locations": [
             "San Francisco, CA",
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Anyscale",
         "title": "New Grad 2026: Software Engineer",
         "source": "vanshb03",
@@ -13135,14 +13135,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760071659,
+        "date_updated": 1792661006,
         "url": "https://careers.adobe.com/us/en/job/ADOBUSR158639EXTERNALENUS/2026-University-Graduate-AI-Context-Engineer",
         "locations": [
             "San Jose, CA",
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Adobe",
         "title": "New Grad 2026: AI Context Engineer",
         "source": "vanshb03",
@@ -13396,13 +13396,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760208581,
+        "date_updated": 1792661006,
         "url": "https://efpv.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6828",
         "locations": [
             "Burnaby, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Infoblox",
         "title": "Associate Data Engineer",
         "source": "vanshb03",
@@ -13510,14 +13510,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760482769,
+        "date_updated": 1792661006,
         "url": "https://aurora.tech/careers/8137861002",
         "company_name": "Aurora",
         "title": "Security Software Engineer I",
         "locations": [
             "Mountain View, CA"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "0b06f290-8376-4237-b97c-865627128884",
         "date_posted": 1760482769,
@@ -13542,14 +13542,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1760482769,
+        "date_updated": 1792661006,
         "url": "https://jobs.ashbyhq.com/lambda/1b1cac37-a29c-46b2-ad1a-a946d1e87d41",
         "company_name": "Lambda",
         "title": "Cloud Support Engineer I (Support Response)",
         "locations": [
             "Remote in USA"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "ff0a574c-5a1c-44d0-a6c4-3a75b273e08b",
         "date_posted": 1760482769,
@@ -13622,14 +13622,14 @@
         "sponsorship": "Does Not Offer Sponsorship"
     },
     {
-        "date_updated": 1760482769,
+        "date_updated": 1792661006,
         "url": "https://aurora.tech/jobs/8209480002?gh_jid=8209480002",
         "company_name": "Aurora Innovation",
         "title": "Software Engineer 1",
         "locations": [
             "Pittsburgh, PA"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "c79ba0d8-b60c-4344-8550-45a73cb92050",
         "date_posted": 1760482769,
@@ -13638,14 +13638,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1760482769,
+        "date_updated": 1792661006,
         "url": "https://aurora.tech/jobs/8191750002?gh_jid=8191750002",
         "company_name": "Aurora Innovation",
         "title": "Software Engineer 1",
         "locations": [
             "Mountain View, CA"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "58733930-a2d2-45da-a177-7fc8f45219f5",
         "date_posted": 1760482769,
@@ -13799,7 +13799,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760650392,
+        "date_updated": 1792661006,
         "url": "https://www.google.com/about/careers/applications/jobs/results/90452041138086598-software-engineer-ii-early-career-google-cloud-ai-catalyst-program",
         "locations": [
             "Sunnyvale, CA",
@@ -13807,7 +13807,7 @@
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Google",
         "title": "Software Engineer II, Early Career, Google Cloud AI Catalyst Program",
         "source": "vanshb03",
@@ -13849,13 +13849,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760650368,
+        "date_updated": 1792661006,
         "url": "https://www.shopify.com/careers/software-engineer-monorepo-systems-rust-nix_95aac134-c21a-456d-b8b3-a9aac6aa6118",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Shopify",
         "title": "Software Engineer - Monorepo Systems (Rust & Nix)",
         "source": "vanshb03",
@@ -13898,13 +13898,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760650385,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7559731427425257746",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Machine Learning Engineer",
         "source": "vanshb03",
@@ -13930,7 +13930,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760650567,
+        "date_updated": 1792661006,
         "url": "https://www.workatastartup.com/jobs/83356",
         "locations": [
             "San Francisco, CA",
@@ -13940,7 +13940,7 @@
             "Redwood City, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "StarSling (X25)",
         "title": "New Grad: Full-Stack Software Engineer",
         "source": "vanshb03",
@@ -13950,13 +13950,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760650573,
+        "date_updated": 1792661006,
         "url": "https://www.workatastartup.com/jobs/83287",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Taro",
         "title": "Founding Software Engineer",
         "source": "vanshb03",
@@ -13966,13 +13966,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760650581,
+        "date_updated": 1792661006,
         "url": "https://www.workatastartup.com/jobs/83031",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Herdora",
         "title": "Member of Technical Staff",
         "source": "vanshb03",
@@ -13982,13 +13982,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760650584,
+        "date_updated": 1792661006,
         "url": "https://www.workatastartup.com/jobs/83025",
         "locations": [
             "Atlanta, GA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Corgi",
         "title": "Full Stack Engineer",
         "source": "vanshb03",
@@ -13998,13 +13998,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760650993,
+        "date_updated": 1792661006,
         "url": "https://www.workatastartup.com/jobs/82935",
         "locations": [
             "Redwood City, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Maitai",
         "title": "Full-Stack Engineer - Agent Marketplace (In-Person RWC Only)",
         "source": "vanshb03",
@@ -14014,13 +14014,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760650998,
+        "date_updated": 1792661006,
         "url": "https://www.workatastartup.com/jobs/82877",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Stamp",
         "title": "Founding Machine Learning Engineer",
         "source": "vanshb03",
@@ -14030,13 +14030,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760651002,
+        "date_updated": 1792661006,
         "url": "https://www.workatastartup.com/jobs/82875",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Stamp (W25)",
         "title": "Founding Mobile Engineer",
         "source": "vanshb03",
@@ -14046,13 +14046,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760651005,
+        "date_updated": 1792661006,
         "url": "https://www.workatastartup.com/jobs/82876",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Stamp",
         "title": "Founding Full Stack Engineer",
         "source": "vanshb03",
@@ -14062,13 +14062,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760784944,
+        "date_updated": 1792661006,
         "url": "https://www.shopify.com/careers/demo-engineer-software-development_a6126bad-c0ba-4d02-94fb-7c5e21bef9f5",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Shopify",
         "title": "Demo Engineer, Software Development",
         "source": "vanshb03",
@@ -14192,13 +14192,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760784988,
+        "date_updated": 1792661006,
         "url": "https://www.amazon.jobs/en/jobs/3110582/system-development-engineer-payload-antenna-team",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Amazon",
         "title": "System Development Engineer, Payload Antenna Team",
         "source": "vanshb03",
@@ -14208,14 +14208,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760994789,
+        "date_updated": 1792661006,
         "url": "https://amazon.jobs/en/jobs/3111761/software-engineer-i",
         "locations": [
             "Irvine, CA",
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Twitch Interactive, Inc.",
         "title": "Software Engineer I",
         "source": "vanshb03",
@@ -14225,13 +14225,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760994843,
+        "date_updated": 1792661006,
         "url": "https://www.amazon.jobs/en/jobs/3111750/systems-development-engineer-network-operations-oisl",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Amazon",
         "title": "Systems Development Engineer, Network Operations OISL",
         "source": "vanshb03",
@@ -14323,14 +14323,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761125749,
+        "date_updated": 1792661006,
         "url": "https://www.workatastartup.com/jobs/83760",
         "locations": [
             "San Francisco, CA",
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Wanderlog (W19)",
         "title": "New Grad: Full-Stack Software Engineer",
         "source": "vanshb03",
@@ -14340,14 +14340,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761125755,
+        "date_updated": 1792661006,
         "url": "https://www.workatastartup.com/jobs/83761",
         "locations": [
             "Remote",
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Wanderlog (W19)",
         "title": "New Grad: Full-Stack Software Engineer",
         "source": "vanshb03",
@@ -14357,13 +14357,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761125788,
+        "date_updated": 1792661006,
         "url": "https://www.workatastartup.com/jobs/80466",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Sixtyfour (X25)",
         "title": "Founding Engineer, AI Research Agents (Full-Stack)",
         "source": "vanshb03",
@@ -14389,13 +14389,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761126186,
+        "date_updated": 1792661006,
         "url": "https://www.workatastartup.com/jobs/83655",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Liva AI",
         "title": "Founding Engineer",
         "source": "vanshb03",
@@ -14405,13 +14405,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761174508,
+        "date_updated": 1792661006,
         "url": "https://careers.adobe.com/us/en/job/ADOBUSR158465EXTERNALENUS/Software-Development-Engineer",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Adobe",
         "title": "Software Development Engineer",
         "source": "vanshb03",
@@ -14453,13 +14453,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761174533,
+        "date_updated": 1792661006,
         "url": "https://jobs.ashbyhq.com/zapier/63b14a57-064a-4617-bb8c-4a67c860e1e6",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Zapier",
         "title": "Software Engineer, Backend-leaning Full Stack or Backend",
         "source": "vanshb03",
@@ -14469,13 +14469,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761174542,
+        "date_updated": 1792661006,
         "url": "https://jobs.intuit.com/job/-/-/27595/87369448720",
         "locations": [
             "Mountain View, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Intuit",
         "title": "Software Engineer 1",
         "source": "vanshb03",
@@ -14501,14 +14501,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761174604,
+        "date_updated": 1792661006,
         "url": "https://www.qualtrics.com/careers/us/en/job/7340628?gh_jid=7340628",
         "company_name": "Qualtrics",
         "title": "Software Engineer I, Digital Experience",
         "locations": [
             "Seattle, WA"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "59e9b612-ec7f-45de-806c-faa8ad5fba9d",
         "date_posted": 1761174604,
@@ -14517,14 +14517,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1761174604,
+        "date_updated": 1792661006,
         "url": "https://uscareers-pepsico.icims.com/jobs/415877/junior-data-scientist-%E2%80%93-new-grad/job",
         "company_name": "PepsiCo",
         "title": "Junior Data Scientist",
         "locations": [
             "Mississauga, Canada"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "9e948aa6-e517-4bac-a30c-9ba34c46b4d1",
         "date_posted": 1761174604,
@@ -14582,14 +14582,14 @@
         "sponsorship": "Does Not Offer Sponsorship"
     },
     {
-        "date_updated": 1761174604,
+        "date_updated": 1792661006,
         "url": "https://jobs.battelle.org/us/en/job/BMIBMIUS75654EXTERNALENUS/Early-Career-Software-Engineer",
         "company_name": "Battelle",
         "title": "Early Career Software Engineer",
         "locations": [
             "Columbus, OH"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "7dccad6a-25e0-4448-bbf8-efe61702482c",
         "date_posted": 1761174604,
@@ -14614,7 +14614,7 @@
         "sponsorship": "Offers Sponsorship"
     },
     {
-        "date_updated": 1761174604,
+        "date_updated": 1792661006,
         "url": "https://www.d2l.com/careers/jobs/?job_id=7336031&gh_jid=7336031",
         "company_name": "D2L",
         "title": "New Grad 2026: Software Developer Rotation Program",
@@ -14624,7 +14624,7 @@
             "Kitchener, Canada",
             "Vancouver, Canada"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "c12ef982-e139-46e1-9faa-7be465019367",
         "date_posted": 1761174604,
@@ -14706,14 +14706,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1761174684,
+        "date_updated": 1792661006,
         "url": "https://jobs.ashbyhq.com/Rose%20Rocket/c074b14e-ebe0-4a14-beb2-1419eca9d447/application",
         "company_name": "Roserocket",
         "title": "Junior Software Engineer",
         "locations": [
             "Toronto, Canada"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "d05a9106-8bf1-45b0-8b79-e23a39de7837",
         "date_posted": 1761174684,
@@ -14738,13 +14738,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761176355,
+        "date_updated": 1792661006,
         "url": "https://jobs.ashbyhq.com/elevenlabs/bed47ac1-9c5c-44ae-8965-3a4312706328",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ElevenLabs",
         "title": "Growth Engineer - Mobile",
         "source": "vanshb03",
@@ -14802,13 +14802,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761176443,
+        "date_updated": 1792661006,
         "url": "https://uscareers-docusign.icims.com/jobs/27628/software-engineering/job",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Docusign",
         "title": "Software Engineer",
         "source": "vanshb03",
@@ -14818,13 +14818,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761587480,
+        "date_updated": 1792661006,
         "url": "https://www.workatastartup.com/jobs/84154",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Planbase",
         "title": "Founding Engineer (Full-Stack)",
         "source": "vanshb03",
@@ -14834,13 +14834,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761587484,
+        "date_updated": 1792661006,
         "url": "https://www.workatastartup.com/jobs/76499",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Proception Inc",
         "title": "Robotics Software Engineering - Real-Time Control & Embedded Systems",
         "source": "vanshb03",
@@ -15010,7 +15010,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1761840220,
+        "date_updated": 1792661006,
         "url": "https://www.amazon.jobs/en/jobs/3116902/2026-annapurna-labs-at-aws-early-career-us-silicon-ai-systems-innovation",
         "company_name": "Annapurna Labs",
         "title": "Silicon & AI Systems Innovation Engineer",
@@ -15019,7 +15019,7 @@
             "Seattle, WA",
             "Cupertino, CA"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "d37d585a-35c9-421d-bab7-dd6e8acf9d7c",
         "date_posted": 1761840220,
@@ -15028,14 +15028,14 @@
         "sponsorship": "Offers Sponsorship"
     },
     {
-        "date_updated": 1762019282,
+        "date_updated": 1792661006,
         "url": "https://www.amazon.jobs/en/jobs/3118657/adc-engineer-i-peet-adc",
         "locations": [
             "Arlington, VA",
             "Herndon, VA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Amazon",
         "title": "ADC Engineer I, PEET ADC",
         "source": "vanshb03",
@@ -15045,14 +15045,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762019330,
+        "date_updated": 1792661006,
         "url": "https://jobs.ashbyhq.com/Citizen%20Health/0f4048fa-da35-4112-9166-123440a2cb57",
         "locations": [
             "San Francisco, CA",
             "San Mateo, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Citizen Health",
         "title": "Software Engineer",
         "source": "vanshb03",
@@ -15062,13 +15062,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762019334,
+        "date_updated": 1792661006,
         "url": "https://jobs.ashbyhq.com/zip/bec203f9-7919-479a-b021-c7871b7757e2",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Zip",
         "title": "New Grad 2026: Software Engineer",
         "source": "vanshb03",
@@ -15242,13 +15242,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762019430,
+        "date_updated": 1792661006,
         "url": "https://www.amazon.jobs/en/jobs/3117171/system-development-engineer-macos-mdm-kuiper-devices-systems",
         "locations": [
             "Bellevue, WA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Amazon",
         "title": "System Development Engineer, macOS MDM, Kuiper Devices & Systems",
         "source": "vanshb03",
@@ -15388,13 +15388,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762782324,
+        "date_updated": 1792661006,
         "url": "https://careers.servicenow.com/jobs/744000092358511/software-engineer/",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ServiceNow",
         "title": "Software Engineer",
         "source": "vanshb03",
@@ -15470,13 +15470,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762782718,
+        "date_updated": 1792661006,
         "url": "https://www.shopify.com/careers/software-engineers_c96af3a9-82a3-4c6a-9b86-1f7e6b376167",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Shopify",
         "title": "Software Engineer",
         "source": "vanshb03",
@@ -15486,13 +15486,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762782723,
+        "date_updated": 1792661006,
         "url": "https://careers.adobe.com/us/en/job/ADOBUSR161750EXTERNALENUS/Software-Development-Engineer",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Adobe",
         "title": "Software Development Engineer",
         "source": "vanshb03",
@@ -15648,7 +15648,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762783069,
+        "date_updated": 1792661006,
         "url": "https://jobs.ashbyhq.com/Citizen%20Health/ab0cc0c1-7122-4ca2-8ac9-84d1812b22d4/application",
         "company_name": "Citizen Health",
         "title": "Software Engineer",
@@ -15656,7 +15656,7 @@
             "San Francisco, CA",
             "San Mateo, CA"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "d72af5fa-9e5b-4690-aa66-9bdaf97b6e7d",
         "date_posted": 1762783069,
@@ -15697,14 +15697,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1762783069,
+        "date_updated": 1792661006,
         "url": "https://jobs.smartrecruiters.com/ServiceNow/744000092424475",
         "company_name": "ServiceNow",
         "title": "Frontend Software Engineer",
         "locations": [
             "San Diego, CA"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "9f3b8fba-5cb2-4aa7-803f-f83a6c76c96a",
         "date_posted": 1762783069,
@@ -15749,7 +15749,7 @@
         "sponsorship": "Offers Sponsorship"
     },
     {
-        "date_updated": 1763252143,
+        "date_updated": 1792661006,
         "url": "https://www.imc.com/us/careers/jobs/4580755101",
         "company_name": "IMC",
         "title": "New Grad 2026: Software Engineer",
@@ -15757,7 +15757,7 @@
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "ouckah",
         "id": "7a690259-0c9e-4272-a776-bbdd464653a1",
         "date_posted": 1763252143,
@@ -15781,7 +15781,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1763252267,
+        "date_updated": 1792661006,
         "url": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc",
         "company_name": "Replit",
         "title": "Software Engineer - New Grad (Summer 2026)",
@@ -15789,7 +15789,7 @@
             "Foster City, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "ouckah",
         "id": "9cf7230c-b4d1-4bf5-a3da-76db710dbba7",
         "date_posted": 1763252267,
@@ -15861,13 +15861,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1763445593,
+        "date_updated": 1792661006,
         "url": "https://careers.circle.com/us/en/job/CIICIRUSJR100011EGEXTERNALENUS/New-Grad-Software-Engineer-Backend-2026",
         "locations": [
             "United States of America"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Circle",
         "title": "New Grad 2026: Software Engineer, Backend",
         "source": "vanshb03",
@@ -15877,7 +15877,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1763445602,
+        "date_updated": 1792661006,
         "url": "https://stripe.com/jobs/listing/backend-engineer-secure-endpoint-access/7396672",
         "locations": [
             "South San Francisco, CA",
@@ -15885,7 +15885,7 @@
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Stripe",
         "title": "Backend Engineer, Secure Endpoint Access",
         "source": "vanshb03",
@@ -15927,13 +15927,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1763445626,
+        "date_updated": 1792661006,
         "url": "https://www.amazon.jobs/en/jobs/3126885/software-engineer-i",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Amazon",
         "title": "Software Engineer I",
         "source": "vanshb03",
@@ -15993,13 +15993,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1763445761,
+        "date_updated": 1792661006,
         "url": "https://www.databricks.com/company/careers/professional-services-operations/ai-tooling-program-engineer--8295414002",
         "locations": [
             "Northeast, United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Databricks",
         "title": "AI Tooling Program Engineer",
         "source": "vanshb03",
@@ -16027,7 +16027,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1763445857,
+        "date_updated": 1792661006,
         "url": "https://www.workatastartup.com/jobs/85420",
         "locations": [
             "Kansas City, MO",
@@ -16035,7 +16035,7 @@
             "Olathe, KS"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "dScribe AI",
         "title": "Founding Engineer",
         "source": "vanshb03",
@@ -16061,13 +16061,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1763445866,
+        "date_updated": 1792661006,
         "url": "https://www.workatastartup.com/jobs/77829",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Poka Labs",
         "title": "Founding Engineer",
         "source": "vanshb03",
@@ -16077,13 +16077,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1763445878,
+        "date_updated": 1792661006,
         "url": "https://www.workatastartup.com/jobs/85460",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Wanderlog (W19)",
         "title": "New Grad: Full-Stack Software Engineer",
         "source": "vanshb03",
@@ -16093,14 +16093,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1763445883,
+        "date_updated": 1792661006,
         "url": "https://www.workatastartup.com/jobs/85459",
         "locations": [
             "San Francisco, CA",
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Wanderlog (W19)",
         "title": "New Grad: Full-Stack Software Engineer",
         "source": "vanshb03",
@@ -16209,13 +16209,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1764545594,
+        "date_updated": 1792661006,
         "url": "https://careers.withwaymo.com/jobs/software-engineer-ml-tools-mountain-view-california-united-states",
         "locations": [
             "Mountain View, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Waymo",
         "title": "Software Engineer, ML Tools",
         "source": "vanshb03",
@@ -16225,13 +16225,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1764545603,
+        "date_updated": 1792661006,
         "url": "https://jobs.ashbyhq.com/dune/f3846675-ec16-49df-840d-a428cb421e8c",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Dune",
         "title": "Data Engineer",
         "source": "vanshb03",
@@ -16241,13 +16241,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1764545629,
+        "date_updated": 1792661006,
         "url": "https://www.amazon.jobs/en/jobs/3133994/system-development-engineer-robotics-integration-and-optimization-services",
         "locations": [
             "Arlington, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Amazon",
         "title": "System Development Engineer, Robotics Integration and Optimization Services",
         "source": "vanshb03",
@@ -16289,13 +16289,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1764545682,
+        "date_updated": 1792661006,
         "url": "https://jobs.ashbyhq.com/yotta/b5202314-91e1-4940-b8a1-9be0e02d1db5",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Yotta Labs",
         "title": "Research Engineer - Decentralized AI Systems",
         "source": "vanshb03",
@@ -16305,14 +16305,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1764545710,
+        "date_updated": 1792661006,
         "url": "https://jobs.ashbyhq.com/evenup/575484a3-ed12-478f-a575-8db524f9cc96",
         "locations": [
             "San Francisco, CA",
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "EvenUp",
         "title": "Backend Software Engineer, AI Document Generation (All Levels)",
         "source": "vanshb03",
@@ -16338,13 +16338,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1764545881,
+        "date_updated": 1792661006,
         "url": "https://www.workatastartup.com/jobs/86044",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Thera",
         "title": "Founding Engineer",
         "source": "vanshb03",
@@ -16370,14 +16370,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1765308393,
+        "date_updated": 1792661006,
         "url": "https://www.workatastartup.com/jobs/86703",
         "locations": [
             "San Francisco, CA",
             "Remote"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Wanderlog",
         "title": "Full-Stack Software Engineer",
         "source": "vanshb03",
@@ -16387,14 +16387,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1765308398,
+        "date_updated": 1792661006,
         "url": "https://www.workatastartup.com/jobs/86704",
         "locations": [
             "Toronto, Canada",
             "Remote"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Wanderlog",
         "title": "Full-Stack Software Engineer",
         "source": "vanshb03",
@@ -16404,13 +16404,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1765308434,
+        "date_updated": 1792661006,
         "url": "https://www.workatastartup.com/jobs/85607",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Trellis AI",
         "title": "Member of Technical Staff",
         "source": "vanshb03",
@@ -16420,13 +16420,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1765308438,
+        "date_updated": 1792661006,
         "url": "https://www.workatastartup.com/jobs/86588",
         "locations": [
             "San Francisco, CA, US"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Planbase",
         "title": "Founding Engineer (Full-Stack)",
         "source": "vanshb03",
@@ -16436,13 +16436,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1765308442,
+        "date_updated": 1792661006,
         "url": "https://www.workatastartup.com/jobs/83889",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Idler",
         "title": "Software Engineer",
         "source": "vanshb03",
@@ -16452,13 +16452,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1765308454,
+        "date_updated": 1792661006,
         "url": "https://www.workatastartup.com/jobs/79286",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Emerge Career",
         "title": "Founding Product Engineer",
         "source": "vanshb03",
@@ -16468,14 +16468,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1765531847,
+        "date_updated": 1792661006,
         "url": "https://jobs.ashbyhq.com/magical/2c4734af-1ca2-423a-bb4e-29a7da894249",
         "locations": [
             "San Francisco, CA",
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Magical",
         "title": "New Grad: Junior Software Engineer, AI",
         "source": "vanshb03",
@@ -16485,13 +16485,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1765531858,
+        "date_updated": 1792661006,
         "url": "https://careers.capgemini.com/job/New-York%2C-NY-Full-Stack-AI-Engineer-NY-10001/1275242401",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Capgemini",
         "title": "Full Stack AI Engineer",
         "source": "vanshb03",
@@ -16501,13 +16501,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1765531864,
+        "date_updated": 1792661006,
         "url": "https://careers.withwaymo.com/jobs/webrad-rider-support-full-stack-swe-mountain-view-california-united-states",
         "locations": [
             "Mountain View, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Waymo",
         "title": "WebRAD & Rider Support Full Stack SWE",
         "source": "vanshb03",
@@ -16583,13 +16583,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1765531888,
+        "date_updated": 1792661006,
         "url": "https://careers.viasat.com/jobs/4993",
         "locations": [
             "Carlsbad, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Viasat",
         "title": "Software Engineer, Broadband Networks",
         "source": "vanshb03",
@@ -16599,13 +16599,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1767284064,
+        "date_updated": 1792661006,
         "url": "https://jobs.ashbyhq.com/Sierra/6a75b530-b7bb-4439-bb67-37b4f2b75b96",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Sierra",
         "title": "New Grad: Software Engineer, Agent",
         "source": "vanshb03",
@@ -16615,13 +16615,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1767284073,
+        "date_updated": 1792661006,
         "url": "https://jobs.ashbyhq.com/Sierra/ce2ae656-714c-4a6c-a020-fe418f868075",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Sierra",
         "title": "New Grad: Software Engineer, Agent",
         "source": "vanshb03",
@@ -16663,13 +16663,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1767284094,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7532216894792222994?spread=5MWH5CQ",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2026: Research Scientist Graduate: TikTok Recommendation",
         "source": "vanshb03",
@@ -16712,13 +16712,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1767746387,
+        "date_updated": 1792661006,
         "url": "https://www.workatastartup.com/jobs/88067",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Caddy",
         "title": "Founding Engineer",
         "source": "vanshb03",
@@ -16728,13 +16728,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1767746391,
+        "date_updated": 1792661006,
         "url": "https://www.workatastartup.com/jobs/88025",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Planbase",
         "title": "Founding Engineer",
         "source": "vanshb03",
@@ -16744,13 +16744,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1767746394,
+        "date_updated": 1792661006,
         "url": "https://www.workatastartup.com/jobs/87443",
         "locations": [
             "San Francisco, CA, US"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Planbase",
         "title": "Founding Product Engineer",
         "source": "vanshb03",
@@ -16776,13 +16776,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1767746801,
+        "date_updated": 1792661006,
         "url": "https://lifeattiktok.com/search/7591947799615260933?spread=5MWH5CQ",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "Software Engineer Graduate, Site Reliability Engineering",
         "source": "vanshb03",
@@ -16792,14 +16792,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1767746807,
+        "date_updated": 1792661006,
         "url": "https://stripe.com/jobs/listing/security-engineer-new-grad/7477571",
         "locations": [
             "Seattle, WA",
             "South San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Stripe",
         "title": "New Grad: Security Engineer",
         "source": "vanshb03",
@@ -16809,13 +16809,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1767746826,
+        "date_updated": 1792661006,
         "url": "https://careers.adobe.com/us/en/job/ADOBUSR160657EXTERNALENUS/2026-University-Graduate-Software-Development-Engineer",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Adobe",
         "title": "Software Development Engineer",
         "source": "vanshb03",
@@ -16857,13 +16857,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1767746840,
+        "date_updated": 1792661006,
         "url": "https://university-uber.icims.com/jobs/152559/job?mobile=false&width=1069&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Uber",
         "title": "New Grad 2026: Software Engineer I, Mobile",
         "source": "vanshb03",
@@ -16873,13 +16873,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1767746879,
+        "date_updated": 1792661006,
         "url": "https://university-uber.icims.com/jobs/152427/job",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Uber",
         "title": "New Grad 2026: Software Engineer I",
         "source": "vanshb03",
@@ -16937,13 +16937,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1767995419,
+        "date_updated": 1792661006,
         "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4749965101",
         "locations": [
             "Santa Monica, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "StubHub",
         "title": "New Grad: Software Engineer I",
         "source": "vanshb03",
@@ -17033,13 +17033,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1767995465,
+        "date_updated": 1792661006,
         "url": "https://careers.twitch.com/en/career-posts/8347863002/",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Twitch",
         "title": "Software Engineer, Creator Monetization",
         "source": "vanshb03",
@@ -17049,14 +17049,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1767995469,
+        "date_updated": 1792661006,
         "url": "https://careers.twitch.com/en/career-posts/8334351002/",
         "locations": [
             "San Francisco, CA",
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Twitch",
         "title": "Software Engineer I",
         "source": "vanshb03",
@@ -17066,14 +17066,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1767995471,
+        "date_updated": 1792661006,
         "url": "https://careers.twitch.com/en/career-posts/8360103002/",
         "locations": [
             "Seattle, WA",
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Twitch",
         "title": "Software Engineer I",
         "source": "vanshb03",
@@ -17115,7 +17115,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1767995484,
+        "date_updated": 1792661006,
         "url": "https://jobs.ashbyhq.com/cohere/110ba167-4efd-43b7-85d2-3ff719a28b0f",
         "locations": [
             "San Francisco, CA",
@@ -17125,7 +17125,7 @@
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cohere",
         "title": "Member of Technical Staff, MLE",
         "source": "vanshb03",
@@ -17167,13 +17167,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1768075329,
+        "date_updated": 1792661006,
         "url": "https://unity.com/careers/positions/7435121",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Unity Technologies",
         "title": "Software Engineer",
         "source": "vanshb03",
@@ -17183,13 +17183,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1768075340,
+        "date_updated": 1792661006,
         "url": "https://careers.adobe.com/us/en/job/ADOBUSR161061EXTERNALENUS/Software-Development-Engineer",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Adobe",
         "title": "Software Development Engineer",
         "source": "vanshb03",
@@ -17295,13 +17295,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1769926603,
+        "date_updated": 1792661006,
         "url": "https://www.amazon.jobs/en/jobs/3168547/systems-development-engineer-amazon-foundational-security-services-afss",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Amazon",
         "title": "Systems Development Engineer",
         "source": "vanshb03",
@@ -17311,13 +17311,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1769926608,
+        "date_updated": 1792661006,
         "url": "https://www.amazon.jobs/en/jobs/3168189/systems-development-engineer-amazon-enterprise-engineering-enterprise-engineering",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Amazon",
         "title": "Systems Development Engineer",
         "source": "vanshb03",
@@ -17439,13 +17439,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1769926646,
+        "date_updated": 1792661006,
         "url": "https://jobs.ashbyhq.com/zip/19f459ee-4907-4883-9d70-35eb96f62082",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Zip",
         "title": "New Grad 2026: Software Engineer",
         "source": "vanshb03",
@@ -17455,13 +17455,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1769926649,
+        "date_updated": 1792661006,
         "url": "https://www.amazon.jobs/en/jobs/3170102/sde-i-creator-monetization",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Twitch Interactive, Inc.",
         "title": "Software Engineer",
         "source": "vanshb03",
@@ -17471,13 +17471,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1769926672,
+        "date_updated": 1792661006,
         "url": "https://www.amazon.jobs/en/jobs/3171130/security-engineer-i-security-incident-response-team-sirt-security-incident-response-team-sirt",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Amazon",
         "title": "Security Engineer I, Security Incident Response Team (SIRT)",
         "source": "vanshb03",
@@ -17519,14 +17519,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1769926660,
+        "date_updated": 1792661006,
         "url": "https://www.tryprofound.com/careers/1d4a905b-7b91-4763-88dd-7abc7562fbcd",
         "locations": [
             "New York City, NY",
             "San Francisco, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Profound",
         "title": "New Grad: Software Engineer",
         "source": "vanshb03",
@@ -17779,7 +17779,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1771170029,
+        "date_updated": 1792661006,
         "url": "https://jobs.ashbyhq.com/ramp/6b9108d1-128d-4fd3-8465-fb514ea0e4c4",
         "locations": [
             "New York, NY",
@@ -17787,7 +17787,7 @@
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Ramp",
         "title": "Design Engineer, Design Systems",
         "source": "vanshb03",
@@ -17877,7 +17877,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773879694,
+        "date_updated": 1792661006,
         "url": "https://www.google.com/about/careers/applications/jobs/results/143333237156913862-software-engineer-ii/",
         "company_name": "Google",
         "title": "Software Engineer II, Early Career",
@@ -17896,7 +17896,7 @@
             "Sunnyvale, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "382134ec-fc12-43fa-8ab7-1551d5fce28f",
         "date_posted": 1773879694,
@@ -17970,13 +17970,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1774482417,
+        "date_updated": 1792661006,
         "url": "https://jobs.supermicro.com/job/San-Jose-Software-Engineer-Cali/1376640400/?LinkedIn+Job+Slots=utm_source%3Dlinkedinjobpostings&jr_id=69c4408b6f4f855eeda6ac1e",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Supermicro",
         "title": "Software Engineer",
         "source": "vanshb03",
@@ -18051,13 +18051,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1777085056,
+        "date_updated": 1792661006,
         "url": "https://www.uber.com/global/en/careers/list/157785/",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Uber Technologies, Inc.",
         "title": "Software Engineer I, Masters",
         "source": "vanshb03",
@@ -18148,13 +18148,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1777085520,
+        "date_updated": 1792661006,
         "url": "https://jobs.ashbyhq.com/notion/a6311f97-4850-4674-a5f3-d9fe5f6f2555",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Notion",
         "title": "New Grad: Software Engineer",
         "source": "vanshb03",
@@ -18228,13 +18228,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1783640550,
+        "date_updated": 1792661006,
         "url": "https://jobs.uber.com/en/jobs/160017/?_csid=BOBcQVO6jwRuNsBKbjoAZA&effect=&sm_flow_id=92Yhskrz&state=xlA80FxvL-2272sFxrCsxXWLk7KQR60tJLE43FsTxHI%3D",
         "locations": [
             "Seattle, Washington"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Uber Technologies, Inc.",
         "title": "Software Engineer I",
         "source": "vanshb03",
@@ -18324,7 +18324,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1785448735,
+        "date_updated": 1792661006,
         "url": "https://careers.appian.com/jobs/8041241-software-engineer--2027-graduates-",
         "company_name": "Appian",
         "title": "New Grad 2027: Software Engineer",
@@ -18332,7 +18332,7 @@
             "McLean, VA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "source": "aprameyak",
         "id": "9178330b-1085-4ae5-820f-3efdbc32d8ea",
         "date_posted": 1785448735,
@@ -18388,13 +18388,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1785529003,
+        "date_updated": 1792661006,
         "url": "https://www.esri.com/careers/5198108007?gh_jid=5198108007",
         "locations": [
             "West Redlands, Redlands, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Esri",
         "title": "Product Engineer 1, ArcGIS Maps SDKs",
         "source": "vanshb03",
@@ -18436,13 +18436,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1785529003,
+        "date_updated": 1792661006,
         "url": "https://careers.cisco.com/global/en/job/1449197",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cisco",
         "title": "Software Engineer 1",
         "source": "vanshb03",
@@ -18501,13 +18501,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1785529003,
+        "date_updated": 1792661006,
         "url": "https://ats.rippling.com/reverb-careers/jobs/25af40a7-e81c-4748-bac2-51e59e78196b",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Reverb",
         "title": "Software Engineer, Shipping",
         "source": "vanshb03",
@@ -18533,13 +18533,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1785529003,
+        "date_updated": 1792661006,
         "url": "https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineering-VA-20171/1414531300/?ats=successfactors",
         "locations": [
             "Reston, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "L3Harris Technologies",
         "title": "Software Engineering Associate",
         "source": "vanshb03",
@@ -18549,13 +18549,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1785529003,
+        "date_updated": 1792661006,
         "url": "https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineering-CO-80925/1414513700/?ats=successfactors",
         "locations": [
             "Colorado Springs, CO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "L3Harris Technologies",
         "title": "Software Engineering Associate",
         "source": "vanshb03",
@@ -18565,13 +18565,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1785529003,
+        "date_updated": 1792661006,
         "url": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineeriing-FL-32905/1414475800/?ats=successfactors",
         "locations": [
             "Palm Bay, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "L3Harris Technologies",
         "title": "Software Engineering Associate",
         "source": "vanshb03",
@@ -18614,13 +18614,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1785972488,
+        "date_updated": 1792661006,
         "url": "https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Quora",
         "title": "New Grad: Software Engineer",
         "source": "vanshb03",
