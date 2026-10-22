@@ -4306,13 +4306,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1752526215,
+        "date_updated": 1792659896,
         "url": "https://jobs.lever.co/ranger/38ef5184-0c8a-4980-836f-95e23e83ae7d?utm_source=Simplify&ref=Simplify",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Ranger",
         "title": "Forward-Deployed Test Engineer",
         "source": "vanshb03",
@@ -6991,14 +6991,14 @@
         "sponsorship": "Does Not Offer Sponsorship"
     },
     {
-        "date_updated": 1755113970,
+        "date_updated": 1792659896,
         "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4776690007?gh_jid=4776690007&gh_src=",
         "company_name": "Anduril Industries",
         "title": "Software Engineer, Connected Warfare",
         "locations": [
             "Costa Mesa, CA"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "06c3e021-6650-47c5-b028-72dbe45095b4",
         "date_posted": 1755113970,
@@ -16193,13 +16193,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1764545588,
+        "date_updated": 1792659900,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "New Grad 2026: Developer Technology Engineer, Public Sector",
         "source": "vanshb03",
@@ -17696,14 +17696,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1771170009,
+        "date_updated": 1792659900,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Formal-Verification-Engineer---New-College-Grad-2026_JR2013065",
         "locations": [
             "Austin, TX",
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "New Grad 2026: Formal Verification Engineer",
         "source": "vanshb03",
@@ -17904,13 +17904,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1774482141,
+        "date_updated": 1792659900,
         "url": "https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Software-Engineer-I--AI-Driven-_R-49831",
         "locations": [
             "Atlanta, GA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Travelers",
         "title": "Software Engineer I (AI Driven)",
         "source": "vanshb03",
@@ -17920,14 +17920,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1774482154,
+        "date_updated": 1792659898,
         "url": "https://job-boards.greenhouse.io/twitch/jobs/8459320002",
         "locations": [
             "Seattle, WA",
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Twitch",
         "title": "Software Engineer I, Commerce Engineering",
         "source": "vanshb03",
@@ -17937,14 +17937,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1774482167,
+        "date_updated": 1792659898,
         "url": "https://job-boards.greenhouse.io/twitch/jobs/8457711002",
         "locations": [
             "San Francisco, CA",
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Twitch",
         "title": "Software Engineer I, Commerce Engineering",
         "source": "vanshb03",
@@ -18212,13 +18212,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1783638714,
+        "date_updated": 1792659898,
         "url": "https://job-boards.greenhouse.io/simplisafe/jobs/8049515",
         "locations": [
             "Boston, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "SimpliSafe",
         "title": "Software Engineer I",
         "source": "vanshb03",
@@ -18340,13 +18340,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1785529003,
+        "date_updated": 1792659898,
         "url": "https://jobs.lever.co/woven-by-toyota/e5ebcad9-b648-4d04-8c15-0d8dffb36190",
         "locations": [
             "Ann Arbor, MI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Woven",
         "title": "Software Engineer, Analysis/Tool",
         "source": "vanshb03",
@@ -18404,13 +18404,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1785529003,
+        "date_updated": 1792659899,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027--Associate-Software-Engineer---Software-Engineer_R10243060",
         "locations": [
             "Melbourne, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Northrop Grumman",
         "title": "Associate Software Engineer",
         "source": "vanshb03",
