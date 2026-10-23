@@ -19556,5 +19556,21 @@
         "date_posted": 1792776556,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792776556,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/capital_one/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Capital One",
+        "title": "Associate Software Engineer, Card Expansion",
+        "source": "vanshb03",
+        "id": "ce66fb41-a283-46d4-8802-a1ffd75ad916",
+        "date_posted": 1792776556,
+        "company_url": "",
+        "is_visible": true
     }
 ]
