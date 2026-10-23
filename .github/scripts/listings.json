@@ -18957,5 +18957,21 @@
         "date_posted": 1792698816,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792698816,
+        "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000156421724",
+        "locations": [
+            "Des Moines, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Wellmark",
+        "title": "Data Wrangler",
+        "source": "vanshb03",
+        "id": "d47bfe29-cc80-44f6-a393-61f0c2d33f13",
+        "date_posted": 1792698816,
+        "company_url": "",
+        "is_visible": true
     }
 ]
