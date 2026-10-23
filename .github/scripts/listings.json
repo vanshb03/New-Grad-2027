@@ -19198,5 +19198,21 @@
         "date_posted": 1792698816,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792698816,
+        "url": "https://resmed.wd3.myworkdayjobs.com/en-US/resmed_external_careers/job/San-Diego-CA-United-States/Associate-Android-Developer_JR_053888-1",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ResMed",
+        "title": "Associate Android Developer",
+        "source": "vanshb03",
+        "id": "881afa48-1225-413f-9244-1e54dfe7a0e0",
+        "date_posted": 1792698816,
+        "company_url": "",
+        "is_visible": true
     }
 ]
