@@ -19118,5 +19118,21 @@
         "date_posted": 1792698816,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792698816,
+        "url": "https://boeing.wd1.myworkdayjobs.com/en-US/tap2/job/USA---Berkeley-MO/Associate-Flight-Test-Data-Processing-Software-Engineer_JR2026524420-2",
+        "locations": [
+            "Berkeley, MO"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Boeing",
+        "title": "Associate Flight Test Data Processing Software Engineer",
+        "source": "vanshb03",
+        "id": "da14411a-32a3-4fe0-b502-f5fcfa14525e",
+        "date_posted": 1792698816,
+        "company_url": "",
+        "is_visible": true
     }
 ]
