@@ -18973,5 +18973,21 @@
         "date_posted": 1792698816,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792698816,
+        "url": "https://jobs.ashbyhq.com/rhoda-ai/36a82229-5cab-48a7-99b6-ec9007c5b460/application?embed=true",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rhoda AI",
+        "title": "Software Engineer - Rhoda Platform",
+        "source": "vanshb03",
+        "id": "c0b1c90b-d6f2-47e5-a97d-c1b80d62d1e1",
+        "date_posted": 1792698816,
+        "company_url": "",
+        "is_visible": true
     }
 ]
