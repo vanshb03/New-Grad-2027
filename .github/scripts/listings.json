@@ -18756,5 +18756,21 @@
         "date_posted": 1792698816,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792698816,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Texas---Richardson/AI-ML-Systems-Engineer--2027-New-College-Graduate-_JR-2604163",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GlobalFoundries",
+        "title": "New Grad 2027: AI/ML Systems Engineer",
+        "source": "vanshb03",
+        "id": "50654b1a-a207-4f2f-9ca7-587fe2c923c5",
+        "date_posted": 1792698816,
+        "company_url": "",
+        "is_visible": true
     }
 ]
