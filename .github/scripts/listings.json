@@ -18925,5 +18925,21 @@
         "date_posted": 1792698816,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792698816,
+        "url": "https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618210",
+        "locations": [
+            "Point Mugu NAWC, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SAIC",
+        "title": "Software Test Engineer",
+        "source": "vanshb03",
+        "id": "6d202945-2bc9-42fe-8f43-44d49caaf0aa",
+        "date_posted": 1792698816,
+        "company_url": "",
+        "is_visible": true
     }
 ]
