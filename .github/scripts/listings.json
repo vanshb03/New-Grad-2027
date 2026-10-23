@@ -19166,5 +19166,21 @@
         "date_posted": 1792698816,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792698816,
+        "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Angular-Developer---Frontend-Engineer--Entry-Level-_26999296",
+        "locations": [
+            "Irving, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citi",
+        "title": "Angular Developer / Frontend Engineer",
+        "source": "vanshb03",
+        "id": "a9fb3b8b-9a0e-480a-a9c0-049526dc3708",
+        "date_posted": 1792698816,
+        "company_url": "",
+        "is_visible": true
     }
 ]
