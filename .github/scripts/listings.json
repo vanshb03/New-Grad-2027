@@ -18628,5 +18628,21 @@
         "date_posted": 1785972488,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792698816,
+        "url": "https://jobs.ashbyhq.com/brainco/4c9f8f00-0caf-4927-80da-02a3e53cb0cd/application",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Brain Co.",
+        "title": "New Grad 2027: AI/ML Engineer",
+        "source": "vanshb03",
+        "id": "66a9f232-e8b6-4208-89e0-71f557773f8b",
+        "date_posted": 1792698816,
+        "company_url": "",
+        "is_visible": true
     }
 ]
