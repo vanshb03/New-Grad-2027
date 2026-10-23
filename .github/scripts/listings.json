@@ -19492,5 +19492,21 @@
         "date_posted": 1792732377,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792732377,
+        "url": "https://amazon.jobs/en/jobs/10559101/data-engineer-early-career-2026-can",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Data Engineer",
+        "source": "vanshb03",
+        "id": "8688dd7f-275a-4230-80c4-c1479a14b232",
+        "date_posted": 1792732377,
+        "company_url": "",
+        "is_visible": true
     }
 ]
