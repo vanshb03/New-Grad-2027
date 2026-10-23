@@ -18788,5 +18788,21 @@
         "date_posted": 1792698816,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792698816,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-I/216357",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Electronic Arts",
+        "title": "New Grad 2027: Software Engineer 1",
+        "source": "vanshb03",
+        "id": "60b8bcab-5f12-401d-8561-2b49e4ee4250",
+        "date_posted": 1792698816,
+        "company_url": "",
+        "is_visible": true
     }
 ]
