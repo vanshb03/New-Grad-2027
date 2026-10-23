@@ -18708,5 +18708,21 @@
         "date_posted": 1792698816,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792698816,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/High-Performance-LLM-Training-Engineer---New-College-Grad-2027_JR2028237",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "New Grad 2027: High-Performance LLM Training Engineer (Master's)",
+        "source": "vanshb03",
+        "id": "b146c7a3-f2f6-4c08-8a85-e1132bcf720f",
+        "date_posted": 1792698816,
+        "company_url": "",
+        "is_visible": true
     }
 ]
