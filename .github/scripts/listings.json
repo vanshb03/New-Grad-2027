@@ -19458,5 +19458,21 @@
         "date_posted": 1792732377,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792732377,
+        "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---IL-Chicago/Technical-Associate-Application-Developer---Campus-2027_45783",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Guidehouse",
+        "title": "New Grad 2027: Technical Associate Application Developer",
+        "source": "vanshb03",
+        "id": "56941fa2-ac90-49b7-a62b-7e329c122600",
+        "date_posted": 1792732377,
+        "company_url": "",
+        "is_visible": true
     }
 ]
