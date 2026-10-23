@@ -18877,5 +18877,21 @@
         "date_posted": 1792698816,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792698816,
+        "url": "https://careers.jhuapl.edu/jobs/60116?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "title": "New Grad 2027: Cybersecurity Software Engineer - Cyber Concepts",
+        "source": "vanshb03",
+        "id": "2a3c1e0f-887d-4f86-a79e-fdd30118784b",
+        "date_posted": 1792698816,
+        "company_url": "",
+        "is_visible": true
     }
 ]
