@@ -19508,5 +19508,21 @@
         "date_posted": 1792732377,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792732377,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/ChandlerAZ/Software-Engineer--New-College-Grad--Master-s--Chandler--AZ-_R2627911",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Applied Materials",
+        "title": "Software Engineer (Master's)",
+        "source": "vanshb03",
+        "id": "6c08cf1c-0032-4654-971b-79113a5d1bd0",
+        "date_posted": 1792732377,
+        "company_url": "",
+        "is_visible": true
     }
 ]
