@@ -19267,5 +19267,21 @@
         "date_posted": 1792698816,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792698816,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Business-Intelligence-Analyst-I--New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2626650",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Applied Materials",
+        "title": "Business Intelligence Analyst I",
+        "source": "vanshb03",
+        "id": "cf12de8d-958a-4962-96af-4a57d150b26b",
+        "date_posted": 1792698816,
+        "company_url": "",
+        "is_visible": true
     }
 ]
