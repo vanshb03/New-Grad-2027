@@ -18724,5 +18724,21 @@
         "date_posted": 1792698816,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792698816,
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499",
+        "locations": [
+            "Linthicum, MD"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "New Grad 2027: Associate/Software Engineer Pathways",
+        "source": "vanshb03",
+        "id": "06022bbe-0684-4bf0-b696-e4792738403b",
+        "date_posted": 1792698816,
+        "company_url": "",
+        "is_visible": true
     }
 ]
