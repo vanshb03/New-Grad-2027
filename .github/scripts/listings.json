@@ -19021,5 +19021,22 @@
         "date_posted": 1792698816,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792698816,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/AI-Software-Engineer--2027-New-College-Graduate-_JR-2604055",
+        "locations": [
+            "Santa Clara, CA",
+            "Richardson, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GlobalFoundries",
+        "title": "New Grad 2027: AI Software Engineer",
+        "source": "vanshb03",
+        "id": "9baf129f-2b93-4601-ae8b-7ae014e0bcd1",
+        "date_posted": 1792698816,
+        "company_url": "",
+        "is_visible": true
     }
 ]
