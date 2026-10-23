@@ -18893,5 +18893,21 @@
         "date_posted": 1792698816,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792698816,
+        "url": "https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/New-Grad--Process-Data-Solutions--Calgary--June-2027-_R-411229-1",
+        "locations": [
+            "Calgary, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cenovus Energy",
+        "title": "New Grad 2027: Process Data Solutions",
+        "source": "vanshb03",
+        "id": "869834ec-6c9d-484b-b707-1f918ff31c03",
+        "date_posted": 1792698816,
+        "company_url": "",
+        "is_visible": true
     }
 ]
