@@ -18644,5 +18644,21 @@
         "date_posted": 1792698816,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792698816,
+        "url": "https://jobs.ashbyhq.com/brainco/32c4e1c9-ccd1-4dca-a68b-31ad1b868030/application",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Brain Co.",
+        "title": "New Grad 2027: AI Security Engineer",
+        "source": "vanshb03",
+        "id": "ae6eb399-ecbb-469f-be89-1ec665e8556f",
+        "date_posted": 1792698816,
+        "company_url": "",
+        "is_visible": true
     }
 ]
