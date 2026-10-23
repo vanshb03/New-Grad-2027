@@ -19315,5 +19315,21 @@
         "date_posted": 1792732376,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792732376,
+        "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4464270009",
+        "locations": [
+            "Golden, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rendezvous Robotics",
+        "title": "New Grad 2027: Flight Software Engineer",
+        "source": "vanshb03",
+        "id": "359d7673-1353-4fb0-a6cd-ffbb0e5c1099",
+        "date_posted": 1792732376,
+        "company_url": "",
+        "is_visible": true
     }
 ]
