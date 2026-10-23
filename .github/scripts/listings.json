@@ -19182,5 +19182,21 @@
         "date_posted": 1792698816,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792698816,
+        "url": "https://collegeboard.wd1.myworkdayjobs.com/en-US/cbcareers/job/Remote---USA/Software-Engineer-I--New-Grad-_REQ002974-1",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "College Board",
+        "title": "Software Engineer I",
+        "source": "vanshb03",
+        "id": "a3dde36b-b9be-4f00-93b3-5abb3f55c4bf",
+        "date_posted": 1792698816,
+        "company_url": "",
+        "is_visible": true
     }
 ]
