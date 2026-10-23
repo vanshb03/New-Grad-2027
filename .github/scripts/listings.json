@@ -18660,5 +18660,21 @@
         "date_posted": 1792698816,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792698816,
+        "url": "https://jobs.ashbyhq.com/brainco/c1788246-305f-4e4f-8b03-8444c76a466e/application",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Brain Co.",
+        "title": "New Grad 2027: AI Product Engineer",
+        "source": "vanshb03",
+        "id": "c1c7d7ed-640a-4488-927e-4c92301d9d3d",
+        "date_posted": 1792698816,
+        "company_url": "",
+        "is_visible": true
     }
 ]
