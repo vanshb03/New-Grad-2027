@@ -18676,5 +18676,21 @@
         "date_posted": 1792698816,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792698816,
+        "url": "https://jobs.ashbyhq.com/brainco/4d39773e-f4c3-49c1-87c3-812a9804fb15/application",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Brain Co.",
+        "title": "New Grad 2027: AI Platform Engineer",
+        "source": "vanshb03",
+        "id": "4958690b-e605-49a8-b864-ab33f197f45f",
+        "date_posted": 1792698816,
+        "company_url": "",
+        "is_visible": true
     }
 ]
