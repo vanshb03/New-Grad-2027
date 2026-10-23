@@ -19086,5 +19086,21 @@
         "date_posted": 1792698816,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792698816,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineer-I--Onsite-_01872684",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Raytheon Technologies",
+        "title": "Software Engineer I",
+        "source": "vanshb03",
+        "id": "eada10c2-4910-4637-9528-5e45315bae43",
+        "date_posted": 1792698816,
+        "company_url": "",
+        "is_visible": true
     }
 ]
