@@ -18989,5 +18989,21 @@
         "date_posted": 1792698816,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792698816,
+        "url": "https://apply.workable.com/thorlabs/j/B3CD05F790/apply",
+        "locations": [
+            "Newton, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Thorlabs",
+        "title": "Data Analyst 1",
+        "source": "vanshb03",
+        "id": "5d3473fc-d891-476e-842c-65ef9338a461",
+        "date_posted": 1792698816,
+        "company_url": "",
+        "is_visible": true
     }
 ]
