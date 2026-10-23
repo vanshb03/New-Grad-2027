@@ -19364,5 +19364,21 @@
         "date_posted": 1792732376,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792732377,
+        "url": "https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7/apply",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Palantir",
+        "title": "New Grad 2027: Forward Deployed Software Engineer, Warp Speed",
+        "source": "vanshb03",
+        "id": "0c394fff-c713-412f-992e-9a3a61a8ee5e",
+        "date_posted": 1792732377,
+        "company_url": "",
+        "is_visible": true
     }
 ]
