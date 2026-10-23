@@ -19102,5 +19102,21 @@
         "date_posted": 1792698816,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792698816,
+        "url": "https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/Algorithm-Developer--Masters-Degree--New-College-Grad--Santa-Clara-_R2631780",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Applied Materials",
+        "title": "Algorithm Developer (Master's)",
+        "source": "vanshb03",
+        "id": "b17f5d56-dfc8-41c3-82a9-f46672cd58c0",
+        "date_posted": 1792698816,
+        "company_url": "",
+        "is_visible": true
     }
 ]
