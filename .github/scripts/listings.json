@@ -19230,5 +19230,21 @@
         "date_posted": 1792698816,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792698816,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Brazil-Remote-Work/Junior-Software-QA-Engineer_R69183",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Motorola Solutions",
+        "title": "Junior Software QA Engineer",
+        "source": "vanshb03",
+        "id": "529fe7a2-ae2b-48c1-a448-7f1f97064008",
+        "date_posted": 1792698816,
+        "company_url": "",
+        "is_visible": true
     }
 ]
