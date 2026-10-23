@@ -19283,5 +19283,21 @@
         "date_posted": 1792698816,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792698816,
+        "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Attack-Surface-Management-Security-Engineer-I--Full-Time----United-States_2029031",
+        "locations": [
+            "Research Triangle Park, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cisco",
+        "title": "Attack Surface Management Security Engineer I",
+        "source": "vanshb03",
+        "id": "8b401610-24f5-409f-93ab-b3fc0c4c0bd7",
+        "date_posted": 1792698816,
+        "company_url": "",
+        "is_visible": true
     }
 ]
