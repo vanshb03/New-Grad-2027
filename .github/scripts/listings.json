@@ -19474,5 +19474,23 @@
         "date_posted": 1792732377,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792732377,
+        "url": "https://amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027",
+        "locations": [
+            "Seattle, WA",
+            "Austin, TX",
+            "Cupertino, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "New Grad 2027: Software Development Engineer 1, Annapurna Labs",
+        "source": "vanshb03",
+        "id": "9df960cc-66fe-437d-ab6b-32f6e36fbbed",
+        "date_posted": 1792732377,
+        "company_url": "",
+        "is_visible": true
     }
 ]
