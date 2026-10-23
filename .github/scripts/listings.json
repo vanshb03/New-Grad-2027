@@ -19246,5 +19246,26 @@
         "date_posted": 1792698816,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792698816,
+        "url": "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Kanata-Ontario-Canada/Software-Developer-Embedded-Systems-I--Full-Time----Canada_2024055",
+        "locations": [
+            "Kanata, Canada",
+            "Laurent, Canada",
+            "Calgary, Canada",
+            "Montreal, Canada",
+            "Vancouver, Canada",
+            "Ottawa, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cisco",
+        "title": "Software Developer, Embedded Systems I",
+        "source": "vanshb03",
+        "id": "1ddd9172-8559-4998-a770-e3a537bd1b10",
+        "date_posted": 1792698816,
+        "company_url": "",
+        "is_visible": true
     }
 ]
