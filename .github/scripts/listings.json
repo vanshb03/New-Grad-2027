@@ -19054,5 +19054,21 @@
         "date_posted": 1792698816,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792698816,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Embedded-Software-Engineer_R68965-1",
+        "locations": [
+            "Allen, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Motorola Solutions",
+        "title": "Embedded Software Engineer",
+        "source": "vanshb03",
+        "id": "912e78e2-38b2-4cd9-b759-3e805a2439ac",
+        "date_posted": 1792698816,
+        "company_url": "",
+        "is_visible": true
     }
 ]
