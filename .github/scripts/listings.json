@@ -18772,5 +18772,21 @@
         "date_posted": 1792698816,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792698816,
+        "url": "https://kla.wd1.myworkdayjobs.com/search/job/USA-NY-Remote-US03K/Engr--Software-1_2642693-1",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KLA",
+        "title": "Software Engineer 1",
+        "source": "vanshb03",
+        "id": "dc074fb1-c52e-4a75-99d2-ff3b331e5048",
+        "date_posted": 1792698816,
+        "company_url": "",
+        "is_visible": true
     }
 ]
