@@ -19432,5 +19432,31 @@
         "date_posted": 1792732377,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792732377,
+        "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Systems-Engineer_R0252284",
+        "locations": [
+            "Honolulu, HI",
+            "Annapolis Junction, MD",
+            "Colorado Springs, CO",
+            "McLean, VA",
+            "Rome, NY",
+            "Panama City, FL",
+            "Charleston, SC",
+            "Atlanta, GA",
+            "Huntsville, AL",
+            "San Diego, CA",
+            "El Segundo, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Booz Allen",
+        "title": "New Grad 2027: Systems Engineer",
+        "source": "vanshb03",
+        "id": "9e2e4d5d-ce9a-42fe-ab71-f6b516e16caf",
+        "date_posted": 1792732377,
+        "company_url": "",
+        "is_visible": true
     }
 ]
