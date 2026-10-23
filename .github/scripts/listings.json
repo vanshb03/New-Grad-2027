@@ -19331,5 +19331,21 @@
         "date_posted": 1792732376,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792732376,
+        "url": "https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Software-Engineer_JR102735-1",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Autostore",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "e2497d09-c887-420d-868e-02b6ea9b1440",
+        "date_posted": 1792732376,
+        "company_url": "",
+        "is_visible": true
     }
 ]
