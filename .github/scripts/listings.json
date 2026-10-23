@@ -19038,5 +19038,21 @@
         "date_posted": 1792698816,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792698816,
+        "url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5255784007",
+        "locations": [
+            "South San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Xaira Therapeutics",
+        "title": "Robotics Systems & Simulation Engineer",
+        "source": "vanshb03",
+        "id": "36a24ccc-4156-4912-8fbd-482399fbf674",
+        "date_posted": 1792698816,
+        "company_url": "",
+        "is_visible": true
     }
 ]
