@@ -19214,5 +19214,21 @@
         "date_posted": 1792698816,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792698816,
+        "url": "https://www.amazon.jobs/jobs/10583004",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "New Grad 2027: Software Development Engineer",
+        "source": "vanshb03",
+        "id": "c67980a2-a76b-4d85-bf82-7d24f5963882",
+        "date_posted": 1792698816,
+        "company_url": "",
+        "is_visible": true
     }
 ]
