@@ -44,6 +44,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Cisco** | Software Developer, Embedded Systems I | <details><summary>**6 locations**</summary>Kanata, Canada</br>Laurent, Canada</br>Calgary, Canada</br>Montreal, Canada</br>Vancouver, Canada</br>Ottawa, Canada</details> | <a href="https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Kanata-Ontario-Canada/Software-Developer-Embedded-Systems-I--Full-Time----Canada_2024055?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
+| **Cenovus Energy** | New Grad 2027: Process Data Solutions | Calgary, Canada | <a href="https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/New-Grad--Process-Data-Solutions--Calgary--June-2027-_R-411229-1?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
+| **Amazon** | New Grad 2027: Software Development Engineer | Vancouver, Canada | <a href="https://www.amazon.jobs/jobs/10583004?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | **Quadient** | Software Engineer | Vancouver, Canada | <a href="https://careers.quadient.com/en/jobs/junior-software-engineer?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | **Tripadvisor** | Android Engineer | Ottawa, Canada | <a href="https://careers.tripadvisor.com/job?jobId=7234900&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
 | **Stripe** | Software Engineer - New Grad | Toronto, ON, Canada | <a href="https://stripe.com/jobs/search?gh_jid=7206505&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
