@@ -18844,5 +18844,22 @@
         "date_posted": 1792698816,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792698816,
+        "url": "https://careers.nrgenergy.com/nrg/job/Houston-Data-Science-Analyst-Agentic-AI-Developer-TX-77010/1441481900/?ats=successfactors",
+        "locations": [
+            "Houston, TX",
+            "Princeton, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NRG Energy",
+        "title": "Data Science Analyst - Agentic AI Developer",
+        "source": "vanshb03",
+        "id": "5fcf709b-b8fe-4973-bf28-1561f73c256f",
+        "date_posted": 1792698816,
+        "company_url": "",
+        "is_visible": true
     }
 ]
