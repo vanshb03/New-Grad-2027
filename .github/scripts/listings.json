@@ -18804,5 +18804,29 @@
         "date_posted": 1792698816,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792698816,
+        "url": "https://amazon.jobs/en/jobs/10583340/software-development-engineer-early-career-2027-us",
+        "locations": [
+            "Madison, WI",
+            "Boston, MA",
+            "Seattle, WA",
+            "Austin, TX",
+            "Detroit, MI",
+            "Santa Clara, CA",
+            "Arlington, VA",
+            "Minneapolis, MN",
+            "Denver, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "New Grad 2027: Software Engineer",
+        "source": "vanshb03",
+        "id": "4f3f0c85-c0c0-4cad-8bb4-5ba1be942c67",
+        "date_posted": 1792698816,
+        "company_url": "",
+        "is_visible": true
     }
 ]
