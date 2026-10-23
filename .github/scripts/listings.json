@@ -19299,5 +19299,21 @@
         "date_posted": 1792698816,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792732376,
+        "url": "https://careers-peraton.icims.com/jobs/172571/junior-data-engineer-%28etl-gis%29/job",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Peraton",
+        "title": "Junior Data Engineer, ETL/GIS",
+        "source": "vanshb03",
+        "id": "8a9f957e-de7f-4e29-b480-62732565832d",
+        "date_posted": 1792732376,
+        "company_url": "",
+        "is_visible": true
     }
 ]
