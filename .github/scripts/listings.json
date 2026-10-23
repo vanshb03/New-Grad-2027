@@ -18828,5 +18828,21 @@
         "date_posted": 1792698816,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792698816,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer--Bachelors-Degree--New-College-Grad--Santa-Clara-_R2630683",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Applied Materials",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "499b76d7-d35e-49cb-bfba-60541607ece9",
+        "date_posted": 1792698816,
+        "company_url": "",
+        "is_visible": true
     }
 ]
