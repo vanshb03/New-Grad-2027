@@ -19524,5 +19524,21 @@
         "date_posted": 1792732377,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792776556,
+        "url": "https://amat.wd1.myworkdayjobs.com/en-US/external/job/GloucesterMA/XMLNAME-2027-Software-Engineer-New-College-Grad--Bachelor-s----Gloucester--MA_R2625914",
+        "locations": [
+            "Gloucester, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Applied Materials",
+        "title": "New Grad 2027: Software Engineer",
+        "source": "vanshb03",
+        "id": "425deb2b-b893-44a1-a9a6-85c2a47ee171",
+        "date_posted": 1792776556,
+        "company_url": "",
+        "is_visible": true
     }
 ]
