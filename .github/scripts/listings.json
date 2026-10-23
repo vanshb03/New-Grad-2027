@@ -19134,5 +19134,21 @@
         "date_posted": 1792698816,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792698816,
+        "url": "https://job-boards.greenhouse.io/scopely/jobs/5456049008?gh_jid=5456049008",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Scopely",
+        "title": "Software Engineer, Machine Learning (Master's)",
+        "source": "vanshb03",
+        "id": "852b3ded-744d-4d77-b569-378851234d3b",
+        "date_posted": 1792698816,
+        "company_url": "",
+        "is_visible": true
     }
 ]
