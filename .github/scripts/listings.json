@@ -18909,5 +18909,21 @@
         "date_posted": 1792698816,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792698816,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Engineer---Software_R50645",
+        "locations": [
+            "Oshkosh, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Oshkosh",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "ff341c76-3534-455a-a445-fdb966ad6dbe",
+        "date_posted": 1792698816,
+        "company_url": "",
+        "is_visible": true
     }
 ]
