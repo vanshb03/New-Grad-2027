@@ -18740,5 +18740,21 @@
         "date_posted": 1792698816,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792698816,
+        "url": "https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Palantir",
+        "title": "Software Engineer, Query Engines",
+        "source": "vanshb03",
+        "id": "29a40488-8784-4195-bb6b-8c7281eb6c64",
+        "date_posted": 1792698816,
+        "company_url": "",
+        "is_visible": true
     }
 ]
