@@ -18861,5 +18861,21 @@
         "date_posted": 1792698816,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792698816,
+        "url": "https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/Conway/Associate-Solution-Developer_JR014611",
+        "locations": [
+            "Conway, AR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Acxiom",
+        "title": "Associate Solution Developer",
+        "source": "vanshb03",
+        "id": "5095ebcb-ddab-4dae-a371-8610037a7704",
+        "date_posted": 1792698816,
+        "company_url": "",
+        "is_visible": true
     }
 ]
