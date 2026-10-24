@@ -19758,5 +19758,21 @@
         "date_posted": 1792812025,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792812025,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/CAD-EDA-Tools-Software-Engineer_JR0288234-1",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intel",
+        "title": "Software Engineer, CAD/EDA Tools (Master's)",
+        "source": "vanshb03",
+        "id": "b4b01b2e-e9c8-4b1a-ab4f-c34163608670",
+        "date_posted": 1792812025,
+        "company_url": "",
+        "is_visible": true
     }
 ]
