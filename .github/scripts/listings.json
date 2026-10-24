@@ -19700,5 +19700,21 @@
         "date_posted": 1792812025,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792812025,
+        "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Technology--Application-Development--Full-Time-Analyst--New-York-or-New-Jersey---USA--2027_261004399-1",
+        "locations": [
+            "Jersey City, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citi",
+        "title": "New Grad 2027: Application Development Analyst",
+        "source": "vanshb03",
+        "id": "7086b73c-a4e4-4add-8dde-9e43570388e1",
+        "date_posted": 1792812025,
+        "company_url": "",
+        "is_visible": true
     }
 ]
