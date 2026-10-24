@@ -19668,5 +19668,21 @@
         "date_posted": 1792812025,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792812025,
+        "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Technology--Application-Development--Full-Time-Analyst--Mississauga--Canada--2027_261003395",
+        "locations": [
+            "Mississauga, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citi",
+        "title": "New Grad 2027: Application Development Technology Analyst",
+        "source": "vanshb03",
+        "id": "31c5359d-25af-4502-8940-abf05507a8a4",
+        "date_posted": 1792812025,
+        "company_url": "",
+        "is_visible": true
     }
 ]
