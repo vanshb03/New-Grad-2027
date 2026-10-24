@@ -19732,5 +19732,31 @@
         "date_posted": 1792812025,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792812025,
+        "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/Arlington-VA/University---Data-Scientist_R0252257",
+        "locations": [
+            "Honolulu, HI",
+            "Annapolis Junction, MD",
+            "Colorado Springs, CO",
+            "Arlington, VA",
+            "Rome, NY",
+            "Panama City, FL",
+            "Charleston, SC",
+            "Atlanta, GA",
+            "Huntsville, AL",
+            "San Diego, CA",
+            "El Segundo, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Booz Allen",
+        "title": "New Grad 2027: Data Scientist",
+        "source": "vanshb03",
+        "id": "f43db7fe-971d-48b6-a6fe-358f2da4ab47",
+        "date_posted": 1792812025,
+        "company_url": "",
+        "is_visible": true
     }
 ]
