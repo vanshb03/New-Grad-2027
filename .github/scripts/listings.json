@@ -19684,5 +19684,21 @@
         "date_posted": 1792812025,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792812025,
+        "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Technology--Application-Development--Full-Time-Analyst--Irving---USA--2027_261004387",
+        "locations": [
+            "Irving, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citi",
+        "title": "New Grad 2027: Technology Analyst, Application Development",
+        "source": "vanshb03",
+        "id": "4978bded-4d9c-44a1-916f-c4c11c637089",
+        "date_posted": 1792812025,
+        "company_url": "",
+        "is_visible": true
     }
 ]
