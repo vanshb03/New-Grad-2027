@@ -19604,5 +19604,21 @@
         "date_posted": 1792812025,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792812025,
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Vancouver/Associate-Engineer---SDK-and-Tools-Development_R266973-1",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Analog Devices",
+        "title": "Associate Engineer, SDK and Tools Development",
+        "source": "vanshb03",
+        "id": "0155f6b4-607e-4b5b-91ce-2ec396473d29",
+        "date_posted": 1792812025,
+        "company_url": "",
+        "is_visible": true
     }
 ]
