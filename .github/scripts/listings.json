@@ -19652,5 +19652,21 @@
         "date_posted": 1792812025,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792812025,
+        "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Jacksonville---USA--2027_261004412",
+        "locations": [
+            "Jacksonville, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citi",
+        "title": "New Grad 2027: Software Developer, Application Development",
+        "source": "vanshb03",
+        "id": "c319f6eb-eccd-4fb2-becb-86223888c1e5",
+        "date_posted": 1792812025,
+        "company_url": "",
+        "is_visible": true
     }
 ]
