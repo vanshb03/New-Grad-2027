@@ -19716,5 +19716,21 @@
         "date_posted": 1792812025,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792812025,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026526418-1",
+        "locations": [
+            "Maryland Heights, MO"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Boeing",
+        "title": "Entry-Level Software Engineer",
+        "source": "vanshb03",
+        "id": "6a7b33a7-6242-40ec-9994-3bc342d771d8",
+        "date_posted": 1792812025,
+        "company_url": "",
+        "is_visible": true
     }
 ]
