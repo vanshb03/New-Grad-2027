@@ -62,7 +62,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Applied Materials** | Software Engineer (Master's) | Chandler, AZ | <a href="https://amat.wd1.myworkdayjobs.com/External/job/ChandlerAZ/Software-Engineer--New-College-Grad--Master-s--Chandler--AZ-_R2627911?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | **Amazon** | New Grad 2027: Software Development Engineer 1, Annapurna Labs | Seattle, WA</br>Austin, TX</br>Cupertino, CA | <a href="https://amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | **Xaira Therapeutics** | Robotics Systems & Simulation Engineer | South San Francisco, CA | <a href="https://job-boards.greenhouse.io/xairatherapeutics/jobs/5255784007?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
-| **Wellmark** | Data Wrangler | Des Moines, IA | <a href="https://jobs.smartrecruiters.com/WellmarkInc/744000156421724?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | **Verily** | Cloud Engineer | Raleigh, NC | <a href="https://verily.wd1.myworkdayjobs.com/en-US/verily_careers/job/Raleigh-North-Carolina/ATLAS-Software-Engineer_REQ-330?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | **Thorlabs** | Data Analyst 1 | Newton, NJ | <a href="https://apply.workable.com/thorlabs/j/B3CD05F790/apply?utm_source=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | **Scopely** | Software Engineer, Machine Learning (Master's) | San Francisco, CA | <a href="https://job-boards.greenhouse.io/scopely/jobs/5456049008?gh_jid=5456049008&utm_source=vansh&ref=vansh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
@@ -341,6 +340,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Guidehouse** | New Grad 2027: Technical Associate Application Developer | Chicago, IL | 🔒 | Oct 23 |
 | **Boeing** | Software Engineer 🇺🇸 | Maryland Heights, MO</br>Hazelwood, MO | 🔒 | Oct 23 |
 | **Autostore** | Software Engineer | Atlanta, GA | 🔒 | Oct 23 |
+| **Wellmark** | Data Wrangler | Des Moines, IA | 🔒 | Oct 22 |
 | **ResMed** | Associate Android Developer | San Diego, CA | 🔒 | Oct 22 |
 | **Motorola Solutions** | Junior Software QA Engineer | Remote | 🔒 | Oct 22 |
 | **Motorola Solutions** | Embedded Software Engineer | Allen, TX | 🔒 | Oct 22 |
