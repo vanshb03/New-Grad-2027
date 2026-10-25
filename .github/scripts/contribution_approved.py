@@ -7,6 +7,9 @@ from datetime import datetime
 import os
 import util
 import re
+import golinks
+
+REPO = "newgrad"  # this repo's name at go.vansh.nyc
 
 
 def add_https_to_url(url):
@@ -95,11 +98,18 @@ def main():
     with open(".github/scripts/listings.json", "r") as f:
         listings = json.load(f)
 
+    # Listings hold go.vansh.nyc links; an issue holds the real URL. Match it through the Worker.
+    try:
+        submitted = golinks.urls_for(data["url"])
+    except Exception as e:
+        util.fail(f"Couldn't reach go.vansh.nyc ({e}). Remove and re-add the approved label to try again.")
+
     listing_to_update = next(
-        (item for item in listings if item["url"] == data["url"]), None)
+        (item for item in listings if item["url"] in submitted), None)
     if listing_to_update:
         if new_role:
             util.fail("This role is already in our list. See CONTRIBUTING.md for how to edit a listing")
+        data["url"] = listing_to_update["url"]  # keeps its go link
         for key, value in data.items():
             listing_to_update[key] = value
         
@@ -107,6 +117,10 @@ def main():
     else:
         if edit_role:
             util.fail("We could not find this role in our list. Please double check you inserted the right url")
+        try:
+            data["url"] = golinks.link(data["id"], data["url"], REPO)
+        except Exception as e:
+            util.fail(f"Couldn't make a go.vansh.nyc link ({e}). Remove and re-add the approved label to try again.")
         listings.append(data)
         util.setOutput("commit_message", "added listing: " + data["title"] + " at " + data["company_name"])
 

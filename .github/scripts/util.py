@@ -34,11 +34,7 @@ def getSponsorship(listing):
 def getLink(listing):
     if not listing["active"]:
         return "🔒"
-    link = listing["url"] 
-    if "?" not in link:
-        link += "?utm_source=vansh"
-    else:
-        link += "&utm_source=vansh&ref=vansh"
+    link = listing["url"]
     # return f'<a href="{link}" style="display: inline-block;"><img src="{SHORT_APPLY_BUTTON}" width="160" alt="Apply"></a>'
 
     if listing["source"] != "vansh":
