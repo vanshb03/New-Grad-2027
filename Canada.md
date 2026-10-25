@@ -44,21 +44,21 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
-| **Citi** | New Grad 2027: Application Development Technology Analyst | Mississauga, Canada | <a href="https://go.vansh.nyc/Bs"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
-| **Analog Devices** | Associate Engineer, SDK and Tools Development | Vancouver, Canada | <a href="https://go.vansh.nyc/Bo"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
-| **Capital One** | Associate Software Engineer, Card Expansion | Toronto, Canada | <a href="https://go.vansh.nyc/Bl"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
-| **Amazon** | Data Engineer | Toronto, Canada | <a href="https://go.vansh.nyc/Bh"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
-| **Cisco** | Software Developer, Embedded Systems I | <details><summary>**6 locations**</summary>Kanata, Canada</br>Laurent, Canada</br>Calgary, Canada</br>Montreal, Canada</br>Vancouver, Canada</br>Ottawa, Canada</details> | <a href="https://go.vansh.nyc/B4"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
-| **Cenovus Energy** | New Grad 2027: Process Data Solutions | Calgary, Canada | <a href="https://go.vansh.nyc/AI"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
-| **Amazon** | New Grad 2027: Software Development Engineer | Vancouver, Canada | <a href="https://go.vansh.nyc/B2"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
-| **Quadient** | Software Engineer | Vancouver, Canada | <a href="https://go.vansh.nyc/vj"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
-| **Tripadvisor** | Android Engineer | Ottawa, Canada | <a href="https://go.vansh.nyc/sO"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
-| **Stripe** | Software Engineer - New Grad | Toronto, ON, Canada | <a href="https://go.vansh.nyc/rp"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
-| **Qualcomm Canada ULC** | CPU Software Telemetry Tools Developer | Markham, Canada | <a href="https://go.vansh.nyc/qi"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
-| **Global Relay** | Junior Software Developer Engineer in Test - C# | Vancouver, BC, Canada | <a href="https://go.vansh.nyc/oK"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
-| **Tower Research Capital** | New Grad: C++ Software Engineer, MTL | Montreal, Canada | <a href="https://go.vansh.nyc/j2"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 03 |
-| **Oracle** | Software Developer | Remote</br>Canada | <a href="https://go.vansh.nyc/iS"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 19 |
-| **Oracle** | Software Developer - Rotational Program - NetSuite | Kitchiner, Canada | <a href="https://go.vansh.nyc/iR"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 19 |
+| **Citi** | New Grad 2027: Application Development Technology Analyst | Mississauga, Canada | <a href="https://go.vansh.nyc/Bs?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
+| **Analog Devices** | Associate Engineer, SDK and Tools Development | Vancouver, Canada | <a href="https://go.vansh.nyc/Bo?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
+| **Capital One** | Associate Software Engineer, Card Expansion | Toronto, Canada | <a href="https://go.vansh.nyc/Bl?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
+| **Amazon** | Data Engineer | Toronto, Canada | <a href="https://go.vansh.nyc/Bh?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
+| **Cisco** | Software Developer, Embedded Systems I | <details><summary>**6 locations**</summary>Kanata, Canada</br>Laurent, Canada</br>Calgary, Canada</br>Montreal, Canada</br>Vancouver, Canada</br>Ottawa, Canada</details> | <a href="https://go.vansh.nyc/B4?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
+| **Cenovus Energy** | New Grad 2027: Process Data Solutions | Calgary, Canada | <a href="https://go.vansh.nyc/AI?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
+| **Amazon** | New Grad 2027: Software Development Engineer | Vancouver, Canada | <a href="https://go.vansh.nyc/B2?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
+| **Quadient** | Software Engineer | Vancouver, Canada | <a href="https://go.vansh.nyc/vj?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
+| **Tripadvisor** | Android Engineer | Ottawa, Canada | <a href="https://go.vansh.nyc/sO?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
+| **Stripe** | Software Engineer - New Grad | Toronto, ON, Canada | <a href="https://go.vansh.nyc/rp?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
+| **Qualcomm Canada ULC** | CPU Software Telemetry Tools Developer | Markham, Canada | <a href="https://go.vansh.nyc/qi?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
+| **Global Relay** | Junior Software Developer Engineer in Test - C# | Vancouver, BC, Canada | <a href="https://go.vansh.nyc/oK?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
+| **Tower Research Capital** | New Grad: C++ Software Engineer, MTL | Montreal, Canada | <a href="https://go.vansh.nyc/j2?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 03 |
+| **Oracle** | Software Developer | Remote</br>Canada | <a href="https://go.vansh.nyc/iS?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 19 |
+| **Oracle** | Software Developer - Rotational Program - NetSuite | Kitchiner, Canada | <a href="https://go.vansh.nyc/iR?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 19 |
 | **Cohere** | Member of Technical Staff, MLE | <details><summary>**5 locations**</summary>San Francisco, CA</br>New York, NY</br>Toronto, Canada</br>Montreal, Canada</br>Remote</details> | 🔒 | Jan 09 |
 | **Magical** | New Grad: Junior Software Engineer, AI | San Francisco, CA</br>Toronto, Canada | 🔒 | Dec 12 |
 | **Wanderlog** | Full-Stack Software Engineer 🇺🇸 | Toronto, Canada</br>Remote | 🔒 | Dec 09 |
