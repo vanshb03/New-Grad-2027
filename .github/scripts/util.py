@@ -1,3 +1,4 @@
+import re
 import json
 
 from datetime import date, datetime, timezone, timedelta
@@ -31,10 +32,18 @@ def getSponsorship(listing):
         return " 🇺🇸"
     return ""
 
-def getLink(listing):
+# Each page's code on go.vansh.nyc (sources table in jobbots/golinks), so a click from the page is
+# counted as coming from it. listings.json keeps the bare go link; only the pages carry ?s=.
+README_SOURCE, CANADA_SOURCE = "A", "B"
+GO_LINK = re.compile(r"^https://go\.vansh\.nyc/[0-9A-Za-z]{1,6}$")
+
+
+def getLink(listing, source=None):
     if not listing["active"]:
         return "🔒"
     link = listing["url"]
+    if source and GO_LINK.match(link):
+        link += "?s=" + source
     # return f'<a href="{link}" style="display: inline-block;"><img src="{SHORT_APPLY_BUTTON}" width="160" alt="Apply"></a>'
 
     if listing["source"] != "vansh":
@@ -43,7 +52,7 @@ def getLink(listing):
     return f'<a href="{link}"><img src="{LONG_APPLY_BUTTON}" width="118" alt="Apply"></a>'
  
 
-def create_md_table(listings):
+def create_md_table(listings, source=None):
     table = ""
     table += "| Company | Role | Location | Application/Link | Date Posted |\n"
     table += "| --- | --- | --- | :---: | :---: |\n"
@@ -54,7 +63,7 @@ def create_md_table(listings):
             company_url) > 0 and listing["active"] else company
         location = getLocations(listing)
         position = listing["title"] + getSponsorship(listing)
-        link = getLink(listing)
+        link = getLink(listing, source)
         month = datetime.fromtimestamp(listing["date_posted"]).strftime('%b')
         dayMonth = datetime.fromtimestamp(listing["date_posted"]).strftime('%b %d')
         isBeforeJuly18 = datetime.fromtimestamp(listing["date_posted"]) < datetime(2023, 7, 18, 0, 0, 0)
@@ -102,7 +111,7 @@ def embedTable(listings):
                     newText += line
                     if "TABLE_START" in line:
                         readingTable = True
-                        newText += "\n" + create_md_table(canada_listings) + "\n"
+                        newText += "\n" + create_md_table(canada_listings, CANADA_SOURCE) + "\n"
         with open(filepath, "w") as f:
             f.write(newText)
 
@@ -121,7 +130,7 @@ def embedTable(listings):
                 newText += line
                 if "TABLE_START" in line:
                     readingTable = True
-                    newText += "\n" + create_md_table(other_listings) + "\n"
+                    newText += "\n" + create_md_table(other_listings, README_SOURCE) + "\n"
     with open(filepath, "w") as f:
         f.write(newText)
 
