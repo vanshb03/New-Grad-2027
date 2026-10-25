@@ -6587,14 +6587,14 @@
         "sponsorship": "U.S. Citizenship is Required"
     },
     {
-        "date_updated": 1755113970,
+        "date_updated": 1792917560,
         "url": "https://go.vansh.nyc/oy",
         "company_name": "Trexquant",
         "title": "Quantitative Researcher",
         "locations": [
             "Stamford, CT"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "b884b542-124d-48c2-ac9b-24ea06aec70c",
         "date_posted": 1755113970,
@@ -6635,14 +6635,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1755113970,
+        "date_updated": 1792917560,
         "url": "https://go.vansh.nyc/oB",
         "company_name": "Trexquant",
         "title": "Quantitative Researcher - Early Career",
         "locations": [
             "Stamford, CT"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "c77beea7-13ef-4e3e-940e-ad734812c168",
         "date_posted": 1755113970,
@@ -7103,14 +7103,14 @@
         "sponsorship": "Does Not Offer Sponsorship"
     },
     {
-        "date_updated": 1755113970,
+        "date_updated": 1792917560,
         "url": "https://go.vansh.nyc/p4",
         "company_name": "SciTec",
         "title": "Associate / Staff Mission Data Analyst",
         "locations": [
             "Boulder, CO"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "2184fbcb-b496-4164-914a-29ab679015d2",
         "date_posted": 1755113970,
@@ -8048,14 +8048,14 @@
         "sponsorship": "Offers Sponsorship"
     },
     {
-        "date_updated": 1755437357,
+        "date_updated": 1792917560,
         "url": "https://go.vansh.nyc/q0",
         "company_name": "qode.world",
         "title": "Junior Software Developer",
         "locations": [
             "NJ"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "7aee39c5-1b93-4696-9cd5-cef9c161d16b",
         "date_posted": 1755437357,
@@ -9900,7 +9900,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1757068097,
+        "date_updated": 1792917560,
         "url": "https://go.vansh.nyc/rP",
         "company_name": "qode.world",
         "title": "Junior Data Scientist",
@@ -9909,7 +9909,7 @@
             "Jackson Township, NJ",
             "Dallas, TX"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "6bd56948-4d8e-4ad0-884e-d20bf74a0d80",
         "date_posted": 1757068097,
@@ -10403,14 +10403,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1757306633,
+        "date_updated": 1792917560,
         "url": "https://go.vansh.nyc/sk",
         "company_name": "Eluvio",
         "title": "New Grad: Software Engineer, AI Core Apps",
         "locations": [
             "Berkeley, CA"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "463576e8-f5a1-4c8f-bfce-43c8f942949a",
         "date_posted": 1757306633,
@@ -11366,14 +11366,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1757670431,
+        "date_updated": 1792917560,
         "url": "https://go.vansh.nyc/th",
         "company_name": "Thorlabs",
         "title": "Software Engineer I",
         "locations": [
             "Annapolis Junction, MD"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "44acf3c6-0df4-43bb-a233-ce8b9d2147f7",
         "date_posted": 1757670431,
