@@ -19007,13 +19007,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1792698816,
+        "date_updated": 1792916221,
         "url": "https://careers.jhuapl.edu/jobs/60586?icims=1",
         "locations": [
             "Laurel, MD"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "title": "New Grad 2027: Software Engineer, Applications, Analysis, and Services Group",
         "source": "vanshb03",
