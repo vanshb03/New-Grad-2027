@@ -279,7 +279,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Johns Hopkins Applied Physics Laboratory** | New Grad 2027: Systems & Software Engineer, Multi-Domain Mission Planning Development 🇺🇸 | Laurel, MD | <a href="https://go.vansh.nyc/NQ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 04 |
 | **DoorDash** | New Grad 2027: Software Engineer I | <details><summary>**5 locations**</summary>Los Angeles, CA</br>New York, NY</br>San Francisco, CA</br>Sunnyvale, CA</br>Seattle, WA</details> | <a href="https://go.vansh.nyc/Nh?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 04 |
 | **Applied Intuition** | New Grad 2027: Cybersecurity Software Engineer | Sunnyvale, CA | <a href="https://go.vansh.nyc/O8?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 04 |
-| **Terra Norbital Corporation** | Associate Flight Software Test & Tools Engineer 🇺🇸 | Irvine, CA | <a href="https://go.vansh.nyc/Oe?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
 | **Johns Hopkins Applied Physics Laboratory** | New Grad 2027: Software Development - AI | Laurel, MD | <a href="https://go.vansh.nyc/NO?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
 | **Johns Hopkins Applied Physics Laboratory** | New Grad 2027: Graduate - Multiple Teams | Laurel, MD | <a href="https://go.vansh.nyc/NP?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
 | **Demiurge Studios** | New Grad 2027: Associate Software Engineer | Remote | <a href="https://go.vansh.nyc/Ob?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
@@ -627,6 +626,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Citi** | Angular Developer / Frontend Engineer | Irving, TX | 🔒 | Oct 22 |
 | **Cisco** | Attack Surface Management Security Engineer I | Research Triangle Park, NC | 🔒 | Oct 22 |
 | **Mastercard** | New Grad 2027: AI Engineer 1 - Launch Program | O'Fallon, MO | 🔒 | Oct 16 |
+| **Terra Norbital Corporation** | Associate Flight Software Test & Tools Engineer 🇺🇸 | Irvine, CA | 🔒 | Sep 03 |
 | **Quora** | New Grad: Software Engineer | Remote | 🔒 | Aug 05 |
 | **Woven** | Software Engineer, Analysis/Tool | Ann Arbor, MI | 🔒 | Jul 31 |
 | **Reverb** | Software Engineer, Shipping | Chicago, IL | 🔒 | Jul 31 |
