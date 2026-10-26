@@ -18726,13 +18726,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1792698816,
+        "date_updated": 1792988050,
         "url": "https://go.vansh.nyc/Ay",
         "locations": [
             "Linthicum, MD"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Northrop Grumman",
         "title": "New Grad 2027: Associate/Software Engineer Pathways",
         "source": "vanshb03",
@@ -19248,7 +19248,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1792698816,
+        "date_updated": 1792988050,
         "url": "https://go.vansh.nyc/B4",
         "locations": [
             "Kanata, Canada",
@@ -19259,7 +19259,7 @@
             "Ottawa, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cisco",
         "title": "Software Developer, Embedded Systems I",
         "source": "vanshb03",
