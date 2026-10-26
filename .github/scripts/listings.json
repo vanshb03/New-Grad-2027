@@ -24806,5 +24806,37 @@
         "date_posted": 1793047693,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793054515,
+        "url": "https://go.vansh.nyc/Td",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Manulife Financial",
+        "title": "New Grad 2027: GRO Program, Data",
+        "source": "vanshb03",
+        "id": "4cf8f6e6-9e59-4343-9f71-1cc597e6c746",
+        "date_posted": 1792972800,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793054515,
+        "url": "https://go.vansh.nyc/Te",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Applied Materials",
+        "title": "Algorithm Developer (Master's)",
+        "source": "vanshb03",
+        "id": "074842df-4265-4ab2-bfd9-69993d3622df",
+        "date_posted": 1792972800,
+        "company_url": "",
+        "is_visible": true
     }
 ]
