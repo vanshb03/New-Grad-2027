@@ -19774,5 +19774,53 @@
         "date_posted": 1792812025,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792973552,
+        "url": "https://go.vansh.nyc/BI",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ServiceNow",
+        "title": "Associate Software Engineer",
+        "source": "vanshb03",
+        "id": "3233f8eb-5790-456d-933a-2f15328733fb",
+        "date_posted": 1792973552,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1792973552,
+        "url": "https://go.vansh.nyc/BJ",
+        "locations": [
+            "Hawthorne, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SpaceX",
+        "title": "AI Software Engineer, Vehicle Engineering",
+        "source": "vanshb03",
+        "id": "13741c07-6081-4258-b11e-613072dd59f2",
+        "date_posted": 1792973552,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1792973552,
+        "url": "https://go.vansh.nyc/BK",
+        "locations": [
+            "Markham, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "General Motors",
+        "title": "New Grad 2027: Software Test Developer, Propulsion Thermal Management",
+        "source": "vanshb03",
+        "id": "15f165d7-53c8-4a9d-adb7-946fdefd6fe2",
+        "date_posted": 1792973552,
+        "company_url": "",
+        "is_visible": true
     }
 ]
