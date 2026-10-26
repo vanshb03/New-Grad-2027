@@ -18846,14 +18846,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1792698816,
+        "date_updated": 1793024667,
         "url": "https://go.vansh.nyc/AF",
         "locations": [
             "Houston, TX",
             "Princeton, NJ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NRG Energy",
         "title": "Data Science Analyst - Agentic AI Developer",
         "source": "vanshb03",
