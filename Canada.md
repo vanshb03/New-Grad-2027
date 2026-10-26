@@ -44,6 +44,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **General Motors** | New Grad 2027: Software Test Developer, Propulsion Thermal Management | Markham, Canada | <a href="https://go.vansh.nyc/BK?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | **Citi** | New Grad 2027: Application Development Technology Analyst | Mississauga, Canada | <a href="https://go.vansh.nyc/Bs?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | **Analog Devices** | Associate Engineer, SDK and Tools Development | Vancouver, Canada | <a href="https://go.vansh.nyc/Bo?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | **Capital One** | Associate Software Engineer, Card Expansion | Toronto, Canada | <a href="https://go.vansh.nyc/Bl?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |

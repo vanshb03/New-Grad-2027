@@ -41,6 +41,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **SpaceX** | AI Software Engineer, Vehicle Engineering | Hawthorne, CA | <a href="https://go.vansh.nyc/BJ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
+| **ServiceNow** | Associate Software Engineer | Santa Clara, CA | <a href="https://go.vansh.nyc/BI?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | **ServiceNow** | Associate Software Engineer | Santa Clara, CA | <a href="https://go.vansh.nyc/Bn?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | **Intel** | Software Engineer, CAD/EDA Tools (Master's) | Hillsboro, OR | <a href="https://go.vansh.nyc/Bx?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | **Citi** | New Grad 2027: Technology, Production Support Analyst | New York, NY | <a href="https://go.vansh.nyc/Bm?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
