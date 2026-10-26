@@ -19822,5 +19822,37 @@
         "date_posted": 1792973552,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793009686,
+        "url": "https://go.vansh.nyc/BW",
+        "locations": [
+            "Lewisville, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Prime Controls",
+        "title": "Enterprise Automation Developer",
+        "source": "vanshb03",
+        "id": "c93554a9-4368-44df-9c4c-aa9104ff2cee",
+        "date_posted": 1792728000,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793009686,
+        "url": "https://go.vansh.nyc/BX",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Affirm",
+        "title": "New Grad 2027: Software Engineer I, Instruments",
+        "source": "vanshb03",
+        "id": "d1a4e0b1-cbb1-4046-90d5-c7945e8bfea3",
+        "date_posted": 1791794592,
+        "company_url": "",
+        "is_visible": true
     }
 ]
