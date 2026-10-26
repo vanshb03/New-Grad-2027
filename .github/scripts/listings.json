@@ -20209,13 +20209,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793014740,
+        "date_updated": 1793031139,
         "url": "https://go.vansh.nyc/DA",
         "locations": [
             "O'Fallon, MO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Mastercard",
         "title": "New Grad 2027: AI Engineer 1 - Launch Program",
         "source": "vanshb03",
