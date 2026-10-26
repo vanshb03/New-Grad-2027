@@ -65,6 +65,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **General Dynamics Mission Systems** | Junior Hardware Engineering Developer, FPGA | Ottawa, Canada | <a href="https://go.vansh.nyc/Oa?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 04 |
 | **General Dynamics UK** | Junior Hardware Engineer Developer, FPGA | Ottawa, Canada | <a href="https://go.vansh.nyc/NN?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
 | **Zip** | New Grad 2027: Software Engineer | Toronto, Canada | <a href="https://go.vansh.nyc/Np?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
+| **Cerebras** | DevOps Engineer | Toronto, Canada | <a href="https://go.vansh.nyc/OU?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
+| **Ciena** | Embedded Software Engineer | Ottawa, Canada | <a href="https://go.vansh.nyc/Pi?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 24 |
 | **Quadient** | Software Engineer | Vancouver, Canada | <a href="https://go.vansh.nyc/vj?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | **Tripadvisor** | Android Engineer | Ottawa, Canada | <a href="https://go.vansh.nyc/sO?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
 | **Stripe** | Software Engineer - New Grad | Toronto, ON, Canada | <a href="https://go.vansh.nyc/rp?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
