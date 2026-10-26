@@ -24774,5 +24774,21 @@
         "date_posted": 1787267764,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793036494,
+        "url": "https://go.vansh.nyc/SP",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ciena",
+        "title": "Software Engineer (Security)",
+        "source": "vanshb03",
+        "id": "26079395-d113-43b7-8907-ed1573602efa",
+        "date_posted": 1793035575,
+        "company_url": "",
+        "is_visible": true
     }
 ]
