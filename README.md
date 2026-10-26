@@ -96,7 +96,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Faraday Future** | SDK Platform Engineer | El Segundo, CA | <a href="https://go.vansh.nyc/DB?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | **AnySignal** | Associate Embedded Software Engineer 🇺🇸 | Los Angeles, CA | <a href="https://go.vansh.nyc/DD?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | **TikTok** | New Grad 2027: Backend Engineer, Account | San Jose, CA | <a href="https://go.vansh.nyc/DC?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
-| **Mastercard** | New Grad 2027: AI Engineer 1 - Launch Program | O'Fallon, MO | <a href="https://go.vansh.nyc/DA?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
 | **Barrios** | Software Engineer, Space Operations Computing 🇺🇸 | Houston, TX | <a href="https://go.vansh.nyc/DK?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
 | **VAST Data** | Software Engineer, V-Force | New York, NY | <a href="https://go.vansh.nyc/DF?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | **TikTok** | New Grad 2027: Backend Engineer, Social Foundation | San Jose, CA | <a href="https://go.vansh.nyc/Dw?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
@@ -627,6 +626,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Johns Hopkins Applied Physics Laboratory** | New Grad 2027: Software Engineer, Applications, Analysis, and Services Group | Laurel, MD | 🔒 | Oct 22 |
 | **Citi** | Angular Developer / Frontend Engineer | Irving, TX | 🔒 | Oct 22 |
 | **Cisco** | Attack Surface Management Security Engineer I | Research Triangle Park, NC | 🔒 | Oct 22 |
+| **Mastercard** | New Grad 2027: AI Engineer 1 - Launch Program | O'Fallon, MO | 🔒 | Oct 16 |
 | **Quora** | New Grad: Software Engineer | Remote | 🔒 | Aug 05 |
 | **Woven** | Software Engineer, Analysis/Tool | Ann Arbor, MI | 🔒 | Jul 31 |
 | **Reverb** | Software Engineer, Shipping | Chicago, IL | 🔒 | Jul 31 |
