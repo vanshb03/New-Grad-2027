@@ -19088,13 +19088,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1792698816,
+        "date_updated": 1793032981,
         "url": "https://go.vansh.nyc/AU",
         "locations": [
             "Cedar Rapids, IA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Raytheon Technologies",
         "title": "Software Engineer I",
         "source": "vanshb03",
