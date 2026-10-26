@@ -19808,13 +19808,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1792973552,
+        "date_updated": 1793014761,
         "url": "https://go.vansh.nyc/BK",
         "locations": [
             "Markham, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "General Motors",
         "title": "New Grad 2027: Software Test Developer, Propulsion Thermal Management",
         "source": "vanshb03",
@@ -19852,6 +19852,583 @@
         "source": "vanshb03",
         "id": "d1a4e0b1-cbb1-4046-90d5-c7945e8bfea3",
         "date_posted": 1791794592,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793014740,
+        "url": "https://go.vansh.nyc/De",
+        "locations": [
+            "Boise, ID"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Micron Technology",
+        "title": "Computer Engineer, Central Engineering",
+        "source": "vanshb03",
+        "id": "8dde1ec1-3b71-4134-bab7-77cf9557c974",
+        "date_posted": 1792022400,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793014740,
+        "url": "https://go.vansh.nyc/Df",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "New Grad 2027: SoC Software Engineer",
+        "source": "vanshb03",
+        "id": "9f0b23c5-433e-4f30-a814-2329b3d45cbe",
+        "date_posted": 1791936000,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793014740,
+        "url": "https://go.vansh.nyc/Dg",
+        "locations": [
+            "Charter Manufacturing Company, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Charter Manufacturing",
+        "title": "New Grad 2027: Digital Rotational Analyst",
+        "source": "vanshb03",
+        "id": "19b51d40-2833-4105-970b-808f87311743",
+        "date_posted": 1791763200,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793014740,
+        "url": "https://go.vansh.nyc/Dh",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2027: Research Scientist Graduate",
+        "source": "vanshb03",
+        "id": "e867830e-bf62-4510-b37e-bbe30e9aa217",
+        "date_posted": 1791854064,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793014740,
+        "url": "https://go.vansh.nyc/Di",
+        "locations": [
+            "Berkeley Heights, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Axtria",
+        "title": "New Grad 2027: AI & Data Associate",
+        "source": "vanshb03",
+        "id": "1ab7e972-653f-4189-a802-e4f3f1fb118d",
+        "date_posted": 1791900975,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793014740,
+        "url": "https://go.vansh.nyc/Dj",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KLA",
+        "title": "Software Engineer 1",
+        "source": "vanshb03",
+        "id": "a2a80985-0f74-49ba-94fc-d8678d4914fd",
+        "date_posted": 1791849600,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793014740,
+        "url": "https://go.vansh.nyc/Dk",
+        "locations": [
+            "Cary, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CWILL",
+        "title": "Loyalty & Referrals R&D Trainee",
+        "source": "vanshb03",
+        "id": "ea50aea2-e1f8-4813-bde8-1e2e38be40b1",
+        "date_posted": 1791929828,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793014740,
+        "url": "https://go.vansh.nyc/Dl",
+        "locations": [
+            "Cary, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CWILL",
+        "title": "AI SEO R&D Trainee - Multiple Teams",
+        "source": "vanshb03",
+        "id": "1f464e65-94fe-45f5-884c-567120f2b1a9",
+        "date_posted": 1791929813,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793014740,
+        "url": "https://go.vansh.nyc/Dm",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "title": "New Grad 2027: Engineer/Analyst for ISRT and BMC2 Applications",
+        "source": "vanshb03",
+        "id": "74821be2-e5cb-493a-b17b-c40285425d9b",
+        "date_posted": 1791929471,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793014740,
+        "url": "https://go.vansh.nyc/Dn",
+        "locations": [
+            "South Jordan, UT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cricut",
+        "title": "Firmware Engineer",
+        "source": "vanshb03",
+        "id": "eb30710c-e314-4d17-b058-97fa889c7d09",
+        "date_posted": 1791929292,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793014740,
+        "url": "https://go.vansh.nyc/Do",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Astera Labs",
+        "title": "Digital Design Engineer",
+        "source": "vanshb03",
+        "id": "362098aa-0155-48d7-9438-90d9e18f15a1",
+        "date_posted": 1791929268,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793014740,
+        "url": "https://go.vansh.nyc/Dp",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "SRAM Circuit Design Engineer (Master's)",
+        "source": "vanshb03",
+        "id": "4a262ef5-5613-4c86-ad33-46fb074c4440",
+        "date_posted": 1791849600,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793014740,
+        "url": "https://go.vansh.nyc/Dq",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "New Grad 2027: ASIC Verification Engineer",
+        "source": "vanshb03",
+        "id": "6063a91b-42e9-44d9-9a3d-608399936c90",
+        "date_posted": 1791849600,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793014740,
+        "url": "https://go.vansh.nyc/Dr",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "SoC Software Engineer",
+        "source": "vanshb03",
+        "id": "68282084-085a-4d85-a9a9-b959b71dad8c",
+        "date_posted": 1791849600,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793014740,
+        "url": "https://go.vansh.nyc/Ds",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "New Grad 2027: Low Power ASIC Engineer",
+        "source": "vanshb03",
+        "id": "672e3b93-3ed7-4205-bf0b-c37d61ec8780",
+        "date_posted": 1791849600,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793014740,
+        "url": "https://go.vansh.nyc/Dt",
+        "locations": [
+            "Berkeley Heights, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Axtria",
+        "title": "New Grad 2027: Decision Intelligence Analyst",
+        "source": "vanshb03",
+        "id": "e51762ff-4341-4961-aab9-6e694779ed14",
+        "date_posted": 1791988605,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793014740,
+        "url": "https://go.vansh.nyc/Du",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Keysight Technologies",
+        "title": "R&D Software Engineer, Electronic Measurement Systems (Master's)",
+        "source": "vanshb03",
+        "id": "4abef5c1-65c9-46b0-9052-53b74d336aa1",
+        "date_posted": 1792016212,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793014740,
+        "url": "https://go.vansh.nyc/Dv",
+        "locations": [
+            "Troy Hills, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Avis Budget Group",
+        "title": "New Grad 2027: Deployed Transformation Engineer",
+        "source": "vanshb03",
+        "id": "ae52429f-235f-40c3-b885-d714d489cc3c",
+        "date_posted": 1791936000,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793014740,
+        "url": "https://go.vansh.nyc/Dw",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2027: Backend Engineer, Social Foundation",
+        "source": "vanshb03",
+        "id": "635594b8-a571-4462-8e09-b719f2d6e04b",
+        "date_posted": 1792058086,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793014740,
+        "url": "https://go.vansh.nyc/Dx",
+        "locations": [
+            "Remote",
+            "Remote, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Quora",
+        "title": "Machine Learning Engineer",
+        "source": "vanshb03",
+        "id": "b95c43d8-3e1c-45cd-b9d9-4d244d5cbcb9",
+        "date_posted": 1792102723,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793014740,
+        "url": "https://go.vansh.nyc/Dy",
+        "locations": [
+            "Oshkosh, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Oshkosh",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "e9947f02-a6c9-48ac-8ac2-22f148731fbc",
+        "date_posted": 1792022400,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793014740,
+        "url": "https://go.vansh.nyc/Dz",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Applied Materials",
+        "title": "Product Management 2 (Master's)",
+        "source": "vanshb03",
+        "id": "d536d331-481e-4145-b608-ec72eb8e6d9c",
+        "date_posted": 1792022400,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793014740,
+        "url": "https://go.vansh.nyc/DA",
+        "locations": [
+            "O'Fallon, MO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Mastercard",
+        "title": "New Grad 2027: AI Engineer 1 - Launch Program",
+        "source": "vanshb03",
+        "id": "723a24d8-c0f5-4c0c-98c4-ee7f5ec491a9",
+        "date_posted": 1792108800,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793014740,
+        "url": "https://go.vansh.nyc/DB",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Faraday Future",
+        "title": "SDK Platform Engineer",
+        "source": "vanshb03",
+        "id": "912807c0-25bc-4149-99e7-1e50b9c1a744",
+        "date_posted": 1792199187,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793014740,
+        "url": "https://go.vansh.nyc/DC",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2027: Backend Engineer, Account",
+        "source": "vanshb03",
+        "id": "609ef5e4-ad31-4317-bfa3-77b632e7e5ac",
+        "date_posted": 1792149791,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793014740,
+        "url": "https://go.vansh.nyc/DD",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "AnySignal",
+        "title": "Associate Embedded Software Engineer",
+        "source": "vanshb03",
+        "id": "586815ae-6642-4b03-a441-26311c0416e6",
+        "date_posted": 1792236191,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793014740,
+        "url": "https://go.vansh.nyc/DE",
+        "locations": [
+            "Boise, ID"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Micron Technology",
+        "title": "Embedded Firmware Engineer",
+        "source": "vanshb03",
+        "id": "83d629cb-854b-40f5-b694-b58811818bd5",
+        "date_posted": 1792063391,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793014740,
+        "url": "https://go.vansh.nyc/DF",
+        "locations": [
+            "New York City, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "VAST Data",
+        "title": "Software Engineer, V-Force",
+        "source": "vanshb03",
+        "id": "c59cc707-f62e-4890-b68f-2c0ebec66976",
+        "date_posted": 1792063391,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793014740,
+        "url": "https://go.vansh.nyc/DG",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KLA",
+        "title": "Software Engineer - Embedded Software/Firmware Development - Embedded Image Processing (Master's)",
+        "source": "vanshb03",
+        "id": "2541203b-4a3a-49a8-9544-4f31c9d39e0c",
+        "date_posted": 1791976991,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793014740,
+        "url": "https://go.vansh.nyc/DH",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Wolverine Trading",
+        "title": "New Grad 2027: Entry Level C++ Software Engineer",
+        "source": "vanshb03",
+        "id": "33731457-31e2-43b6-9c75-cfdadc3f8ffb",
+        "date_posted": 1791976991,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793014740,
+        "url": "https://go.vansh.nyc/DI",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Wolverine Trading",
+        "title": "Entry Level C++ Software Engineer",
+        "source": "vanshb03",
+        "id": "751e448c-68be-496f-bfdd-77a6d10c3fde",
+        "date_posted": 1791976991,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793014740,
+        "url": "https://go.vansh.nyc/DJ",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "New Grad 2027: Software Development Engineer",
+        "source": "vanshb03",
+        "id": "7b288fbb-c762-4f61-8c43-8019d867213c",
+        "date_posted": 1792368000,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793014740,
+        "url": "https://go.vansh.nyc/DK",
+        "locations": [
+            "Houston, TX"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Barrios",
+        "title": "Software Engineer, Space Operations Computing",
+        "source": "vanshb03",
+        "id": "dd70a576-4ed9-4927-9282-b31f6d890efa",
+        "date_posted": 1792123200,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793014740,
+        "url": "https://go.vansh.nyc/DL",
+        "locations": [
+            "Hybrid; San Francisco Bay Area, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Invisible Tech",
+        "title": "Data Scientist",
+        "source": "vanshb03",
+        "id": "c72a25e9-7378-46dc-9ea6-2a8fd3fd7526",
+        "date_posted": 1753371906,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793014740,
+        "url": "https://go.vansh.nyc/DM",
+        "locations": [
+            "Dublin, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rovisys",
+        "title": "New Grad 2027: Engineer/Developer",
+        "source": "vanshb03",
+        "id": "7c634960-12ae-4cef-870f-094038f36d4d",
+        "date_posted": 1791864000,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793014740,
+        "url": "https://go.vansh.nyc/DN",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Motorola Solutions",
+        "title": "Software Test Engineer",
+        "source": "vanshb03",
+        "id": "19fb59e3-45a8-4121-9d00-53830ff8c9b0",
+        "date_posted": 1791825406,
         "company_url": "",
         "is_visible": true
     }
