@@ -51,6 +51,13 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Cenovus Energy** | New Grad 2027: Process Data Solutions | Calgary, Canada | <a href="https://go.vansh.nyc/AI?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | **Amazon** | New Grad 2027: Software Development Engineer | Vancouver, Canada | <a href="https://go.vansh.nyc/B2?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | **Quora** | Machine Learning Engineer | Remote</br>Remote, Canada | <a href="https://go.vansh.nyc/Dx?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
+| **BDO Canada** | New Grad 2027: DevOps Engineer | Toronto, Canada | <a href="https://go.vansh.nyc/Hn?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
+| **Motorola** | Junior Software Engineer, AI Agent Platform | Remote, Canada | <a href="https://go.vansh.nyc/HF?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
+| **Fellow Insights** | New Grad 2027: Software Engineer | Ottawa, Canada | <a href="https://go.vansh.nyc/If?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 04 |
+| **Harbor** | Junior Developer, Finance Systems | Remote</br>Remote, Canada | <a href="https://go.vansh.nyc/I7?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
+| **AMD** | Software System Designer | Markham, Canada | <a href="https://go.vansh.nyc/I5?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
+| **AMD** | Silicon Design Engineer | Markham, Canada | <a href="https://go.vansh.nyc/I6?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
+| **AMD** | RTL/Firmware Design Engineer | Markham, Canada | <a href="https://go.vansh.nyc/Hw?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
 | **Quadient** | Software Engineer | Vancouver, Canada | <a href="https://go.vansh.nyc/vj?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | **Tripadvisor** | Android Engineer | Ottawa, Canada | <a href="https://go.vansh.nyc/sO?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
 | **Stripe** | Software Engineer - New Grad | Toronto, ON, Canada | <a href="https://go.vansh.nyc/rp?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
