@@ -71,7 +71,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Scopely** | Software Engineer, Machine Learning (Master's) | San Francisco, CA | <a href="https://go.vansh.nyc/AX?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | **SAIC** | Software Test Engineer | Point Mugu NAWC, CA | <a href="https://go.vansh.nyc/AK?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | **Rhoda AI** | Software Engineer - Rhoda Platform | Mountain View, CA | <a href="https://go.vansh.nyc/AN?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
-| **Raytheon Technologies** | Software Engineer I | Cedar Rapids, IA | <a href="https://go.vansh.nyc/AU?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | **Palantir** | Software Engineer, Query Engines | New York, NY | <a href="https://go.vansh.nyc/Az?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | **Oshkosh** | Software Engineer | Oshkosh, WI | <a href="https://go.vansh.nyc/AJ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | **NVIDIA** | Software Engineer, Agent Performance Modeling (Master's) | Santa Clara, CA | <a href="https://go.vansh.nyc/Aw?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
@@ -617,6 +616,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Autostore** | Software Engineer | Atlanta, GA | 🔒 | Oct 23 |
 | **Wellmark** | Data Wrangler | Des Moines, IA | 🔒 | Oct 22 |
 | **ResMed** | Associate Android Developer | San Diego, CA | 🔒 | Oct 22 |
+| **Raytheon Technologies** | Software Engineer I | Cedar Rapids, IA | 🔒 | Oct 22 |
 | **NRG Energy** | Data Science Analyst - Agentic AI Developer | Houston, TX</br>Princeton, NJ | 🔒 | Oct 22 |
 | **Northrop Grumman** | New Grad 2027: Associate/Software Engineer Pathways 🇺🇸 | Linthicum, MD | 🔒 | Oct 22 |
 | **Motorola Solutions** | Junior Software QA Engineer | Remote | 🔒 | Oct 22 |
