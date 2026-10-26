@@ -24790,5 +24790,21 @@
         "date_posted": 1793035575,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793049150,
+        "url": "https://go.vansh.nyc/T4",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "GDIT",
+        "title": "Cybersecurity Exercise Planner (Junior)",
+        "source": "vanshb03",
+        "id": "f82fe0e9-4621-4993-874b-bfede444e937",
+        "date_posted": 1793047693,
+        "company_url": "",
+        "is_visible": true
     }
 ]
