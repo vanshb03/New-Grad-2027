@@ -23725,13 +23725,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793025546,
+        "date_updated": 1793034777,
         "url": "https://go.vansh.nyc/Oe",
         "locations": [
             "Irvine, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Terra Norbital Corporation",
         "title": "Associate Flight Software Test & Tools Engineer",
         "source": "vanshb03",
