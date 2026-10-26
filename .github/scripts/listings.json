@@ -24838,5 +24838,21 @@
         "date_posted": 1792972800,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793056253,
+        "url": "https://go.vansh.nyc/Tj",
+        "locations": [
+            "Tulsa, OK"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "American Electric Power",
+        "title": "Data Scientist",
+        "source": "vanshb03",
+        "id": "1b9670cf-0a1d-44f5-9075-aa997e7b49cb",
+        "date_posted": 1792972800,
+        "company_url": "",
+        "is_visible": true
     }
 ]
