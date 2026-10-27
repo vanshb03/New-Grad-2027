@@ -26394,5 +26394,21 @@
         "date_posted": 1793099429,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793102970,
+        "url": "https://go.vansh.nyc/Vw",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "New Grad 2027: Associate Software Engineer / Software Engineer",
+        "source": "vanshb03",
+        "id": "abd1a870-00ac-4b82-b7c4-10d23ce9014c",
+        "date_posted": 1793059200,
+        "company_url": "",
+        "is_visible": true
     }
 ]
