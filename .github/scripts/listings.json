@@ -24854,5 +24854,21 @@
         "date_posted": 1792972800,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793059939,
+        "url": "https://go.vansh.nyc/Tl",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intel",
+        "title": "SoC Logic Design Engineer (Master's)",
+        "source": "vanshb03",
+        "id": "c665699d-663a-411d-9e3b-6207dc427bb4",
+        "date_posted": 1792972800,
+        "company_url": "",
+        "is_visible": true
     }
 ]
