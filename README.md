@@ -198,7 +198,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Apple** | Graphics Software Content Engineer | Orlando, FL | <a href="https://go.vansh.nyc/UJ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | **Wolverine Trading** | New Grad 2027: Entry Level C++ Software Engineer | Chicago, IL | <a href="https://go.vansh.nyc/DH?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | **Wolverine Trading** | Entry Level C++ Software Engineer | Chicago, IL | <a href="https://go.vansh.nyc/DI?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
-| **NVIDIA** | New Grad 2027: SoC Software Engineer | Santa Clara, CA | <a href="https://go.vansh.nyc/Df?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | **KLA** | Software Engineer - Embedded Software/Firmware Development - Embedded Image Processing (Master's) | Ann Arbor, MI | <a href="https://go.vansh.nyc/DG?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | **Keysight Technologies** | R&D Software Engineer, Electronic Measurement Systems (Master's) | Colorado Springs, CO | <a href="https://go.vansh.nyc/Du?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | **ElevenLabs** | Full-Stack Engineer (Backend Leaning), Platform Engineering | Remote | <a href="https://go.vansh.nyc/UV?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
@@ -706,6 +705,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Cisco** | Attack Surface Management Security Engineer I | Research Triangle Park, NC | 🔒 | Oct 22 |
 | **Mastercard** | New Grad 2027: AI Engineer 1 - Launch Program | O'Fallon, MO | 🔒 | Oct 16 |
 | **Barrios** | Software Engineer, Space Operations Computing 🇺🇸 | Houston, TX | 🔒 | Oct 16 |
+| **NVIDIA** | New Grad 2027: SoC Software Engineer | Santa Clara, CA | 🔒 | Oct 14 |
 | **Terra Norbital Corporation** | Associate Flight Software Test & Tools Engineer 🇺🇸 | Irvine, CA | 🔒 | Sep 03 |
 | **Quora** | New Grad: Software Engineer | Remote | 🔒 | Aug 05 |
 | **Woven** | Software Engineer, Analysis/Tool | Ann Arbor, MI | 🔒 | Jul 31 |
