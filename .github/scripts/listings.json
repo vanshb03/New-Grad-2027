@@ -24870,5 +24870,1142 @@
         "date_posted": 1792972800,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793063868,
+        "url": "https://go.vansh.nyc/Tn",
+        "locations": [
+            "Hillsboro, OR",
+            "Folsom, CA",
+            "Fort Collins, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intel",
+        "title": "SoC Design Verification Engineer (Master's)",
+        "source": "vanshb03",
+        "id": "a7c0cfc7-15b2-41a6-bd0f-ead0468a892c",
+        "date_posted": 1792627200,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063868,
+        "url": "https://go.vansh.nyc/To",
+        "locations": [
+            "Santa Clara, CA",
+            "Worcester, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intel",
+        "title": "IP Design Verification Engineer",
+        "source": "vanshb03",
+        "id": "2783f537-4ad2-4766-975d-c1db75bfc8e3",
+        "date_posted": 1792627200,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063868,
+        "url": "https://go.vansh.nyc/Tp",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Applied Intuition",
+        "title": "New Grad 2027: Research Engineer (Master's)",
+        "source": "vanshb03",
+        "id": "9f6db639-2509-4b25-b3e8-eb5789b1c4ba",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063868,
+        "url": "https://go.vansh.nyc/Tq",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Applied Intuition",
+        "title": "New Grad 2027: Embedded Software Engineer",
+        "source": "vanshb03",
+        "id": "9bf674f7-ee3d-4b71-a85f-970119cc40e3",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063868,
+        "url": "https://go.vansh.nyc/Tr",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Netic",
+        "title": "New Grad 2027: Full-Stack Software Engineer, Product",
+        "source": "vanshb03",
+        "id": "3d34b493-997e-4dba-84f1-241d060450d0",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063868,
+        "url": "https://go.vansh.nyc/Ts",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Netic",
+        "title": "New Grad 2027: Software Engineer, Agent Platform",
+        "source": "vanshb03",
+        "id": "2fc9b171-627c-4768-b7e4-c207703abec8",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063868,
+        "url": "https://go.vansh.nyc/Tt",
+        "locations": [
+            "Chicago, IL",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Old Mission",
+        "title": "New Grad 2027: Quantitative Trader (February Start)",
+        "source": "vanshb03",
+        "id": "e77558fc-655f-4792-8b29-7db6eb8a06fe",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063868,
+        "url": "https://go.vansh.nyc/Tu",
+        "locations": [
+            "Chicago, IL",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Old Mission",
+        "title": "New Grad 2027: Quantitative Trader (August Start)",
+        "source": "vanshb03",
+        "id": "cbe45986-20cc-44b8-9d1f-fcecfc9a91ab",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063868,
+        "url": "https://go.vansh.nyc/Tv",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Old Mission",
+        "title": "New Grad 2027: Software Engineer (August Start)",
+        "source": "vanshb03",
+        "id": "24e4f679-6480-4fe2-b987-e4f0272aeccb",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063868,
+        "url": "https://go.vansh.nyc/Tw",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ellipsis Labs",
+        "title": "New Grad 2027: Software Engineer",
+        "source": "vanshb03",
+        "id": "b0d319b2-6a2b-4267-bf2f-3f287a1fac59",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063868,
+        "url": "https://go.vansh.nyc/Tx",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pylon",
+        "title": "New Grad: Software Engineer",
+        "source": "vanshb03",
+        "id": "3573e0ad-8f75-49b9-807b-af222e1c4467",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063868,
+        "url": "https://go.vansh.nyc/Tz",
+        "locations": [
+            "Bala Cynwyd, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Susquehanna International Group",
+        "title": "New Grad 2027: Trading System Engineer",
+        "source": "vanshb03",
+        "id": "f411747e-965f-47c3-aafd-935627d39439",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/TA",
+        "locations": [
+            "Bala Cynwyd, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Susquehanna International Group",
+        "title": "New Grad 2027: Quantitative Strategy Developer",
+        "source": "vanshb03",
+        "id": "3ed1c618-9d8f-4a39-be09-9aec9e5fd99f",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/TB",
+        "locations": [
+            "Verdun, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bell Canada",
+        "title": "New Grad 2027: Technology Services, Delivery, Excellence & Architecture",
+        "source": "vanshb03",
+        "id": "3c0ae221-9b86-4a0f-b7b7-54450fdf15b0",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/TC",
+        "locations": [
+            "Verdun, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bell Canada",
+        "title": "New Grad 2027: Technology Services, Emerging AI and Data Solutions",
+        "source": "vanshb03",
+        "id": "94524f5e-3fde-4ebe-ab53-0e8218e0fbaf",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/TE",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "title": "New Grad 2027: Junior AI Platform Engineer",
+        "source": "vanshb03",
+        "id": "015fb76b-3aaf-424e-8e4e-b01d5aa8583d",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/TF",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "title": "New Grad 2027: Data Scientist; Computer Scientist; Engineer - Decision Systems",
+        "source": "vanshb03",
+        "id": "a64e2242-5e79-4c75-95a2-5783bc1906a4",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/TG",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "title": "New Grad 2027: Engineer/Researcher, Cyber Capabilities Development",
+        "source": "vanshb03",
+        "id": "99be2265-e6a0-491d-8811-b01656d647d6",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/TH",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "title": "New Grad 2027: Robotics Engineer",
+        "source": "vanshb03",
+        "id": "ea92aa39-a6e7-4404-99cd-70c929229d54",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/TI",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "title": "New Grad 2027: Software/Electrical/Computer Engineer, Advanced RF Capabilities",
+        "source": "vanshb03",
+        "id": "6ee45cd6-cc06-4f7f-92c8-662d2587186d",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/TJ",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "title": "New Grad 2027: Navigation Prototyping and Analysis Engineer",
+        "source": "vanshb03",
+        "id": "f7c7dc7d-beae-4665-bec8-e13cff64bc8f",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/TK",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "title": "New Grad 2027: Developer, Cyber-Physical Systems",
+        "source": "vanshb03",
+        "id": "2f441589-bbad-4ba7-8020-7c9cf06d612a",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/TL",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "title": "New Grad 2027: Engineer/Scientist, Communication Systems",
+        "source": "vanshb03",
+        "id": "5a61c041-c339-4558-a0d0-78cab8a5b293",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/TN",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "title": "New Grad 2027: Signal Processing/Computer Science/Algorithm Development/AI-ML",
+        "source": "vanshb03",
+        "id": "0e3fde49-ccb7-4507-aff3-10539b33ac1a",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/TO",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "title": "New Grad 2027: Sensor Systems/Data Analytics",
+        "source": "vanshb03",
+        "id": "a41599bc-2fdd-4c99-a5ef-517fadb4d74b",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/TP",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "title": "New Grad 2027: Engineer/Scientist, Resilient Military Systems",
+        "source": "vanshb03",
+        "id": "72807489-6e94-4dab-b803-186be355613e",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/TQ",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "title": "New Grad 2027: Cyber Engineer, Capabilities Development",
+        "source": "vanshb03",
+        "id": "d2239dd7-3e45-416c-924f-c207e0723089",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/TR",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "title": "New Grad 2027: BS/MS Rotational Discovery Program",
+        "source": "vanshb03",
+        "id": "8772c6a0-f946-4f18-b7f8-7f3585f5100c",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/TS",
+        "locations": [
+            "Markham, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AMD",
+        "title": "New Grad: Systems Design Engineer",
+        "source": "vanshb03",
+        "id": "65f352c8-b1a2-4304-be20-a72f5e7e5c67",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/TT",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Fortinet",
+        "title": "New Grad: Verification Engineer",
+        "source": "vanshb03",
+        "id": "06a4e03d-74a4-4cf5-86ca-ac18a20fda42",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/TU",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "American Express",
+        "title": "New Grad 2027: Software Engineer I, Enterprise Technology Services",
+        "source": "vanshb03",
+        "id": "d6d0c3ea-6392-45ca-a0f5-7e62399c20d3",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/TV",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "American Express",
+        "title": "New Grad 2027: Cybersecurity Analyst, Enterprise Technology Services",
+        "source": "vanshb03",
+        "id": "674d7f30-7dec-4fde-b4ab-33f93f6b5c67",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/TW",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "American Express",
+        "title": "New Grad 2027: Cybersecurity Analyst, Enterprise Technology Services",
+        "source": "vanshb03",
+        "id": "20a86f7e-331c-4434-8769-1994eeacc549",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/TX",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "American Express",
+        "title": "New Grad 2027: Cybersecurity Analyst, Enterprise Technology Services",
+        "source": "vanshb03",
+        "id": "946ac9e3-0788-4dcb-9302-7f2c69d7e6bd",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/TY",
+        "locations": [
+            "Sunrise, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "American Express",
+        "title": "New Grad 2027: Cybersecurity Analyst, Enterprise Technology Services",
+        "source": "vanshb03",
+        "id": "da2d4722-c92c-4d2c-ac0f-db8e952570aa",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/TZ",
+        "locations": [
+            "Atlanta, GA",
+            "Charlotte, NC"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Honeywell",
+        "title": "New Grad 2027: Future IT Leaders (U.S. Person)",
+        "source": "vanshb03",
+        "id": "ea21b5ee-baac-4847-ae62-8c67a2777bc2",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/U0",
+        "locations": [
+            "Atlanta, GA",
+            "Charlotte, NC"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Honeywell",
+        "title": "New Grad 2027: Future IT Leaders",
+        "source": "vanshb03",
+        "id": "22c979d5-943a-4f3d-9817-eaa700175091",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/U1",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Palantir",
+        "title": "New Grad: Forward Deployed Infrastructure Engineer, US Government",
+        "source": "vanshb03",
+        "id": "515559e6-33aa-4e26-916b-700afd19ac71",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/U2",
+        "locations": [
+            "Washington, DC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Palantir",
+        "title": "New Grad: Forward Deployed Infrastructure Engineer, US Government",
+        "source": "vanshb03",
+        "id": "9c678e63-49c7-41fd-8ba2-6f164d190580",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/U3",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Palantir",
+        "title": "New Grad: Forward Deployed Infrastructure Engineer, US Government",
+        "source": "vanshb03",
+        "id": "613fa47a-bc10-433f-b4c5-5c1926403077",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/U4",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Palantir",
+        "title": "New Grad: Forward Deployed Software Engineer, Commercial",
+        "source": "vanshb03",
+        "id": "6470cc9c-1994-4d19-9ba4-fecc2f7babc0",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/U5",
+        "locations": [
+            "Washington, DC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Palantir",
+        "title": "New Grad: Forward Deployed Software Engineer, Intel, US Government",
+        "source": "vanshb03",
+        "id": "2861fe66-947f-43ab-bbd9-8193e5d05e47",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/U6",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Palantir",
+        "title": "New Grad: Privacy & Civil Liberties Engineer",
+        "source": "vanshb03",
+        "id": "4cb60828-5859-4338-aba8-25e0aff4d3c6",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/U7",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Palantir",
+        "title": "New Grad: Software Engineer, Infrastructure",
+        "source": "vanshb03",
+        "id": "c1e4e568-6dfa-4c49-bec4-bd4e68656f39",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/U8",
+        "locations": [
+            "Washington, DC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Palantir",
+        "title": "New Grad: Software Engineer, Production Infrastructure",
+        "source": "vanshb03",
+        "id": "ddc0b979-537b-4a5e-bbfc-ef971007aead",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/U9",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Belvedere Trading",
+        "title": "New Grad 2027: Quantitative Trader",
+        "source": "vanshb03",
+        "id": "83204329-3f75-4fae-bf3f-c87fa90baab3",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/Ua",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Veeva Systems",
+        "title": "New Grad 2027: Data Analyst, Marketing Analytics",
+        "source": "vanshb03",
+        "id": "5d06fac8-84ee-4df3-9ee1-9119bf29b7bb",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/Ub",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Relativity Space",
+        "title": "Software Engineer I, Factory Platform",
+        "source": "vanshb03",
+        "id": "ecf033a4-0c5b-4616-af3e-c5e73272342f",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/Uc",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NewsBreak",
+        "title": "New Grad: Applied AI Engineer, Advertising Agents",
+        "source": "vanshb03",
+        "id": "0f3cd23a-2493-4b6e-acb7-8beb397a9959",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/Ud",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DV Trading",
+        "title": "New Grad 2027: Software Engineer, DV Commodities",
+        "source": "vanshb03",
+        "id": "7dadd6fb-95ad-449c-bc6d-0e3a8a62f953",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/Ue",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TransMarket Group",
+        "title": "New Grad 2027: Junior Quantitative Trader",
+        "source": "vanshb03",
+        "id": "04e82818-0a1b-42f6-beda-e52760fd0470",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/Uf",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Five Rings",
+        "title": "New Grad 2027: Quantitative Trader",
+        "source": "vanshb03",
+        "id": "1f31f9ff-4d90-48fd-8515-54d36bc7d014",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/Ug",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Freeform",
+        "title": "New Grad 2027: FPGA Engineer",
+        "source": "vanshb03",
+        "id": "b70530cf-85dc-42e1-a9fc-78bfd6b0a19d",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/Uh",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Freeform",
+        "title": "New Grad: Software Engineer",
+        "source": "vanshb03",
+        "id": "f7097bf7-010e-4639-b758-15d43c3cfc5a",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/Ui",
+        "locations": [
+            "McLean, VA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Appian",
+        "title": "New Grad 2027: Associate Application Engineer",
+        "source": "vanshb03",
+        "id": "86c721e1-0eb4-4a96-8194-1a51d5700404",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/Uj",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SpaceX",
+        "title": "New Grad 2027: Engineer, GNC",
+        "source": "vanshb03",
+        "id": "722d513a-f53d-4dba-b8be-70ceab6b86dd",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/Uk",
+        "locations": [
+            "Bastrop, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SpaceX",
+        "title": "New Grad 2027: Engineer, GNC",
+        "source": "vanshb03",
+        "id": "94bf7303-2f9e-428a-a505-ca5d0c94f2e5",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/Ul",
+        "locations": [
+            "Hawthorne, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SpaceX",
+        "title": "New Grad 2027: Engineer, Software",
+        "source": "vanshb03",
+        "id": "4d84c947-9d19-452e-bb9a-fb6e7d55e209",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/Um",
+        "locations": [
+            "Bastrop, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SpaceX",
+        "title": "New Grad 2027: Engineer, Software, Starlink",
+        "source": "vanshb03",
+        "id": "bef5f6be-2fed-4ff1-818d-9e9411e7a653",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/Un",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SpaceX",
+        "title": "New Grad 2027: Engineer, Software, Starlink",
+        "source": "vanshb03",
+        "id": "192320d5-f2ab-4bfa-a948-4b2b77ec1380",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/Uo",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SpaceX",
+        "title": "New Grad 2027: Engineer, Software, Starlink",
+        "source": "vanshb03",
+        "id": "891d8723-e22b-47ab-a508-713eb38dd92b",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/Up",
+        "locations": [
+            "Bastrop, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SpaceX",
+        "title": "New Grad 2027: Engineer, Software Security, Starlink",
+        "source": "vanshb03",
+        "id": "20b2429e-3222-4a22-95a4-1d3fe205c808",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/Uq",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SpaceX",
+        "title": "New Grad 2027: Engineer, Software Security, Starlink",
+        "source": "vanshb03",
+        "id": "25007078-34a7-461f-8b49-69a647bdbd9b",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/Ur",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SpaceX",
+        "title": "New Grad 2027: Engineer, Software Security, Starlink",
+        "source": "vanshb03",
+        "id": "4175e8a2-981f-44be-bfba-2eb35dabc9c9",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/Us",
+        "locations": [
+            "Atlanta, GA",
+            "Boston, MA",
+            "Broomfield, CO",
+            "Colorado Springs, CO",
+            "Costa Mesa, CA",
+            "Fort Collins, CO",
+            "Irvine, CA",
+            "Reston, VA",
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Anduril",
+        "title": "New Grad 2027: Software Engineer",
+        "source": "vanshb03",
+        "id": "3f05ec24-c2ec-4bf0-99f1-f7ecb53c86b1",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/Ut",
+        "locations": [
+            "Chicago, IL",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Chicago Trading Company",
+        "title": "New Grad 2027: Associate Engineer",
+        "source": "vanshb03",
+        "id": "8f4bcbc3-6d00-4551-b907-7c11fb03c931",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/Uu",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Roblox",
+        "title": "New Grad 2027: Software Engineer",
+        "source": "vanshb03",
+        "id": "6d1e1a8b-11ac-4437-b4bc-aa8762b36d0a",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/Uv",
+        "locations": [
+            "Chicago, IL",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Headlands Technologies",
+        "title": "New Grad: Quantitative Researcher",
+        "source": "vanshb03",
+        "id": "7935dc69-9eb3-4f1e-8212-a8739c5dcffa",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/Uw",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Fortinet",
+        "title": "New Grad: AI Automation Engineer",
+        "source": "vanshb03",
+        "id": "798003a3-9bf8-4ac9-972f-4be9bf0d67d6",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793063869,
+        "url": "https://go.vansh.nyc/Ux",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CoStar Group",
+        "title": "New Grad 2027: Associate Security Engineer",
+        "source": "vanshb03",
+        "id": "de5d65fb-c013-49a6-9722-629eda570d00",
+        "date_posted": 1792546953,
+        "company_url": "",
+        "is_visible": true
     }
 ]
