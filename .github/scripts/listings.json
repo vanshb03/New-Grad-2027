@@ -18694,13 +18694,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1792698816,
+        "date_updated": 1793130014,
         "url": "https://go.vansh.nyc/Aw",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "Software Engineer, Agent Performance Modeling (Master's)",
         "source": "vanshb03",
@@ -18710,13 +18710,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1792698816,
+        "date_updated": 1793130014,
         "url": "https://go.vansh.nyc/Ax",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "New Grad 2027: High-Performance LLM Training Engineer (Master's)",
         "source": "vanshb03",
@@ -20974,13 +20974,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793018234,
+        "date_updated": 1793130014,
         "url": "https://go.vansh.nyc/HU",
         "locations": [
             "Troy Hills, NJ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Avis Budget Group",
         "title": "New Grad 2027: Business Insights Analyst",
         "source": "vanshb03",
