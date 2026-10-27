@@ -26603,5 +26603,57 @@
         "date_posted": 1793137054,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793138951,
+        "url": "https://go.vansh.nyc/WA",
+        "locations": [
+            "Bellevue, WA",
+            "Mountain View, CA",
+            "San Francisco, CA",
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Databricks",
+        "title": "New Grad 2027: Software Engineer",
+        "source": "vanshb03",
+        "id": "7a4e1b1b-2a9c-4a30-a472-fc4ebabb53db",
+        "date_posted": 1793059200,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793138951,
+        "url": "https://go.vansh.nyc/WB",
+        "locations": [
+            "Bellevue, WA",
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Databricks",
+        "title": "New Grad 2027: Software Engineer, Distributed Data Systems",
+        "source": "vanshb03",
+        "id": "4fa58e54-6a7c-42ad-82da-b806598121f4",
+        "date_posted": 1793059200,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793138951,
+        "url": "https://go.vansh.nyc/WC",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ServiceNow",
+        "title": "New Grad 2027: Software Engineer (AI/ML)",
+        "source": "vanshb03",
+        "id": "0a2c3c96-6161-4f97-aa48-518f989408a5",
+        "date_posted": 1793052512,
+        "company_url": "",
+        "is_visible": true
     }
 ]
