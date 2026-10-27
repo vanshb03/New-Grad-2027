@@ -22053,13 +22053,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793023323,
+        "date_updated": 1793126667,
         "url": "https://go.vansh.nyc/KJ",
         "locations": [
             "Richmond, VA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "CoStar Group",
         "title": "New Grad 2027: Associate Security Engineer",
         "source": "vanshb03",
@@ -25993,13 +25993,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793063869,
+        "date_updated": 1793126667,
         "url": "https://go.vansh.nyc/Ux",
         "locations": [
             "Arlington, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CoStar Group",
         "title": "New Grad 2027: Associate Security Engineer",
         "source": "vanshb03",
