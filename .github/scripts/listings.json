@@ -19542,13 +19542,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1792776556,
+        "date_updated": 1793133542,
         "url": "https://go.vansh.nyc/Bk",
         "locations": [
             "Omaha, NE"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "FNBO",
         "title": "Associate Cloud Engineer",
         "source": "vanshb03",
@@ -22933,13 +22933,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793025545,
+        "date_updated": 1793133542,
         "url": "https://go.vansh.nyc/Nr",
         "locations": [
             "Boston, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "GMO",
         "title": "New Grad 2027: Quantitative Technology Associate",
         "source": "vanshb03",
@@ -26521,6 +26521,38 @@
         "source": "vanshb03",
         "id": "381941df-e6ee-4990-b876-393cba188d6c",
         "date_posted": 1793131360,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793133512,
+        "url": "https://go.vansh.nyc/Wn",
+        "locations": [
+            "Azusa, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "New Grad 2027: Associate Software Engineer",
+        "source": "vanshb03",
+        "id": "032a051a-3476-406d-9748-d7b2fb7568d5",
+        "date_posted": 1793059200,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793133512,
+        "url": "https://go.vansh.nyc/Wo",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "New Grad 2027: Associate Software Engineer",
+        "source": "vanshb03",
+        "id": "a2bf4203-9697-48ee-ab6e-4a83627dcdd5",
+        "date_posted": 1793059200,
         "company_url": "",
         "is_visible": true
     }
