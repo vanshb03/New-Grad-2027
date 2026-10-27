@@ -22623,13 +22623,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793023324,
+        "date_updated": 1793135622,
         "url": "https://go.vansh.nyc/Lh",
         "locations": [
             "Duluth, GA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Lattice Semiconductor",
         "title": "Junior Firmware Engineer",
         "source": "vanshb03",
@@ -22835,13 +22835,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793025545,
+        "date_updated": 1793135622,
         "url": "https://go.vansh.nyc/Nl",
         "locations": [
             "Broomfield, CO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Katalyst Space Technologies",
         "title": "Software Engineer 1",
         "source": "vanshb03",
@@ -26553,6 +26553,22 @@
         "source": "vanshb03",
         "id": "a2bf4203-9697-48ee-ab6e-4a83627dcdd5",
         "date_posted": 1793059200,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793135603,
+        "url": "https://go.vansh.nyc/Wq",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "New Grad 2027: Formal Verification Engineer",
+        "source": "vanshb03",
+        "id": "04e2fed4-1c34-45c3-ad2c-77a8e9018df6",
+        "date_posted": 1793135066,
         "company_url": "",
         "is_visible": true
     }
