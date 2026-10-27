@@ -24792,13 +24792,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793049150,
+        "date_updated": 1793099553,
         "url": "https://go.vansh.nyc/T4",
         "locations": [
             "Arlington, VA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "GDIT",
         "title": "Cybersecurity Exercise Planner (Junior)",
         "source": "vanshb03",
@@ -26294,6 +26294,104 @@
         "source": "vanshb03",
         "id": "156210c1-2f89-493f-84a0-6fe92df85f38",
         "date_posted": 1793023624,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793099546,
+        "url": "https://go.vansh.nyc/Vn",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rilla",
+        "title": "New Grad: Software Engineer",
+        "source": "vanshb03",
+        "id": "4f14f2c5-8cc3-4acb-bb85-05d170643589",
+        "date_posted": 1793099429,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793099546,
+        "url": "https://go.vansh.nyc/Vo",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cerebras",
+        "title": "CoDesign & NextGen",
+        "source": "vanshb03",
+        "id": "2da6ccf8-af8c-425f-848d-23b21e87afd6",
+        "date_posted": 1793099429,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793099546,
+        "url": "https://go.vansh.nyc/Vp",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cerebras",
+        "title": "New Grad: Kernel Engineer",
+        "source": "vanshb03",
+        "id": "55279f00-2ff6-4da3-9fcc-ce018c2ffdd3",
+        "date_posted": 1793099429,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793099546,
+        "url": "https://go.vansh.nyc/Vq",
+        "locations": [
+            "Torrance, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Northwood Space",
+        "title": "New Grad: Software Engineer \u2013 General",
+        "source": "vanshb03",
+        "id": "f059e346-e26d-484c-9dcd-6e572ce46932",
+        "date_posted": 1793099429,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793099546,
+        "url": "https://go.vansh.nyc/Vr",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CoStar Group",
+        "title": "New Grad 2027: Associate Software Engineer",
+        "source": "vanshb03",
+        "id": "bb188637-051b-463d-b6f0-551bae39d3b7",
+        "date_posted": 1793099429,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793099546,
+        "url": "https://go.vansh.nyc/Vs",
+        "locations": [
+            "Austin, TX",
+            "/ Santa Clara, TX",
+            "/, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NUVACORE",
+        "title": "CPU Design & Verification Engineer",
+        "source": "vanshb03",
+        "id": "37e51839-2ac6-4c80-b4b6-5f54ee7dfff6",
+        "date_posted": 1793099429,
         "company_url": "",
         "is_visible": true
     }
