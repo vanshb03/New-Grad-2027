@@ -41,6 +41,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **RTX** | Embedded Software Engineer I 🇺🇸 | Mckinney, TX | <a href="https://go.vansh.nyc/VA?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | **Rilla** | New Grad: Software Engineer | New York, NY | <a href="https://go.vansh.nyc/Vn?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | **NUVACORE** | CPU Design & Verification Engineer | Austin, TX</br>/ Santa Clara, TX</br>/, CA | <a href="https://go.vansh.nyc/Vs?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | **Northwood Space** | New Grad: Software Engineer – General 🇺🇸 | Torrance, CA | <a href="https://go.vansh.nyc/Vq?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
