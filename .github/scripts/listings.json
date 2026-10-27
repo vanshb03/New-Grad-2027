@@ -26007,5 +26007,21 @@
         "date_posted": 1792546953,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793067006,
+        "url": "https://go.vansh.nyc/UE",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Abacus Insights",
+        "title": "Associate Data Engineer",
+        "source": "vanshb03",
+        "id": "51509cf6-ed7e-4a57-9218-9830bac821ef",
+        "date_posted": 1793033894,
+        "company_url": "",
+        "is_visible": true
     }
 ]
