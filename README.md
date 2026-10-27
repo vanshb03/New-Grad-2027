@@ -65,7 +65,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **AT&T** | AI-Native Software Engineer Analyst - Full-Stack Python | Bothell, WA</br>Dallas, TX</br>Alpharetta, GA | <a href="https://go.vansh.nyc/WI?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | **Apple** | SoC Physical Design Engineer, Place and Route | San Jose, CA | <a href="https://go.vansh.nyc/WL?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | **SpaceX** | AI Software Engineer, Vehicle Engineering | Hawthorne, CA | <a href="https://go.vansh.nyc/BJ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
-| **ServiceNow** | New Grad 2027: Software Engineer (AI/ML) | Mountain View, CA | <a href="https://go.vansh.nyc/WC?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | **ServiceNow** | Associate Software Engineer | Santa Clara, CA | <a href="https://go.vansh.nyc/BI?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | **L3Harris Technologies** | Associate, Software Engineering | Rochester, NY | <a href="https://go.vansh.nyc/Ve?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | **Intel** | SoC Logic Design Engineer (Master's) | Santa Clara, CA | <a href="https://go.vansh.nyc/Tl?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
@@ -689,6 +688,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Softheon** | Software Engineer I - Membership | Remote</br>US | <a href="https://go.vansh.nyc/iG?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 12 |
 | **Tesla** | Software Engineer, Traction Control & Stability | Palo Alto, CA | <a href="https://go.vansh.nyc/ig?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 05 |
 | **Qualcomm** | Embedded DSP Software Engineer | San Diego, CA | <a href="https://go.vansh.nyc/i2?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 31 |
+| **ServiceNow** | New Grad 2027: Software Engineer (AI/ML) | Mountain View, CA | 🔒 | Oct 26 |
 | **Manulife Financial** | New Grad 2027: GRO Program, Data | Boston, MA | 🔒 | Oct 26 |
 | **GDIT** | Cybersecurity Exercise Planner (Junior) 🇺🇸 | Arlington, VA | 🔒 | Oct 26 |
 | **Ciena** | Software Engineer (Security) | Atlanta, GA | 🔒 | Oct 26 |
