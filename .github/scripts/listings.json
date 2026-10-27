@@ -1430,7 +1430,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1747461567,
+        "date_updated": 1793112039,
         "url": "https://go.vansh.nyc/jq",
         "company_name": "Apple",
         "title": "Embedded System Software Engineer",
@@ -1438,7 +1438,7 @@
             "San Diego, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "e1fec251-a2b9-4672-8d5d-da147b496732",
         "date_posted": 1747461567,
@@ -1660,7 +1660,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748024718,
+        "date_updated": 1793112039,
         "url": "https://go.vansh.nyc/jE",
         "company_name": "Apple",
         "title": "Cellular Platform Software Engineer, Embedded Analytics",
@@ -1668,7 +1668,7 @@
             "Sunnyvale, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "2c2cb04d-b4d0-4601-86f2-11ebe0a48903",
         "date_posted": 1748024718,
@@ -3915,13 +3915,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751752118,
+        "date_updated": 1793112039,
         "url": "https://go.vansh.nyc/lT",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Apple",
         "title": "Software Engineer, IS&T",
         "source": "vanshb03",
@@ -3931,13 +3931,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751752126,
+        "date_updated": 1793112039,
         "url": "https://go.vansh.nyc/lU",
         "locations": [
             "Sunnyvale, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Apple",
         "title": "Software Engineer, IS&T",
         "source": "vanshb03",
@@ -4098,13 +4098,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1752443565,
+        "date_updated": 1793112039,
         "url": "https://go.vansh.nyc/m4",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Apple",
         "title": "IS&T Early Career Engineering Program Manager Opportunities",
         "source": "vanshb03",
@@ -8696,13 +8696,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755900097,
+        "date_updated": 1793112039,
         "url": "https://go.vansh.nyc/qE",
         "locations": [
             "Sunnyvale, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Apple",
         "title": "Accessibility Engineer, IS&T, Early Career",
         "source": "vanshb03",
@@ -11123,13 +11123,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757545180,
+        "date_updated": 1793112039,
         "url": "https://go.vansh.nyc/t2",
         "locations": [
             "San Diego, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Apple",
         "title": "Wi-Fi Software Systems Performance Engineer",
         "source": "vanshb03",
@@ -12165,13 +12165,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758384217,
+        "date_updated": 1793112039,
         "url": "https://go.vansh.nyc/u4",
         "locations": [
             "Cupertino, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Apple",
         "title": "Camera Framework Engineer, Photo Capture",
         "source": "vanshb03",
@@ -14241,13 +14241,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760994852,
+        "date_updated": 1793112039,
         "url": "https://go.vansh.nyc/w7",
         "locations": [
             "Cupertino, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Apple",
         "title": "Software Engineer, Xcode Intelligence Experience",
         "source": "vanshb03",
@@ -14291,13 +14291,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760995124,
+        "date_updated": 1793112039,
         "url": "https://go.vansh.nyc/wa",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Apple",
         "title": "IS&T Early Career Engineering Program Manager",
         "source": "vanshb03",
@@ -15550,13 +15550,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762782974,
+        "date_updated": 1793112039,
         "url": "https://go.vansh.nyc/xp",
         "locations": [
             "Cupertino, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Apple",
         "title": "AIML Resident - Siri Agent Modeling",
         "source": "vanshb03",
@@ -15566,13 +15566,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762782820,
+        "date_updated": 1793112039,
         "url": "https://go.vansh.nyc/xq",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Apple",
         "title": "AIML Resident - Machine Learning Research",
         "source": "vanshb03",
@@ -15582,13 +15582,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762782827,
+        "date_updated": 1793112039,
         "url": "https://go.vansh.nyc/xr",
         "locations": [
             "Cupertino, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Apple",
         "title": "AIML Resident - Input Experience NLP",
         "source": "vanshb03",
@@ -15598,14 +15598,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762782865,
+        "date_updated": 1793112039,
         "url": "https://go.vansh.nyc/xs",
         "locations": [
             "Seattle, WA",
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Apple",
         "title": "AIML Resident - Knowledge Answer Quality & Richness",
         "source": "vanshb03",
@@ -15615,14 +15615,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762782869,
+        "date_updated": 1793112039,
         "url": "https://go.vansh.nyc/xt",
         "locations": [
             "Seattle, WA",
             "Cupertino, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Apple",
         "title": "AIML Resident - Data Operations Capacity Planning & Analytics",
         "source": "vanshb03",
@@ -15632,13 +15632,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762782873,
+        "date_updated": 1793112039,
         "url": "https://go.vansh.nyc/xu",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Apple",
         "title": "AIML Resident - Robot Learning",
         "source": "vanshb03",
@@ -15959,13 +15959,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1763445637,
+        "date_updated": 1793112039,
         "url": "https://go.vansh.nyc/xO",
         "locations": [
             "Sunnyvale, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Apple",
         "title": "Software Engineer, IS&T Early Career",
         "source": "vanshb03",
@@ -17359,13 +17359,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1769926622,
+        "date_updated": 1793112039,
         "url": "https://go.vansh.nyc/zc",
         "locations": [
             "Sunnyvale, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Apple",
         "title": "Software Engineer",
         "source": "vanshb03",
@@ -17375,13 +17375,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1769926625,
+        "date_updated": 1793112039,
         "url": "https://go.vansh.nyc/zd",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Apple",
         "title": "Software Engineer",
         "source": "vanshb03",
@@ -17552,13 +17552,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1771169961,
+        "date_updated": 1793112039,
         "url": "https://go.vansh.nyc/zo",
         "locations": [
             "Sunnyvale, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Apple",
         "title": "Software Engineer, Customer Systems",
         "source": "vanshb03",
@@ -17568,13 +17568,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1771169964,
+        "date_updated": 1793112039,
         "url": "https://go.vansh.nyc/zp",
         "locations": [
             "Cupertino, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Apple",
         "title": "Junior UI Compositing Engineer",
         "source": "vanshb03",
@@ -20369,13 +20369,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793014740,
+        "date_updated": 1793112039,
         "url": "https://go.vansh.nyc/DK",
         "locations": [
             "Houston, TX"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Barrios",
         "title": "Software Engineer, Space Operations Computing",
         "source": "vanshb03",
