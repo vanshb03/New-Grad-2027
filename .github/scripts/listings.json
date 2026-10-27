@@ -26571,5 +26571,37 @@
         "date_posted": 1793135066,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793137111,
+        "url": "https://go.vansh.nyc/Ws",
+        "locations": [
+            "Plano, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "JND",
+        "title": "[Entry Level] Software Tester (2608-2)",
+        "source": "vanshb03",
+        "id": "15c6e807-c7ae-42e3-a651-08c0a776a363",
+        "date_posted": 1793137054,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793137111,
+        "url": "https://go.vansh.nyc/Wt",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Johns Hopkins APL",
+        "title": "New Grad 2027: Cybersecurity Engineer, Critical Infrastructure Protection",
+        "source": "vanshb03",
+        "id": "ae273c97-f7a1-43d5-8c20-436a1045b251",
+        "date_posted": 1793137054,
+        "company_url": "",
+        "is_visible": true
     }
 ]
