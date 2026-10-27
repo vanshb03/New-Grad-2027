@@ -26641,13 +26641,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793138951,
+        "date_updated": 1793142532,
         "url": "https://go.vansh.nyc/WC",
         "locations": [
             "Mountain View, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ServiceNow",
         "title": "New Grad 2027: Software Engineer (AI/ML)",
         "source": "vanshb03",
