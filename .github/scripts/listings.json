@@ -24808,13 +24808,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793054515,
+        "date_updated": 1793131783,
         "url": "https://go.vansh.nyc/Td",
         "locations": [
             "Boston, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Manulife Financial",
         "title": "New Grad 2027: GRO Program, Data",
         "source": "vanshb03",
@@ -26505,6 +26505,22 @@
         "source": "vanshb03",
         "id": "506f25ca-cb73-4852-ac2f-c37949fd3f7a",
         "date_posted": 1793041767,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793131760,
+        "url": "https://go.vansh.nyc/Wk",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "New Grad 2027: Deep Learning Performance Architect",
+        "source": "vanshb03",
+        "id": "381941df-e6ee-4990-b876-393cba188d6c",
+        "date_posted": 1793131360,
         "company_url": "",
         "is_visible": true
     }
