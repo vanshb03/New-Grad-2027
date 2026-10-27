@@ -26655,5 +26655,87 @@
         "date_posted": 1793052512,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793140747,
+        "url": "https://go.vansh.nyc/WH",
+        "locations": [
+            "Greenville, SC"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "GE Vernova",
+        "title": "New Grad: AI Engineer",
+        "source": "vanshb03",
+        "id": "da39f580-f505-4f9d-8e1b-666f39fabef1",
+        "date_posted": 1793059200,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793140747,
+        "url": "https://go.vansh.nyc/WI",
+        "locations": [
+            "Bothell, WA",
+            "Dallas, TX",
+            "Alpharetta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AT&T",
+        "title": "AI-Native Software Engineer Analyst - Full-Stack Python",
+        "source": "vanshb03",
+        "id": "3c14871a-821e-4728-9d34-034eb5fc0880",
+        "date_posted": 1793059200,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793140747,
+        "url": "https://go.vansh.nyc/WJ",
+        "locations": [
+            "Greenville, SC"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "GE Vernova",
+        "title": "Data Scientist",
+        "source": "vanshb03",
+        "id": "80d33b4b-aa46-453c-9f39-798c7411216e",
+        "date_posted": 1793059200,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793140747,
+        "url": "https://go.vansh.nyc/WK",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Emerson Electric",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "645cd1b0-0e46-43fc-8662-c393df340abb",
+        "date_posted": 1793139144,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793140747,
+        "url": "https://go.vansh.nyc/WL",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apple",
+        "title": "SoC Physical Design Engineer, Place and Route",
+        "source": "vanshb03",
+        "id": "fc2a2932-3d02-41c4-9138-caf02478bdab",
+        "date_posted": 1793138715,
+        "company_url": "",
+        "is_visible": true
     }
 ]
