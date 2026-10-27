@@ -19558,13 +19558,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1792776556,
+        "date_updated": 1793121071,
         "url": "https://go.vansh.nyc/Bl",
         "locations": [
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Capital One",
         "title": "Associate Software Engineer, Card Expansion",
         "source": "vanshb03",
@@ -26456,6 +26456,22 @@
         "source": "vanshb03",
         "id": "ec832643-69a3-43d2-b3ee-c48549857e44",
         "date_posted": 1793110495,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793121054,
+        "url": "https://go.vansh.nyc/W3",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ID.me",
+        "title": "New Grad 2027: General Program",
+        "source": "vanshb03",
+        "id": "2d533c0a-6ac8-4443-a22b-a47c6ac94e31",
+        "date_posted": 1793120983,
         "company_url": "",
         "is_visible": true
     }
