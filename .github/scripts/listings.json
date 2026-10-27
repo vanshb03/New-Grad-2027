@@ -19872,13 +19872,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793014740,
+        "date_updated": 1793124657,
         "url": "https://go.vansh.nyc/Df",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "New Grad 2027: SoC Software Engineer",
         "source": "vanshb03",
@@ -26472,6 +26472,23 @@
         "source": "vanshb03",
         "id": "2d533c0a-6ac8-4443-a22b-a47c6ac94e31",
         "date_posted": 1793120983,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793124630,
+        "url": "https://go.vansh.nyc/W6",
+        "locations": [
+            "Gatineau, Canada",
+            "Ottawa, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Motorola Solutions",
+        "title": "Junior Software Engineer - Emergency Call Handling",
+        "source": "vanshb03",
+        "id": "0e38900e-b4ba-4cd1-9d8f-192cd126d0e3",
+        "date_posted": 1793038135,
         "company_url": "",
         "is_visible": true
     }
