@@ -26023,5 +26023,262 @@
         "date_posted": 1793033894,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793090819,
+        "url": "https://go.vansh.nyc/UI",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apple",
+        "title": "ASIC Design Engineer, Fabric/Interconnect",
+        "source": "vanshb03",
+        "id": "83a14add-3539-4a01-b2ae-5204cd0255b9",
+        "date_posted": 1791814276,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793090819,
+        "url": "https://go.vansh.nyc/UJ",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apple",
+        "title": "Graphics Software Content Engineer",
+        "source": "vanshb03",
+        "id": "3329700b-6d55-4223-acbc-cc99cd913cd3",
+        "date_posted": 1792103632,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793090819,
+        "url": "https://go.vansh.nyc/UK",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Performance Software",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "3430aaab-3372-4371-be90-c6664e9d507d",
+        "date_posted": 1792707614,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793090819,
+        "url": "https://go.vansh.nyc/UL",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NetApp",
+        "title": "Software Engineer, Cloud Volumes (Master's)",
+        "source": "vanshb03",
+        "id": "316a95c0-1b3a-4478-b87d-b0c722289d81",
+        "date_posted": 1792773632,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793090819,
+        "url": "https://go.vansh.nyc/UM",
+        "locations": [
+            "Longmont, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Seagate",
+        "title": "Embedded Software Engineer I",
+        "source": "vanshb03",
+        "id": "574ee7df-42f7-44ac-944e-36bac4db91ba",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793090819,
+        "url": "https://go.vansh.nyc/UN",
+        "locations": [
+            "Bala Cynwyd, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Susquehanna International Group (SIG)",
+        "title": "New Grad: Associate Network Engineer",
+        "source": "vanshb03",
+        "id": "05ab7a9b-c1f7-4e89-b2ae-66d6cba626c4",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793090819,
+        "url": "https://go.vansh.nyc/UO",
+        "locations": [
+            "Bala Cynwyd, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Susquehanna International Group (SIG)",
+        "title": "New Grad: Associate Linux/Windows Engineer",
+        "source": "vanshb03",
+        "id": "0e0ac9c3-0db3-44f5-9eaa-ad18c4103c82",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793090819,
+        "url": "https://go.vansh.nyc/UP",
+        "locations": [
+            "Verdun, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bell Canada",
+        "title": "New Grad 2027: Technology Services, Product and Initiative Management",
+        "source": "vanshb03",
+        "id": "fb90d777-0704-46a5-9763-78f6cd43ea92",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793090819,
+        "url": "https://go.vansh.nyc/UQ",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Johns Hopkins APL",
+        "title": "New Grad 2027: Modeling & Simulation Analyst, Air Combat and Strike Mission Analysis",
+        "source": "vanshb03",
+        "id": "73548778-98b0-416d-8e02-60b812cf8344",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793090819,
+        "url": "https://go.vansh.nyc/UR",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Johns Hopkins APL",
+        "title": "New Grad 2027: Data Analyst, Engagement Optimization",
+        "source": "vanshb03",
+        "id": "affd8b6b-0329-4210-b663-4cb2ce00b69b",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793090819,
+        "url": "https://go.vansh.nyc/US",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Johns Hopkins APL",
+        "title": "New Grad 2027: Systems Engineer/Analyst",
+        "source": "vanshb03",
+        "id": "23466e35-24b9-4708-9e7d-d9248669cb8c",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793090819,
+        "url": "https://go.vansh.nyc/UT",
+        "locations": [
+            "Ny, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Two Sigma",
+        "title": "Software Engineering",
+        "source": "vanshb03",
+        "id": "9dcfd89c-da6f-4edc-b843-118a9cf31e45",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793090819,
+        "url": "https://go.vansh.nyc/UU",
+        "locations": [
+            "Houston, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Two Sigma",
+        "title": "Software Engineering",
+        "source": "vanshb03",
+        "id": "0fea3db3-4a2d-4df9-9b15-380fef0c21b5",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793090819,
+        "url": "https://go.vansh.nyc/UV",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ElevenLabs",
+        "title": "Full-Stack Engineer (Backend Leaning), Platform Engineering",
+        "source": "vanshb03",
+        "id": "155b732a-cdde-4d7a-95bb-606fa1cf7146",
+        "date_posted": 1791981327,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793090819,
+        "url": "https://go.vansh.nyc/UW",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ElevenLabs",
+        "title": "Full-Stack Engineer (Backend Leaning), Payments Engineering",
+        "source": "vanshb03",
+        "id": "0787e1f1-9d6e-49a1-b727-5eb921b01de0",
+        "date_posted": 1791981327,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793090819,
+        "url": "https://go.vansh.nyc/UX",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Roblox",
+        "title": "Software Engineer, Foundation AI",
+        "source": "vanshb03",
+        "id": "027eab4e-25e2-4c3c-af41-592f6ba28494",
+        "date_posted": 1786997640,
+        "company_url": "",
+        "is_visible": true
     }
 ]
