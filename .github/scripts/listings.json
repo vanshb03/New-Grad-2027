@@ -24776,13 +24776,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793036494,
+        "date_updated": 1793128258,
         "url": "https://go.vansh.nyc/SP",
         "locations": [
             "Atlanta, GA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Ciena",
         "title": "Software Engineer (Security)",
         "source": "vanshb03",
@@ -26489,6 +26489,22 @@
         "source": "vanshb03",
         "id": "0e38900e-b4ba-4cd1-9d8f-192cd126d0e3",
         "date_posted": 1793038135,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793128226,
+        "url": "https://go.vansh.nyc/Wc",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cisco",
+        "title": "ASIC Design Verification Engineer I",
+        "source": "vanshb03",
+        "id": "506f25ca-cb73-4852-ac2f-c37949fd3f7a",
+        "date_posted": 1793041767,
         "company_url": "",
         "is_visible": true
     }
