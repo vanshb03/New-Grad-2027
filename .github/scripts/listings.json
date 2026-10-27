@@ -26280,5 +26280,21 @@
         "date_posted": 1786997640,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793095806,
+        "url": "https://go.vansh.nyc/Ve",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "L3Harris Technologies",
+        "title": "Associate, Software Engineering",
+        "source": "vanshb03",
+        "id": "156210c1-2f89-493f-84a0-6fe92df85f38",
+        "date_posted": 1793023624,
+        "company_url": "",
+        "is_visible": true
     }
 ]
