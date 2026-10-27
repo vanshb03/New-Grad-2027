@@ -50,6 +50,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Northrop Grumman** | New Grad 2027: Associate Software Engineer 🇺🇸 | Azusa, CA | <a href="https://go.vansh.nyc/Wn?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | **Northrop Grumman** | New Grad 2027: Associate Software Engineer 🇺🇸 | Boulder, CO | <a href="https://go.vansh.nyc/Wo?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | **Northrop Grumman** | New Grad 2027: Associate Software Engineer / Software Engineer 🇺🇸 | Colorado Springs, CO | <a href="https://go.vansh.nyc/Vw?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
+| **Johns Hopkins APL** | New Grad 2027: Cybersecurity Engineer, Critical Infrastructure Protection | Laurel, MD | <a href="https://go.vansh.nyc/Wt?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
+| **JND** | [Entry Level] Software Tester (2608-2) | Plano, TX | <a href="https://go.vansh.nyc/Ws?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | **ID.me** | New Grad 2027: General Program | Mountain View, CA | <a href="https://go.vansh.nyc/W3?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | **CrossCountry Consulting** | New Grad: Forward Deployed Software Engineer | Chicago, IL | <a href="https://go.vansh.nyc/VK?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | **CrossCountry Consulting** | New Grad: Forward Deployed Software Engineer | Chicago, IL | <a href="https://go.vansh.nyc/VL?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
