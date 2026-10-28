@@ -27000,5 +27000,89 @@
         "date_posted": 1793146069,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793213228,
+        "url": "https://go.vansh.nyc/XP",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "ASIC Verification Engineer",
+        "source": "vanshb03",
+        "id": "7ab18b3a-3175-458e-a8fd-d177c2bb79ca",
+        "date_posted": 1792003542,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793213228,
+        "url": "https://go.vansh.nyc/XQ",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Formal Verification Engineer",
+        "source": "vanshb03",
+        "id": "72fdf0d1-aec7-48e8-8a3e-4bd588f13bc4",
+        "date_posted": 1791312342,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793213228,
+        "url": "https://go.vansh.nyc/XR",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "New Grad 2027: ASIC Design Engineer",
+        "source": "vanshb03",
+        "id": "860e2332-7765-492f-9ba0-4f6c7cceec99",
+        "date_posted": 1790621142,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793213228,
+        "url": "https://go.vansh.nyc/XS",
+        "locations": [
+            "Durham, NC",
+            "Madison, AL",
+            "Hillsboro, OR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "New Grad 2027: ASIC Verification Engineer, Memory Management",
+        "source": "vanshb03",
+        "id": "76f3bf99-7b1a-404a-847b-07a1e695264d",
+        "date_posted": 1790621142,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793213228,
+        "url": "https://go.vansh.nyc/XT",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "New Grad 2027: ASIC Verification Engineer",
+        "source": "vanshb03",
+        "id": "96c47b6e-9456-4ac5-84a2-2ec6230327c7",
+        "date_posted": 1790621142,
+        "company_url": "",
+        "is_visible": true
     }
 ]
