@@ -27083,5 +27083,37 @@
         "date_posted": 1790621142,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793227368,
+        "url": "https://go.vansh.nyc/Ym",
+        "locations": [
+            "Ottawa, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ciena",
+        "title": "New Grad: Routing/IP Software Engineer",
+        "source": "vanshb03",
+        "id": "857072be-16de-401e-a096-37df29a6778f",
+        "date_posted": 1793145600,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793227368,
+        "url": "https://go.vansh.nyc/Yn",
+        "locations": [
+            "Aurora, CO"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "Associate Software Engineer, Pathways Program",
+        "source": "vanshb03",
+        "id": "3637c742-c854-49e0-a6a5-96f39e054a6b",
+        "date_posted": 1793145600,
+        "company_url": "",
+        "is_visible": true
     }
 ]
