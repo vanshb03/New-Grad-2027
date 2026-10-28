@@ -674,7 +674,7 @@
         "title": "Software Engineer I - Membership",
         "locations": [
             "Remote",
-            "US"
+            "United States"
         ],
         "sponsorship": "Other",
         "active": true,
@@ -804,7 +804,7 @@
         "title": "Software Engineer",
         "locations": [
             "Remote",
-            "US"
+            "United States"
         ],
         "sponsorship": "Other",
         "active": true,
@@ -2511,7 +2511,7 @@
         "company_name": "N1",
         "title": "Software Engineer (Full Stack)",
         "locations": [
-            "New York City"
+            "New York, NY"
         ],
         "sponsorship": "Offers Sponsorship",
         "active": true,
@@ -2527,7 +2527,7 @@
         "company_name": "N1",
         "title": "Software Engineer (Backend Rust)",
         "locations": [
-            "New York City"
+            "New York, NY"
         ],
         "sponsorship": "Offers Sponsorship",
         "active": true,
@@ -6784,7 +6784,7 @@
         "company_name": "Global Relay",
         "title": "Junior Software Developer Engineer in Test - C#",
         "locations": [
-            "Vancouver, BC, Canada"
+            "Vancouver, Canada"
         ],
         "active": true,
         "source": "vanshb03",
@@ -7693,7 +7693,7 @@
         "date_updated": 1755347465,
         "url": "https://go.vansh.nyc/pE",
         "locations": [
-            "Seattle"
+            "Seattle, WA"
         ],
         "sponsorship": "Other",
         "active": true,
@@ -8537,7 +8537,7 @@
         "date_updated": 1755699760,
         "url": "https://go.vansh.nyc/qu",
         "locations": [
-            "SPARKS, Nevada"
+            "Sparks, NV"
         ],
         "sponsorship": "Other",
         "active": true,
@@ -9012,7 +9012,7 @@
         "date_updated": 1756356253,
         "url": "https://go.vansh.nyc/qX",
         "locations": [
-            "AUSTIN, Texas"
+            "Austin, TX"
         ],
         "sponsorship": "Other",
         "active": true,
@@ -9306,7 +9306,7 @@
         "title": "New Grad Software Engineer - Backend Rust",
         "locations": [
             "Oakland, CA",
-            "NYC"
+            "New York, NY"
         ],
         "active": true,
         "source": "vanshb03",
@@ -9469,7 +9469,7 @@
         "title": "Software Engineer - New Grad",
         "locations": [
             "Seattle, WA",
-            "SF"
+            "San Francisco, CA"
         ],
         "active": true,
         "source": "vanshb03",
@@ -9485,7 +9485,7 @@
         "company_name": "Stripe",
         "title": "Software Engineer - New Grad",
         "locations": [
-            "Toronto, ON, Canada"
+            "Toronto, Canada"
         ],
         "active": true,
         "source": "vanshb03",
@@ -16988,7 +16988,7 @@
         "date_updated": 1767995456,
         "url": "https://go.vansh.nyc/yP",
         "locations": [
-            "Palo Alto, California"
+            "Palo Alto, CA"
         ],
         "sponsorship": "Other",
         "active": true,
@@ -26382,8 +26382,7 @@
         "url": "https://go.vansh.nyc/Vs",
         "locations": [
             "Austin, TX",
-            "/ Santa Clara, TX",
-            "/, CA"
+            "Santa Clara, CA"
         ],
         "sponsorship": "Other",
         "active": true,
@@ -26987,7 +26986,7 @@
         "date_updated": 1793213064,
         "url": "https://go.vansh.nyc/XO",
         "locations": [
-            "D.C., WA",
+            "Washington, DC",
             "San Diego, CA",
             "Dallas, TX"
         ],
