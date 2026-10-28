@@ -26853,5 +26853,21 @@
         "date_posted": 1793059200,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793189317,
+        "url": "https://go.vansh.nyc/Xs",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "New Grad 2027: Associate Software Engineer / Software Engineer",
+        "source": "vanshb03",
+        "id": "a4526c80-2764-4474-a61d-fadb6ea90da5",
+        "date_posted": 1793145600,
+        "company_url": "",
+        "is_visible": true
     }
 ]
