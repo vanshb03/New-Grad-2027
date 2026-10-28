@@ -19120,13 +19120,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1792698816,
+        "date_updated": 1793156873,
         "url": "https://go.vansh.nyc/AW",
         "locations": [
             "Berkeley, MO"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Boeing",
         "title": "Associate Flight Test Data Processing Software Engineer",
         "source": "vanshb03",
