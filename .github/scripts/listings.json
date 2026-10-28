@@ -26821,5 +26821,37 @@
         "date_posted": 1793164040,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793171321,
+        "url": "https://go.vansh.nyc/Xb",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Shield AI",
+        "title": "New Grad 2027: Autonomous Software Engineer",
+        "source": "vanshb03",
+        "id": "818c120a-e0d0-4b4d-894a-9652e93acf9b",
+        "date_posted": 1793059200,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793171321,
+        "url": "https://go.vansh.nyc/Xc",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Agave",
+        "title": "New Grad: Full-Stack Software Engineer",
+        "source": "vanshb03",
+        "id": "5dc1a47a-7c99-4448-a194-3a68ce018866",
+        "date_posted": 1793059200,
+        "company_url": "",
+        "is_visible": true
     }
 ]
