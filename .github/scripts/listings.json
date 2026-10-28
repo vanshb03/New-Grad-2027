@@ -19104,13 +19104,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1792698816,
+        "date_updated": 1793213082,
         "url": "https://go.vansh.nyc/AV",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Applied Materials",
         "title": "Algorithm Developer (Master's)",
         "source": "vanshb03",
@@ -26963,6 +26963,41 @@
         "source": "vanshb03",
         "id": "635ef6c4-83a7-423c-9ec0-c00a61cd1d07",
         "date_posted": 1793208683,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793213064,
+        "url": "https://go.vansh.nyc/XN",
+        "locations": [
+            "Milford, MI",
+            "Warren, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "General Motors",
+        "title": "Software Verification Engineer, AV Platform",
+        "source": "vanshb03",
+        "id": "012ff777-3126-4efb-bd19-dd433ccc9aa9",
+        "date_posted": 1793126569,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793213064,
+        "url": "https://go.vansh.nyc/XO",
+        "locations": [
+            "D.C., WA",
+            "San Diego, CA",
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Shield AI",
+        "title": "New Grad: Engineer I, Software Test and Automation",
+        "source": "vanshb03",
+        "id": "b7359594-fb55-415b-9d03-0851bbf70421",
+        "date_posted": 1793146069,
         "company_url": "",
         "is_visible": true
     }
