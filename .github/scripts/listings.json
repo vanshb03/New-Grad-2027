@@ -26573,13 +26573,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793137111,
+        "date_updated": 1793146154,
         "url": "https://go.vansh.nyc/Ws",
         "locations": [
             "Plano, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "JND",
         "title": "[Entry Level] Software Tester (2608-2)",
         "source": "vanshb03",
