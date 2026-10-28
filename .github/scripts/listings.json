@@ -26933,5 +26933,37 @@
         "date_posted": 1793130765,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793211019,
+        "url": "https://go.vansh.nyc/XJ",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Glean",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "9bc457ce-d971-45a7-879f-19590874023d",
+        "date_posted": 1793209043,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793211019,
+        "url": "https://go.vansh.nyc/XK",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "ExtraHop",
+        "title": "Software Engineer I, Cloud",
+        "source": "vanshb03",
+        "id": "635ef6c4-83a7-423c-9ec0-c00a61cd1d07",
+        "date_posted": 1793208683,
+        "company_url": "",
+        "is_visible": true
     }
 ]
