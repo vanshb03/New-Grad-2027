@@ -26869,5 +26869,21 @@
         "date_posted": 1793145600,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793198390,
+        "url": "https://go.vansh.nyc/XA",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cisco",
+        "title": "Data Science Analyst 1",
+        "source": "vanshb03",
+        "id": "e9fcc0cd-f573-4161-9349-6db367caf373",
+        "date_posted": 1793145600,
+        "company_url": "",
+        "is_visible": true
     }
 ]
