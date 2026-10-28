@@ -26737,5 +26737,73 @@
         "date_posted": 1793138715,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793153638,
+        "url": "https://go.vansh.nyc/WY",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Charles River Associates (CRA)",
+        "title": "New Grad 2027: Cyber & Forensic Technology Consulting Analyst/Associate",
+        "source": "vanshb03",
+        "id": "a2c437c5-fd40-4ff7-8abf-98cacd60672f",
+        "date_posted": 1793153552,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793153638,
+        "url": "https://go.vansh.nyc/WZ",
+        "locations": [
+            "Boston, MA",
+            "Chicago, IL",
+            "Dallas, TX",
+            "New York, NY",
+            "Washington, DC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Charles River Associates (CRA)",
+        "title": "New Grad 2027: Cyber & Forensic Technology Consulting Analyst/Associate",
+        "source": "vanshb03",
+        "id": "8375d612-8ea7-4107-bde2-d38bee82b7b3",
+        "date_posted": 1793153552,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793153638,
+        "url": "https://go.vansh.nyc/X0",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Perpay",
+        "title": "New Grad 2027: Junior Strategic Analyst",
+        "source": "vanshb03",
+        "id": "b98c6fe4-94fc-4d19-ac30-61e945cc8a3a",
+        "date_posted": 1793153552,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793153638,
+        "url": "https://go.vansh.nyc/X1",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Atlassian",
+        "title": "New Grad 2027: Security Engineer",
+        "source": "vanshb03",
+        "id": "19439ca8-f4db-427c-a08e-0a26e86eac3b",
+        "date_posted": 1793051775,
+        "company_url": "",
+        "is_visible": true
     }
 ]
