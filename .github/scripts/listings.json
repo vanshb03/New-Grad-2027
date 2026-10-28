@@ -26805,5 +26805,21 @@
         "date_posted": 1793051775,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793164406,
+        "url": "https://go.vansh.nyc/X2",
+        "locations": [
+            "Maryland Heights, MO"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Boeing",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "4673c10a-17a5-43a2-8cf9-4072cb2048e6",
+        "date_posted": 1793164040,
+        "company_url": "",
+        "is_visible": true
     }
 ]
