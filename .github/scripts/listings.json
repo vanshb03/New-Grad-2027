@@ -26901,5 +26901,21 @@
         "date_posted": 1793146468,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793205603,
+        "url": "https://go.vansh.nyc/XE",
+        "locations": [
+            "Ca, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "American Express",
+        "title": "New Grad 2027: Engineer, AI Engineering, Enterprise Technology Services (Master's)",
+        "source": "vanshb03",
+        "id": "e106598a-bbc2-4968-9f20-2576fa3c24fd",
+        "date_posted": 1793205514,
+        "company_url": "",
+        "is_visible": true
     }
 ]
