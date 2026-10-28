@@ -27115,5 +27115,21 @@
         "date_posted": 1793145600,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793229037,
+        "url": "https://go.vansh.nyc/Yy",
+        "locations": [
+            "United States, US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "EXL",
+        "title": "Junior Developer",
+        "source": "vanshb03",
+        "id": "ce5fbf0e-4d29-4b1f-89f7-c1e6bd3c0986",
+        "date_posted": 1793228882,
+        "company_url": "",
+        "is_visible": true
     }
 ]
