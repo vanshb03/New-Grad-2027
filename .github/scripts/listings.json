@@ -26673,7 +26673,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793140747,
+        "date_updated": 1793207415,
         "url": "https://go.vansh.nyc/WI",
         "locations": [
             "Bothell, WA",
@@ -26681,7 +26681,7 @@
             "Alpharetta, GA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AT&T",
         "title": "AI-Native Software Engineer Analyst - Full-Stack Python",
         "source": "vanshb03",
