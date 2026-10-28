@@ -27002,14 +27002,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793213228,
+        "date_updated": 1793214619,
         "url": "https://go.vansh.nyc/XP",
         "locations": [
             "Austin, TX",
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "ASIC Verification Engineer",
         "source": "vanshb03",
