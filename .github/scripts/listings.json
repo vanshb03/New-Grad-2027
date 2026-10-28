@@ -19269,13 +19269,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1792698816,
+        "date_updated": 1793160481,
         "url": "https://go.vansh.nyc/B5",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Applied Materials",
         "title": "Business Intelligence Analyst I",
         "source": "vanshb03",
