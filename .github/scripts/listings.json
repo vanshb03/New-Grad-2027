@@ -26917,5 +26917,21 @@
         "date_posted": 1793205514,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793209162,
+        "url": "https://go.vansh.nyc/XG",
+        "locations": [
+            "Crane, IN"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "SAIC",
+        "title": "Software Engineer Associate",
+        "source": "vanshb03",
+        "id": "c90cc59f-a2f1-41bf-b0fd-a1644fbc46a7",
+        "date_posted": 1793130765,
+        "company_url": "",
+        "is_visible": true
     }
 ]
