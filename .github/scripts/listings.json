@@ -18927,13 +18927,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1792698816,
+        "date_updated": 1793240056,
         "url": "https://go.vansh.nyc/AK",
         "locations": [
             "Point Mugu NAWC, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "SAIC",
         "title": "Software Test Engineer",
         "source": "vanshb03",
@@ -26106,13 +26106,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793090819,
+        "date_updated": 1793240028,
         "url": "https://go.vansh.nyc/UN",
         "locations": [
             "Bala Cynwyd, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Susquehanna International Group (SIG)",
         "title": "New Grad: Associate Network Engineer",
         "source": "vanshb03",
@@ -27129,6 +27129,55 @@
         "source": "vanshb03",
         "id": "ce5fbf0e-4d29-4b1f-89f7-c1e6bd3c0986",
         "date_posted": 1793228882,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793240018,
+        "url": "https://go.vansh.nyc/YF",
+        "locations": [
+            "Malta, NY",
+            "Essex Junction, VT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GlobalFoundries",
+        "title": "AI Enabled Device Modeling",
+        "source": "vanshb03",
+        "id": "e9f3ce5c-2dda-4131-8dc4-c4bc8df8cea7",
+        "date_posted": 1793145600,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793240018,
+        "url": "https://go.vansh.nyc/YG",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pure",
+        "title": "iOS / UI Engineer",
+        "source": "vanshb03",
+        "id": "62f706fd-228a-4cff-928c-9cb2f0233f40",
+        "date_posted": 1793232000,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793240018,
+        "url": "https://go.vansh.nyc/YH",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Clark",
+        "title": "New Grad 2027: Engineering Talent",
+        "source": "vanshb03",
+        "id": "b262d10a-a587-494a-8caf-805d5ac66cc1",
+        "date_posted": 1793051340,
         "company_url": "",
         "is_visible": true
     }
