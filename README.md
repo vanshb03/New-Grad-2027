@@ -221,7 +221,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Avis Budget Group** | New Grad 2027: Deployed Transformation Engineer | Troy Hills, NJ | <a href="https://go.vansh.nyc/Dv?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | **TikTok** | New Grad 2027: Research Scientist Graduate | Seattle, WA | <a href="https://go.vansh.nyc/Dh?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
 | **Rovisys** | New Grad 2027: Engineer/Developer | Dublin, OH | <a href="https://go.vansh.nyc/DM?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
-| **NVIDIA** | SRAM Circuit Design Engineer (Master's) | Santa Clara, CA | <a href="https://go.vansh.nyc/Dp?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
 | **NVIDIA** | New Grad 2027: ASIC Verification Engineer | Santa Clara, CA | <a href="https://go.vansh.nyc/Dq?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
 | **NVIDIA** | SoC Software Engineer | Santa Clara, CA | <a href="https://go.vansh.nyc/Dr?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
 | **NVIDIA** | New Grad 2027: Low Power ASIC Engineer | Santa Clara, CA | <a href="https://go.vansh.nyc/Ds?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
@@ -741,6 +740,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **NVIDIA** | New Grad 2027: SoC Software Engineer | Santa Clara, CA | 🔒 | Oct 14 |
 | **ElevenLabs** | Full-Stack Engineer (Backend Leaning), Platform Engineering | Remote | 🔒 | Oct 14 |
 | **ElevenLabs** | Full-Stack Engineer (Backend Leaning), Payments Engineering | Remote | 🔒 | Oct 14 |
+| **NVIDIA** | SRAM Circuit Design Engineer (Master's) | Santa Clara, CA | 🔒 | Oct 13 |
 | **Avis Budget Group** | New Grad 2027: Business Insights Analyst | Troy Hills, NJ | 🔒 | Oct 08 |
 | **Lattice Semiconductor** | Junior Firmware Engineer | Duluth, GA | 🔒 | Sep 23 |
 | **CoStar Group** | New Grad 2027: Associate Security Engineer 🛂 | Richmond, VA | 🔒 | Sep 14 |
