@@ -19856,13 +19856,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793014740,
+        "date_updated": 1793246975,
         "url": "https://go.vansh.nyc/De",
         "locations": [
             "Boise, ID"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Micron Technology",
         "title": "Computer Engineer, Central Engineering",
         "source": "vanshb03",
@@ -20193,13 +20193,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793014740,
+        "date_updated": 1793246975,
         "url": "https://go.vansh.nyc/Dz",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Applied Materials",
         "title": "Product Management 2 (Master's)",
         "source": "vanshb03",
