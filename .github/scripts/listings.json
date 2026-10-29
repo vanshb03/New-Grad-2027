@@ -27216,5 +27216,21 @@
         "date_posted": 1793186377,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793254187,
+        "url": "https://go.vansh.nyc/YQ",
+        "locations": [
+            "Westford, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "GPU Verification Engineer",
+        "source": "vanshb03",
+        "id": "19bfd178-2933-48c1-ba48-5ede9bef7321",
+        "date_posted": 1793253264,
+        "company_url": "",
+        "is_visible": true
     }
 ]
