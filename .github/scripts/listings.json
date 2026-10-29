@@ -26950,13 +26950,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793211019,
+        "date_updated": 1793236188,
         "url": "https://go.vansh.nyc/XK",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "ExtraHop",
         "title": "Software Engineer I, Cloud",
         "source": "vanshb03",
