@@ -26934,13 +26934,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793211019,
+        "date_updated": 1793311804,
         "url": "https://go.vansh.nyc/XJ",
         "locations": [
             "Mountain View, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Glean",
         "title": "Software Engineer",
         "source": "vanshb03",
