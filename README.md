@@ -241,7 +241,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **TikTok** | New Grad 2027: Machine Learning Engineer, Conversational AI | Seattle, WA | <a href="https://go.vansh.nyc/HY?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | **TikTok** | New Grad 2027: Machine Learning Engineer, Conversational AI | San Jose, CA | <a href="https://go.vansh.nyc/HZ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | **Stryker** | Software Engineering, R&D Engineering Development Program | Fort Lauderdale, FL | <a href="https://go.vansh.nyc/I0?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
-| **NVIDIA** | ASIC Clocks Verification Engineer (Master's) | Santa Clara, CA | <a href="https://go.vansh.nyc/I3?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | **LSEG** | New Grad 2027: Engineering Graduate Programme | Norwell, MA | <a href="https://go.vansh.nyc/I1?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | **GlobalFoundries** | New Grad 2027: Software Engineer | Austin, TX</br>Santa Clara, CA | <a href="https://go.vansh.nyc/I2?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | **Aurelian** | Software Engineer | Seattle, WA | <a href="https://go.vansh.nyc/HX?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
@@ -741,6 +740,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **ElevenLabs** | Full-Stack Engineer (Backend Leaning), Platform Engineering | Remote | 🔒 | Oct 14 |
 | **ElevenLabs** | Full-Stack Engineer (Backend Leaning), Payments Engineering | Remote | 🔒 | Oct 14 |
 | **NVIDIA** | SRAM Circuit Design Engineer (Master's) | Santa Clara, CA | 🔒 | Oct 13 |
+| **NVIDIA** | ASIC Clocks Verification Engineer (Master's) | Santa Clara, CA | 🔒 | Oct 09 |
 | **Avis Budget Group** | New Grad 2027: Business Insights Analyst | Troy Hills, NJ | 🔒 | Oct 08 |
 | **Lattice Semiconductor** | Junior Firmware Engineer | Duluth, GA | 🔒 | Sep 23 |
 | **CoStar Group** | New Grad 2027: Associate Security Engineer 🛂 | Richmond, VA | 🔒 | Sep 14 |
