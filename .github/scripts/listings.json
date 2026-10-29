@@ -27408,5 +27408,115 @@
         "date_posted": 1793232000,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793313601,
+        "url": "https://go.vansh.nyc/ZN",
+        "locations": [
+            "Norman, OK"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hitachi",
+        "title": "Data Analyst",
+        "source": "vanshb03",
+        "id": "131ab43f-f0b6-4b79-bb60-e6fa99baf018",
+        "date_posted": 1793232000,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793313601,
+        "url": "https://go.vansh.nyc/ZO",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Wash U",
+        "title": "Statistical Data Analyst, Infectious Diseases",
+        "source": "vanshb03",
+        "id": "4b796785-2e1b-4081-832a-3afd996e02d1",
+        "date_posted": 1793232000,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793313601,
+        "url": "https://go.vansh.nyc/ZP",
+        "locations": [
+            "Honolulu, HI",
+            "Annapolis Junction, MD",
+            "Colorado Springs, CO",
+            "McLean, VA",
+            "Rome, NY",
+            "Panama City, FL",
+            "Charleston, SC",
+            "Atlanta, GA",
+            "Huntsville, AL",
+            "San Diego, CA",
+            "El Segundo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Booz Allen",
+        "title": "New Grad 2027: Software Developer",
+        "source": "vanshb03",
+        "id": "a6843bf2-c845-4703-bb00-1305b5029f97",
+        "date_posted": 1793232000,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793313601,
+        "url": "https://go.vansh.nyc/ZQ",
+        "locations": [
+            "Honolulu, HI",
+            "Annapolis Junction, MD",
+            "Colorado Springs, CO",
+            "McLean, VA",
+            "Rome, NY",
+            "Panama City, FL",
+            "Charleston, SC",
+            "Atlanta, GA",
+            "Huntsville, AL",
+            "San Diego, CA",
+            "El Segundo, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Booz Allen",
+        "title": "New Grad 2027: Data Scientist",
+        "source": "vanshb03",
+        "id": "fff58886-2dcd-40d0-885a-a7b5f20ca447",
+        "date_posted": 1793232000,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793313601,
+        "url": "https://go.vansh.nyc/ZR",
+        "locations": [
+            "Honolulu, HI",
+            "Annapolis Junction, MD",
+            "Colorado Springs, CO",
+            "McLean, VA",
+            "Rome, NY",
+            "Panama City, FL",
+            "Charleston, SC",
+            "Atlanta, GA",
+            "Huntsville, AL",
+            "San Diego, CA",
+            "El Segundo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Booz Allen",
+        "title": "New Grad 2027: Data Scientist",
+        "source": "vanshb03",
+        "id": "92ed4a75-4d3c-4cf4-aa2c-cd730fe19951",
+        "date_posted": 1793232000,
+        "company_url": "",
+        "is_visible": true
     }
 ]
