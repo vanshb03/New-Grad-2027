@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **NVIDIA** | GPU Verification Engineer | Westford, MA | <a href="https://go.vansh.nyc/YQ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | **KLA** | System Software Engineer - Distributed Computing (Master's) | Milpitas, CA | <a href="https://go.vansh.nyc/YT?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | **GDIT** | Tier I Security Operations Center (SOC) Analyst 🇺🇸 | Bossier City, LA | <a href="https://go.vansh.nyc/YY?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
+| **Cisco** | Software QA Engineer I | Richardson, TX | <a href="https://go.vansh.nyc/Zp?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | **Piedmont** | Associate BI Developer | Atlanta, GA | <a href="https://go.vansh.nyc/Z9?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | **Perpay** | New Grad 2027: Junior Strategic Analyst | Philadelphia, PA | <a href="https://go.vansh.nyc/X0?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | **Northrop Grumman** | Associate Software Engineer, Pathways Program 🇺🇸 | Aurora, CO | <a href="https://go.vansh.nyc/Yn?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
