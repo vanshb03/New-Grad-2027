@@ -27614,5 +27614,22 @@
         "date_posted": 1793312986,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793317526,
+        "url": "https://go.vansh.nyc/10i",
+        "locations": [
+            "Santa Clara, CA",
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "ASIC Physical Design Engineer, Netlisting (Master's)",
+        "source": "vanshb03",
+        "id": "4a9593db-1852-436a-89e8-bef0d0941ac8",
+        "date_posted": 1793317355,
+        "company_url": "",
+        "is_visible": true
     }
 ]
