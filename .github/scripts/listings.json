@@ -27360,5 +27360,37 @@
         "date_posted": 1793297333,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793299643,
+        "url": "https://go.vansh.nyc/Zp",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cisco",
+        "title": "Software QA Engineer I",
+        "source": "vanshb03",
+        "id": "00581708-1312-49cb-9966-d44cc6139807",
+        "date_posted": 1793299421,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793299643,
+        "url": "https://go.vansh.nyc/Zq",
+        "locations": [
+            "Ottawa, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NAV CANADA",
+        "title": "Business Automation Developer",
+        "source": "vanshb03",
+        "id": "c5fde2d5-ce53-43d2-9d9e-a8f941389a2a",
+        "date_posted": 1793299421,
+        "company_url": "",
+        "is_visible": true
     }
 ]
