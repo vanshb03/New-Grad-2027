@@ -26983,7 +26983,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793213064,
+        "date_updated": 1793297478,
         "url": "https://go.vansh.nyc/XO",
         "locations": [
             "Washington, DC",
@@ -26991,7 +26991,7 @@
             "Dallas, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Shield AI",
         "title": "New Grad: Engineer I, Software Test and Automation",
         "source": "vanshb03",
@@ -27342,6 +27342,22 @@
         "source": "vanshb03",
         "id": "cd9b4bb8-e9b2-4edf-8cae-6ec33882bf98",
         "date_posted": 1793207367,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793297453,
+        "url": "https://go.vansh.nyc/Zn",
+        "locations": [
+            "Charleston, SC"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "SOSi",
+        "title": "Entry-Level PeopleSoft Software Developer",
+        "source": "vanshb03",
+        "id": "e97e4fcb-1ea4-4d4d-8ed8-60e41ae71200",
+        "date_posted": 1793297333,
         "company_url": "",
         "is_visible": true
     }
