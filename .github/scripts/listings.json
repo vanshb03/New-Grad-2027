@@ -20273,13 +20273,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793014740,
+        "date_updated": 1793243428,
         "url": "https://go.vansh.nyc/DE",
         "locations": [
             "Boise, ID"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Micron Technology",
         "title": "Embedded Firmware Engineer",
         "source": "vanshb03",
@@ -27178,6 +27178,42 @@
         "source": "vanshb03",
         "id": "b262d10a-a587-494a-8caf-805d5ac66cc1",
         "date_posted": 1793051340,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793243411,
+        "url": "https://go.vansh.nyc/YI",
+        "locations": [
+            "Mountain View, CA",
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Neon",
+        "title": "New Grad 2027: Software Engineer, Distributed Data Systems",
+        "source": "vanshb03",
+        "id": "aaff1ae6-ad50-4e36-9e67-3fb8d3dd8781",
+        "date_posted": 1793186378,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793243412,
+        "url": "https://go.vansh.nyc/YJ",
+        "locations": [
+            "San Francisco, CA",
+            "Mountain View, CA",
+            "Bellevue, WA",
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Neon",
+        "title": "New Grad 2027: Software Engineer",
+        "source": "vanshb03",
+        "id": "58df6bb2-b790-420b-b447-e1893c999a51",
+        "date_posted": 1793186377,
         "company_url": "",
         "is_visible": true
     }
