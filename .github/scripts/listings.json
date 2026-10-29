@@ -27232,5 +27232,21 @@
         "date_posted": 1793253264,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793272265,
+        "url": "https://go.vansh.nyc/YT",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KLA",
+        "title": "System Software Engineer - Distributed Computing (Master's)",
+        "source": "vanshb03",
+        "id": "e78b1a4b-b509-48db-8088-7f3e6583b505",
+        "date_posted": 1793232000,
+        "company_url": "",
+        "is_visible": true
     }
 ]
