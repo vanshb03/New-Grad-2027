@@ -26411,13 +26411,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793106588,
+        "date_updated": 1793288414,
         "url": "https://go.vansh.nyc/VA",
         "locations": [
             "Mckinney, TX"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "Embedded Software Engineer I",
         "source": "vanshb03",
