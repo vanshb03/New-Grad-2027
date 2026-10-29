@@ -20032,13 +20032,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793014740,
+        "date_updated": 1793257762,
         "url": "https://go.vansh.nyc/Dp",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "SRAM Circuit Design Engineer (Master's)",
         "source": "vanshb03",
