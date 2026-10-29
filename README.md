@@ -216,8 +216,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Wolverine Trading** | Entry Level C++ Software Engineer | Chicago, IL | <a href="https://go.vansh.nyc/DI?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | **KLA** | Software Engineer - Embedded Software/Firmware Development - Embedded Image Processing (Master's) | Ann Arbor, MI | <a href="https://go.vansh.nyc/DG?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | **Keysight Technologies** | R&D Software Engineer, Electronic Measurement Systems (Master's) | Colorado Springs, CO | <a href="https://go.vansh.nyc/Du?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
-| **ElevenLabs** | Full-Stack Engineer (Backend Leaning), Platform Engineering | Remote | <a href="https://go.vansh.nyc/UV?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
-| **ElevenLabs** | Full-Stack Engineer (Backend Leaning), Payments Engineering | Remote | <a href="https://go.vansh.nyc/UW?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | **Axtria** | New Grad 2027: Decision Intelligence Analyst | Berkeley Heights, NJ | <a href="https://go.vansh.nyc/Dt?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | **Avis Budget Group** | New Grad 2027: Deployed Transformation Engineer | Troy Hills, NJ | <a href="https://go.vansh.nyc/Dv?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | **TikTok** | New Grad 2027: Research Scientist Graduate | Seattle, WA | <a href="https://go.vansh.nyc/Dh?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
@@ -740,6 +738,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Applied Materials** | Product Management 2 (Master's) | Santa Clara, CA | 🔒 | Oct 15 |
 | **NVIDIA** | ASIC Verification Engineer | Austin, TX</br>Santa Clara, CA | 🔒 | Oct 14 |
 | **NVIDIA** | New Grad 2027: SoC Software Engineer | Santa Clara, CA | 🔒 | Oct 14 |
+| **ElevenLabs** | Full-Stack Engineer (Backend Leaning), Platform Engineering | Remote | 🔒 | Oct 14 |
+| **ElevenLabs** | Full-Stack Engineer (Backend Leaning), Payments Engineering | Remote | 🔒 | Oct 14 |
 | **Avis Budget Group** | New Grad 2027: Business Insights Analyst | Troy Hills, NJ | 🔒 | Oct 08 |
 | **Lattice Semiconductor** | Junior Firmware Engineer | Duluth, GA | 🔒 | Sep 23 |
 | **CoStar Group** | New Grad 2027: Associate Security Engineer 🛂 | Richmond, VA | 🔒 | Sep 14 |
