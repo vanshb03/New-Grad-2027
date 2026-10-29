@@ -27296,5 +27296,53 @@
         "date_posted": 1793270498,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793295690,
+        "url": "https://go.vansh.nyc/Z9",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Piedmont",
+        "title": "Associate BI Developer",
+        "source": "vanshb03",
+        "id": "39583ff8-28e4-49c1-bde8-0861e83cdc3b",
+        "date_posted": 1793160000,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793295690,
+        "url": "https://go.vansh.nyc/Za",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Aerospace",
+        "title": "Software Engineer I, Middleware",
+        "source": "vanshb03",
+        "id": "31c7eb71-7a6a-41e8-8b27-2c390d478ed9",
+        "date_posted": 1793223909,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793295690,
+        "url": "https://go.vansh.nyc/Zb",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intel",
+        "title": "EDA Tools Software Engineer",
+        "source": "vanshb03",
+        "id": "cd9b4bb8-e9b2-4edf-8cae-6ec33882bf98",
+        "date_posted": 1793207367,
+        "company_url": "",
+        "is_visible": true
     }
 ]
