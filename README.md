@@ -211,8 +211,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **VAST Data** | Software Engineer, V-Force | New York, NY | <a href="https://go.vansh.nyc/DF?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | **TikTok** | New Grad 2027: Backend Engineer, Social Foundation | San Jose, CA | <a href="https://go.vansh.nyc/Dw?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | **Oshkosh** | Software Engineer | Oshkosh, WI | <a href="https://go.vansh.nyc/Dy?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
-| **Micron Technology** | Computer Engineer, Central Engineering | Boise, ID | <a href="https://go.vansh.nyc/De?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
-| **Applied Materials** | Product Management 2 (Master's) | Santa Clara, CA | <a href="https://go.vansh.nyc/Dz?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | **Apple** | Graphics Software Content Engineer | Orlando, FL | <a href="https://go.vansh.nyc/UJ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | **Wolverine Trading** | New Grad 2027: Entry Level C++ Software Engineer | Chicago, IL | <a href="https://go.vansh.nyc/DH?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | **Wolverine Trading** | Entry Level C++ Software Engineer | Chicago, IL | <a href="https://go.vansh.nyc/DI?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
@@ -737,7 +735,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Susquehanna International Group (SIG)** | New Grad: Associate Network Engineer | Bala Cynwyd, PA | 🔒 | Oct 19 |
 | **Mastercard** | New Grad 2027: AI Engineer 1 - Launch Program | O'Fallon, MO | 🔒 | Oct 16 |
 | **Barrios** | Software Engineer, Space Operations Computing 🇺🇸 | Houston, TX | 🔒 | Oct 16 |
+| **Micron Technology** | Computer Engineer, Central Engineering | Boise, ID | 🔒 | Oct 15 |
 | **Micron Technology** | Embedded Firmware Engineer | Boise, ID | 🔒 | Oct 15 |
+| **Applied Materials** | Product Management 2 (Master's) | Santa Clara, CA | 🔒 | Oct 15 |
 | **NVIDIA** | ASIC Verification Engineer | Austin, TX</br>Santa Clara, CA | 🔒 | Oct 14 |
 | **NVIDIA** | New Grad 2027: SoC Software Engineer | Santa Clara, CA | 🔒 | Oct 14 |
 | **Avis Budget Group** | New Grad 2027: Business Insights Analyst | Troy Hills, NJ | 🔒 | Oct 08 |
