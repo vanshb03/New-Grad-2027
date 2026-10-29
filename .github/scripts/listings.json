@@ -20698,13 +20698,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793018234,
+        "date_updated": 1793277547,
         "url": "https://go.vansh.nyc/HD",
         "locations": [
             "Conshohocken, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Interdigital",
         "title": "Research Engineer, 6G AI-Enabled Systems and Testbeds (Master's)",
         "source": "vanshb03",
