@@ -21119,13 +21119,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793018234,
+        "date_updated": 1793264965,
         "url": "https://go.vansh.nyc/I3",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "ASIC Clocks Verification Engineer (Master's)",
         "source": "vanshb03",
