@@ -27518,5 +27518,101 @@
         "date_posted": 1793232000,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793315442,
+        "url": "https://go.vansh.nyc/10c",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Morningstar",
+        "title": "Associate Software Engineer, Central Tech AI",
+        "source": "vanshb03",
+        "id": "3c0371ef-c2a7-48a7-81ea-f702cbba32f1",
+        "date_posted": 1793232000,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793315442,
+        "url": "https://go.vansh.nyc/10d",
+        "locations": [
+            "Aurora, CO"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "Associate Data Scientist",
+        "source": "vanshb03",
+        "id": "e62f7c83-1773-4965-b591-b1df281ebc09",
+        "date_posted": 1793232000,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793315442,
+        "url": "https://go.vansh.nyc/10e",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DraftKings",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "1bd6b839-6938-417a-a0ae-4009cadfb448",
+        "date_posted": 1793232000,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793315442,
+        "url": "https://go.vansh.nyc/10f",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Morningstar",
+        "title": "Associate Software Engineer, Central Tech AI",
+        "source": "vanshb03",
+        "id": "b4de38a1-6516-412b-9b5b-693f4183e6f8",
+        "date_posted": 1793232000,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793315442,
+        "url": "https://go.vansh.nyc/10g",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Raydar",
+        "title": "Machine Learning Infrastructure Engineer",
+        "source": "vanshb03",
+        "id": "8c476f87-5260-42e0-b63c-c5ff85eb863f",
+        "date_posted": 1793312993,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793315442,
+        "url": "https://go.vansh.nyc/10h",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Raydar",
+        "title": "New Grad: Engineer",
+        "source": "vanshb03",
+        "id": "54412ccd-4c77-47ea-a657-8063254992a6",
+        "date_posted": 1793312986,
+        "company_url": "",
+        "is_visible": true
     }
 ]
