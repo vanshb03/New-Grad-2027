@@ -27392,5 +27392,21 @@
         "date_posted": 1793299421,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793304621,
+        "url": "https://go.vansh.nyc/Zv",
+        "locations": [
+            "Aurora, CO"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "New Grad 2027: Associate Cyber Software Engineer",
+        "source": "vanshb03",
+        "id": "a7171bec-f0f3-412b-adec-e3ff093d0096",
+        "date_posted": 1793232000,
+        "company_url": "",
+        "is_visible": true
     }
 ]
