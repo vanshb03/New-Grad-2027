@@ -26234,13 +26234,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793090819,
+        "date_updated": 1793250849,
         "url": "https://go.vansh.nyc/UV",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ElevenLabs",
         "title": "Full-Stack Engineer (Backend Leaning), Platform Engineering",
         "source": "vanshb03",
@@ -26250,13 +26250,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793090819,
+        "date_updated": 1793250849,
         "url": "https://go.vansh.nyc/UW",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ElevenLabs",
         "title": "Full-Stack Engineer (Backend Leaning), Payments Engineering",
         "source": "vanshb03",
