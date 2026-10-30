@@ -25133,13 +25133,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793063869,
+        "date_updated": 1793380242,
         "url": "https://go.vansh.nyc/TF",
         "locations": [
             "Laurel, MD"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "title": "New Grad 2027: Data Scientist; Computer Scientist; Engineer - Decision Systems",
         "source": "vanshb03",
