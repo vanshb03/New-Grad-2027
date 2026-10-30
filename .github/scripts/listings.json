@@ -27942,5 +27942,53 @@
         "date_posted": 1793401641,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793403885,
+        "url": "https://go.vansh.nyc/11A",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "ASIC Physical Design and Timing Engineer (Master's)",
+        "source": "vanshb03",
+        "id": "029b2a7c-7adc-417a-afc7-167dd8a22374",
+        "date_posted": 1793403785,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793403885,
+        "url": "https://go.vansh.nyc/11B",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Cell Modeling and Verification Engineer",
+        "source": "vanshb03",
+        "id": "c6e95629-6470-47d8-be43-59f01bd9b6be",
+        "date_posted": 1793403785,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793403885,
+        "url": "https://go.vansh.nyc/11C",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "ASIC Design Verification Engineer (Master's)",
+        "source": "vanshb03",
+        "id": "775cbf03-89b7-4d4b-94e3-ecca9bb9c1f0",
+        "date_posted": 1793403785,
+        "company_url": "",
+        "is_visible": true
     }
 ]
