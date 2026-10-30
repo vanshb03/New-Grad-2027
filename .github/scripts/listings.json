@@ -27266,13 +27266,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793284811,
+        "date_updated": 1793337259,
         "url": "https://go.vansh.nyc/Z1",
         "locations": [
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Thoughtworks",
         "title": "Associate Developer",
         "source": "vanshb03",
@@ -27282,13 +27282,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793284811,
+        "date_updated": 1793337259,
         "url": "https://go.vansh.nyc/Z2",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Thoughtworks",
         "title": "New Grad: Software Developer",
         "source": "vanshb03",
