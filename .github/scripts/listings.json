@@ -22021,13 +22021,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793023323,
+        "date_updated": 1793389252,
         "url": "https://go.vansh.nyc/KH",
         "locations": [
             "Redwood City, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Solace Health",
         "title": "New Grad 2027: Associate Data Scientist",
         "source": "vanshb03",
@@ -23677,13 +23677,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793025546,
+        "date_updated": 1793389252,
         "url": "https://go.vansh.nyc/Ob",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Demiurge Studios",
         "title": "New Grad 2027: Associate Software Engineer",
         "source": "vanshb03",
