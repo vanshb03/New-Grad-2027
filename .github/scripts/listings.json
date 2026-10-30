@@ -27760,5 +27760,187 @@
         "date_posted": 1793318400,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793401784,
+        "url": "https://go.vansh.nyc/11h",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Wise",
+        "title": "New Grad 2027: Product Analyst",
+        "source": "vanshb03",
+        "id": "19442303-0bd1-4e50-8ef7-632f6a1c41e2",
+        "date_posted": 1793397357,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793401784,
+        "url": "https://go.vansh.nyc/11i",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA",
+            "Austin, TX",
+            "Redmond, WA",
+            "East Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "New Grad 2027: Software Development Engineer, Database",
+        "source": "vanshb03",
+        "id": "05c1ae03-6cd5-4072-ac65-f5bcc17438ed",
+        "date_posted": 1793399898,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793401784,
+        "url": "https://go.vansh.nyc/11j",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Formal Verification Engineer",
+        "source": "vanshb03",
+        "id": "3c924ab7-9861-4535-88bb-6b778780f0d4",
+        "date_posted": 1793401641,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793401784,
+        "url": "https://go.vansh.nyc/11k",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "ASIC Floorplan Design Engineer (Master's)",
+        "source": "vanshb03",
+        "id": "70cd4a56-0ccb-4819-9131-5a2356ebd6a3",
+        "date_posted": 1793401641,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793401784,
+        "url": "https://go.vansh.nyc/11l",
+        "locations": [
+            "Durham, NC",
+            "Madison, AL",
+            "Hillsboro, OR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "New Grad 2027: ASIC Verification Engineer, Memory Management",
+        "source": "vanshb03",
+        "id": "955aa0be-a5f6-48d1-b451-ae4968fc3c1e",
+        "date_posted": 1793401641,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793401784,
+        "url": "https://go.vansh.nyc/11m",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "ASIC Design Engineer",
+        "source": "vanshb03",
+        "id": "6114f321-5747-4056-97c1-db2513acd716",
+        "date_posted": 1793401641,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793401784,
+        "url": "https://go.vansh.nyc/11n",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Applied Machine Learning Engineer, AI for VLSI Design (Master's)",
+        "source": "vanshb03",
+        "id": "f45349e7-4f0f-4f03-b9b4-6caa9cab151b",
+        "date_posted": 1793401641,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793401784,
+        "url": "https://go.vansh.nyc/11o",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "New Grad 2027: ASIC Design Engineer",
+        "source": "vanshb03",
+        "id": "b9af871a-af62-458f-88f0-eb3d0c84e3af",
+        "date_posted": 1793401641,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793401784,
+        "url": "https://go.vansh.nyc/11p",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Architecture Energy Modeling Engineer (Master's)",
+        "source": "vanshb03",
+        "id": "960ceb31-6f0e-43f6-aa23-92909b5ef466",
+        "date_posted": 1793401641,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793401784,
+        "url": "https://go.vansh.nyc/11q",
+        "locations": [
+            "Westford, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "GPU Verification Engineer",
+        "source": "vanshb03",
+        "id": "958c9c67-80de-404d-b89e-6fd592231702",
+        "date_posted": 1793401641,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793401784,
+        "url": "https://go.vansh.nyc/11r",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Applied Systems Engineering Rotation Engineer",
+        "source": "vanshb03",
+        "id": "7f27e341-da83-400f-9568-a71a2af353d4",
+        "date_posted": 1793401641,
+        "company_url": "",
+        "is_visible": true
     }
 ]
