@@ -23709,13 +23709,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793025546,
+        "date_updated": 1793369366,
         "url": "https://go.vansh.nyc/Od",
         "locations": [
             "Bloomington, MN"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "General Dynamics Mission Systems",
         "title": "New Grad 2027: Engineering Leadership Program Engineer (EE, SW, Firmware, Sys)",
         "source": "vanshb03",
