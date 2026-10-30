@@ -44,7 +44,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
-| **Thoughtworks** | Associate Developer | Toronto, Canada | <a href="https://go.vansh.nyc/Z1?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | **NAV CANADA** | Business Automation Developer | Ottawa, Canada | <a href="https://go.vansh.nyc/Zq?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | **Neon** | New Grad 2027: Software Engineer | <details><summary>**4 locations**</summary>San Francisco, CA</br>Mountain View, CA</br>Bellevue, WA</br>Vancouver, Canada</details> | <a href="https://go.vansh.nyc/YJ?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | **Ciena** | New Grad: Routing/IP Software Engineer | Ottawa, Canada | <a href="https://go.vansh.nyc/Ym?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
@@ -86,6 +85,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Tower Research Capital** | New Grad: C++ Software Engineer, MTL | Montreal, Canada | <a href="https://go.vansh.nyc/j2?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 03 |
 | **Oracle** | Software Developer | Remote</br>Canada | <a href="https://go.vansh.nyc/iS?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 19 |
 | **Oracle** | Software Developer - Rotational Program - NetSuite | Kitchiner, Canada | <a href="https://go.vansh.nyc/iR?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 19 |
+| **Thoughtworks** | Associate Developer | Toronto, Canada | 🔒 | Oct 29 |
 | **General Motors** | New Grad 2027: Software Test Developer, Propulsion Thermal Management | Markham, Canada | 🔒 | Oct 26 |
 | **Capital One** | Associate Software Engineer, Card Expansion | Toronto, Canada | 🔒 | Oct 23 |
 | **Cisco** | Software Developer, Embedded Systems I | <details><summary>**6 locations**</summary>Kanata, Canada</br>Laurent, Canada</br>Calgary, Canada</br>Montreal, Canada</br>Vancouver, Canada</br>Ottawa, Canada</details> | 🔒 | Oct 22 |
