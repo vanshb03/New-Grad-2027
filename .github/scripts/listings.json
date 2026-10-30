@@ -27695,5 +27695,70 @@
         "date_posted": 1793297300,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793400023,
+        "url": "https://go.vansh.nyc/11c",
+        "locations": [
+            "Hillsboro, OR",
+            "Phoenix, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intel",
+        "title": "New Grad: Software Application Development Engineer",
+        "source": "vanshb03",
+        "id": "e17235aa-0d0a-4786-8418-a0fc84afd717",
+        "date_posted": 1793318400,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793400023,
+        "url": "https://go.vansh.nyc/11d",
+        "locations": [
+            "Alameda, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Kairos Power",
+        "title": "Firmware Development Engineer",
+        "source": "vanshb03",
+        "id": "6af6d292-49d5-48b5-9f93-331539c01a8c",
+        "date_posted": 1793380723,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793400023,
+        "url": "https://go.vansh.nyc/11e",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Chicago Trading Company",
+        "title": "New Grad 2027: Quant Trading Associate",
+        "source": "vanshb03",
+        "id": "fda8b207-1112-4123-88e3-28656966ea52",
+        "date_posted": 1793385621,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793400023,
+        "url": "https://go.vansh.nyc/11f",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Chicago Trading Company",
+        "title": "New Grad 2027: Quant Trading Associate",
+        "source": "vanshb03",
+        "id": "a80c4680-d99b-43c1-be67-e68cbfe5d85c",
+        "date_posted": 1793318400,
+        "company_url": "",
+        "is_visible": true
     }
 ]
