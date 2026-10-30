@@ -22133,13 +22133,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793023324,
+        "date_updated": 1793354945,
         "url": "https://go.vansh.nyc/KO",
         "locations": [
             "Montreal, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tower Research Capital",
         "title": "C++ Software Developer, Rotational Program",
         "source": "vanshb03",
