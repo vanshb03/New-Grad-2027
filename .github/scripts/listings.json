@@ -21440,13 +21440,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793023323,
+        "date_updated": 1793333339,
         "url": "https://go.vansh.nyc/K7",
         "locations": [
             "Charlotte, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "American Express",
         "title": "New Grad 2027: Analyst, Data & Analytics, Enterprise Technology Services",
         "source": "vanshb03",
@@ -22365,13 +22365,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793023324,
+        "date_updated": 1793333339,
         "url": "https://go.vansh.nyc/L2",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Astranis",
         "title": "Flight Software Associate",
         "source": "vanshb03",
