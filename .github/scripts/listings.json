@@ -26395,13 +26395,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793102970,
+        "date_updated": 1793340559,
         "url": "https://go.vansh.nyc/Vw",
         "locations": [
             "Colorado Springs, CO"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Northrop Grumman",
         "title": "New Grad 2027: Associate Software Engineer / Software Engineer",
         "source": "vanshb03",
