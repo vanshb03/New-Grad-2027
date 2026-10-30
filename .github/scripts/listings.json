@@ -21408,13 +21408,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793018234,
+        "date_updated": 1793322567,
         "url": "https://go.vansh.nyc/Il",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "Applied Machine Learning Engineer, AI for VLSI Design (Master's)",
         "source": "vanshb03",
@@ -27629,6 +27629,22 @@
         "source": "vanshb03",
         "id": "4a9593db-1852-436a-89e8-bef0d0941ac8",
         "date_posted": 1793317355,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793322559,
+        "url": "https://go.vansh.nyc/10j",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Johns Hopkins APL",
+        "title": "New Grad 2027: Software Systems Engineer",
+        "source": "vanshb03",
+        "id": "43f1ab62-309e-49c7-aa6b-380e148c5bef",
+        "date_posted": 1793322465,
         "company_url": "",
         "is_visible": true
     }
