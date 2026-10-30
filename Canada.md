@@ -59,14 +59,11 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Bell Canada** | New Grad 2027: Technology Services, Product and Initiative Management | Verdun, Canada | <a href="https://go.vansh.nyc/UP?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | **Bell Canada** | New Grad 2027: Technology Services, Delivery, Excellence & Architecture | Verdun, Canada | <a href="https://go.vansh.nyc/TB?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | **Bell Canada** | New Grad 2027: Technology Services, Emerging AI and Data Solutions | Verdun, Canada | <a href="https://go.vansh.nyc/TC?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
-| **AMD** | New Grad: Systems Design Engineer | Markham, Canada | <a href="https://go.vansh.nyc/TS?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | **Quora** | Machine Learning Engineer | Remote</br>Remote, Canada | <a href="https://go.vansh.nyc/Dx?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | **BDO Canada** | New Grad 2027: DevOps Engineer | Toronto, Canada | <a href="https://go.vansh.nyc/Hn?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | **Motorola** | Junior Software Engineer, AI Agent Platform | Remote, Canada | <a href="https://go.vansh.nyc/HF?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
 | **Fellow Insights** | New Grad 2027: Software Engineer | Ottawa, Canada | <a href="https://go.vansh.nyc/If?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 04 |
 | **Harbor** | Junior Developer, Finance Systems | Remote</br>Remote, Canada | <a href="https://go.vansh.nyc/I7?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
-| **AMD** | Software System Designer | Markham, Canada | <a href="https://go.vansh.nyc/I5?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
-| **AMD** | Silicon Design Engineer | Markham, Canada | <a href="https://go.vansh.nyc/I6?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
 | **AMD** | RTL/Firmware Design Engineer | Markham, Canada | <a href="https://go.vansh.nyc/Hw?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
 | **Quora** | Software Engineer, Machine Learning Platform | Remote</br>Remote, Canada | <a href="https://go.vansh.nyc/Lc?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
 | **DoorDash** | New Grad 2027: Software Engineer | Toronto, Canada | <a href="https://go.vansh.nyc/Kd?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
@@ -88,6 +85,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **General Motors** | New Grad 2027: Software Test Developer, Propulsion Thermal Management | Markham, Canada | 🔒 | Oct 26 |
 | **Capital One** | Associate Software Engineer, Card Expansion | Toronto, Canada | 🔒 | Oct 23 |
 | **Cisco** | Software Developer, Embedded Systems I | <details><summary>**6 locations**</summary>Kanata, Canada</br>Laurent, Canada</br>Calgary, Canada</br>Montreal, Canada</br>Vancouver, Canada</br>Ottawa, Canada</details> | 🔒 | Oct 22 |
+| **AMD** | New Grad: Systems Design Engineer | Markham, Canada | 🔒 | Oct 19 |
+| **AMD** | Software System Designer | Markham, Canada | 🔒 | Sep 28 |
+| **AMD** | Silicon Design Engineer | Markham, Canada | 🔒 | Sep 28 |
 | **Tower Research Capital** | C++ Software Developer, Rotational Program | Montreal, Canada | 🔒 | Sep 15 |
 | **Cohere** | Member of Technical Staff, MLE | <details><summary>**5 locations**</summary>San Francisco, CA</br>New York, NY</br>Toronto, Canada</br>Montreal, Canada</br>Remote</details> | 🔒 | Jan 09 |
 | **Magical** | New Grad: Junior Software Engineer, AI | San Francisco, CA</br>Toronto, Canada | 🔒 | Dec 12 |
