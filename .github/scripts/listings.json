@@ -18581,13 +18581,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1785606896,
+        "date_updated": 1793385970,
         "url": "https://go.vansh.nyc/Ap",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Chicago Trading Company",
         "title": "New Grad 2027: Quant Trading Associate",
         "source": "vanshb03",
