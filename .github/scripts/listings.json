@@ -27665,13 +27665,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793383821,
+        "date_updated": 1793384187,
         "url": "https://go.vansh.nyc/10N",
         "locations": [
             "Bundesweit, DE"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Sopra Steria I2S",
         "title": "Cloud Computing",
         "source": "vanshb03",
