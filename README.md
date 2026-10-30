@@ -317,8 +317,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Klaviyo** | New Grad 2027: AI Engineer 1 (Master's) | Boston, MA | <a href="https://go.vansh.nyc/L4?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
 | **Honeywell** | Software Engineer 1 | Duluth, GA | <a href="https://go.vansh.nyc/L3?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
 | **General Motors** | Software Engineer, AV HIL Platform and Services | Sunnyvale, CA | <a href="https://go.vansh.nyc/K8?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
-| **Astranis** | Flight Software Associate 🇺🇸 | San Francisco, CA | <a href="https://go.vansh.nyc/L2?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
-| **American Express** | New Grad 2027: Analyst, Data & Analytics, Enterprise Technology Services | Charlotte, NC | <a href="https://go.vansh.nyc/K7?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
 | **ZS** | Business Technology Solutions Associate | Chicago, IL</br>Princeton, NJ | <a href="https://go.vansh.nyc/Ld?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 22 |
 | **Renesas Electronics** | Electrical Engineer | Austin, TX | <a href="https://go.vansh.nyc/L1?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 22 |
 | **Collinear AI** | Mts Research, Cybersecurity | San Francisco, CA</br>Sunnyvale, CA | <a href="https://go.vansh.nyc/KY?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 22 |
@@ -765,6 +763,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Interdigital** | Research Engineer, 6G AI-Enabled Systems and Testbeds (Master's) | Conshohocken, PA | 🔒 | Oct 02 |
 | **NVIDIA** | Applied Machine Learning Engineer, AI for VLSI Design (Master's) | Santa Clara, CA | 🔒 | Sep 29 |
 | **Lattice Semiconductor** | Junior Firmware Engineer | Duluth, GA | 🔒 | Sep 23 |
+| **Astranis** | Flight Software Associate 🇺🇸 | San Francisco, CA | 🔒 | Sep 23 |
+| **American Express** | New Grad 2027: Analyst, Data & Analytics, Enterprise Technology Services | Charlotte, NC | 🔒 | Sep 23 |
 | **CoStar Group** | New Grad 2027: Associate Security Engineer 🛂 | Richmond, VA | 🔒 | Sep 14 |
 | **Terra Norbital Corporation** | Associate Flight Software Test & Tools Engineer 🇺🇸 | Irvine, CA | 🔒 | Sep 03 |
 | **Katalyst Space Technologies** | Software Engineer 1 | Broomfield, CO | 🔒 | Sep 01 |
