@@ -20048,13 +20048,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793014740,
+        "date_updated": 1793398188,
         "url": "https://go.vansh.nyc/Dq",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "New Grad 2027: ASIC Verification Engineer",
         "source": "vanshb03",
@@ -20064,13 +20064,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793014740,
+        "date_updated": 1793398188,
         "url": "https://go.vansh.nyc/Dr",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "SoC Software Engineer",
         "source": "vanshb03",
@@ -20080,13 +20080,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793014740,
+        "date_updated": 1793398188,
         "url": "https://go.vansh.nyc/Ds",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "New Grad 2027: Low Power ASIC Engineer",
         "source": "vanshb03",
@@ -20794,14 +20794,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793018234,
+        "date_updated": 1793398188,
         "url": "https://go.vansh.nyc/HJ",
         "locations": [
             "Austin, TX",
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "New Grad 2027: GPU PCIe and Boot Architect",
         "source": "vanshb03",
@@ -23221,13 +23221,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793025545,
+        "date_updated": 1793398188,
         "url": "https://go.vansh.nyc/NJ",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "Applied Systems Engineering Rotation Engineer",
         "source": "vanshb03",
@@ -26508,13 +26508,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793131760,
+        "date_updated": 1793398188,
         "url": "https://go.vansh.nyc/Wk",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "New Grad 2027: Deep Learning Performance Architect",
         "source": "vanshb03",
@@ -26556,13 +26556,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793135603,
+        "date_updated": 1793398188,
         "url": "https://go.vansh.nyc/Wq",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "New Grad 2027: Formal Verification Engineer",
         "source": "vanshb03",
@@ -27018,13 +27018,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793213228,
+        "date_updated": 1793398188,
         "url": "https://go.vansh.nyc/XQ",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "Formal Verification Engineer",
         "source": "vanshb03",
@@ -27034,13 +27034,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793213228,
+        "date_updated": 1793398188,
         "url": "https://go.vansh.nyc/XR",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "New Grad 2027: ASIC Design Engineer",
         "source": "vanshb03",
@@ -27050,7 +27050,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793213228,
+        "date_updated": 1793398188,
         "url": "https://go.vansh.nyc/XS",
         "locations": [
             "Durham, NC",
@@ -27058,7 +27058,7 @@
             "Hillsboro, OR"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "New Grad 2027: ASIC Verification Engineer, Memory Management",
         "source": "vanshb03",
@@ -27068,14 +27068,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793213228,
+        "date_updated": 1793398188,
         "url": "https://go.vansh.nyc/XT",
         "locations": [
             "Austin, TX",
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "New Grad 2027: ASIC Verification Engineer",
         "source": "vanshb03",
@@ -27218,13 +27218,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793254187,
+        "date_updated": 1793398188,
         "url": "https://go.vansh.nyc/YQ",
         "locations": [
             "Westford, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "GPU Verification Engineer",
         "source": "vanshb03",
