@@ -27298,13 +27298,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793295690,
+        "date_updated": 1793367778,
         "url": "https://go.vansh.nyc/Z9",
         "locations": [
             "Atlanta, GA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Piedmont",
         "title": "Associate BI Developer",
         "source": "vanshb03",
