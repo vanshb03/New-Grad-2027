@@ -71,7 +71,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Quora** | Software Engineer, Machine Learning Platform | Remote</br>Remote, Canada | <a href="https://go.vansh.nyc/Lc?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
 | **DoorDash** | New Grad 2027: Software Engineer | Toronto, Canada | <a href="https://go.vansh.nyc/Kd?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | **Atlassian** | New Grad 2027: Software Engineer | Burnaby, Canada</br>Vancouver, Canada</br>Richmond, Canada | <a href="https://go.vansh.nyc/Ku?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
-| **Tower Research Capital** | C++ Software Developer, Rotational Program | Montreal, Canada | <a href="https://go.vansh.nyc/KO?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | **General Dynamics Mission Systems** | Junior Hardware Engineering Developer, FPGA | Ottawa, Canada | <a href="https://go.vansh.nyc/Oa?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 04 |
 | **General Dynamics UK** | Junior Hardware Engineer Developer, FPGA | Ottawa, Canada | <a href="https://go.vansh.nyc/NN?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
 | **Zip** | New Grad 2027: Software Engineer | Toronto, Canada | <a href="https://go.vansh.nyc/Np?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
@@ -89,6 +88,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **General Motors** | New Grad 2027: Software Test Developer, Propulsion Thermal Management | Markham, Canada | 🔒 | Oct 26 |
 | **Capital One** | Associate Software Engineer, Card Expansion | Toronto, Canada | 🔒 | Oct 23 |
 | **Cisco** | Software Developer, Embedded Systems I | <details><summary>**6 locations**</summary>Kanata, Canada</br>Laurent, Canada</br>Calgary, Canada</br>Montreal, Canada</br>Vancouver, Canada</br>Ottawa, Canada</details> | 🔒 | Oct 22 |
+| **Tower Research Capital** | C++ Software Developer, Rotational Program | Montreal, Canada | 🔒 | Sep 15 |
 | **Cohere** | Member of Technical Staff, MLE | <details><summary>**5 locations**</summary>San Francisco, CA</br>New York, NY</br>Toronto, Canada</br>Montreal, Canada</br>Remote</details> | 🔒 | Jan 09 |
 | **Magical** | New Grad: Junior Software Engineer, AI | San Francisco, CA</br>Toronto, Canada | 🔒 | Dec 12 |
 | **Wanderlog** | Full-Stack Software Engineer 🇺🇸 | Toronto, Canada</br>Remote | 🔒 | Dec 09 |
