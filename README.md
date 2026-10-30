@@ -45,7 +45,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Johns Hopkins APL** | New Grad 2027: Software Systems Engineer | Laurel, MD | <a href="https://go.vansh.nyc/10j?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | **Wash U** | Statistical Data Analyst, Infectious Diseases | St. Louis, MO | <a href="https://go.vansh.nyc/ZO?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | **SOSi** | Entry-Level PeopleSoft Software Developer 🇺🇸 | Charleston, SC | <a href="https://go.vansh.nyc/Zn?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
-| **Sopra Steria I2S** | Cloud Computing | Bundesweit, DE | <a href="https://go.vansh.nyc/10N?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | **Raydar** | New Grad: Engineer | San Francisco, CA | <a href="https://go.vansh.nyc/10h?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | **Pure** | iOS / UI Engineer | New York, NY | <a href="https://go.vansh.nyc/YG?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | **NVIDIA** | GPU Verification Engineer | Westford, MA | <a href="https://go.vansh.nyc/YQ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
@@ -700,6 +699,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Tesla** | Software Engineer, Traction Control & Stability | Palo Alto, CA | <a href="https://go.vansh.nyc/ig?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 05 |
 | **Qualcomm** | Embedded DSP Software Engineer | San Diego, CA | <a href="https://go.vansh.nyc/i2?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 31 |
 | **Thoughtworks** | New Grad: Software Developer | Chicago, IL | 🔒 | Oct 29 |
+| **Sopra Steria I2S** | Cloud Computing | Bundesweit, DE | 🔒 | Oct 29 |
 | **Raydar** | Machine Learning Infrastructure Engineer | San Francisco, CA | 🔒 | Oct 29 |
 | **NVIDIA** | ASIC Physical Design Engineer, Netlisting (Master's) | Santa Clara, CA</br>Austin, TX | 🔒 | Oct 29 |
 | **Morningstar** | Associate Software Engineer, Central Tech AI | Chicago, IL | 🔒 | Oct 29 |
