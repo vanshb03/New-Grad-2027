@@ -27520,13 +27520,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793315442,
+        "date_updated": 1793326525,
         "url": "https://go.vansh.nyc/10c",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Morningstar",
         "title": "Associate Software Engineer, Central Tech AI",
         "source": "vanshb03",
