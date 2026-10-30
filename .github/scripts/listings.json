@@ -21151,13 +21151,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793018234,
+        "date_updated": 1793378352,
         "url": "https://go.vansh.nyc/I5",
         "locations": [
             "Markham, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AMD",
         "title": "Software System Designer",
         "source": "vanshb03",
@@ -21167,13 +21167,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793018234,
+        "date_updated": 1793378352,
         "url": "https://go.vansh.nyc/I6",
         "locations": [
             "Markham, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AMD",
         "title": "Silicon Design Engineer",
         "source": "vanshb03",
@@ -25325,13 +25325,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793063869,
+        "date_updated": 1793378352,
         "url": "https://go.vansh.nyc/TS",
         "locations": [
             "Markham, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AMD",
         "title": "New Grad: Systems Design Engineer",
         "source": "vanshb03",
@@ -27442,7 +27442,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793313601,
+        "date_updated": 1793378352,
         "url": "https://go.vansh.nyc/ZP",
         "locations": [
             "Honolulu, HI",
@@ -27458,7 +27458,7 @@
             "El Segundo, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Booz Allen",
         "title": "New Grad 2027: Software Developer",
         "source": "vanshb03",
