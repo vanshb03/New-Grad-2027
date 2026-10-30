@@ -27250,13 +27250,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793283004,
+        "date_updated": 1793363983,
         "url": "https://go.vansh.nyc/YY",
         "locations": [
             "Bossier City, LA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "GDIT",
         "title": "Tier I Security Operations Center (SOC) Analyst",
         "source": "vanshb03",
