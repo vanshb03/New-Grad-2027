@@ -21456,13 +21456,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793023323,
+        "date_updated": 1793344169,
         "url": "https://go.vansh.nyc/K8",
         "locations": [
             "Sunnyvale, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "General Motors",
         "title": "Software Engineer, AV HIL Platform and Services",
         "source": "vanshb03",
@@ -21649,13 +21649,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793023323,
+        "date_updated": 1793344150,
         "url": "https://go.vansh.nyc/Kk",
         "locations": [
             "Dallas, TX"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "PMG",
         "title": "Data Analytics",
         "source": "vanshb03",
@@ -21665,13 +21665,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793023323,
+        "date_updated": 1793344150,
         "url": "https://go.vansh.nyc/Kl",
         "locations": [
             "Dallas, TX"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "PMG",
         "title": "New Grad 2027: Data Analytics",
         "source": "vanshb03",
@@ -26362,13 +26362,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793099546,
+        "date_updated": 1793344169,
         "url": "https://go.vansh.nyc/Vr",
         "locations": [
             "Irvine, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CoStar Group",
         "title": "New Grad 2027: Associate Software Engineer",
         "source": "vanshb03",
@@ -26524,13 +26524,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793133512,
+        "date_updated": 1793344169,
         "url": "https://go.vansh.nyc/Wn",
         "locations": [
             "Azusa, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Northrop Grumman",
         "title": "New Grad 2027: Associate Software Engineer",
         "source": "vanshb03",
