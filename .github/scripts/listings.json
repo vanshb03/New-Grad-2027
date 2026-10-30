@@ -27647,5 +27647,21 @@
         "date_posted": 1793322465,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793371168,
+        "url": "https://go.vansh.nyc/10u",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Wise",
+        "title": "New Grad 2027: Product Analyst",
+        "source": "vanshb03",
+        "id": "845412a1-1c75-4a84-831d-5c07eeca5b6d",
+        "date_posted": 1793360786,
+        "company_url": "",
+        "is_visible": true
     }
 ]
