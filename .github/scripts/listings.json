@@ -27663,5 +27663,37 @@
         "date_posted": 1793360786,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793383821,
+        "url": "https://go.vansh.nyc/10N",
+        "locations": [
+            "Bundesweit, DE"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sopra Steria I2S",
+        "title": "Cloud Computing",
+        "source": "vanshb03",
+        "id": "4bd993cd-2020-4fb4-9cdf-a97389d4dd5b",
+        "date_posted": 1793297300,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793383821,
+        "url": "https://go.vansh.nyc/10O",
+        "locations": [
+            "Ottawa, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ciena",
+        "title": "New Grad: Photonic Card Software Developer",
+        "source": "vanshb03",
+        "id": "ba3da99f-2320-4ea3-9b19-e7f69a47fb85",
+        "date_posted": 1793297300,
+        "company_url": "",
+        "is_visible": true
     }
 ]
