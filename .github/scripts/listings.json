@@ -8470,13 +8470,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755612852,
+        "date_updated": 1793413096,
         "url": "https://go.vansh.nyc/qq",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ByteDance",
         "title": "New Grad 2026: Software Engineer (Dev Infra)",
         "source": "vanshb03",
@@ -20353,13 +20353,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793014740,
+        "date_updated": 1793413096,
         "url": "https://go.vansh.nyc/DJ",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Amazon",
         "title": "New Grad 2027: Software Development Engineer",
         "source": "vanshb03",
@@ -24050,13 +24050,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793027000,
+        "date_updated": 1793413096,
         "url": "https://go.vansh.nyc/Pb",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Wolverine Trading",
         "title": "Entry Level C++ Software Engineer",
         "source": "vanshb03",
@@ -27992,13 +27992,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793405359,
+        "date_updated": 1793413096,
         "url": "https://go.vansh.nyc/11D",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Amazon.com Services LLC",
         "title": "New Grad 2027: Software Development Engineer (Database)",
         "source": "vanshb03",
@@ -28024,13 +28024,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793405359,
+        "date_updated": 1793413096,
         "url": "https://go.vansh.nyc/11F",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "ASIC Design Engineer",
         "source": "vanshb03",
