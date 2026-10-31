@@ -28086,5 +28086,37 @@
         "date_posted": 1793408856,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793412752,
+        "url": "https://go.vansh.nyc/123",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Broadcom",
+        "title": "New Grad: Physical Design Engineer, ASIC Products Division (APD) (Master's)",
+        "source": "vanshb03",
+        "id": "9a174e1b-60ef-46eb-8932-1acad002dcd0",
+        "date_posted": 1793318400,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793412752,
+        "url": "https://go.vansh.nyc/124",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Broadcom",
+        "title": "Physical Design Engineer, ASIC Products Division (Master's)",
+        "source": "vanshb03",
+        "id": "22521595-fa90-45c2-a236-f1da08cf8ab9",
+        "date_posted": 1793318400,
+        "company_url": "",
+        "is_visible": true
     }
 ]
