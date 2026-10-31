@@ -430,6 +430,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **American Express** | New Grad 2027: AI Engineer 1, Enterprise Technology Services | Palo Alto, CA | <a href="https://go.vansh.nyc/NB?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
 | **American Express** | New Grad 2027: AI Engineer 1 (Master's) | Phoenix, AZ | <a href="https://go.vansh.nyc/NC?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
 | **Netic** | New Grad 2027: Forward Deployed Engineer (FDE) | San Francisco, CA | <a href="https://go.vansh.nyc/OW?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
+| **N1** | Software Engineer (Full Stack) | New York, NY | <a href="https://go.vansh.nyc/OV?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
 | **WeRide** | New Grad 2027: Software Engineer | San Jose, CA | <a href="https://go.vansh.nyc/P2?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
 | **Veeva Systems** | New Grad 2027: Associate Software Engineer 🛂 | Boston, MA | <a href="https://go.vansh.nyc/OZ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
 | **Veeva Systems** | New Grad 2027: Associate Software Engineer 🛂 | Pleasanton, CA | <a href="https://go.vansh.nyc/P0?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 29 |
@@ -792,7 +793,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **NVIDIA** | Applied Systems Engineering Rotation Engineer | Santa Clara, CA | 🔒 | Sep 01 |
 | **Katalyst Space Technologies** | Software Engineer 1 | Broomfield, CO | 🔒 | Sep 01 |
 | **GMO** | New Grad 2027: Quantitative Technology Associate | Boston, MA | 🔒 | Aug 31 |
-| **N1** | Software Engineer (Full Stack) | New York, NY | 🔒 | Aug 30 |
 | **Lightfield** | Software Engineer, Applied AI | San Francisco, CA | 🔒 | Aug 29 |
 | **Wolverine Trading** | Entry Level C++ Software Engineer 🛂 | Chicago, IL | 🔒 | Aug 28 |
 | **Quora** | New Grad: Software Engineer | Remote | 🔒 | Aug 05 |
