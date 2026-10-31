@@ -27990,5 +27990,85 @@
         "date_posted": 1793403785,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793405359,
+        "url": "https://go.vansh.nyc/11D",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon.com Services LLC",
+        "title": "New Grad 2027: Software Development Engineer (Database)",
+        "source": "vanshb03",
+        "id": "e1a59452-2397-4902-b5c2-126b00d941e2",
+        "date_posted": 1793318868,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793405359,
+        "url": "https://go.vansh.nyc/11E",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "RTL Power Optimization Engineer (Master's)",
+        "source": "vanshb03",
+        "id": "cd0bbf88-632b-46a6-beae-4737fda526a9",
+        "date_posted": 1793405230,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793405359,
+        "url": "https://go.vansh.nyc/11F",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "ASIC Design Engineer",
+        "source": "vanshb03",
+        "id": "13a76990-0fe5-4350-851f-234fbe9b0d71",
+        "date_posted": 1793405230,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793405359,
+        "url": "https://go.vansh.nyc/11G",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Software Engineer, Hardware Tools and Methodology (Master's)",
+        "source": "vanshb03",
+        "id": "079842d7-d40e-43d2-99e2-9e259217cd0b",
+        "date_posted": 1793405230,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793405359,
+        "url": "https://go.vansh.nyc/11H",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Power Methodology and Modeling Engineer (Master's)",
+        "source": "vanshb03",
+        "id": "8e39953a-afcb-451c-811c-c1e08db954a4",
+        "date_posted": 1793405230,
+        "company_url": "",
+        "is_visible": true
     }
 ]
