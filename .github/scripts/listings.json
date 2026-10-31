@@ -26966,14 +26966,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793213064,
+        "date_updated": 1793419717,
         "url": "https://go.vansh.nyc/XN",
         "locations": [
             "Milford, MI",
             "Warren, MI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "General Motors",
         "title": "Software Verification Engineer, AV Platform",
         "source": "vanshb03",
