@@ -18943,13 +18943,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1792698816,
+        "date_updated": 1793434476,
         "url": "https://go.vansh.nyc/AL",
         "locations": [
             "Colorado Springs, CO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "L3Harris Technologies",
         "title": "New Grad 2027: Associate Software Engineer",
         "source": "vanshb03",
@@ -22819,13 +22819,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793025545,
+        "date_updated": 1793434451,
         "url": "https://go.vansh.nyc/Nk",
         "locations": [
             "Atlanta, GA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Ciena",
         "title": "WaveLogic Software Developer",
         "source": "vanshb03",
@@ -26854,13 +26854,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793189317,
+        "date_updated": 1793434476,
         "url": "https://go.vansh.nyc/Xs",
         "locations": [
             "Huntsville, AL"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Northrop Grumman",
         "title": "New Grad 2027: Associate Software Engineer / Software Engineer",
         "source": "vanshb03",
@@ -26870,13 +26870,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793198390,
+        "date_updated": 1793434476,
         "url": "https://go.vansh.nyc/XA",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cisco",
         "title": "Data Science Analyst 1",
         "source": "vanshb03",
@@ -27314,13 +27314,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793295690,
+        "date_updated": 1793434476,
         "url": "https://go.vansh.nyc/Za",
         "locations": [
             "Phoenix, AZ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Honeywell",
         "title": "Software Engineer I, Middleware",
         "source": "vanshb03",
