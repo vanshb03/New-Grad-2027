@@ -23789,13 +23789,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793027000,
+        "date_updated": 1793448863,
         "url": "https://go.vansh.nyc/OV",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "N1",
         "title": "Software Engineer (Full Stack)",
         "source": "vanshb03",
@@ -23841,13 +23841,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793027000,
+        "date_updated": 1793448863,
         "url": "https://go.vansh.nyc/OY",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Lightfield",
         "title": "Software Engineer, Applied AI",
         "source": "vanshb03",
@@ -26886,13 +26886,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793204118,
+        "date_updated": 1793448879,
         "url": "https://go.vansh.nyc/XC",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cisco",
         "title": "Data Science Analyst I",
         "source": "vanshb03",
