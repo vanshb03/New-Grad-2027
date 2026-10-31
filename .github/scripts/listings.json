@@ -27410,13 +27410,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793313601,
+        "date_updated": 1793416155,
         "url": "https://go.vansh.nyc/ZN",
         "locations": [
             "Norman, OK"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Hitachi",
         "title": "Data Analyst",
         "source": "vanshb03",
