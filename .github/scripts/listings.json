@@ -23789,13 +23789,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793448863,
+        "date_updated": 1793456128,
         "url": "https://go.vansh.nyc/OV",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "company_name": "N1",
         "title": "Software Engineer (Full Stack)",
         "source": "vanshb03",
