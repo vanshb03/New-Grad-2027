@@ -24514,13 +24514,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793027000,
+        "date_updated": 1793477616,
         "url": "https://go.vansh.nyc/PB",
         "locations": [
             "Colorado Springs, CO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Viavi Solutions",
         "title": "Development Engineer",
         "source": "vanshb03",
@@ -28116,6 +28116,38 @@
         "source": "vanshb03",
         "id": "22521595-fa90-45c2-a236-f1da08cf8ab9",
         "date_posted": 1793318400,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793477605,
+        "url": "https://go.vansh.nyc/12w",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Urban Science",
+        "title": "Associate Software Engineer",
+        "source": "vanshb03",
+        "id": "b1b74c12-a936-4cb0-84ea-bd9850a90a89",
+        "date_posted": 1793391096,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793477605,
+        "url": "https://go.vansh.nyc/12x",
+        "locations": [
+            "Neptune, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "United Methodist Communities",
+        "title": "Applied AI Developer, BEAM",
+        "source": "vanshb03",
+        "id": "02ae98e8-36b4-42a4-ac48-6c3ccd2b73b6",
+        "date_posted": 1793359440,
         "company_url": "",
         "is_visible": true
     }
