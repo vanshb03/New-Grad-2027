@@ -28150,5 +28150,117 @@
         "date_posted": 1793359440,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793492254,
+        "url": "https://go.vansh.nyc/13O",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "endeavorai.com",
+        "title": "Forward Deployed Engineer",
+        "source": "vanshb03",
+        "id": "7617870f-465f-4fa7-9003-f328effd26af",
+        "date_posted": 1793404800,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793492254,
+        "url": "https://go.vansh.nyc/13P",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Goaly",
+        "title": "Applied AI Engineer",
+        "source": "vanshb03",
+        "id": "ed2c9e39-0401-4843-9182-c8ecd3714857",
+        "date_posted": 1793404800,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793492254,
+        "url": "https://go.vansh.nyc/13Q",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hyphenate",
+        "title": "New Grad: Software Engineer",
+        "source": "vanshb03",
+        "id": "5fb31f38-fc9a-4811-84f9-6d55c492ada1",
+        "date_posted": 1793404800,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793492254,
+        "url": "https://go.vansh.nyc/13R",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "LiveFlow",
+        "title": "Graduate Engineer - AI Agents",
+        "source": "vanshb03",
+        "id": "3c75688e-3446-4b67-adef-51f665c7bae9",
+        "date_posted": 1793404800,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793492254,
+        "url": "https://go.vansh.nyc/13S",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Relling",
+        "title": "New Grad: Robotics Software Engineer",
+        "source": "vanshb03",
+        "id": "e30f3fa8-70a2-404e-a85d-dd05bdae0620",
+        "date_posted": 1793404800,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793492254,
+        "url": "https://go.vansh.nyc/13T",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SuperApp",
+        "title": "New Grad 2027: Software Engineer",
+        "source": "vanshb03",
+        "id": "a69497d1-94c8-4da6-8d30-224342ac2fe9",
+        "date_posted": 1793404800,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793492254,
+        "url": "https://go.vansh.nyc/13U",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Wiltshire Farm Foods",
+        "title": "Software Developer in Test",
+        "source": "vanshb03",
+        "id": "38727ab2-b056-4dcf-97a6-214ec5614754",
+        "date_posted": 1793404800,
+        "company_url": "",
+        "is_visible": true
     }
 ]
