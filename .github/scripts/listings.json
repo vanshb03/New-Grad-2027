@@ -5341,13 +5341,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753910634,
+        "date_updated": 1793515545,
         "url": "https://go.vansh.nyc/nj",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ByteDance",
         "title": "New Grad 2026: Backend Software Engineer (Customer Service Platform)",
         "source": "vanshb03",
@@ -5357,13 +5357,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753910655,
+        "date_updated": 1793515545,
         "url": "https://go.vansh.nyc/nk",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ByteDance",
         "title": "New Grad 2026: Software Engineer",
         "source": "vanshb03",
@@ -6135,13 +6135,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754558302,
+        "date_updated": 1793515545,
         "url": "https://go.vansh.nyc/o6",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ByteDance",
         "title": "New Grad 2026: Software Engineer, Authorization-US",
         "source": "vanshb03",
@@ -6151,13 +6151,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754558316,
+        "date_updated": 1793515545,
         "url": "https://go.vansh.nyc/o7",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ByteDance",
         "title": "Site Reliability Engineer Graduate [Security Engineering-US]",
         "source": "vanshb03",
@@ -7284,13 +7284,13 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1755115139,
+        "date_updated": 1793515545,
         "url": "https://go.vansh.nyc/pf",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ByteDance",
         "title": "New Grad 2026: Software Engineer Graduate (Applied Machine Learning - MLDev)",
         "source": "vanshb03",
@@ -7333,13 +7333,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755115162,
+        "date_updated": 1793515545,
         "url": "https://go.vansh.nyc/pi",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ByteDance",
         "title": "New Grad 2026: Software Engineer (Applied Machine Learning - Enterprise)",
         "source": "vanshb03",
@@ -7349,13 +7349,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755115167,
+        "date_updated": 1793515545,
         "url": "https://go.vansh.nyc/pj",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ByteDance",
         "title": "New Grad 2026: Software Engineer (Dev Infra)",
         "source": "vanshb03",
@@ -7413,13 +7413,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755115232,
+        "date_updated": 1793515545,
         "url": "https://go.vansh.nyc/pn",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ByteDance",
         "title": "New Grad 2026: Network Engineer (Edge Network)",
         "source": "vanshb03",
@@ -7690,13 +7690,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755347465,
+        "date_updated": 1793515545,
         "url": "https://go.vansh.nyc/pE",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ByteDance",
         "title": "Site Reliability Engineer (Data Infrastructure)",
         "source": "vanshb03",
@@ -7706,13 +7706,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755347470,
+        "date_updated": 1793515545,
         "url": "https://go.vansh.nyc/pF",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ByteDance",
         "title": "New Grad 2026: Cloud Network Engineer (Physical Network Infra)",
         "source": "vanshb03",
@@ -7722,13 +7722,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755347481,
+        "date_updated": 1793515545,
         "url": "https://go.vansh.nyc/pG",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ByteDance",
         "title": "New Grad 2026: Network Engineer (Physical Network Infra)",
         "source": "vanshb03",
@@ -7738,13 +7738,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755347488,
+        "date_updated": 1793515545,
         "url": "https://go.vansh.nyc/pH",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ByteDance",
         "title": "New Grad 2026: Network Engineer (Physical Network Infra)",
         "source": "vanshb03",
@@ -7770,13 +7770,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755347510,
+        "date_updated": 1793515545,
         "url": "https://go.vansh.nyc/pJ",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ByteDance",
         "title": "New Grad 2026: Cloud Network Engineer (Physical Network Infra)",
         "source": "vanshb03",
@@ -7786,13 +7786,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755347514,
+        "date_updated": 1793515545,
         "url": "https://go.vansh.nyc/pK",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ByteDance",
         "title": "New Grad 2026: Software Engineer (Edge Platform)",
         "source": "vanshb03",
@@ -8454,13 +8454,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755612835,
+        "date_updated": 1793515545,
         "url": "https://go.vansh.nyc/qp",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ByteDance",
         "title": "New Grad 2026: Software Engineer in ML Systems",
         "source": "vanshb03",
@@ -8961,13 +8961,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756356234,
+        "date_updated": 1793515545,
         "url": "https://go.vansh.nyc/qU",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ByteDance",
         "title": "New Grad 2026: Software Engineer (AI Applications)",
         "source": "vanshb03",
@@ -8977,13 +8977,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756356239,
+        "date_updated": 1793515545,
         "url": "https://go.vansh.nyc/qV",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ByteDance",
         "title": "New Grad 2026: Machine Learning Graduate (eCommerce User Growth & Intelligent Marketing)",
         "source": "vanshb03",
@@ -10586,13 +10586,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757346829,
+        "date_updated": 1793515545,
         "url": "https://go.vansh.nyc/sv",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ByteDance",
         "title": "New Grad 2026: Product Manager (SMB)",
         "source": "vanshb03",
@@ -13102,13 +13102,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760071571,
+        "date_updated": 1793515545,
         "url": "https://go.vansh.nyc/uZ",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ByteDance",
         "title": "New Grad 2026: Site Reliability Engineer (Edge Services)",
         "source": "vanshb03",
@@ -16110,13 +16110,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1764545563,
+        "date_updated": 1793515545,
         "url": "https://go.vansh.nyc/xX",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ByteDance",
         "title": "New Grad 2026: Machine Learning Graduate (eCommerce User Growth & Intelligent Marketing)",
         "source": "vanshb03",
@@ -16631,13 +16631,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1767284081,
+        "date_updated": 1793515545,
         "url": "https://go.vansh.nyc/yt",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ByteDance",
         "title": "New Grad 2026: Software Development Engineer in Test Graduate",
         "source": "vanshb03",
@@ -16647,13 +16647,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1767284088,
+        "date_updated": 1793515545,
         "url": "https://go.vansh.nyc/yu",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ByteDance",
         "title": "New Grad 2026: Backend Software Engineer Graduate",
         "source": "vanshb03",
