@@ -41,10 +41,17 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Wiltshire Farm Foods** | Software Developer in Test | Remote | <a href="https://go.vansh.nyc/13U?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
+| **SuperApp** | New Grad 2027: Software Engineer | San Francisco, CA | <a href="https://go.vansh.nyc/13T?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
+| **Relling** | New Grad: Robotics Software Engineer | San Francisco, CA | <a href="https://go.vansh.nyc/13S?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
 | **NVIDIA** | Security Architect | Santa Clara, CA | <a href="https://go.vansh.nyc/11L?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
 | **NVIDIA** | RTL Power Optimization Engineer (Master's) | Santa Clara, CA | <a href="https://go.vansh.nyc/11E?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
 | **NVIDIA** | Software Engineer, Hardware Tools and Methodology (Master's) | Santa Clara, CA | <a href="https://go.vansh.nyc/11G?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
 | **NVIDIA** | Power Methodology and Modeling Engineer (Master's) | Austin, TX | <a href="https://go.vansh.nyc/11H?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
+| **LiveFlow** | Graduate Engineer - AI Agents | San Francisco, CA | <a href="https://go.vansh.nyc/13R?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
+| **Hyphenate** | New Grad: Software Engineer | New York, NY | <a href="https://go.vansh.nyc/13Q?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
+| **Goaly** | Applied AI Engineer | Palo Alto, CA | <a href="https://go.vansh.nyc/13P?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
+| **endeavorai.com** | Forward Deployed Engineer | Chicago, IL | <a href="https://go.vansh.nyc/13O?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
 | **Wise** | New Grad 2027: Product Analyst | Austin, TX | <a href="https://go.vansh.nyc/11h?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | **Wise** | New Grad 2027: Product Analyst | Austin, TX | <a href="https://go.vansh.nyc/10u?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | **Urban Science** | Associate Software Engineer | Detroit, MI | <a href="https://go.vansh.nyc/12w?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
