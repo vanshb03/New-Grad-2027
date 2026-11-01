@@ -224,6 +224,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Urban Science** | Associate Software Engineer | Detroit, MI | <a href="https://go.vansh.nyc/12w?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | **United Methodist Communities** | Applied AI Developer, BEAM | Neptune, NJ | <a href="https://go.vansh.nyc/12x?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | **Rockwell Automation** | New Grad 2027: EDGE, Information Technology Rotational Program 🛂 | Milwaukee, WI | <a href="https://go.vansh.nyc/13X?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
+| **Oceaneering** | Robotics Software Engineer | Houston, TX | <a href="https://go.vansh.nyc/195?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | **NVIDIA** | ASIC Physical Design and Timing Engineer (Master's) | Santa Clara, CA | <a href="https://go.vansh.nyc/11A?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | **NVIDIA** | Cell Modeling and Verification Engineer | Santa Clara, CA | <a href="https://go.vansh.nyc/11B?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | **NVIDIA** | ASIC Design Verification Engineer (Master's) | Austin, TX | <a href="https://go.vansh.nyc/11C?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
