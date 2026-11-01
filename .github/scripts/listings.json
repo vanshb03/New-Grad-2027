@@ -24760,13 +24760,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793027000,
+        "date_updated": 1793524220,
         "url": "https://go.vansh.nyc/PQ",
         "locations": [
             "Chantilly, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "SAIC",
         "title": "Software Systems Engineer (Master's)",
         "source": "vanshb03",
