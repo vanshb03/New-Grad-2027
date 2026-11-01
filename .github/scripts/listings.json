@@ -30950,5 +30950,37 @@
         "date_posted": 1793526076,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793567654,
+        "url": "https://go.vansh.nyc/194",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Genesys",
+        "title": "Associate Software Developer in Test",
+        "source": "vanshb03",
+        "id": "5d900540-0f12-4c44-940c-842994e59867",
+        "date_posted": 1793394664,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793567654,
+        "url": "https://go.vansh.nyc/195",
+        "locations": [
+            "Houston, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Oceaneering",
+        "title": "Robotics Software Engineer",
+        "source": "vanshb03",
+        "id": "8e7f772d-309d-472d-bf62-9472f09f7870",
+        "date_posted": 1793318400,
+        "company_url": "",
+        "is_visible": true
     }
 ]
