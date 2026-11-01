@@ -530,7 +530,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **SpaceX** | Engineer, Software (Starship) | Starbase, TX | <a href="https://go.vansh.nyc/Pe?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 22 |
 | **TikTok** | New Grad 2027: Software Engineer, Search Data Infra | San Jose, CA | <a href="https://go.vansh.nyc/PK?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
 | **NW** | Cloud System Administrator | Sterling, VA | <a href="https://go.vansh.nyc/PP?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
-| **SAIC** | Software Systems Engineer (Master's) | Chantilly, VA | <a href="https://go.vansh.nyc/PQ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
 | **JPMorganChase** | Software Engineer Program | <details><summary>**9 locations**</summary>Palo Alto, CA</br>Houston, TX</br>Tampa, FL</br>Plano, TX</br>Chicago, IL</br>Jersey City, NJ</br>Columbus, OH</br>New York, NY</br>Wilmington, DE</details> | <a href="https://go.vansh.nyc/Pf?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
 | **JPMorganChase** | New Grad 2027: Software Engineer Program | <details><summary>**9 locations**</summary>Palo Alto, CA</br>Houston, TX</br>Tampa, FL</br>Plano, TX</br>Chicago, IL</br>Jersey City, NJ</br>Columbus, OH</br>New York, NY</br>Wilmington, DE</details> | <a href="https://go.vansh.nyc/Pg?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
 | **Roblox** | Software Engineer, Foundation AI | San Mateo, CA | <a href="https://go.vansh.nyc/UX?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 17 |
@@ -845,6 +844,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Lightfield** | Software Engineer, Applied AI | San Francisco, CA | 🔒 | Aug 29 |
 | **Wolverine Trading** | Entry Level C++ Software Engineer 🛂 | Chicago, IL | 🔒 | Aug 28 |
 | **Viavi Solutions** | Development Engineer | Colorado Springs, CO | 🔒 | Aug 28 |
+| **SAIC** | Software Systems Engineer (Master's) | Chantilly, VA | 🔒 | Aug 20 |
 | **Quora** | New Grad: Software Engineer | Remote | 🔒 | Aug 05 |
 | **Chicago Trading Company** | New Grad 2027: Quant Trading Associate | Chicago, IL | 🔒 | Aug 01 |
 | **Woven** | Software Engineer, Analysis/Tool | Ann Arbor, MI | 🔒 | Jul 31 |
