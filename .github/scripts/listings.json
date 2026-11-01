@@ -20514,13 +20514,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793018233,
+        "date_updated": 1793520268,
         "url": "https://go.vansh.nyc/Hs",
         "locations": [
             "Houston, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ConocoPhillips",
         "title": "New Grad 2027: Analyst, Trading Analytics",
         "source": "vanshb03",
@@ -23029,13 +23029,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793025545,
+        "date_updated": 1793520268,
         "url": "https://go.vansh.nyc/Nx",
         "locations": [
             "Phoenix, AZ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "American Express",
         "title": "AI Engineer",
         "source": "vanshb03",
@@ -23173,13 +23173,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793025545,
+        "date_updated": 1793520268,
         "url": "https://go.vansh.nyc/NG",
         "locations": [
             "Charlotte, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "American Express",
         "title": "New Grad 2027: Software Engineer 1, Enterprise Technology Services",
         "source": "vanshb03",
@@ -28276,6 +28276,998 @@
         "source": "vanshb03",
         "id": "749a10ea-a724-4dec-b8b5-a04ccded04aa",
         "date_posted": 1793393300,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/14E",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "Associate Software Engineer",
+        "source": "vanshb03",
+        "id": "43752a5b-9c35-4afe-bbb4-aaa8f928154b",
+        "date_posted": 1793491200,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/14F",
+        "locations": [
+            "Newport News, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Huntington Ingalls Industries",
+        "title": "Product Owner - Digital Plant",
+        "source": "vanshb03",
+        "id": "9f0351cf-de31-4ef9-b3bb-6262a7a8f68f",
+        "date_posted": 1793514602,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/14G",
+        "locations": [
+            "Newport News, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Huntington Ingalls Industries",
+        "title": "Software Engineer 1",
+        "source": "vanshb03",
+        "id": "b9b6c38a-e0fc-4e5d-8e2c-c4e0f65fd269",
+        "date_posted": 1793514591,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/14H",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Research Scientist, Seed Model-Alignment&Preparedness",
+        "source": "vanshb03",
+        "id": "46ee2811-6e4d-40d6-8a4b-d40ec9dff269",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/14I",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Research Scientist, Seed Model - AI Foundation Model Infrastructure",
+        "source": "vanshb03",
+        "id": "3bd92293-37c1-4880-a0f5-ee8459b8327c",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/14J",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Research Scientist, Seed Model - AI Foundation Model Infrastructure",
+        "source": "vanshb03",
+        "id": "ebe28036-3cfd-4e88-bd0f-c41c1a18a492",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/14K",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Multi-Cloud CDN Scheduling Platform Engineer, CDN Platform (Master's)",
+        "source": "vanshb03",
+        "id": "5f119f45-d881-45c9-9079-6099454ee4af",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/14L",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Multi-Cloud CDN Scheduling Platform Engineer, CDN Platform (Master's)",
+        "source": "vanshb03",
+        "id": "2c156413-d7a1-48c1-a0a3-1be539abd981",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/14M",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Research Scientist (Seed Model - LLM)",
+        "source": "vanshb03",
+        "id": "86c54305-b670-49d8-8ff0-44dbfd16be47",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/14N",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Machine Learning Engineer, AML-Engine-Orchestration",
+        "source": "vanshb03",
+        "id": "34cf681d-3b11-4971-b573-0cca4355f067",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/14O",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Software Engineer (Data-Infrastructure-Network-Application Network-Global Traffic Architecture)",
+        "source": "vanshb03",
+        "id": "ab991d27-3cd2-4891-a984-01aa0fc53d59",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/14P",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Multi-Cloud CDN Data Platform Engineer, CDN Platform",
+        "source": "vanshb03",
+        "id": "288221b5-d327-4316-bfb5-3f5520c9ccfb",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/14Q",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Machine Learning Engineer, E-Commerce Risk Control",
+        "source": "vanshb03",
+        "id": "83b131c1-d2d9-4385-a4bd-3266e77ec89f",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/14R",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Machine Learning Backend Engineer (AML MLDev)",
+        "source": "vanshb03",
+        "id": "02f5a6be-f355-4fa0-88cf-abc8c0d07495",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/14S",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Research Scientist, Seed Model - Vision",
+        "source": "vanshb03",
+        "id": "bbd25431-7bd4-4599-92ce-979ff70bc8de",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/14T",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Machine Learning Engineer, E-Commerce Risk Control",
+        "source": "vanshb03",
+        "id": "d2779612-0154-436f-91f5-d6e8550cbc3f",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/14U",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Backend Inference Runtime Engineer (AML Inference)",
+        "source": "vanshb03",
+        "id": "c4fb6296-2c90-4e6f-aa6f-a6045e1aa922",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/14V",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Machine Learning System Scheduling Engineer (Applied Machine Learning)",
+        "source": "vanshb03",
+        "id": "f274fcf9-d1a2-4191-85b5-123705b95b05",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/14W",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Software Engineer, AML-Engine-Orchestration",
+        "source": "vanshb03",
+        "id": "70e700c4-e949-4f6f-b449-511af4f6753c",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/14X",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Visual Generation & Multimodal Evaluation Machine Learning Engineer",
+        "source": "vanshb03",
+        "id": "9decabab-5ff3-450e-b586-0f57dd9b24e0",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/14Y",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Software Engineer (AML-Engine-Orchestration)",
+        "source": "vanshb03",
+        "id": "ccc3ab48-0ff1-4d8c-8683-ab34538bdb33",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/14Z",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Research Scientist (Seed Model - Multimodal Interaction & World Model)",
+        "source": "vanshb03",
+        "id": "0c62b059-bbc6-495b-86f2-f088652c5828",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/150",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Multi-Cloud CDN Data Platform Engineer, CDN Platform (Master's)",
+        "source": "vanshb03",
+        "id": "7fd5e522-1337-412b-a6d4-7b55d283df12",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/151",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Software Engineer - AI Agent Infra (Security Engineering)",
+        "source": "vanshb03",
+        "id": "e5b8299c-8d36-4ca6-a0ff-a0b06bca9fc3",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/152",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Backend Inference Framework Engineer (AML Inference)",
+        "source": "vanshb03",
+        "id": "cc0a3314-15c0-4a48-b145-88495dc4056b",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/153",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Multi-Cloud CDN Data Platform Engineer, CDN Platform (Master's)",
+        "source": "vanshb03",
+        "id": "7c10417c-172b-4a4e-a570-d4275e6c2d1e",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/154",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Data Lake Infrastructure & Data Analytics Research Engineer (AML-Ark-US)",
+        "source": "vanshb03",
+        "id": "2614ddb4-914d-4c60-8718-19c1c4e08ba7",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/155",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Infrastructure Delivery Engineer (Server Delivery)",
+        "source": "vanshb03",
+        "id": "3ce61319-cb35-4d83-80f3-651817be11d5",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/156",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Production System Engineer (Server Management)",
+        "source": "vanshb03",
+        "id": "6f3a8739-49d2-4faf-9b7e-525ab29c922d",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/157",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Research Scientist (Seed Model - Speech)",
+        "source": "vanshb03",
+        "id": "96b48f59-6198-4592-b7ba-2babfcbf1cbd",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/158",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: 3D Graphics Innovation Engineer (PICO Foundation-Developer Technology)",
+        "source": "vanshb03",
+        "id": "d56c5469-84c1-483c-a066-4ae8f6f6d7d8",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/159",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Software Engineer (Data-Speech-Product RD-Engineering-US)",
+        "source": "vanshb03",
+        "id": "750e2347-9cef-4026-bbcf-fae63a30029d",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/15a",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Large Language Model Inference System Engineer (Applied Machine Learning)",
+        "source": "vanshb03",
+        "id": "48967855-78dd-4621-92c4-04fbbdb08903",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/15b",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Dev AI Software Engineer (Dev Infra US)",
+        "source": "vanshb03",
+        "id": "7688e157-9cb0-41b2-b40b-5be0cd878e49",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/15c",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Research Scientist (ML Recommendation Systems)",
+        "source": "vanshb03",
+        "id": "895fcf81-72b1-4fbd-a925-7bcb08bf3120",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/15d",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Multi-Cloud CDN Scheduling Platform Engineer, CDN Platform",
+        "source": "vanshb03",
+        "id": "1df7dcb0-4d3b-43cb-9cb7-9ca91074f18d",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/15e",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Multi-Cloud CDN Scheduling Platform Engineer, CDN Platform",
+        "source": "vanshb03",
+        "id": "aebc06b9-1bff-4889-a0bf-d1be228f7155",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/15f",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Software Engineer (AML-Engine-Forge Platform)",
+        "source": "vanshb03",
+        "id": "cb818cba-c8f1-45e5-ab3a-621e0140c69a",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/15g",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Software Engineer (AI Infrastructure \u2014 Compute Efficiency & Scheduling)",
+        "source": "vanshb03",
+        "id": "9b206892-2139-45cf-9f2a-8ebd812ebbf3",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/15h",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Visual Generation & Multimodal Evaluation Machine Learning Engineer",
+        "source": "vanshb03",
+        "id": "c2e5a5e6-f5a3-4f27-81ae-452f77f775f2",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/15i",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Agent Evaluation & Evolution Machine Learning Engineer",
+        "source": "vanshb03",
+        "id": "7d0ac746-56b3-4320-b2c6-ad1a2b82e95a",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/15j",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: AI Agent Security Software Engineer (Security Engineering)",
+        "source": "vanshb03",
+        "id": "007bbdf4-1313-46ad-bf59-a31124fc372b",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/15k",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Agent Evaluation & Evolution Machine Learning Engineer",
+        "source": "vanshb03",
+        "id": "56fa93f8-7e12-4a72-89b5-18f54d9a95ea",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/15l",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Software Engineer (AI Infrastructure-Compute Efficiency & Scheduling)",
+        "source": "vanshb03",
+        "id": "0981ed90-71bd-45ee-bddd-1d9043c67725",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/15m",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: LLM Backend Engineer (Applied Machine Learning)",
+        "source": "vanshb03",
+        "id": "86aa5b0b-0908-4c3a-8dd2-44ee06bc3239",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/15n",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Product Security Engineer (Security BP)",
+        "source": "vanshb03",
+        "id": "69594b98-9ae8-4dfd-aa18-c167db005cd9",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/15o",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Large Language Model Training System Engineer (Applied Machine Learning)",
+        "source": "vanshb03",
+        "id": "73ec4330-b1d5-4575-8175-5972d23d582c",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/15p",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Software Engineer, AI Infra Compute (Master's)",
+        "source": "vanshb03",
+        "id": "fc684218-5256-46b2-8cec-451a00db4fdc",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/15q",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Production System Engineer (Server Management)",
+        "source": "vanshb03",
+        "id": "7262116d-f6f2-420e-8b3d-a573e77d244c",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/15r",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Machine Learning Engineer (AML-Engine-Orchestration)",
+        "source": "vanshb03",
+        "id": "03176a5a-ac86-4e1a-a8a4-9fb2042575dd",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/15s",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Data Lake Infrastructure & Data Analytics Research Engineer (AML-Ark-US)",
+        "source": "vanshb03",
+        "id": "88afa08d-470d-40bb-92e0-f3a43565acd1",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/15t",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: ASIC Design Engineer (Video Silicon IP)",
+        "source": "vanshb03",
+        "id": "ec256d99-732d-4b95-b99c-a516adcbe701",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/15u",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Software Engineer (Data-Intelligent Creation-AI Platform-Global Vision Engineering)",
+        "source": "vanshb03",
+        "id": "5995fcb3-7cd4-4b68-a588-b84952523a44",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/15v",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: LLM/AI Ops Development Engineer (Data Center Networking)",
+        "source": "vanshb03",
+        "id": "a982b96e-5252-47f9-8954-3df1ed43e6ac",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/15w",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Backend and Infra Software Engineer (Dev Infra US)",
+        "source": "vanshb03",
+        "id": "7566bd57-47d7-4e3a-8216-16b4eceb4f4b",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/15x",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: ASIC Design Engineer (Video Silicon IP) (Master's)",
+        "source": "vanshb03",
+        "id": "eee50f3e-2b15-428c-9be2-103afb616aca",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/15y",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Site Reliability Graduate (Data Infrastructure)",
+        "source": "vanshb03",
+        "id": "82ee76d4-956d-4625-be4f-cc8145bebb6a",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/15z",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Backend Development Engineer (Infrastructure Platform Delivery)",
+        "source": "vanshb03",
+        "id": "c5f83206-a663-4474-822f-8e7ba0650076",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/15A",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Network Engineer, Physical Network Infra",
+        "source": "vanshb03",
+        "id": "37361502-cb18-4dcf-9e12-678510cfde89",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/15B",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Software Development Engineer (Intent-Based Networking)",
+        "source": "vanshb03",
+        "id": "916d002d-b13f-4f5c-90d9-d3b8a8b30eff",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/15C",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Test Software Engineer, Douyin Research and Development Middle Platform",
+        "source": "vanshb03",
+        "id": "e69a00e5-6847-49f8-bf9a-ecf673233fe2",
+        "date_posted": 1793519973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793520239,
+        "url": "https://go.vansh.nyc/15D",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "New Grad 2027: Software Engineer, Traffic Infrastructure",
+        "source": "vanshb03",
+        "id": "c26c43fc-3141-415f-a4fe-f86e76741642",
+        "date_posted": 1793519973,
         "company_url": "",
         "is_visible": true
     }
