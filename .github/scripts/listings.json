@@ -20273,13 +20273,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793441932,
+        "date_updated": 1793661257,
         "url": "https://go.vansh.nyc/DE",
         "locations": [
             "Boise, ID"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Micron Technology",
         "title": "Embedded Firmware Engineer",
         "source": "vanshb03",
