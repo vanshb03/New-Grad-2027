@@ -18452,13 +18452,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1785529003,
+        "date_updated": 1793636311,
         "url": "https://go.vansh.nyc/Ah",
         "locations": [
             "San Diego, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Apple",
         "title": "Cellular Power Optimization Software Engineer, Wireless Technologies & Ecosystems",
         "source": "vanshb03",
@@ -31044,6 +31044,22 @@
         "source": "vanshb03",
         "id": "d79a5d8a-c9ad-45da-9ddc-16d1721176ef",
         "date_posted": 1793628976,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793636286,
+        "url": "https://go.vansh.nyc/19o",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Corgi",
+        "title": "Full Stack Engineer, New Product Line",
+        "source": "vanshb03",
+        "id": "f7457498-2261-45de-9de0-ece2b150285a",
+        "date_posted": 1793538424,
         "company_url": "",
         "is_visible": true
     }
