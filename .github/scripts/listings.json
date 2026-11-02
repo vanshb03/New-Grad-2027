@@ -22655,13 +22655,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793023324,
+        "date_updated": 1793654100,
         "url": "https://go.vansh.nyc/Lj",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Intel",
         "title": "Software Engineer, Datacenter (Master's)",
         "source": "vanshb03",
@@ -31143,6 +31143,54 @@
         "source": "vanshb03",
         "id": "9ab6e3ea-0469-42ae-9bb6-f2f55696880d",
         "date_posted": 1793645823,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793654080,
+        "url": "https://go.vansh.nyc/19Q",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineering IC2",
+        "source": "vanshb03",
+        "id": "a81cce2a-9d0b-4eef-9ad8-184ad5fb2eac",
+        "date_posted": 1793646749,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793654080,
+        "url": "https://go.vansh.nyc/19R",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Boeing",
+        "title": "ASIC / FPGA Digital Design Engineer (Master's)",
+        "source": "vanshb03",
+        "id": "2ae5467c-7c2a-4e38-899a-bd996971dac2",
+        "date_posted": 1793652989,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793654080,
+        "url": "https://go.vansh.nyc/19S",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Boeing",
+        "title": "ASIC / FPGA Design Verification Engineer (Master's)",
+        "source": "vanshb03",
+        "id": "d8697915-fda8-47e8-976e-776a51b2a14f",
+        "date_posted": 1793652989,
         "company_url": "",
         "is_visible": true
     }
