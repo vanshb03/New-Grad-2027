@@ -31078,5 +31078,56 @@
         "date_posted": 1793526076,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793646776,
+        "url": "https://go.vansh.nyc/19D",
+        "locations": [
+            "Austin, TX",
+            "Bellevue, WA",
+            "North Reading, MA",
+            "Westborough, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Software Development Engineer, Robotics",
+        "source": "vanshb03",
+        "id": "12f4d050-4dd7-45ce-9230-ed2d7910097d",
+        "date_posted": 1793577600,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793646776,
+        "url": "https://go.vansh.nyc/19E",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Software Development Engineer, AWS Data Services",
+        "source": "vanshb03",
+        "id": "7803ce9c-7595-45b1-8288-ee7794d42d92",
+        "date_posted": 1793577600,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793646776,
+        "url": "https://go.vansh.nyc/19F",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Equifax",
+        "title": "New Grad 2027: Data Analytics Rotational Development Associate",
+        "source": "vanshb03",
+        "id": "082c3d6d-6728-4997-a62a-da8447ca3155",
+        "date_posted": 1793645513,
+        "company_url": "",
+        "is_visible": true
     }
 ]
