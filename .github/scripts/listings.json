@@ -30982,5 +30982,21 @@
         "date_posted": 1793318400,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793607186,
+        "url": "https://go.vansh.nyc/19a",
+        "locations": [
+            "Newport News, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Huntington Ingalls Industries",
+        "title": "IT Software Engineer 1 - Robotic Process Automation",
+        "source": "vanshb03",
+        "id": "20506fe3-e7c9-4d24-ba06-75bf9a907157",
+        "date_posted": 1793605887,
+        "company_url": "",
+        "is_visible": true
     }
 ]
