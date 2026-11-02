@@ -30998,5 +30998,53 @@
         "date_posted": 1793605887,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793629207,
+        "url": "https://go.vansh.nyc/19f",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ambral",
+        "title": "New Grad: Member of Technical Staff",
+        "source": "vanshb03",
+        "id": "f4b5e281-6753-46a1-935e-0610427f4acf",
+        "date_posted": 1793404800,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793629207,
+        "url": "https://go.vansh.nyc/19g",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Decagon",
+        "title": "New Grad 2027: Member of Technical Staff",
+        "source": "vanshb03",
+        "id": "42ac5574-2678-41c7-9396-732c5a690fd0",
+        "date_posted": 1793628976,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793629207,
+        "url": "https://go.vansh.nyc/19h",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Fireworks AI",
+        "title": "New Grad 2027: Member of Technical Staff",
+        "source": "vanshb03",
+        "id": "d79a5d8a-c9ad-45da-9ddc-16d1721176ef",
+        "date_posted": 1793628976,
+        "company_url": "",
+        "is_visible": true
     }
 ]
