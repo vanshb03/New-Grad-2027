@@ -31062,5 +31062,21 @@
         "date_posted": 1793538424,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793643579,
+        "url": "https://go.vansh.nyc/19A",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "New Grad 2027: Machine Learning Engineer (Lead Ads)",
+        "source": "vanshb03",
+        "id": "b1a09173-756e-4e56-9c51-80d3043b85a4",
+        "date_posted": 1793526076,
+        "company_url": "",
+        "is_visible": true
     }
 ]
