@@ -26090,13 +26090,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793090819,
+        "date_updated": 1793641449,
         "url": "https://go.vansh.nyc/UM",
         "locations": [
             "Longmont, CO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Seagate",
         "title": "Embedded Software Engineer I",
         "source": "vanshb03",
