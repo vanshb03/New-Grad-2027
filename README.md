@@ -208,7 +208,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Amazon** | Software Development Engineer | Cambridge, MA | <a href="https://go.vansh.nyc/17o?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | **Amazon** | Software Development Engineer, Amazon Dedicated Cloud 🇺🇸 | Seattle, WA | <a href="https://go.vansh.nyc/17p?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | **Amazon** | Software Development Engineer, Amazon Leo 🇺🇸 | Redmond, WA | <a href="https://go.vansh.nyc/17q?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
-| **Wiltshire Farm Foods** | Software Developer in Test | Remote | <a href="https://go.vansh.nyc/13U?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
 | **SuperApp** | New Grad 2027: Software Engineer | San Francisco, CA | <a href="https://go.vansh.nyc/13T?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
 | **Relling** | New Grad: Robotics Software Engineer | San Francisco, CA | <a href="https://go.vansh.nyc/13S?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
 | **NVIDIA** | Security Architect | Santa Clara, CA | <a href="https://go.vansh.nyc/11L?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
@@ -832,6 +831,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Softheon** | Software Engineer I - Membership | Remote</br>United States | <a href="https://go.vansh.nyc/iG?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 12 |
 | **Tesla** | Software Engineer, Traction Control & Stability | Palo Alto, CA | <a href="https://go.vansh.nyc/ig?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 05 |
 | **Qualcomm** | Embedded DSP Software Engineer | San Diego, CA | <a href="https://go.vansh.nyc/i2?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 31 |
+| **Wiltshire Farm Foods** | Software Developer in Test | Remote | 🔒 | Oct 31 |
 | **NVIDIA** | ASIC Design Engineer | Santa Clara, CA | 🔒 | Oct 31 |
 | **Amazon.com Services LLC** | New Grad 2027: Software Development Engineer (Database) | Seattle, WA | 🔒 | Oct 30 |
 | **Thoughtworks** | New Grad: Software Developer | Chicago, IL | 🔒 | Oct 29 |
