@@ -247,7 +247,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Broadcom** | New Grad: Physical Design Engineer, ASIC Products Division (APD) (Master's) | San Jose, CA | <a href="https://go.vansh.nyc/123?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | **Broadcom** | Physical Design Engineer, ASIC Products Division (Master's) | San Jose, CA | <a href="https://go.vansh.nyc/124?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | **Amazon** | New Grad 2027: Software Development Engineer, Database | <details><summary>**5 locations**</summary>Boston, MA</br>Seattle, WA</br>Austin, TX</br>Redmond, WA</br>East Palo Alto, CA</details> | <a href="https://go.vansh.nyc/11i?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
-| **Wash U** | Statistical Data Analyst, Infectious Diseases | St. Louis, MO | <a href="https://go.vansh.nyc/ZO?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | **SOSi** | Entry-Level PeopleSoft Software Developer 🇺🇸 | Charleston, SC | <a href="https://go.vansh.nyc/Zn?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | **Raydar** | New Grad: Engineer | San Francisco, CA | <a href="https://go.vansh.nyc/10h?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | **Pure** | iOS / UI Engineer | New York, NY | <a href="https://go.vansh.nyc/YG?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
@@ -532,7 +531,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Solace Health** | New Grad 2027: Associate Software Engineer | Redwood City, CA | <a href="https://go.vansh.nyc/KG?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | **OpenAI** | New Grad 2027: Software Engineer, Applied Emerging Talent | San Francisco, CA | <a href="https://go.vansh.nyc/KF?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | **Clearwater Analytics** | Quantitative Financial Analyst 1 (Master's) | Boise, ID | <a href="https://go.vansh.nyc/KR?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
-| **CACI** | Software Developer 🇺🇸 | San Antonio, TX | <a href="https://go.vansh.nyc/Ll?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | **Atlassian** | New Grad 2027: Software Engineer 🛂 | Seattle, WA | <a href="https://go.vansh.nyc/KE?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | **Analog Devices** | Associate Embedded Software Engineer | San Jose, CA</br>Wilmington, MA</br>Durham, NC | <a href="https://go.vansh.nyc/KP?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | **Aero** | New Grad 2027: RPO Software Developer/Analyst (Master's) 🇺🇸 | El Segundo, CA | <a href="https://go.vansh.nyc/Ln?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
@@ -835,6 +833,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Wiltshire Farm Foods** | Software Developer in Test | Remote | 🔒 | Oct 31 |
 | **NVIDIA** | ASIC Design Engineer | Santa Clara, CA | 🔒 | Oct 31 |
 | **Amazon.com Services LLC** | New Grad 2027: Software Development Engineer (Database) | Seattle, WA | 🔒 | Oct 30 |
+| **Wash U** | Statistical Data Analyst, Infectious Diseases | St. Louis, MO | 🔒 | Oct 29 |
 | **Thoughtworks** | New Grad: Software Developer | Chicago, IL | 🔒 | Oct 29 |
 | **Sopra Steria I2S** | Cloud Computing | Bundesweit, DE | 🔒 | Oct 29 |
 | **Raydar** | Machine Learning Infrastructure Engineer | San Francisco, CA | 🔒 | Oct 29 |
@@ -929,6 +928,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **American Express** | Software Engineer 1, Enterprise Technology Services | New York, NY | 🔒 | Sep 19 |
 | **American Express** | Data Engineer 1, Enterprise Technology Services | Phoenix, AZ | 🔒 | Sep 19 |
 | **Solace Health** | New Grad 2027: Associate Data Scientist | Redwood City, CA | 🔒 | Sep 15 |
+| **CACI** | Software Developer 🇺🇸 | San Antonio, TX | 🔒 | Sep 15 |
 | **CoStar Group** | New Grad 2027: Associate Security Engineer 🛂 | Richmond, VA | 🔒 | Sep 14 |
 | **L3Harris Technologies** | Software Engineer | Salt Lake City, UT | 🔒 | Sep 11 |
 | **L3Harris Technologies** | Software Engineer | Salt Lake City, UT | 🔒 | Sep 11 |
