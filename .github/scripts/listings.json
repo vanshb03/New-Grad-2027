@@ -21248,13 +21248,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793018234,
+        "date_updated": 1793657593,
         "url": "https://go.vansh.nyc/Ib",
         "locations": [
             "Marquette, MI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Perpay",
         "title": "Software Engineer",
         "source": "vanshb03",
