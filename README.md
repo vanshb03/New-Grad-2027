@@ -41,6 +41,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Verkada** | New Grad 2027: Backend Software Engineer | San Mateo, CA | <a href="https://go.vansh.nyc/19H?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | **Fireworks AI** | New Grad 2027: Member of Technical Staff | San Mateo, CA | <a href="https://go.vansh.nyc/19h?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | **Equifax** | New Grad 2027: Data Analytics Rotational Development Associate | Alpharetta, GA | <a href="https://go.vansh.nyc/19F?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | **Decagon** | New Grad 2027: Member of Technical Staff | San Francisco, CA | <a href="https://go.vansh.nyc/19g?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
