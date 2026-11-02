@@ -28248,13 +28248,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793492254,
+        "date_updated": 1793596124,
         "url": "https://go.vansh.nyc/13U",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Wiltshire Farm Foods",
         "title": "Software Developer in Test",
         "source": "vanshb03",
