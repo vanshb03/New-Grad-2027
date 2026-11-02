@@ -147,6 +147,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Northrop Grumman** | Associate Software Engineer 🇺🇸 | Huntsville, AL | <a href="https://go.vansh.nyc/14E?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | **Huntington Ingalls Industries** | Product Owner - Digital Plant 🇺🇸 | Newport News, VA | <a href="https://go.vansh.nyc/14F?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | **Huntington Ingalls Industries** | Software Engineer 1 🇺🇸 | Newport News, VA | <a href="https://go.vansh.nyc/14G?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
+| **Corgi** | Full Stack Engineer, New Product Line | New York, NY | <a href="https://go.vansh.nyc/19o?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | **ByteDance** | New Grad 2027: Research Scientist, Seed Model-Alignment&Preparedness | San Jose, CA | <a href="https://go.vansh.nyc/14H?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | **ByteDance** | New Grad 2027: Research Scientist, Seed Model - AI Foundation Model Infrastructure | Seattle, WA | <a href="https://go.vansh.nyc/14I?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | **ByteDance** | New Grad 2027: Research Scientist, Seed Model - AI Foundation Model Infrastructure | San Jose, CA | <a href="https://go.vansh.nyc/14J?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
@@ -638,7 +639,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Pennsylvania State University** | DevSecOps Research Computing Software Engineer | State College, PA | <a href="https://go.vansh.nyc/Al?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
 | **Duke University** | Analytics Engineer | Durham, NC | <a href="https://go.vansh.nyc/Ab?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
 | **Artera** | Software Developer Associate | Seattle, WA | <a href="https://go.vansh.nyc/Ai?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
-| **Apple** | Cellular Power Optimization Software Engineer, Wireless Technologies & Ecosystems | San Diego, CA | <a href="https://go.vansh.nyc/Ah?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
 | **Base-2 Solutions** | Software Engineer 🇺🇸 | Annapolis Junction, MD | <a href="https://go.vansh.nyc/zP?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 25 |
 | **Tesla** | Software Integration Engineer, Cell Manufacturing | Austin, TX | <a href="https://go.vansh.nyc/zD?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 15 |
 | **Tesla** | Software QA Engineer, Update Systems Validation, Vehicle Software | Palo Alto, CA | <a href="https://go.vansh.nyc/zt?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 15 |
@@ -967,6 +967,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Esri** | Product Engineer 1, ArcGIS Maps SDKs | West Redlands, Redlands, CA | 🔒 | Jul 31 |
 | **Cisco** | Software Engineer 1 | San Jose, CA | 🔒 | Jul 31 |
 | **Axos Bank** | AI Engineer, Consumer IT AI Team | San Diego, CA | 🔒 | Jul 31 |
+| **Apple** | Cellular Power Optimization Software Engineer, Wireless Technologies & Ecosystems | San Diego, CA | 🔒 | Jul 31 |
 | **Amerisure** | Software Engineer 1 | Southfield, MI | 🔒 | Jul 31 |
 | **Appian** | New Grad 2027: Software Engineer 🛂 | McLean, VA | 🔒 | Jul 30 |
 | **Appian** | New Grad 2027: Associate Solution Engineer 🇺🇸 | McLean, VA | 🔒 | Jul 24 |
