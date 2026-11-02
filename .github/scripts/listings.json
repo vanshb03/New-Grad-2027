@@ -23509,13 +23509,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793025546,
+        "date_updated": 1793599932,
         "url": "https://go.vansh.nyc/O1",
         "locations": [
             "Salt Lake City, UT"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "L3Harris Technologies",
         "title": "Software Engineer",
         "source": "vanshb03",
@@ -23525,13 +23525,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793025546,
+        "date_updated": 1793599932,
         "url": "https://go.vansh.nyc/O2",
         "locations": [
             "Salt Lake City, UT"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "L3Harris Technologies",
         "title": "Software Engineer",
         "source": "vanshb03",
