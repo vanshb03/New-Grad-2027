@@ -31193,5 +31193,53 @@
         "date_posted": 1793652989,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793663156,
+        "url": "https://go.vansh.nyc/1bo",
+        "locations": [
+            "Plano, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GlobalFoundries",
+        "title": "New Grad 2027: Design Verification Engineer",
+        "source": "vanshb03",
+        "id": "50791fb5-204e-4091-9907-3e6313d8c32a",
+        "date_posted": 1793577600,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793663156,
+        "url": "https://go.vansh.nyc/1bp",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Aprio",
+        "title": "AI & Automation Associate",
+        "source": "vanshb03",
+        "id": "ffc23a72-e298-489d-a1cb-f50e9074a88b",
+        "date_posted": 1793661231,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793663156,
+        "url": "https://go.vansh.nyc/1bq",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "RTX",
+        "title": "New Grad: Electrical Engineer 1",
+        "source": "vanshb03",
+        "id": "fa6f9d82-8f62-4ce3-a0b7-11f847fa5452",
+        "date_posted": 1793577600,
+        "company_url": "",
+        "is_visible": true
     }
 ]
