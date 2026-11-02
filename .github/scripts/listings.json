@@ -27468,7 +27468,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793313601,
+        "date_updated": 1793655818,
         "url": "https://go.vansh.nyc/ZQ",
         "locations": [
             "Honolulu, HI",
@@ -27484,7 +27484,7 @@
             "El Segundo, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Booz Allen",
         "title": "New Grad 2027: Data Scientist",
         "source": "vanshb03",
