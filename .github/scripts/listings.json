@@ -26722,13 +26722,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793140747,
+        "date_updated": 1793582019,
         "url": "https://go.vansh.nyc/WL",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Apple",
         "title": "SoC Physical Design Engineer, Place and Route",
         "source": "vanshb03",
