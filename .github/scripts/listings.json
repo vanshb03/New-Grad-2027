@@ -418,7 +418,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1744461114,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/ir",
         "company_name": "Tesla",
         "title": "Software Engineer, Drivers & Control Plane, Dojo",
@@ -426,7 +426,7 @@
             "Palo Alto, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "f0c2be17-3aca-4d9f-b2b0-deabfbda7824",
         "date_posted": 1744461114,
@@ -434,7 +434,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1744461156,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/is",
         "company_name": "Tesla",
         "title": "Software Engineer, Metrics, GenAI Model Evaluation",
@@ -442,7 +442,7 @@
             "Palo Alto, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "d58dd8cd-d5b1-4b7e-afba-c8a0952ed039",
         "date_posted": 1744461156,
@@ -450,7 +450,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1744461195,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/it",
         "company_name": "Tesla",
         "title": "Frontend Engineer, GenAI Model Evaluation",
@@ -458,7 +458,7 @@
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "407a24d3-3108-4887-a98f-fccebb440501",
         "date_posted": 1744461195,
@@ -466,7 +466,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1744461221,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/iu",
         "company_name": "Tesla",
         "title": "Software Engineer, AI Driven Test Automation",
@@ -474,7 +474,7 @@
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "252ef5c1-95c3-4c8b-ac3c-aec374a22f41",
         "date_posted": 1744461221,
@@ -482,7 +482,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1744461378,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/iv",
         "company_name": "Tesla",
         "title": "Linux Site Reliability Engineer, IT Manufacturing Site Reliability Engineering",
@@ -490,7 +490,7 @@
             "Fremont, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "f35d66b7-9622-4422-ba7c-4f209b3b96fc",
         "date_posted": 1744461378,
@@ -1214,7 +1214,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1747298650,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/jd",
         "company_name": "Tesla",
         "title": "Software Engineer, Mobile Robotics Control & Perception",
@@ -1222,7 +1222,7 @@
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "2a1e80ef-c263-4b31-9201-a1eddd07aa28",
         "date_posted": 1747298650,
@@ -1301,7 +1301,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1747299256,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/ji",
         "company_name": "Tesla",
         "title": "Software Engineer, AI Systems Performance Modeling",
@@ -1309,7 +1309,7 @@
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "99336b31-6fba-4e76-aeae-0cc552ba89ed",
         "date_posted": 1747299256,
@@ -2241,7 +2241,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748584049,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/ke",
         "company_name": "Tesla",
         "title": "Software Engineer, ML Inference Compiler & Deployment, GPU, CPU",
@@ -2249,7 +2249,7 @@
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "1a76ae58-01c5-477c-865b-16227cf22371",
         "date_posted": 1748584049,
@@ -2849,7 +2849,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1749441778,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/kP",
         "company_name": "Tesla",
         "title": "Wireless Bluetooth Software Engineer",
@@ -2857,7 +2857,7 @@
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "e6bff530-ac69-49ed-b53e-b0bcb86f360c",
         "date_posted": 1749441778,
@@ -2865,7 +2865,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1749441799,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/kQ",
         "company_name": "Tesla",
         "title": "Software Engineer, AI Systems Performance Modeling, Dojo",
@@ -2873,7 +2873,7 @@
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "9cd749ba-242f-45ea-b6e6-364500d9ee47",
         "date_posted": 1749441799,
@@ -3154,7 +3154,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751050563,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/l8",
         "company_name": "Tesla",
         "title": "Firmware Engineer, Silicon Development",
@@ -3162,7 +3162,7 @@
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "3a7f7d43-6cbf-443a-8d2e-622fa853fd52",
         "date_posted": 1751050563,
@@ -3446,7 +3446,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751245352,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/lq",
         "company_name": "Tesla",
         "title": "Technical Artist, UI Design",
@@ -3454,7 +3454,7 @@
             "Hawthorne, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "b65ad957-daff-4e08-b202-f508f7b8c015",
         "date_posted": 1751245352,
@@ -3462,7 +3462,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751245403,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/lr",
         "company_name": "Tesla",
         "title": "Software Engineer, Optimus",
@@ -3470,7 +3470,7 @@
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "23b5f05e-22a1-485b-b1e6-c37afe513bd2",
         "date_posted": 1751245403,
@@ -4226,13 +4226,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1752525957,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/mc",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Mobile App Engineer, Service & Roadside Assistance",
         "source": "vanshb03",
@@ -4585,13 +4585,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753369638,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/my",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Applications Engineer, Megapack",
         "source": "vanshb03",
@@ -4682,13 +4682,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753369743,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/mE",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Software Engineer, Optimus Inference Co Design",
         "source": "vanshb03",
@@ -4698,13 +4698,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753369752,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/mF",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Camera Software Engineer, AI Platforms",
         "source": "vanshb03",
@@ -4714,13 +4714,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753369760,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/mG",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Software Integration Engineer, AI Platforms",
         "source": "vanshb03",
@@ -6183,13 +6183,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754558333,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/o9",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Automation Controls Engineer, Megapack",
         "source": "vanshb03",
@@ -6199,13 +6199,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754558338,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/oa",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Systems Engineer, Collision Avoidance, Autonomy & Robotics",
         "source": "vanshb03",
@@ -7543,13 +7543,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755115505,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/pv",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Technical Program Manager, Energy Software",
         "source": "vanshb03",
@@ -7754,13 +7754,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755347506,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/pI",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Software Engineer, Core Infrastructure, AI",
         "source": "vanshb03",
@@ -8518,13 +8518,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755699751,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/qt",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "AI Engineer, Multimodal Model Optimization, Autonomy & Robotics",
         "source": "vanshb03",
@@ -8534,13 +8534,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755699760,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/qu",
         "locations": [
             "Sparks, NV"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Software Engineer, Manufacturing Test",
         "source": "vanshb03",
@@ -8632,13 +8632,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755900065,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/qA",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Software Engineer, Frontend, AI Infrastructure Engineering & Tools",
         "source": "vanshb03",
@@ -8648,13 +8648,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755900075,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/qB",
         "locations": [
             "Fremont, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Software Engineer, Communications Platform",
         "source": "vanshb03",
@@ -8664,13 +8664,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755900084,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/qC",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Software Engineer, Material Flow Robotics",
         "source": "vanshb03",
@@ -8846,13 +8846,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755918949,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/qN",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Electrical & Software Engineer, Circuit Board Test Automation",
         "source": "vanshb03",
@@ -8993,13 +8993,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756356246,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/qW",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Kernel Software Engineer",
         "source": "vanshb03",
@@ -9009,13 +9009,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756356253,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/qX",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Software Integration Engineer, Cell Software",
         "source": "vanshb03",
@@ -9025,13 +9025,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756356264,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/qY",
         "locations": [
             "Fremont, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Software Integration Engineer, Factory Firmware",
         "source": "vanshb03",
@@ -9041,13 +9041,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756356270,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/qZ",
         "locations": [
             "Fremont, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Mobile App Developer, Frontend, Claims & Customer Support",
         "source": "vanshb03",
@@ -10046,13 +10046,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757305990,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/rY",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Software QA Engineer, Infotainment, Vehicle Software",
         "source": "vanshb03",
@@ -10062,13 +10062,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757306000,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/rZ",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Software Engineer, Autonomous Mobile Robotics",
         "source": "vanshb03",
@@ -10143,13 +10143,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757306060,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/s4",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Data Engineer, Energy Service Engineering",
         "source": "vanshb03",
@@ -11155,13 +11155,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757578693,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/t4",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Backend Software Engineer, Residential Energy Experience",
         "source": "vanshb03",
@@ -11171,13 +11171,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757578698,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/t5",
         "locations": [
             "Fremont, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Software QA Engineer, Insurance",
         "source": "vanshb03",
@@ -12989,13 +12989,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1759976734,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/uS",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Full Stack Software Engineer, Battery Optimization",
         "source": "vanshb03",
@@ -13005,13 +13005,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1759976738,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/uT",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Sensing Software Engineer",
         "source": "vanshb03",
@@ -13444,14 +13444,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760482719,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/vk",
         "locations": [
             "Austin, TX",
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Verification Infrastructure & DevOps Engineer, AI Hardware",
         "source": "vanshb03",
@@ -13461,14 +13461,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760482723,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/vl",
         "locations": [
             "Austin, TX",
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Infrastructure & DevOps Engineer, AI Hardware",
         "source": "vanshb03",
@@ -13833,13 +13833,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760650359,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/vI",
         "locations": [
             "Fremont, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Frontend Software Engineer, Energy Charging",
         "source": "vanshb03",
@@ -14144,13 +14144,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760784977,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/w1",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Backend Software Engineer, Optimus & Robotaxi",
         "source": "vanshb03",
@@ -14160,13 +14160,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760784980,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/w2",
         "locations": [
             "Fremont, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Backend Software Engineer, IT Data & Analytics",
         "source": "vanshb03",
@@ -14176,13 +14176,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760784983,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/w3",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Software Security Engineer, Energy Product Software",
         "source": "vanshb03",
@@ -15127,13 +15127,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762019352,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/wZ",
         "locations": [
             "Fremont, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Machine Learning Engineer, Tesla Insurance",
         "source": "vanshb03",
@@ -15518,13 +15518,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762782742,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/xn",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "AI Engineer, ML Inference Optimization, Autonomy & Robotics",
         "source": "vanshb03",
@@ -15534,13 +15534,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762782745,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/xo",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Software Validation Engineer, AI Platforms",
         "source": "vanshb03",
@@ -15911,13 +15911,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1763445622,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/xL",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Thermal Controls Engineer, Vehicle Software",
         "source": "vanshb03",
@@ -16126,13 +16126,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1764545569,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/xY",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Software Engineer, Maps & Navigation Validation, Vehicle Software",
         "source": "vanshb03",
@@ -16142,13 +16142,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1764545573,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/xZ",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Software Engineer, AI Inference Codesign",
         "source": "vanshb03",
@@ -16158,13 +16158,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1764545576,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/y0",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Robotics Systems Engineer, Optimus",
         "source": "vanshb03",
@@ -16841,13 +16841,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1767746835,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/yG",
         "locations": [
             "Fremont, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Software Engineer, Core Vehicle Fulfillment Experience",
         "source": "vanshb03",
@@ -16969,13 +16969,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1767995452,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/yO",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Mobile App Build Engineer, Vehicle Software",
         "source": "vanshb03",
@@ -16985,13 +16985,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1767995456,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/yP",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Software Security Engineer, Energy Product Software",
         "source": "vanshb03",
@@ -17017,13 +17017,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1767995462,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/yR",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Software Integration Engineer, Suspension, Vehicle Software",
         "source": "vanshb03",
@@ -17487,13 +17487,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1769926654,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/zk",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Software QA Engineer, Integration, AI Platforms",
         "source": "vanshb03",
@@ -17503,13 +17503,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1769926658,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/zl",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Software Engineer, Optimus",
         "source": "vanshb03",
@@ -17616,13 +17616,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1771169981,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/zs",
         "locations": [
             "Fremont, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Software QA Engineer, Document Systems",
         "source": "vanshb03",
@@ -17632,13 +17632,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1771169987,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/zt",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Software QA Engineer, Update Systems Validation, Vehicle Software",
         "source": "vanshb03",
@@ -17797,13 +17797,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1771170032,
+        "date_updated": 1793660006,
         "url": "https://go.vansh.nyc/zD",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Software Integration Engineer, Cell Manufacturing",
         "source": "vanshb03",
