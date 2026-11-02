@@ -22687,13 +22687,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793023324,
+        "date_updated": 1793632462,
         "url": "https://go.vansh.nyc/Ll",
         "locations": [
             "San Antonio, TX"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "CACI",
         "title": "Software Developer",
         "source": "vanshb03",
@@ -27426,13 +27426,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793313601,
+        "date_updated": 1793632462,
         "url": "https://go.vansh.nyc/ZO",
         "locations": [
             "St. Louis, MO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Wash U",
         "title": "Statistical Data Analyst, Infectious Diseases",
         "source": "vanshb03",
