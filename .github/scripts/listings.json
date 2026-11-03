@@ -31241,5 +31241,22 @@
         "date_posted": 1793577600,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793666568,
+        "url": "https://go.vansh.nyc/1bF",
+        "locations": [
+            "Chicago, IL",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rothera",
+        "title": "Associate Software Engineer",
+        "source": "vanshb03",
+        "id": "2c4db35f-a0ef-4e44-a2bf-52f39f2359c6",
+        "date_posted": 1793666339,
+        "company_url": "",
+        "is_visible": true
     }
 ]
