@@ -44,6 +44,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Capgemini** | Associate Application Consultant | Mississauga, Canada | <a href="https://go.vansh.nyc/1dG?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | **NAV CANADA** | Business Automation Developer | Ottawa, Canada | <a href="https://go.vansh.nyc/Zq?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | **Ciena** | New Grad: Photonic Card Software Developer | Ottawa, Canada | <a href="https://go.vansh.nyc/10O?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | **Neon** | New Grad 2027: Software Engineer | <details><summary>**4 locations**</summary>San Francisco, CA</br>Mountain View, CA</br>Bellevue, WA</br>Vancouver, Canada</details> | <a href="https://go.vansh.nyc/YJ?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
