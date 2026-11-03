@@ -31562,5 +31562,21 @@
         "date_posted": 1793743949,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793745873,
+        "url": "https://go.vansh.nyc/1fn",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Julius AI",
+        "title": "New Grad: Software Engineer - Product",
+        "source": "vanshb03",
+        "id": "7b0b288e-23b4-4b36-9e54-eee28d6647ad",
+        "date_posted": 1793745671,
+        "company_url": "",
+        "is_visible": true
     }
 ]
