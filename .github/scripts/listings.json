@@ -31610,5 +31610,69 @@
         "date_posted": 1793747440,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793749580,
+        "url": "https://go.vansh.nyc/1fG",
+        "locations": [
+            "Manhattan Beach, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "New Grad 2027: Associate Flight Software Engineer",
+        "source": "vanshb03",
+        "id": "7d80b5cb-a9b9-426e-9a61-56275efe901a",
+        "date_posted": 1793664000,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793749580,
+        "url": "https://go.vansh.nyc/1fH",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Faros AI",
+        "title": "New Grad: Software Engineer",
+        "source": "vanshb03",
+        "id": "ce683986-a9b6-4a10-9626-0d617282a20e",
+        "date_posted": 1793749322,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793749580,
+        "url": "https://go.vansh.nyc/1fI",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Preference Model",
+        "title": "New Grad: Member of Technical Staff - Machine Learning Capabilities",
+        "source": "vanshb03",
+        "id": "a723def0-2c80-4b17-b37a-96f2e25a438d",
+        "date_posted": 1793749322,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793749580,
+        "url": "https://go.vansh.nyc/1fJ",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nooks",
+        "title": "New Grad: Software Engineer",
+        "source": "vanshb03",
+        "id": "3d313e4e-23ab-44e1-9e1e-ef320a0028f9",
+        "date_posted": 1793749322,
+        "company_url": "",
+        "is_visible": true
     }
 ]
