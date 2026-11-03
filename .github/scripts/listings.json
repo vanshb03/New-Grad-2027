@@ -20892,14 +20892,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793018234,
+        "date_updated": 1793731686,
         "url": "https://go.vansh.nyc/HP",
         "locations": [
             "Milwaukee, WI",
             "Racine, WI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Badger Meter",
         "title": "Firmware Engineer 1",
         "source": "vanshb03",
@@ -31368,6 +31368,38 @@
         "source": "vanshb03",
         "id": "6dec41db-21aa-465e-b2d4-947b85286b13",
         "date_posted": 1793664000,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793731654,
+        "url": "https://go.vansh.nyc/1dT",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SpaceX",
+        "title": "Software Engineer, Starlink Enterprise",
+        "source": "vanshb03",
+        "id": "01cd3b84-db7b-469d-8f33-e2065ef6fe27",
+        "date_posted": 1793668369,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793731654,
+        "url": "https://go.vansh.nyc/1dU",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KLA",
+        "title": "Software Engineer (Master's)",
+        "source": "vanshb03",
+        "id": "ce0ef29a-8938-473c-ab0d-29b1b5dcc8a7",
+        "date_posted": 1793628172,
         "company_url": "",
         "is_visible": true
     }
