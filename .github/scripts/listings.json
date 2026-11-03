@@ -20730,13 +20730,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793018234,
+        "date_updated": 1793679282,
         "url": "https://go.vansh.nyc/HF",
         "locations": [
             "Remote, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Motorola",
         "title": "Junior Software Engineer, AI Agent Platform",
         "source": "vanshb03",
