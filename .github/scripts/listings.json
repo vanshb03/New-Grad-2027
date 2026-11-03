@@ -31306,5 +31306,21 @@
         "date_posted": 1793675362,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793693774,
+        "url": "https://go.vansh.nyc/1ds",
+        "locations": [
+            "Boise, ID"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Micron Technology",
+        "title": "New Grad: Engineer, Edge Systems Architecture",
+        "source": "vanshb03",
+        "id": "5aa1d535-693c-458e-aa59-3cc7f5465ec6",
+        "date_posted": 1793664000,
+        "company_url": "",
+        "is_visible": true
     }
 ]
