@@ -56,7 +56,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Citi** | New Grad 2027: Application Development Technology Analyst | Mississauga, Canada | <a href="https://go.vansh.nyc/Bs?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | **Analog Devices** | Associate Engineer, SDK and Tools Development | Vancouver, Canada | <a href="https://go.vansh.nyc/Bo?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | **Amazon** | Data Engineer | Toronto, Canada | <a href="https://go.vansh.nyc/Bh?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
-| **Cenovus Energy** | New Grad 2027: Process Data Solutions | Calgary, Canada | <a href="https://go.vansh.nyc/AI?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | **Amazon** | New Grad 2027: Software Development Engineer | Vancouver, Canada | <a href="https://go.vansh.nyc/B2?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | **Bell Canada** | New Grad 2027: Technology Services, Product and Initiative Management | Verdun, Canada | <a href="https://go.vansh.nyc/UP?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | **Bell Canada** | New Grad 2027: Technology Services, Delivery, Excellence & Architecture | Verdun, Canada | <a href="https://go.vansh.nyc/TB?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
@@ -86,6 +85,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **General Motors** | New Grad 2027: Software Test Developer, Propulsion Thermal Management | Markham, Canada | 🔒 | Oct 26 |
 | **Capital One** | Associate Software Engineer, Card Expansion | Toronto, Canada | 🔒 | Oct 23 |
 | **Cisco** | Software Developer, Embedded Systems I | <details><summary>**6 locations**</summary>Kanata, Canada</br>Laurent, Canada</br>Calgary, Canada</br>Montreal, Canada</br>Vancouver, Canada</br>Ottawa, Canada</details> | 🔒 | Oct 22 |
+| **Cenovus Energy** | New Grad 2027: Process Data Solutions | Calgary, Canada | 🔒 | Oct 22 |
 | **AMD** | New Grad: Systems Design Engineer | Markham, Canada | 🔒 | Oct 19 |
 | **Motorola** | Junior Software Engineer, AI Agent Platform | Remote, Canada | 🔒 | Oct 05 |
 | **AMD** | Software System Designer | Markham, Canada | 🔒 | Sep 28 |
