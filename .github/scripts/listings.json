@@ -23986,13 +23986,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793027000,
+        "date_updated": 1793735113,
         "url": "https://go.vansh.nyc/P7",
         "locations": [
             "Los Angeles, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "General Matter",
         "title": "Software Engineer",
         "source": "vanshb03",
@@ -31400,6 +31400,54 @@
         "source": "vanshb03",
         "id": "ce0ef29a-8938-473c-ab0d-29b1b5dcc8a7",
         "date_posted": 1793628172,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793735085,
+        "url": "https://go.vansh.nyc/1e1",
+        "locations": [
+            "Tewksbury, MA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Raytheon Technologies",
+        "title": "Embedded Security Software Engineer I",
+        "source": "vanshb03",
+        "id": "a96fd1bf-9735-460b-85d6-3c25d545f280",
+        "date_posted": 1793648454,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793735085,
+        "url": "https://go.vansh.nyc/1e2",
+        "locations": [
+            "Mississauga, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PRI Engineering",
+        "title": "Junior Software Developer",
+        "source": "vanshb03",
+        "id": "83970a4d-1a27-40d3-9eec-351a2b64b962",
+        "date_posted": 1793648455,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793735085,
+        "url": "https://go.vansh.nyc/1e3",
+        "locations": [
+            "Calgary, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PRI Engineering",
+        "title": "Junior Software Developer",
+        "source": "vanshb03",
+        "id": "c3d69a61-eaaa-4943-ab85-cb1bf626ce06",
+        "date_posted": 1793648455,
         "company_url": "",
         "is_visible": true
     }
