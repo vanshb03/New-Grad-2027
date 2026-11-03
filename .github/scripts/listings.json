@@ -24568,13 +24568,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793027000,
+        "date_updated": 1793724308,
         "url": "https://go.vansh.nyc/PE",
         "locations": [
             "Minnetonka, MN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Viavi Solutions",
         "title": "Development Engineer",
         "source": "vanshb03",
