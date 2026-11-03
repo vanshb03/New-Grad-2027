@@ -474,8 +474,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Affirm** | Software Engineer 1 | New York, NY | <a href="https://go.vansh.nyc/HK?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | **Affirm** | Software Engineer 1 | San Francisco, CA</br>New York, NY | <a href="https://go.vansh.nyc/HM?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | **Auto-Owners Insurance** | COBOL Software Developer 🛂 | Lansing, MI | <a href="https://go.vansh.nyc/HE?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
-| **Harvey** | New Grad 2027: Software Engineer | San Francisco, CA | <a href="https://go.vansh.nyc/Hq?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
-| **Harvey** | New Grad 2027: Software Engineer | New York, NY | <a href="https://go.vansh.nyc/Hr?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
 | **CoStar Group** | New Grad 2027: Associate Embedded Software Engineer | Sunnyvale, CA | <a href="https://go.vansh.nyc/Id?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
 | **CoStar Group** | New Grad 2027: Associate Software Engineer | Sunnyvale, CA | <a href="https://go.vansh.nyc/HC?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 01 |
 | **Amazon** | New Grad 2027: Cloud Hardware Development Engineer 1 – Early Career | Austin, TX</br>Cupertino, CA | <a href="https://go.vansh.nyc/HA?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 01 |
@@ -867,6 +865,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **NVIDIA** | New Grad 2027: GPU PCIe and Boot Architect | Austin, TX</br>Santa Clara, CA | 🔒 | Oct 06 |
 | **NVIDIA** | Formal Verification Engineer | Santa Clara, CA | 🔒 | Oct 06 |
 | **Interdigital** | Research Engineer, 6G AI-Enabled Systems and Testbeds (Master's) | Conshohocken, PA | 🔒 | Oct 02 |
+| **Harvey** | New Grad 2027: Software Engineer | San Francisco, CA | 🔒 | Oct 02 |
+| **Harvey** | New Grad 2027: Software Engineer | New York, NY | 🔒 | Oct 02 |
 | **Intel** | Software Engineer, Datacenter (Master's) 🇺🇸 | Santa Clara, CA | 🔒 | Oct 01 |
 | **NVIDIA** | Applied Machine Learning Engineer, AI for VLSI Design (Master's) | Santa Clara, CA | 🔒 | Sep 29 |
 | **ConocoPhillips** | New Grad 2027: Analyst, Trading Analytics | Houston, TX | 🔒 | Sep 29 |
