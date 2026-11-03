@@ -31211,13 +31211,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793663156,
+        "date_updated": 1793720725,
         "url": "https://go.vansh.nyc/1bp",
         "locations": [
             "Atlanta, GA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Aprio",
         "title": "AI & Automation Associate",
         "source": "vanshb03",
@@ -31336,6 +31336,22 @@
         "source": "vanshb03",
         "id": "54f96328-e405-4114-8a09-b4f5497efcee",
         "date_posted": 1793664865,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793720691,
+        "url": "https://go.vansh.nyc/1dG",
+        "locations": [
+            "Mississauga, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Capgemini",
+        "title": "Associate Application Consultant",
+        "source": "vanshb03",
+        "id": "07f8739a-debc-4dd6-98c6-404a77df0677",
+        "date_posted": 1793719577,
         "company_url": "",
         "is_visible": true
     }
