@@ -31498,5 +31498,69 @@
         "date_posted": 1793736686,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793744248,
+        "url": "https://go.vansh.nyc/1f6",
+        "locations": [
+            "Burnaby, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nexthop.ai",
+        "title": "New Grad 2027: Software Engineer",
+        "source": "vanshb03",
+        "id": "e4766df2-37f5-4c05-b663-3e75b8cf0545",
+        "date_posted": 1793743949,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793744248,
+        "url": "https://go.vansh.nyc/1f7",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Strada",
+        "title": "New Grad: Software Engineer",
+        "source": "vanshb03",
+        "id": "e8997766-c243-4997-8513-20a8be3dbda0",
+        "date_posted": 1793743949,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793744248,
+        "url": "https://go.vansh.nyc/1f8",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Realm",
+        "title": "New Grad: Software Engineer",
+        "source": "vanshb03",
+        "id": "4163d8b2-be09-449d-9cf4-319aa1874cfe",
+        "date_posted": 1793743949,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793744248,
+        "url": "https://go.vansh.nyc/1f9",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "FSH Technologies",
+        "title": "New Grad: Engineer",
+        "source": "vanshb03",
+        "id": "76cdceaa-72f9-4953-9ac7-d1247d4af408",
+        "date_posted": 1793743949,
+        "company_url": "",
+        "is_visible": true
     }
 ]
