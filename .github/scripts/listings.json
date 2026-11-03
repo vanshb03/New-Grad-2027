@@ -31258,5 +31258,53 @@
         "date_posted": 1793666339,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793675587,
+        "url": "https://go.vansh.nyc/1bO",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AMAX",
+        "title": "Junior System Engineer",
+        "source": "vanshb03",
+        "id": "4c899af0-af19-4377-bb8e-fbc7fd20df4e",
+        "date_posted": 1793672441,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793675587,
+        "url": "https://go.vansh.nyc/1bP",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Shield",
+        "title": "New Grad: Software Engineer I",
+        "source": "vanshb03",
+        "id": "84e881ac-3ea5-4fe9-a78a-41da69b04cb2",
+        "date_posted": 1793675362,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793675587,
+        "url": "https://go.vansh.nyc/1bQ",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Shield",
+        "title": "New Grad 2027: Software Development Engineer",
+        "source": "vanshb03",
+        "id": "5ea820a8-e056-4e03-b68f-6b5082785278",
+        "date_posted": 1793675362,
+        "company_url": "",
+        "is_visible": true
     }
 ]
