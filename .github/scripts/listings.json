@@ -31450,5 +31450,53 @@
         "date_posted": 1793648455,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793736941,
+        "url": "https://go.vansh.nyc/1ea",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "GPU System and Scheduling Architect (Master's)",
+        "source": "vanshb03",
+        "id": "77c2ba25-2c8b-4cb6-85c5-5af5b6573fa5",
+        "date_posted": 1793736120,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793736941,
+        "url": "https://go.vansh.nyc/1eb",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "LexisNexis Risk Solutions",
+        "title": "New Grad 2027: Tech Accelerate Program",
+        "source": "vanshb03",
+        "id": "2ea7f14d-15d1-4cac-b8a3-4d462338cd8a",
+        "date_posted": 1793736120,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793736941,
+        "url": "https://go.vansh.nyc/1ec",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "New Grad 2027: Software Development Engineer (Embedded Systems)",
+        "source": "vanshb03",
+        "id": "e8764904-db74-45be-ae45-a194c869f494",
+        "date_posted": 1793736686,
+        "company_url": "",
+        "is_visible": true
     }
 ]
