@@ -41,6 +41,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **SpaceX** | Software Engineer, Starlink Enterprise | Palo Alto, CA | <a href="https://go.vansh.nyc/1dT?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | **Shield** | New Grad: Software Engineer I | Seattle, WA | <a href="https://go.vansh.nyc/1bP?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | **Shield** | New Grad 2027: Software Development Engineer | San Diego, CA | <a href="https://go.vansh.nyc/1bQ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | **RTX** | New Grad 2027: Leadership Development Program - Engineering - Software Discipline 🇺🇸 | Arlington, VA | <a href="https://go.vansh.nyc/1dJ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
@@ -51,6 +52,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Verkada** | New Grad 2027: Backend Software Engineer | San Mateo, CA | <a href="https://go.vansh.nyc/19H?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | **RTX** | New Grad: Electrical Engineer 1 | Cedar Rapids, IA | <a href="https://go.vansh.nyc/1bq?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | **Microsoft** | Software Engineering IC2 | Redmond, WA | <a href="https://go.vansh.nyc/19Q?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
+| **KLA** | Software Engineer (Master's) | Milpitas, CA | <a href="https://go.vansh.nyc/1dU?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | **GlobalFoundries** | New Grad 2027: Design Verification Engineer | Plano, TX | <a href="https://go.vansh.nyc/1bo?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | **Fireworks AI** | New Grad 2027: Member of Technical Staff | San Mateo, CA | <a href="https://go.vansh.nyc/19h?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | **Equifax** | New Grad 2027: Data Analytics Rotational Development Associate | Alpharetta, GA | <a href="https://go.vansh.nyc/19F?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
@@ -465,7 +467,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Qualcomm** | Memory and Cache Controller Design Engineer, ASIC Engineering (Master's) | San Diego, CA | <a href="https://go.vansh.nyc/HN?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
 | **Hewlett Packard Enterprise** | Systems/Software Engineer I | Houston, TX | <a href="https://go.vansh.nyc/Lg?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
 | **Cincinnati Children’s** | Developer I, Psychiatry | Burnet, TX | <a href="https://go.vansh.nyc/Ic?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
-| **Badger Meter** | Firmware Engineer 1 | Milwaukee, WI</br>Racine, WI | <a href="https://go.vansh.nyc/HP?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
 | **Shield AI** | New Grad 2027: Software Development Engineer | San Diego, CA | <a href="https://go.vansh.nyc/HL?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | **Mach Industries** | New Grad 2027: Software Engineer - Software 🛂 | Huntington Beach, CA | <a href="https://go.vansh.nyc/HH?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | **Mach Industries** | Software Engineer 🛂 | Huntington Beach, CA | <a href="https://go.vansh.nyc/HI?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
@@ -862,6 +863,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **NVIDIA** | SRAM Circuit Design Engineer (Master's) | Santa Clara, CA | 🔒 | Oct 13 |
 | **Perpay** | Software Engineer | Marquette, MI | 🔒 | Oct 08 |
 | **Avis Budget Group** | New Grad 2027: Business Insights Analyst | Troy Hills, NJ | 🔒 | Oct 08 |
+| **Badger Meter** | Firmware Engineer 1 | Milwaukee, WI</br>Racine, WI | 🔒 | Oct 07 |
 | **NVIDIA** | New Grad 2027: GPU PCIe and Boot Architect | Austin, TX</br>Santa Clara, CA | 🔒 | Oct 06 |
 | **NVIDIA** | Formal Verification Engineer | Santa Clara, CA | 🔒 | Oct 06 |
 | **Interdigital** | Research Engineer, 6G AI-Enabled Systems and Testbeds (Master's) | Conshohocken, PA | 🔒 | Oct 02 |
