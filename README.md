@@ -500,7 +500,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Qumulo** | Software Development Engineer | Seattle, WA | <a href="https://go.vansh.nyc/L5?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
 | **LexisNexis Risk Solutions** | Tech Accelarate | Alpharetta, GA | <a href="https://go.vansh.nyc/K9?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
 | **Klaviyo** | New Grad 2027: AI Engineer 1 (Master's) | Boston, MA | <a href="https://go.vansh.nyc/L4?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
-| **Honeywell** | Software Engineer 1 | Duluth, GA | <a href="https://go.vansh.nyc/L3?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
 | **ZS** | Business Technology Solutions Associate | Chicago, IL</br>Princeton, NJ | <a href="https://go.vansh.nyc/Ld?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 22 |
 | **Renesas Electronics** | Electrical Engineer | Austin, TX | <a href="https://go.vansh.nyc/L1?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 22 |
 | **Collinear AI** | Mts Research, Cybersecurity | San Francisco, CA</br>Sunnyvale, CA | <a href="https://go.vansh.nyc/KY?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 22 |
@@ -520,7 +519,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **JPMorganChase** | New Grad 2027: Data & AI Program, Analyst | New York, NY | <a href="https://go.vansh.nyc/Kf?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | **Garner Health** | New Grad 2027: Associate Software Engineer 🛂 | New York, NY | <a href="https://go.vansh.nyc/Ke?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | **Bot Auto** | Algorithm Engineer, Deep Learning & Vision | Houston, TX</br>San Francisco, CA | <a href="https://go.vansh.nyc/Kc?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
-| **AllianceBernstein** | New Grad 2027: Software Development Associate 🇺🇸 | Nashville, TN | <a href="https://go.vansh.nyc/Kb?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | **Thales** | Software DevOps Engineer | Orlando, FL | <a href="https://go.vansh.nyc/Ig?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | **SpaceX** | Software Engineer, Starship | Hawthorne, CA | <a href="https://go.vansh.nyc/KC?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | **Perpay** | New Grad 2027: Software Engineer | Philadelphia, PA | <a href="https://go.vansh.nyc/KB?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
@@ -876,11 +874,13 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **NVIDIA** | New Grad 2027: ASIC Verification Engineer, Memory Management | Durham, NC</br>Madison, AL</br>Hillsboro, OR | 🔒 | Sep 28 |
 | **NVIDIA** | New Grad 2027: ASIC Verification Engineer | Austin, TX</br>Santa Clara, CA | 🔒 | Sep 28 |
 | **Lattice Semiconductor** | Junior Firmware Engineer | Duluth, GA | 🔒 | Sep 23 |
+| **Honeywell** | Software Engineer 1 | Duluth, GA | 🔒 | Sep 23 |
 | **General Motors** | Software Engineer, AV HIL Platform and Services | Sunnyvale, CA | 🔒 | Sep 23 |
 | **Astranis** | Flight Software Associate 🇺🇸 | San Francisco, CA | 🔒 | Sep 23 |
 | **American Express** | New Grad 2027: Analyst, Data & Analytics, Enterprise Technology Services | Charlotte, NC | 🔒 | Sep 23 |
 | **PMG** | Data Analytics 🛂 | Dallas, TX | 🔒 | Sep 20 |
 | **PMG** | New Grad 2027: Data Analytics 🛂 | Dallas, TX | 🔒 | Sep 20 |
+| **AllianceBernstein** | New Grad 2027: Software Development Associate 🇺🇸 | Nashville, TN | 🔒 | Sep 20 |
 | **American Express** | Software Engineer 1, Enterprise Technology Services | New York, NY | 🔒 | Sep 19 |
 | **American Express** | Data Engineer 1, Enterprise Technology Services | Phoenix, AZ | 🔒 | Sep 19 |
 | **Solace Health** | New Grad 2027: Associate Data Scientist | Redwood City, CA | 🔒 | Sep 15 |
