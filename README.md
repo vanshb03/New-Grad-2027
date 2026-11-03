@@ -52,6 +52,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Micron Technology** | Engineer, Edge Systems Architecture | Boise, ID | <a href="https://go.vansh.nyc/1dv?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | **Micron Technology** | New Grad: Engineer, Edge Systems Architecture | Boise, ID | <a href="https://go.vansh.nyc/1ds?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | **LexisNexis Risk Solutions** | New Grad 2027: Tech Accelerate Program | Alpharetta, GA | <a href="https://go.vansh.nyc/1eb?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
+| **Julius AI** | New Grad: Software Engineer - Product | San Francisco, CA | <a href="https://go.vansh.nyc/1fn?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | **FSH Technologies** | New Grad: Engineer | Philadelphia, PA | <a href="https://go.vansh.nyc/1f9?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | **Amazon** | New Grad 2027: Software Development Engineer (Embedded Systems) | Seattle, WA | <a href="https://go.vansh.nyc/1ec?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | **AMAX** | Junior System Engineer | Fremont, CA | <a href="https://go.vansh.nyc/1bO?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
