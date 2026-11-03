@@ -20482,13 +20482,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793018233,
+        "date_updated": 1793729717,
         "url": "https://go.vansh.nyc/Hq",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Harvey",
         "title": "New Grad 2027: Software Engineer",
         "source": "vanshb03",
@@ -20498,13 +20498,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793018233,
+        "date_updated": 1793729717,
         "url": "https://go.vansh.nyc/Hr",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Harvey",
         "title": "New Grad 2027: Software Engineer",
         "source": "vanshb03",
