@@ -30952,13 +30952,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793567654,
+        "date_updated": 1793713648,
         "url": "https://go.vansh.nyc/194",
         "locations": [
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Genesys",
         "title": "Associate Software Developer in Test",
         "source": "vanshb03",
