@@ -21216,13 +21216,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793018234,
+        "date_updated": 1793747722,
         "url": "https://go.vansh.nyc/I9",
         "locations": [
             "Irvine, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ALTEN Technology USA",
         "title": "SAP ABAP & BTP Full Stack Developer",
         "source": "vanshb03",
@@ -31576,6 +31576,38 @@
         "source": "vanshb03",
         "id": "7b0b288e-23b4-4b36-9e54-eee28d6647ad",
         "date_posted": 1793745671,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793747701,
+        "url": "https://go.vansh.nyc/1fu",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Cylake",
+        "title": "New Grad 2027: Software Engineer",
+        "source": "vanshb03",
+        "id": "fe2e0cd4-e180-442f-8ec3-c0ce348cd4e7",
+        "date_posted": 1793747440,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793747701,
+        "url": "https://go.vansh.nyc/1fv",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TRM Labs",
+        "title": "New Grad 2027: Product Engineer",
+        "source": "vanshb03",
+        "id": "cadfbfe9-cf05-4b0f-9032-e917fcf2ae97",
+        "date_posted": 1793747440,
         "company_url": "",
         "is_visible": true
     }
