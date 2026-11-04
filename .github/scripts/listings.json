@@ -31950,13 +31950,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793818047,
+        "date_updated": 1793836014,
         "url": "https://go.vansh.nyc/1gS",
         "locations": [
             "Colorado Springs, CO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Frontgrade",
         "title": "Software Engineer I",
         "source": "vanshb03",
@@ -32042,6 +32042,38 @@
         "source": "vanshb03",
         "id": "eff41ecd-ff13-4382-95c5-295ff97d9be3",
         "date_posted": 1793827551,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793835997,
+        "url": "https://go.vansh.nyc/1hd",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "M&T Bank",
+        "title": "New Grad 2027: Technology Development Program - Operating Systems Engineer",
+        "source": "vanshb03",
+        "id": "aba84213-ef37-4f93-a077-aa071bdfb3cc",
+        "date_posted": 1793750400,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793835997,
+        "url": "https://go.vansh.nyc/1he",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "M&T Bank",
+        "title": "New Grad 2027: Technology Development Program - Cloud Storage & Data Protection Engineer",
+        "source": "vanshb03",
+        "id": "8a81ebfc-374a-49b2-82fe-e90694e3c4ca",
+        "date_posted": 1793750400,
         "company_url": "",
         "is_visible": true
     }
