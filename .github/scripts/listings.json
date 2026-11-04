@@ -31706,5 +31706,21 @@
         "date_posted": 1793751037,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793753050,
+        "url": "https://go.vansh.nyc/1fQ",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Synhawk",
+        "title": "Member of Technical Staff: Junior AI Researcher (Master's)",
+        "source": "vanshb03",
+        "id": "a5cf27fe-80ca-49c4-9a38-0471c67712ba",
+        "date_posted": 1793752764,
+        "company_url": "",
+        "is_visible": true
     }
 ]
