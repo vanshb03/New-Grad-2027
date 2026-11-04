@@ -31900,5 +31900,53 @@
         "date_posted": 1793750400,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793807145,
+        "url": "https://go.vansh.nyc/1gC",
+        "locations": [
+            "Wilmington, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Analog Devices",
+        "title": "Field Robotics Systems Engineer",
+        "source": "vanshb03",
+        "id": "767f0c07-325b-49db-a369-f40da1d63d51",
+        "date_posted": 1793750400,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793807145,
+        "url": "https://go.vansh.nyc/1gD",
+        "locations": [
+            "Palm Bay, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "L3Harris Technologies",
+        "title": "Associate, Software Engineer",
+        "source": "vanshb03",
+        "id": "4f99432b-8328-4c8e-8953-21f6a3c0e46c",
+        "date_posted": 1793804867,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793807145,
+        "url": "https://go.vansh.nyc/1gE",
+        "locations": [
+            "Palm Bay, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "L3Harris Technologies",
+        "title": "Associate, Software Engineer",
+        "source": "vanshb03",
+        "id": "d5d66de1-fc5b-4378-9243-ea679abdc812",
+        "date_posted": 1793804868,
+        "company_url": "",
+        "is_visible": true
     }
 ]
