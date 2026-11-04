@@ -31996,5 +31996,37 @@
         "date_posted": 1793733736,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793821513,
+        "url": "https://go.vansh.nyc/1h0",
+        "locations": [
+            "Plymouth, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Vantive",
+        "title": "Embedded Software Engineer",
+        "source": "vanshb03",
+        "id": "5709611a-543d-4839-8e6b-4a90d4cd1cc6",
+        "date_posted": 1793734855,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793821513,
+        "url": "https://go.vansh.nyc/1h1",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lyft",
+        "title": "Software Engineer, Backend",
+        "source": "vanshb03",
+        "id": "691f2baa-5ad9-458a-9fd5-99c155b04096",
+        "date_posted": 1793821255,
+        "company_url": "",
+        "is_visible": true
     }
 ]
