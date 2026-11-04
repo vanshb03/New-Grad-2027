@@ -21086,13 +21086,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793018234,
+        "date_updated": 1793809020,
         "url": "https://go.vansh.nyc/I1",
         "locations": [
             "Norwell, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "LSEG",
         "title": "New Grad 2027: Engineering Graduate Programme",
         "source": "vanshb03",
