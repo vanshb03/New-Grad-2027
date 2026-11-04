@@ -44,6 +44,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Infoblox** | Associate Software Engineer | Burnaby, Canada | <a href="https://go.vansh.nyc/1gv?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | **Nexthop.ai** | New Grad 2027: Software Engineer | Burnaby, Canada | <a href="https://go.vansh.nyc/1f6?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | **Capgemini** | Associate Application Consultant | Mississauga, Canada | <a href="https://go.vansh.nyc/1dG?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | **PRI Engineering** | Junior Software Developer | Mississauga, Canada | <a href="https://go.vansh.nyc/1e2?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
