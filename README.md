@@ -42,6 +42,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
 | **Synhawk** | Member of Technical Staff: Junior AI Researcher (Master's) | San Francisco, CA | <a href="https://go.vansh.nyc/1fQ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
+| **Shield AI** | New Grad: Engineer II, Simulation Framework (Master's) 🇺🇸 | San Diego, CA</br>Washington, DC | <a href="https://go.vansh.nyc/1g6?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
+| **Nuance Labs** | New Grad: Member of Technical Staff — Model Optimization and Inference | Seattle, WA | <a href="https://go.vansh.nyc/1g7?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | **endeavorai.com** | New Grad 2027: Forward Deployed Engineer | Chicago, IL | <a href="https://go.vansh.nyc/1fT?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | **CCT** | Technical Consultant 🛂 | Tulsa, OK | <a href="https://go.vansh.nyc/1fP?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | **TRM Labs** | New Grad 2027: Product Engineer | Los Angeles, CA | <a href="https://go.vansh.nyc/1fv?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
@@ -180,7 +182,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **TikTok** | New Grad 2027: Backend Software Engineer, Creation Platform (Master's) | San Jose, CA | <a href="https://go.vansh.nyc/17k?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | **TikTok** | New Grad 2027: Software Engineer, Recommendation Infrastructure | San Jose, CA | <a href="https://go.vansh.nyc/17l?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | **TikTok** | New Grad 2027: Big Data Engineer, TikTok Recommendation Architecture | San Jose, CA | <a href="https://go.vansh.nyc/17m?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
-| **Northrop Grumman** | Associate Software Engineer 🇺🇸 | Huntsville, AL | <a href="https://go.vansh.nyc/14E?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | **Huntington Ingalls Industries** | Product Owner - Digital Plant 🇺🇸 | Newport News, VA | <a href="https://go.vansh.nyc/14F?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | **Huntington Ingalls Industries** | Software Engineer 1 🇺🇸 | Newport News, VA | <a href="https://go.vansh.nyc/14G?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | **Corgi** | Full Stack Engineer, New Product Line | New York, NY | <a href="https://go.vansh.nyc/19o?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
@@ -793,6 +794,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **RTX** | New Grad 2027: Leadership Development Program - Engineering - Software Discipline 🇺🇸 | Arlington, VA | 🔒 | Nov 03 |
 | **Huntington Ingalls Industries** | IT Software Engineer 1 - Robotic Process Automation 🇺🇸 | Newport News, VA | 🔒 | Nov 02 |
 | **Aprio** | AI & Automation Associate | Atlanta, GA | 🔒 | Nov 02 |
+| **Northrop Grumman** | Associate Software Engineer 🇺🇸 | Huntsville, AL | 🔒 | Nov 01 |
 | **Wiltshire Farm Foods** | Software Developer in Test | Remote | 🔒 | Oct 31 |
 | **NVIDIA** | ASIC Design Engineer | Santa Clara, CA | 🔒 | Oct 31 |
 | **Amazon.com Services LLC** | New Grad 2027: Software Development Engineer (Database) | Seattle, WA | 🔒 | Oct 30 |
