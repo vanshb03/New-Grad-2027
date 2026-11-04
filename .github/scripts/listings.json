@@ -20682,13 +20682,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793018234,
+        "date_updated": 1793818062,
         "url": "https://go.vansh.nyc/HC",
         "locations": [
             "Sunnyvale, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CoStar Group",
         "title": "New Grad 2027: Associate Software Engineer",
         "source": "vanshb03",
@@ -31946,6 +31946,54 @@
         "source": "vanshb03",
         "id": "d5d66de1-fc5b-4378-9243-ea679abdc812",
         "date_posted": 1793804868,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793818047,
+        "url": "https://go.vansh.nyc/1gS",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Frontgrade",
+        "title": "Software Engineer I",
+        "source": "vanshb03",
+        "id": "dba41d95-16b6-4f9e-bcf8-b45015e9f755",
+        "date_posted": 1793760344,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793818047,
+        "url": "https://go.vansh.nyc/1gT",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Paperless Parts",
+        "title": "Platform Engineer",
+        "source": "vanshb03",
+        "id": "e22ad0fd-c419-4b5e-a655-52294437c690",
+        "date_posted": 1793709176,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793818047,
+        "url": "https://go.vansh.nyc/1gU",
+        "locations": [
+            "Hawthorne, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SpaceX",
+        "title": "Propulsion Software Engineer, Falcon Engineering",
+        "source": "vanshb03",
+        "id": "8f04aa66-6738-46ab-8325-413dfb18b24f",
+        "date_posted": 1793733736,
         "company_url": "",
         "is_visible": true
     }
