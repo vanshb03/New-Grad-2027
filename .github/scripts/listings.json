@@ -31674,5 +31674,37 @@
         "date_posted": 1793749322,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793751366,
+        "url": "https://go.vansh.nyc/1fO",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Deloitte",
+        "title": "New Grad 2027: Tax Technology Services Consultant",
+        "source": "vanshb03",
+        "id": "c3674d8f-37cb-440a-930d-63805a7b0a72",
+        "date_posted": 1793749888,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793751366,
+        "url": "https://go.vansh.nyc/1fP",
+        "locations": [
+            "Tulsa, OK"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "CCT",
+        "title": "Technical Consultant",
+        "source": "vanshb03",
+        "id": "8513fda4-3cc1-4d65-8845-2bb41d5f9205",
+        "date_posted": 1793751037,
+        "company_url": "",
+        "is_visible": true
     }
 ]
