@@ -43,7 +43,12 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | --- | --- | --- | :---: | :---: |
 | **Synhawk** | Member of Technical Staff: Junior AI Researcher (Master's) | San Francisco, CA | <a href="https://go.vansh.nyc/1fQ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | **Shield AI** | New Grad: Engineer II, Simulation Framework (Master's) 🇺🇸 | San Diego, CA</br>Washington, DC | <a href="https://go.vansh.nyc/1g6?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
+| **Shield** | New Grad: Engineer II, Simulation Framework (Master's) 🇺🇸 | San Diego, CA | <a href="https://go.vansh.nyc/1gc?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
+| **Shield** | New Grad: Engineer I, Simulation Framework 🇺🇸 | Washington, DC | <a href="https://go.vansh.nyc/1gd?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
+| **Shield** | New Grad: Engineer I, Software, Factory Team 🇺🇸 | Washington, DC | <a href="https://go.vansh.nyc/1ge?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | **Nuance Labs** | New Grad: Member of Technical Staff — Model Optimization and Inference | Seattle, WA | <a href="https://go.vansh.nyc/1g7?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
+| **Northrop Grumman** | Associate Software Embedded Engineer 🇺🇸 | Sykesville, MD | <a href="https://go.vansh.nyc/1ga?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
+| **Nooks** | Software Engineer | Seattle, WA</br>San Francisco, CA | <a href="https://go.vansh.nyc/1g9?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | **endeavorai.com** | New Grad 2027: Forward Deployed Engineer | Chicago, IL | <a href="https://go.vansh.nyc/1fT?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | **CCT** | Technical Consultant 🛂 | Tulsa, OK | <a href="https://go.vansh.nyc/1fP?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | **TRM Labs** | New Grad 2027: Product Engineer | Los Angeles, CA | <a href="https://go.vansh.nyc/1fv?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
@@ -61,6 +66,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Micron Technology** | New Grad: Engineer, Edge Systems Architecture | Boise, ID | <a href="https://go.vansh.nyc/1ds?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | **LexisNexis Risk Solutions** | New Grad 2027: Tech Accelerate Program | Alpharetta, GA | <a href="https://go.vansh.nyc/1eb?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | **Julius AI** | New Grad: Software Engineer - Product | San Francisco, CA | <a href="https://go.vansh.nyc/1fn?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
+| **Intel** | Physical Design Clocking Engineer | Santa Clara, CA | <a href="https://go.vansh.nyc/1gb?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | **FSH Technologies** | New Grad: Engineer | Philadelphia, PA | <a href="https://go.vansh.nyc/1f9?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | **Faros AI** | New Grad: Software Engineer | San Mateo, CA | <a href="https://go.vansh.nyc/1fH?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | **Deloitte** | New Grad 2027: Tax Technology Services Consultant | Atlanta, GA | <a href="https://go.vansh.nyc/1fO?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
