@@ -473,7 +473,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **TikTok** | New Grad 2027: Machine Learning Engineer, Conversational AI | San Jose, CA | <a href="https://go.vansh.nyc/HZ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | **Stryker** | Software Engineering, R&D Engineering Development Program | Fort Lauderdale, FL | <a href="https://go.vansh.nyc/I0?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | **NVIDIA** | ASIC Clocks Verification Engineer (Master's) | Santa Clara, CA | <a href="https://go.vansh.nyc/I3?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
-| **LSEG** | New Grad 2027: Engineering Graduate Programme | Norwell, MA | <a href="https://go.vansh.nyc/I1?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | **GlobalFoundries** | New Grad 2027: Software Engineer | Austin, TX</br>Santa Clara, CA | <a href="https://go.vansh.nyc/I2?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | **Aurelian** | Software Engineer | Seattle, WA | <a href="https://go.vansh.nyc/HX?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | **TikTok** | New Grad 2027: Machine Learning Engineer, E-Commerce Knowledge Graph | Seattle, WA | <a href="https://go.vansh.nyc/HR?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
@@ -889,6 +888,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **NVIDIA** | New Grad 2027: Low Power ASIC Engineer | Santa Clara, CA | 🔒 | Oct 13 |
 | **NVIDIA** | SRAM Circuit Design Engineer (Master's) | Santa Clara, CA | 🔒 | Oct 13 |
 | **ALTEN Technology USA** | SAP ABAP & BTP Full Stack Developer | Irvine, CA | 🔒 | Oct 11 |
+| **LSEG** | New Grad 2027: Engineering Graduate Programme | Norwell, MA | 🔒 | Oct 09 |
 | **Perpay** | Software Engineer | Marquette, MI | 🔒 | Oct 08 |
 | **Avis Budget Group** | New Grad 2027: Business Insights Analyst | Troy Hills, NJ | 🔒 | Oct 08 |
 | **Badger Meter** | Firmware Engineer 1 | Milwaukee, WI</br>Racine, WI | 🔒 | Oct 07 |
