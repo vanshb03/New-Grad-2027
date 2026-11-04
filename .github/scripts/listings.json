@@ -31884,5 +31884,21 @@
         "date_posted": 1793790744,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793803491,
+        "url": "https://go.vansh.nyc/1gv",
+        "locations": [
+            "Burnaby, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Infoblox",
+        "title": "Associate Software Engineer",
+        "source": "vanshb03",
+        "id": "9dd3dd30-9377-454c-8aec-964f2a767fa8",
+        "date_posted": 1793750400,
+        "company_url": "",
+        "is_visible": true
     }
 ]
