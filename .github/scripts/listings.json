@@ -31722,5 +31722,21 @@
         "date_posted": 1793752764,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793762072,
+        "url": "https://go.vansh.nyc/1fT",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "endeavorai.com",
+        "title": "New Grad 2027: Forward Deployed Engineer",
+        "source": "vanshb03",
+        "id": "af214ab6-d98e-4772-be80-9392a55c20fd",
+        "date_posted": 1793750400,
+        "company_url": "",
+        "is_visible": true
     }
 ]
