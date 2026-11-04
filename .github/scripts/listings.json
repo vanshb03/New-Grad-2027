@@ -31868,5 +31868,21 @@
         "date_posted": 1793779944,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793790922,
+        "url": "https://go.vansh.nyc/1gi",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Human Interest",
+        "title": "Software Engineer I",
+        "source": "vanshb03",
+        "id": "f60e91a1-8c2a-47e1-bd72-e01ddd045f91",
+        "date_posted": 1793790744,
+        "company_url": "",
+        "is_visible": true
     }
 ]
