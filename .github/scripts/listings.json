@@ -21280,13 +21280,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793018234,
+        "date_updated": 1793819769,
         "url": "https://go.vansh.nyc/Id",
         "locations": [
             "Sunnyvale, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CoStar Group",
         "title": "New Grad 2027: Associate Embedded Software Engineer",
         "source": "vanshb03",
