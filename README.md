@@ -41,6 +41,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **CCT** | Technical Consultant 🛂 | Tulsa, OK | <a href="https://go.vansh.nyc/1fP?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | **TRM Labs** | New Grad 2027: Product Engineer | Los Angeles, CA | <a href="https://go.vansh.nyc/1fv?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | **Strada** | New Grad: Software Engineer | San Francisco, CA | <a href="https://go.vansh.nyc/1f7?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | **SpaceX** | Software Engineer, Starlink Enterprise | Palo Alto, CA | <a href="https://go.vansh.nyc/1dT?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
@@ -59,6 +60,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Julius AI** | New Grad: Software Engineer - Product | San Francisco, CA | <a href="https://go.vansh.nyc/1fn?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | **FSH Technologies** | New Grad: Engineer | Philadelphia, PA | <a href="https://go.vansh.nyc/1f9?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | **Faros AI** | New Grad: Software Engineer | San Mateo, CA | <a href="https://go.vansh.nyc/1fH?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
+| **Deloitte** | New Grad 2027: Tax Technology Services Consultant | Atlanta, GA | <a href="https://go.vansh.nyc/1fO?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | **Cylake** | New Grad 2027: Software Engineer 🛂 | Sunnyvale, CA | <a href="https://go.vansh.nyc/1fu?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | **Amazon** | New Grad 2027: Software Development Engineer (Embedded Systems) | Seattle, WA | <a href="https://go.vansh.nyc/1ec?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | **AMAX** | Junior System Engineer | Fremont, CA | <a href="https://go.vansh.nyc/1bO?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
