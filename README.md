@@ -49,9 +49,12 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Nuance Labs** | New Grad: Member of Technical Staff — Model Optimization and Inference | Seattle, WA | <a href="https://go.vansh.nyc/1g7?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | **Northrop Grumman** | Associate Software Embedded Engineer 🇺🇸 | Sykesville, MD | <a href="https://go.vansh.nyc/1ga?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | **Nooks** | Software Engineer | Seattle, WA</br>San Francisco, CA | <a href="https://go.vansh.nyc/1g9?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
+| **L3Harris Technologies** | Associate, Software Engineer | Palm Bay, FL | <a href="https://go.vansh.nyc/1gD?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
+| **L3Harris Technologies** | Associate, Software Engineer | Palm Bay, FL | <a href="https://go.vansh.nyc/1gE?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | **Human Interest** | Software Engineer I 🛂 | San Francisco, CA | <a href="https://go.vansh.nyc/1gi?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | **endeavorai.com** | New Grad 2027: Forward Deployed Engineer | Chicago, IL | <a href="https://go.vansh.nyc/1fT?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | **CCT** | Technical Consultant 🛂 | Tulsa, OK | <a href="https://go.vansh.nyc/1fP?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
+| **Analog Devices** | Field Robotics Systems Engineer | Wilmington, MA | <a href="https://go.vansh.nyc/1gC?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | **TRM Labs** | New Grad 2027: Product Engineer | Los Angeles, CA | <a href="https://go.vansh.nyc/1fv?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | **Strada** | New Grad: Software Engineer | San Francisco, CA | <a href="https://go.vansh.nyc/1f7?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | **SpaceX** | Software Engineer, Starlink Enterprise | Palo Alto, CA | <a href="https://go.vansh.nyc/1dT?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
