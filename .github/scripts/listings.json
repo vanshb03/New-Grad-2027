@@ -31771,5 +31771,102 @@
         "date_posted": 1793772640,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793780141,
+        "url": "https://go.vansh.nyc/1g9",
+        "locations": [
+            "Seattle, WA",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nooks",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "a90f832f-b186-4c8c-91af-64379b708721",
+        "date_posted": 1793750400,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793780141,
+        "url": "https://go.vansh.nyc/1ga",
+        "locations": [
+            "Sykesville, MD"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "Associate Software Embedded Engineer",
+        "source": "vanshb03",
+        "id": "8912bf4d-3a54-486e-8296-edd7bf13159f",
+        "date_posted": 1793750400,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793780141,
+        "url": "https://go.vansh.nyc/1gb",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intel",
+        "title": "Physical Design Clocking Engineer",
+        "source": "vanshb03",
+        "id": "c630c33c-ba48-437c-921c-81a3de9fcc9d",
+        "date_posted": 1793664000,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793780141,
+        "url": "https://go.vansh.nyc/1gc",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Shield",
+        "title": "New Grad: Engineer II, Simulation Framework (Master's)",
+        "source": "vanshb03",
+        "id": "c657188b-c3a7-4810-87a3-6733d25b74c2",
+        "date_posted": 1793779944,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793780141,
+        "url": "https://go.vansh.nyc/1gd",
+        "locations": [
+            "Washington, DC"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Shield",
+        "title": "New Grad: Engineer I, Simulation Framework",
+        "source": "vanshb03",
+        "id": "91220795-5371-4504-a40c-d81c768f6fe2",
+        "date_posted": 1793779944,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793780141,
+        "url": "https://go.vansh.nyc/1ge",
+        "locations": [
+            "Washington, DC"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Shield",
+        "title": "New Grad: Engineer I, Software, Factory Team",
+        "source": "vanshb03",
+        "id": "ea8e3b1a-fa5c-41b6-8f58-ed4e6abcac5a",
+        "date_posted": 1793779944,
+        "company_url": "",
+        "is_visible": true
     }
 ]
