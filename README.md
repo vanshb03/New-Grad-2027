@@ -49,11 +49,12 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Nuance Labs** | New Grad: Member of Technical Staff — Model Optimization and Inference | Seattle, WA | <a href="https://go.vansh.nyc/1g7?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | **Northrop Grumman** | Associate Software Embedded Engineer 🇺🇸 | Sykesville, MD | <a href="https://go.vansh.nyc/1ga?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | **Nooks** | Software Engineer | Seattle, WA</br>San Francisco, CA | <a href="https://go.vansh.nyc/1g9?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
+| **M&T Bank** | New Grad 2027: Technology Development Program - Operating Systems Engineer | Buffalo, NY | <a href="https://go.vansh.nyc/1hd?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
+| **M&T Bank** | New Grad 2027: Technology Development Program - Cloud Storage & Data Protection Engineer | Buffalo, NY | <a href="https://go.vansh.nyc/1he?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | **L3Harris Technologies** | Associate, Software Engineer | Palm Bay, FL | <a href="https://go.vansh.nyc/1gD?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | **L3Harris Technologies** | Associate, Software Engineer | Palm Bay, FL | <a href="https://go.vansh.nyc/1gE?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | **Human Interest** | Software Engineer I 🛂 | San Francisco, CA | <a href="https://go.vansh.nyc/1gi?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | **General Motors** | Software Systems Engineer, Data Labeling Engineering | Sunnyvale, CA | <a href="https://go.vansh.nyc/1h6?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
-| **Frontgrade** | Software Engineer I | Colorado Springs, CO | <a href="https://go.vansh.nyc/1gS?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | **endeavorai.com** | New Grad 2027: Forward Deployed Engineer | Chicago, IL | <a href="https://go.vansh.nyc/1fT?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | **CCT** | Technical Consultant 🛂 | Tulsa, OK | <a href="https://go.vansh.nyc/1fP?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | **Analog Devices** | Field Robotics Systems Engineer | Wilmington, MA | <a href="https://go.vansh.nyc/1gC?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
@@ -795,6 +796,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Softheon** | Software Engineer I - Membership | Remote</br>United States | <a href="https://go.vansh.nyc/iG?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 12 |
 | **Tesla** | Software Engineer, Traction Control & Stability | Palo Alto, CA | <a href="https://go.vansh.nyc/ig?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 05 |
 | **Qualcomm** | Embedded DSP Software Engineer | San Diego, CA | <a href="https://go.vansh.nyc/i2?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 31 |
+| **Frontgrade** | Software Engineer I | Colorado Springs, CO | 🔒 | Nov 04 |
 | **RTX** | New Grad 2027: Leadership Development Program - Engineering - Software Discipline 🇺🇸 | Arlington, VA | 🔒 | Nov 03 |
 | **Huntington Ingalls Industries** | IT Software Engineer 1 - Robotic Process Automation 🇺🇸 | Newport News, VA | 🔒 | Nov 02 |
 | **Aprio** | AI & Automation Associate | Atlanta, GA | 🔒 | Nov 02 |
