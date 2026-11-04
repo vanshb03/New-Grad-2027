@@ -16045,13 +16045,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1763445861,
+        "date_updated": 1793810723,
         "url": "https://go.vansh.nyc/xT",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Phonely",
         "title": "Forward Deployed Engineer",
         "source": "vanshb03",
