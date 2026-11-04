@@ -28280,13 +28280,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793520239,
+        "date_updated": 1793772840,
         "url": "https://go.vansh.nyc/14E",
         "locations": [
             "Huntsville, AL"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Northrop Grumman",
         "title": "Associate Software Engineer",
         "source": "vanshb03",
@@ -31736,6 +31736,39 @@
         "source": "vanshb03",
         "id": "af214ab6-d98e-4772-be80-9392a55c20fd",
         "date_posted": 1793750400,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793772823,
+        "url": "https://go.vansh.nyc/1g6",
+        "locations": [
+            "San Diego, CA",
+            "Washington, DC"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Shield AI",
+        "title": "New Grad: Engineer II, Simulation Framework (Master's)",
+        "source": "vanshb03",
+        "id": "79ae027a-8e39-47ac-9acc-ad0d2ab4ea16",
+        "date_posted": 1793772640,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793772823,
+        "url": "https://go.vansh.nyc/1g7",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nuance Labs",
+        "title": "New Grad: Member of Technical Staff \u2014 Model Optimization and Inference",
+        "source": "vanshb03",
+        "id": "565009b6-1cb6-4fd4-89c7-b3e817341748",
+        "date_posted": 1793772640,
         "company_url": "",
         "is_visible": true
     }
