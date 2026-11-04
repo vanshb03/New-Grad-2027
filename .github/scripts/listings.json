@@ -32028,5 +32028,21 @@
         "date_posted": 1793821255,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793828609,
+        "url": "https://go.vansh.nyc/1h6",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "General Motors",
+        "title": "Software Systems Engineer, Data Labeling Engineering",
+        "source": "vanshb03",
+        "id": "eff41ecd-ff13-4382-95c5-295ff97d9be3",
+        "date_posted": 1793827551,
+        "company_url": "",
+        "is_visible": true
     }
 ]
