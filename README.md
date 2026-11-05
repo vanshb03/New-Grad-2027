@@ -43,6 +43,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | --- | --- | --- | :---: | :---: |
 | **Yusen Logistics** | IT Reporting Analyst 1, Reports & Labels | <details><summary>**4 locations**</summary>Sumner, WA</br>Greenfield, IN</br>Jacksonville, FL</br>Grapevine, TX</details> | <a href="https://go.vansh.nyc/1i1?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | **Susquehanna International Group** | Quantitative Sports Researcher (Master's) | Bala Cynwyd, PA | <a href="https://go.vansh.nyc/1hG?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
+| **StubHub** | New Grad: Software Engineer I, Consumer Experience | New York, NY | <a href="https://go.vansh.nyc/1iQ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | **RTX** | Infrastructure Engineer I 🇺🇸 | West Valley City, UT | <a href="https://go.vansh.nyc/1hj?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | **Northrop Grumman** | New Grad 2027: Associate Cyber Systems Engineer 🇺🇸 | Roy, UT | <a href="https://go.vansh.nyc/1iB?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | **FlexAI** | New Grad: Software Engineer | San Jose, CA | <a href="https://go.vansh.nyc/1iq?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
