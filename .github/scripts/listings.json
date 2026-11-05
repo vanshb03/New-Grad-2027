@@ -32188,5 +32188,21 @@
         "date_posted": 1793750400,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793866134,
+        "url": "https://go.vansh.nyc/1hG",
+        "locations": [
+            "Bala Cynwyd, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Susquehanna International Group",
+        "title": "Quantitative Sports Researcher (Master's)",
+        "source": "vanshb03",
+        "id": "dba23720-2cf7-43c0-a805-ded937c028d3",
+        "date_posted": 1793865150,
+        "company_url": "",
+        "is_visible": true
     }
 ]
