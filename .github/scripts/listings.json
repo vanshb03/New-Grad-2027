@@ -32417,13 +32417,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793907829,
+        "date_updated": 1793909670,
         "url": "https://go.vansh.nyc/1j7",
         "locations": [
             "Fairport, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Keenfinity",
         "title": "Associate DevOps Software Engineer",
         "source": "vanshb03",
