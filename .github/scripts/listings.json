@@ -32255,5 +32255,21 @@
         "date_posted": 1793836800,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793893560,
+        "url": "https://go.vansh.nyc/1iG",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CACI",
+        "title": "Junior Software Developer",
+        "source": "vanshb03",
+        "id": "e5d4c713-661b-4326-bf25-ab480cfbdd62",
+        "date_posted": 1793892311,
+        "company_url": "",
+        "is_visible": true
     }
 ]
