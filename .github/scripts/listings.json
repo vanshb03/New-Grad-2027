@@ -32204,5 +32204,24 @@
         "date_posted": 1793865150,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793870089,
+        "url": "https://go.vansh.nyc/1i1",
+        "locations": [
+            "Sumner, WA",
+            "Greenfield, IN",
+            "Jacksonville, FL",
+            "Grapevine, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Yusen Logistics",
+        "title": "IT Reporting Analyst 1, Reports & Labels",
+        "source": "vanshb03",
+        "id": "779fb67a-c6db-4744-9cdd-ebdc742ed863",
+        "date_posted": 1793865113,
+        "company_url": "",
+        "is_visible": true
     }
 ]
