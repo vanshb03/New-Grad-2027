@@ -32479,5 +32479,54 @@
         "date_posted": 1793914809,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793922585,
+        "url": "https://go.vansh.nyc/1jz",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Wise",
+        "title": "New Grad 2027: Analyst",
+        "source": "vanshb03",
+        "id": "663239b6-961b-4082-911c-b7b65c1e14a4",
+        "date_posted": 1793836800,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793922585,
+        "url": "https://go.vansh.nyc/1jA",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Persimmons.ai",
+        "title": "New Grad: Design Verification Engineer, AI-Driven",
+        "source": "vanshb03",
+        "id": "80fafbdc-bfb8-40dc-a21f-4cead46c4064",
+        "date_posted": 1793920375,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793922585,
+        "url": "https://go.vansh.nyc/1jB",
+        "locations": [
+            "Redmond, WA",
+            "Northridge, LA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "New Grad 2027: Software Development Engineer, Embedded Systems",
+        "source": "vanshb03",
+        "id": "c510e8f8-0e9e-41bd-aabc-52d797769f82",
+        "date_posted": 1793919996,
+        "company_url": "",
+        "is_visible": true
     }
 ]
