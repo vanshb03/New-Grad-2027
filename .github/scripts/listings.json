@@ -32239,5 +32239,21 @@
         "date_posted": 1793873530,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793890008,
+        "url": "https://go.vansh.nyc/1iB",
+        "locations": [
+            "Roy, UT"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "New Grad 2027: Associate Cyber Systems Engineer",
+        "source": "vanshb03",
+        "id": "234d1614-a2c5-423b-a77c-2f8a075a980f",
+        "date_posted": 1793836800,
+        "company_url": "",
+        "is_visible": true
     }
 ]
