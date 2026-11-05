@@ -15178,13 +15178,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762019442,
+        "date_updated": 1793913527,
         "url": "https://go.vansh.nyc/x2",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Clipboard Health",
         "title": "Software Engineer, Backend",
         "source": "vanshb03",
@@ -32337,13 +32337,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793904660,
+        "date_updated": 1793913527,
         "url": "https://go.vansh.nyc/1iY",
         "locations": [
             "Santa Rosa, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Keysight Technologies",
         "title": "New Grad 2027: Software Engineer, Semiconductor Technology",
         "source": "vanshb03",
