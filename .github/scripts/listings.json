@@ -32223,5 +32223,21 @@
         "date_posted": 1793865113,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793873727,
+        "url": "https://go.vansh.nyc/1iq",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "FlexAI",
+        "title": "New Grad: Software Engineer",
+        "source": "vanshb03",
+        "id": "e81918c1-9586-4872-85c8-8a2b88c4537c",
+        "date_posted": 1793873530,
+        "company_url": "",
+        "is_visible": true
     }
 ]
