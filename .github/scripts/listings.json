@@ -32092,5 +32092,37 @@
         "date_posted": 1793839956,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793844930,
+        "url": "https://go.vansh.nyc/1hr",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cisco",
+        "title": "Software Engineer Full Stack / Backend I",
+        "source": "vanshb03",
+        "id": "c29dbe6b-db02-459e-a6eb-08709c520e08",
+        "date_posted": 1793841666,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793844930,
+        "url": "https://go.vansh.nyc/1hs",
+        "locations": [
+            "Tarzana, LA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "AstraZeneca",
+        "title": "Digital Automation Engineer, Cell Therapy",
+        "source": "vanshb03",
+        "id": "56791eee-a1d5-475a-9195-bf1341ca0d06",
+        "date_posted": 1792713600,
+        "company_url": "",
+        "is_visible": true
     }
 ]
