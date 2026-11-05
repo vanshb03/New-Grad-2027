@@ -32271,5 +32271,21 @@
         "date_posted": 1793892311,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793895602,
+        "url": "https://go.vansh.nyc/1iK",
+        "locations": [
+            "Ottawa, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ciena",
+        "title": "New Grad: Software Design/Engineer",
+        "source": "vanshb03",
+        "id": "93629119-228f-40d9-a0b7-98f6643c3828",
+        "date_posted": 1793836800,
+        "company_url": "",
+        "is_visible": true
     }
 ]
