@@ -32303,5 +32303,21 @@
         "date_posted": 1793900437,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793902446,
+        "url": "https://go.vansh.nyc/1iQ",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "StubHub",
+        "title": "New Grad: Software Engineer I, Consumer Experience",
+        "source": "vanshb03",
+        "id": "2d7cb1e2-852d-4269-8b7a-b22661e6a514",
+        "date_posted": 1793901510,
+        "company_url": "",
+        "is_visible": true
     }
 ]
