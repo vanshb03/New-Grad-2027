@@ -32076,5 +32076,21 @@
         "date_posted": 1793750400,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793841182,
+        "url": "https://go.vansh.nyc/1hj",
+        "locations": [
+            "West Valley City, UT"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Infrastructure Engineer I",
+        "source": "vanshb03",
+        "id": "b2bc073d-d896-48f1-8b4e-38273c90cdfb",
+        "date_posted": 1793839956,
+        "company_url": "",
+        "is_visible": true
     }
 ]
