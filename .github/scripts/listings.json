@@ -32287,5 +32287,21 @@
         "date_posted": 1793836800,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793900645,
+        "url": "https://go.vansh.nyc/1iP",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "New Grad 2027: Software Development Engineer, Amazon Leo",
+        "source": "vanshb03",
+        "id": "d546770e-dd2e-464d-9989-c0e2490d38f6",
+        "date_posted": 1793900437,
+        "company_url": "",
+        "is_visible": true
     }
 ]
