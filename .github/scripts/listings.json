@@ -32319,5 +32319,53 @@
         "date_posted": 1793901510,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793904660,
+        "url": "https://go.vansh.nyc/1iX",
+        "locations": [
+            "McLean, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Booz Allen Hamilton",
+        "title": "New Grad 2027: Software Developer",
+        "source": "vanshb03",
+        "id": "a31df345-32e6-4fad-bce7-fc37e2632da4",
+        "date_posted": 1793903793,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793904660,
+        "url": "https://go.vansh.nyc/1iY",
+        "locations": [
+            "Santa Rosa, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Keysight Technologies",
+        "title": "New Grad 2027: Software Engineer, Semiconductor Technology",
+        "source": "vanshb03",
+        "id": "1f9c2a6d-26d3-4374-aa15-c854f370c404",
+        "date_posted": 1793837460,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793904660,
+        "url": "https://go.vansh.nyc/1iZ",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Abbott",
+        "title": "Software Test Engineer",
+        "source": "vanshb03",
+        "id": "cb984612-dc19-4443-970b-1d5951934f67",
+        "date_posted": 1793817110,
+        "company_url": "",
+        "is_visible": true
     }
 ]
