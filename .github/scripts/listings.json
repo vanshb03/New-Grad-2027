@@ -29112,13 +29112,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793520239,
+        "date_updated": 1793848467,
         "url": "https://go.vansh.nyc/15u",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "ByteDance",
         "title": "New Grad 2027: Software Engineer (Data-Intelligent Creation-AI Platform-Global Vision Engineering)",
         "source": "vanshb03",
@@ -32122,6 +32122,70 @@
         "source": "vanshb03",
         "id": "56791eee-a1d5-475a-9195-bf1341ca0d06",
         "date_posted": 1792713600,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793848448,
+        "url": "https://go.vansh.nyc/1hC",
+        "locations": [
+            "Hauppauge, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microchip Technology",
+        "title": "Engineer 1 - Design",
+        "source": "vanshb03",
+        "id": "03c9205c-7747-4579-baae-e3ae737883ab",
+        "date_posted": 1793750400,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793848448,
+        "url": "https://go.vansh.nyc/1hD",
+        "locations": [
+            "Marshalltown, IA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Emerson Electric",
+        "title": "Embedded Software Engineer - AI - Web",
+        "source": "vanshb03",
+        "id": "0985ed66-b1ea-4445-abc8-f47fa9b1f40e",
+        "date_posted": 1793844181,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793848448,
+        "url": "https://go.vansh.nyc/1hE",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rolls-Royce",
+        "title": "New Grad 2027: Integrated Control Systems Engineer - Software",
+        "source": "vanshb03",
+        "id": "a57d0baa-4c55-46e8-ac3c-507b149ecef6",
+        "date_posted": 1793750400,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793848448,
+        "url": "https://go.vansh.nyc/1hF",
+        "locations": [
+            "Dulles, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "Electrical Engineer - Digital Hardware Design (Master's)",
+        "source": "vanshb03",
+        "id": "0d5df5d8-418e-4a00-80af-a286693bee33",
+        "date_posted": 1793750400,
         "company_url": "",
         "is_visible": true
     }
