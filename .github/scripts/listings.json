@@ -24425,13 +24425,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793027000,
+        "date_updated": 1793891649,
         "url": "https://go.vansh.nyc/Pw",
         "locations": [
             "Greenville, SC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Global Lending Services",
         "title": "New Grad 2027: Software Developer",
         "source": "vanshb03",
@@ -25117,13 +25117,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793063869,
+        "date_updated": 1793891649,
         "url": "https://go.vansh.nyc/TE",
         "locations": [
             "Laurel, MD"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "title": "New Grad 2027: Junior AI Platform Engineer",
         "source": "vanshb03",
