@@ -32383,5 +32383,85 @@
         "date_posted": 1793837565,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793907829,
+        "url": "https://go.vansh.nyc/1j5",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "M&T Bank",
+        "title": "New Grad 2027: Technology Development Program - Cybersecurity (Encryption Services)",
+        "source": "vanshb03",
+        "id": "9c170ec2-1f30-4950-9274-0d532760f93e",
+        "date_posted": 1793810833,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793907829,
+        "url": "https://go.vansh.nyc/1j6",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "M&T Bank",
+        "title": "New Grad 2027: Technology Development Program, Cybersecurity (Insider Threat)",
+        "source": "vanshb03",
+        "id": "b1d33e57-08c9-41a8-adc3-96042eab286c",
+        "date_posted": 1793810833,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793907829,
+        "url": "https://go.vansh.nyc/1j7",
+        "locations": [
+            "Fairport, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Keenfinity",
+        "title": "Associate DevOps Software Engineer",
+        "source": "vanshb03",
+        "id": "ee7364dd-e9d5-4519-bb85-b4bae8352efa",
+        "date_posted": 1793807268,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793907829,
+        "url": "https://go.vansh.nyc/1j8",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "M&T Bank",
+        "title": "New Grad 2027: Technology Development Program, Cybersecurity (Vulnerability Risk Management)",
+        "source": "vanshb03",
+        "id": "b9b7bfa9-9f5d-4ea1-a960-35346f59c2e9",
+        "date_posted": 1793807182,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793907829,
+        "url": "https://go.vansh.nyc/1j9",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "M&T Bank",
+        "title": "New Grad 2027: Technology Development Program - Cybersecurity (Workforce Identity & Access Management)",
+        "source": "vanshb03",
+        "id": "bee2c11a-3251-45bb-a13d-26844eb284f6",
+        "date_posted": 1793807182,
+        "company_url": "",
+        "is_visible": true
     }
 ]
