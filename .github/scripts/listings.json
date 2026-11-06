@@ -32580,14 +32580,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793924449,
+        "date_updated": 1793982017,
         "url": "https://go.vansh.nyc/1jO",
         "locations": [
             "Pittsburgh, PA",
             "Hermitage, PA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "First National Bank",
         "title": "Data Analytics Engineer 1",
         "source": "vanshb03",
@@ -32688,6 +32688,39 @@
         "title": "Associate Deployment Engineer",
         "source": "vanshb03",
         "id": "18e980a3-1e02-40b4-a144-a935acdbc3ed",
+        "date_posted": 1793923200,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793981998,
+        "url": "https://go.vansh.nyc/1kx",
+        "locations": [
+            "Newport News, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Huntington Ingalls Industries",
+        "title": "Software Engineer 1",
+        "source": "vanshb03",
+        "id": "6e2b4b30-dcb1-4c18-a2c1-b2ad5fd736bb",
+        "date_posted": 1793978938,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793981998,
+        "url": "https://go.vansh.nyc/1ky",
+        "locations": [
+            "Austin, TX",
+            "Southlake, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Charles Schwab",
+        "title": "Associate Software Development & Engineering",
+        "source": "vanshb03",
+        "id": "dbf661d6-af79-4896-a4c1-261a9acd5252",
         "date_posted": 1793923200,
         "company_url": "",
         "is_visible": true
