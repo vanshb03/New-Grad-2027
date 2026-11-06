@@ -32838,5 +32838,37 @@
         "date_posted": 1793994157,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794006809,
+        "url": "https://go.vansh.nyc/1lA",
+        "locations": [
+            "Houston, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "BP",
+        "title": "New Grad 2027: Digital \u2013 Data & AI and Digital Engineering",
+        "source": "vanshb03",
+        "id": "d388b2ad-35a8-4d0d-89dc-b86147482947",
+        "date_posted": 1793923200,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794006809,
+        "url": "https://go.vansh.nyc/1lB",
+        "locations": [
+            "Burnaby, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Fortinet",
+        "title": "Technical Content DevOps Developer",
+        "source": "vanshb03",
+        "id": "82490373-eb82-4c4f-a1c7-acde4a00c387",
+        "date_posted": 1793923200,
+        "company_url": "",
+        "is_visible": true
     }
 ]
