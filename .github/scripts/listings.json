@@ -27346,13 +27346,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793297453,
+        "date_updated": 1793970807,
         "url": "https://go.vansh.nyc/Zn",
         "locations": [
             "Charleston, SC"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "SOSi",
         "title": "Entry-Level PeopleSoft Software Developer",
         "source": "vanshb03",
