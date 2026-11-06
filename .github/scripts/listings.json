@@ -32806,7 +32806,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793992429,
+        "date_updated": 1793997827,
         "url": "https://go.vansh.nyc/1kT",
         "locations": [
             "Scottsdale, AZ",
@@ -32814,7 +32814,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Early Warning",
         "title": "Software Engineer - Java - Paze",
         "source": "vanshb03",
