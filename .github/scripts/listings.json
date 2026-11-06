@@ -24114,7 +24114,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793027000,
+        "date_updated": 1793942318,
         "url": "https://go.vansh.nyc/Pf",
         "locations": [
             "Palo Alto, CA",
@@ -24128,7 +24128,7 @@
             "Wilmington, DE"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "JPMorganChase",
         "title": "Software Engineer Program",
         "source": "vanshb03",
@@ -24138,7 +24138,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793027000,
+        "date_updated": 1793942318,
         "url": "https://go.vansh.nyc/Pg",
         "locations": [
             "Palo Alto, CA",
@@ -24152,7 +24152,7 @@
             "Wilmington, DE"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "JPMorganChase",
         "title": "New Grad 2027: Software Engineer Program",
         "source": "vanshb03",
