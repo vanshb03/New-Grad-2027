@@ -225,7 +225,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **TikTok** | New Grad 2027: Backend Software Engineer, Creation Platform (Master's) | San Jose, CA | <a href="https://go.vansh.nyc/17k?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | **TikTok** | New Grad 2027: Software Engineer, Recommendation Infrastructure | San Jose, CA | <a href="https://go.vansh.nyc/17l?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | **TikTok** | New Grad 2027: Big Data Engineer, TikTok Recommendation Architecture | San Jose, CA | <a href="https://go.vansh.nyc/17m?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
-| **Huntington Ingalls Industries** | Software Engineer 1 🇺🇸 | Newport News, VA | <a href="https://go.vansh.nyc/14G?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | **Corgi** | Full Stack Engineer, New Product Line | New York, NY | <a href="https://go.vansh.nyc/19o?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | **ByteDance** | New Grad 2027: Research Scientist, Seed Model-Alignment&Preparedness | San Jose, CA | <a href="https://go.vansh.nyc/14H?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | **ByteDance** | New Grad 2027: Research Scientist, Seed Model - AI Foundation Model Infrastructure | Seattle, WA | <a href="https://go.vansh.nyc/14I?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
@@ -826,6 +825,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Aprio** | AI & Automation Associate | Atlanta, GA | 🔒 | Nov 02 |
 | **TikTok** | New Grad 2027: Machine Learning Engineer (App Ads and Gaming) | San Jose, CA | 🔒 | Nov 01 |
 | **Northrop Grumman** | Associate Software Engineer 🇺🇸 | Huntsville, AL | 🔒 | Nov 01 |
+| **Huntington Ingalls Industries** | Software Engineer 1 🇺🇸 | Newport News, VA | 🔒 | Nov 01 |
 | **Huntington Ingalls Industries** | Product Owner - Digital Plant 🇺🇸 | Newport News, VA | 🔒 | Nov 01 |
 | **ByteDance** | New Grad 2027: Software Engineer (Data-Intelligent Creation-AI Platform-Global Vision Engineering) 🛂 | San Jose, CA | 🔒 | Nov 01 |
 | **Wiltshire Farm Foods** | Software Developer in Test | Remote | 🔒 | Oct 31 |
