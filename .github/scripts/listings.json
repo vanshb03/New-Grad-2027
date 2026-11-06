@@ -20990,13 +20990,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793018234,
+        "date_updated": 1793976332,
         "url": "https://go.vansh.nyc/HV",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "66 Degrees",
         "title": "New Grad 2027: Associate Data Engineer, Gradient Specialist",
         "source": "vanshb03",
@@ -21006,13 +21006,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793018234,
+        "date_updated": 1793976332,
         "url": "https://go.vansh.nyc/HW",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "66 Degrees",
         "title": "New Grad 2027: Associate AI/ML Engineer, Gradient Specialist",
         "source": "vanshb03",
@@ -21232,13 +21232,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793018234,
+        "date_updated": 1793976332,
         "url": "https://go.vansh.nyc/Ia",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "66degrees",
         "title": "New Grad 2027: Associate Software Engineer, Gradient Specialist",
         "source": "vanshb03",
@@ -32657,6 +32657,38 @@
         "source": "vanshb03",
         "id": "8143a4da-d504-4af6-abf9-6cf046cce723",
         "date_posted": 1792773660,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793976309,
+        "url": "https://go.vansh.nyc/1kh",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Celonis",
+        "title": "Associate Deployment Engineer",
+        "source": "vanshb03",
+        "id": "bcdaceba-9468-4094-bc21-1a78e173c501",
+        "date_posted": 1793923200,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793976309,
+        "url": "https://go.vansh.nyc/1ki",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Celonis",
+        "title": "Associate Deployment Engineer",
+        "source": "vanshb03",
+        "id": "18e980a3-1e02-40b4-a144-a935acdbc3ed",
+        "date_posted": 1793923200,
         "company_url": "",
         "is_visible": true
     }
