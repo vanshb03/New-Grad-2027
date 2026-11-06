@@ -62,6 +62,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **L3Harris Technologies** | Associate, Software Engineer | Troutman, FL | <a href="https://go.vansh.nyc/1kJ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | **FlexAI** | New Grad: Software Engineer | San Jose, CA | <a href="https://go.vansh.nyc/1iq?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | **Emerson Electric** | Embedded Software Engineer - AI - Web 🛂 | Marshalltown, IA | <a href="https://go.vansh.nyc/1hD?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
+| **Early Warning** | Software Engineer - Java - Paze | Scottsdale, AZ</br>Chicago, IL</br>San Francisco, CA | <a href="https://go.vansh.nyc/1kT?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | **Cisco** | Software Engineer Full Stack / Backend I | Austin, TX | <a href="https://go.vansh.nyc/1hr?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | **Cardinal Health** | New Grad 2027: Data & Analytics Development Program | Dublin, OH | <a href="https://go.vansh.nyc/1jL?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | **CACI** | Junior Software Developer | Remote | <a href="https://go.vansh.nyc/1iG?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
