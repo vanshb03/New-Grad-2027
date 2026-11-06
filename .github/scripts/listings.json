@@ -32822,5 +32822,21 @@
         "date_posted": 1793905818,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793994359,
+        "url": "https://go.vansh.nyc/1l1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Fortinet",
+        "title": "Software Engineer \u2013 Cloud Platform (FortiSIEM)",
+        "source": "vanshb03",
+        "id": "6c7986a2-d003-4d96-90dd-45acee9f8b0c",
+        "date_posted": 1793994157,
+        "company_url": "",
+        "is_visible": true
     }
 ]
