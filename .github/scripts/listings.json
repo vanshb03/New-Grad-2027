@@ -32528,5 +32528,104 @@
         "date_posted": 1793919996,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793924449,
+        "url": "https://go.vansh.nyc/1jL",
+        "locations": [
+            "Dublin, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cardinal Health",
+        "title": "New Grad 2027: Data & Analytics Development Program",
+        "source": "vanshb03",
+        "id": "364fcef4-d3e7-486a-88b7-c8286c7c8861",
+        "date_posted": 1793836800,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793924449,
+        "url": "https://go.vansh.nyc/1jM",
+        "locations": [
+            "Regina, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Capital Automotive Group",
+        "title": "AI & Data Systems Specialist",
+        "source": "vanshb03",
+        "id": "4e462233-ce38-4141-b131-954fab46e467",
+        "date_posted": 1793836800,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793924449,
+        "url": "https://go.vansh.nyc/1jN",
+        "locations": [
+            "Colorado Springs, CO",
+            "Chantilly, VA",
+            "El Segundo, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Aerospace",
+        "title": "Operations Forecast Analyst",
+        "source": "vanshb03",
+        "id": "225a6cbf-1fce-4467-a829-b25ea33de108",
+        "date_posted": 1793836800,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793924449,
+        "url": "https://go.vansh.nyc/1jO",
+        "locations": [
+            "Pittsburgh, PA",
+            "Hermitage, PA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "First National Bank",
+        "title": "Data Analytics Engineer 1",
+        "source": "vanshb03",
+        "id": "679325a9-48cd-4d75-8547-52574eefbd64",
+        "date_posted": 1793836800,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793924449,
+        "url": "https://go.vansh.nyc/1jP",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Salesforce",
+        "title": "Systems Engineering Associate",
+        "source": "vanshb03",
+        "id": "9821be37-9467-4367-bf4e-a498d12e4d39",
+        "date_posted": 1793923488,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793924449,
+        "url": "https://go.vansh.nyc/1jQ",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Persimmons.ai",
+        "title": "New Grad: Design Verification Engineer",
+        "source": "vanshb03",
+        "id": "67059a3a-2cbc-4c02-b3f5-bdefc6b49199",
+        "date_posted": 1793924234,
+        "company_url": "",
+        "is_visible": true
     }
 ]
