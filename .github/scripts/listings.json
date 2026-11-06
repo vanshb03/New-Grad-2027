@@ -18790,13 +18790,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1792698816,
+        "date_updated": 1793953113,
         "url": "https://go.vansh.nyc/AC",
         "locations": [
             "Orlando, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Electronic Arts",
         "title": "New Grad 2027: Software Engineer 1",
         "source": "vanshb03",
@@ -31612,13 +31612,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793749580,
+        "date_updated": 1793953113,
         "url": "https://go.vansh.nyc/1fG",
         "locations": [
             "Manhattan Beach, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Northrop Grumman",
         "title": "New Grad 2027: Associate Flight Software Engineer",
         "source": "vanshb03",
@@ -32625,6 +32625,38 @@
         "source": "vanshb03",
         "id": "67059a3a-2cbc-4c02-b3f5-bdefc6b49199",
         "date_posted": 1793924234,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793953083,
+        "url": "https://go.vansh.nyc/1k0",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Software Development Engineer, SoC Hardware Abstraction Layer",
+        "source": "vanshb03",
+        "id": "ad84a1d1-575a-4cae-b0b7-d09551a5898b",
+        "date_posted": 1793950073,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793953083,
+        "url": "https://go.vansh.nyc/1k1",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Lovelytics",
+        "title": "Advance Program Data Associate",
+        "source": "vanshb03",
+        "id": "8143a4da-d504-4af6-abf9-6cf046cce723",
+        "date_posted": 1792773660,
         "company_url": "",
         "is_visible": true
     }
