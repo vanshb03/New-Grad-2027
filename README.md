@@ -43,6 +43,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | --- | --- | --- | :---: | :---: |
 | **Salesforce** | Systems Engineering Associate | Dallas, TX | <a href="https://go.vansh.nyc/1jP?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | **Persimmons.ai** | New Grad: Design Verification Engineer | San Jose, CA | <a href="https://go.vansh.nyc/1jQ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
+| **Huntington Ingalls Industries** | Software Engineer 1 🇺🇸 | Newport News, VA | <a href="https://go.vansh.nyc/1kx?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
+| **Charles Schwab** | Associate Software Development & Engineering | Austin, TX</br>Southlake, TX | <a href="https://go.vansh.nyc/1ky?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | **Celonis** | Associate Deployment Engineer | New York, NY | <a href="https://go.vansh.nyc/1kh?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | **Celonis** | Associate Deployment Engineer | Raleigh, NC | <a href="https://go.vansh.nyc/1ki?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | **Amazon** | Software Development Engineer, SoC Hardware Abstraction Layer | Cupertino, CA | <a href="https://go.vansh.nyc/1k0?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
@@ -55,7 +57,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Persimmons.ai** | New Grad: Design Verification Engineer, AI-Driven | San Jose, CA | <a href="https://go.vansh.nyc/1jA?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | **Northrop Grumman** | New Grad 2027: Associate Cyber Systems Engineer 🇺🇸 | Roy, UT | <a href="https://go.vansh.nyc/1iB?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | **FlexAI** | New Grad: Software Engineer | San Jose, CA | <a href="https://go.vansh.nyc/1iq?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
-| **First National Bank** | Data Analytics Engineer 1 🛂 | Pittsburgh, PA</br>Hermitage, PA | <a href="https://go.vansh.nyc/1jO?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | **Emerson Electric** | Embedded Software Engineer - AI - Web 🛂 | Marshalltown, IA | <a href="https://go.vansh.nyc/1hD?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | **Cisco** | Software Engineer Full Stack / Backend I | Austin, TX | <a href="https://go.vansh.nyc/1hr?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | **Cardinal Health** | New Grad 2027: Data & Analytics Development Program | Dublin, OH | <a href="https://go.vansh.nyc/1jL?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
@@ -815,6 +816,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Tesla** | Software Engineer, Traction Control & Stability | Palo Alto, CA | <a href="https://go.vansh.nyc/ig?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 05 |
 | **Qualcomm** | Embedded DSP Software Engineer | San Diego, CA | <a href="https://go.vansh.nyc/i2?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 31 |
 | **Keysight Technologies** | New Grad 2027: Software Engineer, Semiconductor Technology 🇺🇸 | Santa Rosa, CA | 🔒 | Nov 05 |
+| **First National Bank** | Data Analytics Engineer 1 🛂 | Pittsburgh, PA</br>Hermitage, PA | 🔒 | Nov 05 |
 | **Keenfinity** | Associate DevOps Software Engineer | Fairport, NY | 🔒 | Nov 04 |
 | **Frontgrade** | Software Engineer I | Colorado Springs, CO | 🔒 | Nov 04 |
 | **RTX** | New Grad 2027: Leadership Development Program - Engineering - Software Discipline 🇺🇸 | Arlington, VA | 🔒 | Nov 03 |
