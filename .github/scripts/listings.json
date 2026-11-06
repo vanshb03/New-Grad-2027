@@ -32740,5 +32740,69 @@
         "date_posted": 1793985634,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793988831,
+        "url": "https://go.vansh.nyc/1kJ",
+        "locations": [
+            "Troutman, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "L3Harris Technologies",
+        "title": "Associate, Software Engineer",
+        "source": "vanshb03",
+        "id": "e14a6c90-779c-40a5-a7a4-0ad3a2d1c395",
+        "date_posted": 1793911163,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793988831,
+        "url": "https://go.vansh.nyc/1kK",
+        "locations": [
+            "Irving, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "McKesson",
+        "title": "Cyber Security Analyst (Cyber Academy)",
+        "source": "vanshb03",
+        "id": "0603b21d-9f02-4bcb-b4ba-2bd2132caaec",
+        "date_posted": 1793877116,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793988831,
+        "url": "https://go.vansh.nyc/1kL",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Medtronic",
+        "title": "Software Test Engineer I",
+        "source": "vanshb03",
+        "id": "3f78bd8e-4659-45e2-a3cf-eb5e2ee9c3fb",
+        "date_posted": 1793896869,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1793988831,
+        "url": "https://go.vansh.nyc/1kM",
+        "locations": [
+            "Rome, NY"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Booz Allen Hamilton",
+        "title": "New Grad 2027: Cybersecurity Analyst, Junior",
+        "source": "vanshb03",
+        "id": "df5156c0-a977-46b1-96c8-f22894f9a0f3",
+        "date_posted": 1793884929,
+        "company_url": "",
+        "is_visible": true
     }
 ]
