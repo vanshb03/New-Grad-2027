@@ -43,6 +43,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | --- | --- | --- | :---: | :---: |
 | **Salesforce** | Systems Engineering Associate | Dallas, TX | <a href="https://go.vansh.nyc/1jP?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | **Persimmons.ai** | New Grad: Design Verification Engineer | San Jose, CA | <a href="https://go.vansh.nyc/1jQ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
+| **Nightwing** | Software Developer I, System Security 🇺🇸 | Huntsville, AL | <a href="https://go.vansh.nyc/1kI?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | **Huntington Ingalls Industries** | Software Engineer 1 🇺🇸 | Newport News, VA | <a href="https://go.vansh.nyc/1kx?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | **Charles Schwab** | Associate Software Development & Engineering | Austin, TX</br>Southlake, TX | <a href="https://go.vansh.nyc/1ky?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | **Celonis** | Associate Deployment Engineer | New York, NY | <a href="https://go.vansh.nyc/1kh?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
