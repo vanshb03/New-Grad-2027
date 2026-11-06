@@ -49,7 +49,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Lyft** | Software Engineer, Backend | Toronto, Canada | <a href="https://go.vansh.nyc/1h1?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | **Infoblox** | Associate Software Engineer | Burnaby, Canada | <a href="https://go.vansh.nyc/1gv?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | **Nexthop.ai** | New Grad 2027: Software Engineer | Burnaby, Canada | <a href="https://go.vansh.nyc/1f6?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
-| **Capgemini** | Associate Application Consultant | Mississauga, Canada | <a href="https://go.vansh.nyc/1dG?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | **PRI Engineering** | Junior Software Developer | Mississauga, Canada | <a href="https://go.vansh.nyc/1e2?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | **PRI Engineering** | Junior Software Developer | Calgary, Canada | <a href="https://go.vansh.nyc/1e3?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | **NAV CANADA** | Business Automation Developer | Ottawa, Canada | <a href="https://go.vansh.nyc/Zq?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
@@ -88,6 +87,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Tower Research Capital** | New Grad: C++ Software Engineer, MTL | Montreal, Canada | <a href="https://go.vansh.nyc/j2?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 03 |
 | **Oracle** | Software Developer | Remote</br>Canada | <a href="https://go.vansh.nyc/iS?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 19 |
 | **Oracle** | Software Developer - Rotational Program - NetSuite | Kitchiner, Canada | <a href="https://go.vansh.nyc/iR?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 19 |
+| **Capgemini** | Associate Application Consultant | Mississauga, Canada | 🔒 | Nov 03 |
 | **Genesys** | Associate Software Developer in Test | Toronto, Canada | 🔒 | Oct 30 |
 | **Thoughtworks** | Associate Developer | Toronto, Canada | 🔒 | Oct 29 |
 | **General Motors** | New Grad 2027: Software Test Developer, Propulsion Thermal Management | Markham, Canada | 🔒 | Oct 26 |
