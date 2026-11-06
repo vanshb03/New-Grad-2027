@@ -31340,13 +31340,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793720691,
+        "date_updated": 1794005002,
         "url": "https://go.vansh.nyc/1dG",
         "locations": [
             "Mississauga, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Capgemini",
         "title": "Associate Application Consultant",
         "source": "vanshb03",
