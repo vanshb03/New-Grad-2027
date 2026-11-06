@@ -31227,13 +31227,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793663156,
+        "date_updated": 1793945613,
         "url": "https://go.vansh.nyc/1bq",
         "locations": [
             "Cedar Rapids, IA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "New Grad: Electrical Engineer 1",
         "source": "vanshb03",
