@@ -966,7 +966,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1746307804,
+        "date_updated": 1793996092,
         "url": "https://go.vansh.nyc/iY",
         "company_name": "TikTok",
         "title": "Full-stack Engineer, Data Platform",
@@ -974,7 +974,7 @@
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "211dd6c2-1173-4ba1-af25-01eff1dfc19e",
         "date_posted": 1746307804,
@@ -24728,13 +24728,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793027000,
+        "date_updated": 1793996092,
         "url": "https://go.vansh.nyc/PO",
         "locations": [
             "Greenville, SC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "GLS",
         "title": "New Grad 2027: IT Security Analyst",
         "source": "vanshb03",
@@ -29432,13 +29432,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793526377,
+        "date_updated": 1793996092,
         "url": "https://go.vansh.nyc/15U",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2027: Machine Learning Engineer (Ads Signal & Measurement)",
         "source": "vanshb03",
@@ -29624,13 +29624,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793526377,
+        "date_updated": 1793996092,
         "url": "https://go.vansh.nyc/166",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2027: Machine Learning Engineer (E-Commerce Recommendation Live)",
         "source": "vanshb03",
@@ -29656,13 +29656,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793526377,
+        "date_updated": 1793996092,
         "url": "https://go.vansh.nyc/168",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2027: ML Infra Engineer, Ads Infra",
         "source": "vanshb03",
@@ -30264,13 +30264,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793526377,
+        "date_updated": 1793996092,
         "url": "https://go.vansh.nyc/16K",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2027: Software Engineer (Ads Signal & Measurement)",
         "source": "vanshb03",
