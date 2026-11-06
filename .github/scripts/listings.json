@@ -32870,5 +32870,37 @@
         "date_posted": 1793923200,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794009109,
+        "url": "https://go.vansh.nyc/1lL",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Valsoft",
+        "title": "AI Engineer 1",
+        "source": "vanshb03",
+        "id": "2e92a397-618c-4156-bf59-210d9a7013ff",
+        "date_posted": 1794007254,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794009109,
+        "url": "https://go.vansh.nyc/1lM",
+        "locations": [
+            "Ottawa, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ciena",
+        "title": "New Grad: Embedded Security Software Developer",
+        "source": "vanshb03",
+        "id": "900c561b-3db0-4934-8147-5819701c43be",
+        "date_posted": 1793923200,
+        "company_url": "",
+        "is_visible": true
     }
 ]
