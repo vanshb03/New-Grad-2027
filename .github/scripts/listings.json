@@ -32724,5 +32724,21 @@
         "date_posted": 1793923200,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1793987039,
+        "url": "https://go.vansh.nyc/1kI",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Nightwing",
+        "title": "Software Developer I, System Security",
+        "source": "vanshb03",
+        "id": "28be59cf-9187-419b-a891-4720131eeb28",
+        "date_posted": 1793985634,
+        "company_url": "",
+        "is_visible": true
     }
 ]
