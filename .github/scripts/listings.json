@@ -19718,13 +19718,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1792812025,
+        "date_updated": 1794043127,
         "url": "https://go.vansh.nyc/Bv",
         "locations": [
             "Maryland Heights, MO"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Boeing",
         "title": "Entry-Level Software Engineer",
         "source": "vanshb03",
@@ -26806,13 +26806,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793164406,
+        "date_updated": 1794043127,
         "url": "https://go.vansh.nyc/X2",
         "locations": [
             "Maryland Heights, MO"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Boeing",
         "title": "Software Engineer",
         "source": "vanshb03",
@@ -32078,13 +32078,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793841182,
+        "date_updated": 1794043127,
         "url": "https://go.vansh.nyc/1hj",
         "locations": [
             "West Valley City, UT"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "Infrastructure Engineer I",
         "source": "vanshb03",
