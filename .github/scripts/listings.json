@@ -32966,5 +32966,87 @@
         "date_posted": 1794009308,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794071884,
+        "url": "https://go.vansh.nyc/1mi",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apple",
+        "title": "AI Operations, Applied AI Research and Design Developer",
+        "source": "vanshb03",
+        "id": "cc160e77-55ac-4bdf-8ab7-31e78a8ee0bc",
+        "date_posted": 1794001356,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794071884,
+        "url": "https://go.vansh.nyc/1mj",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Wavestone1",
+        "title": "AI Full Stack Engineer",
+        "source": "vanshb03",
+        "id": "2799f8b7-d69c-4a69-87a1-3d8c0bf45a9f",
+        "date_posted": 1793989856,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794071884,
+        "url": "https://go.vansh.nyc/1mk",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Secfix",
+        "title": "Backend Engineer, GTM Engineering",
+        "source": "vanshb03",
+        "id": "830e3711-d2c4-46fb-8771-ada440f1d884",
+        "date_posted": 1793992618,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794071884,
+        "url": "https://go.vansh.nyc/1ml",
+        "locations": [
+            "New York, NY",
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ElevenLabs",
+        "title": "Full-Stack Engineer",
+        "source": "vanshb03",
+        "id": "2c0f0ca5-f8d1-44e1-99f9-ce7b7f79a736",
+        "date_posted": 1794057643,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794071884,
+        "url": "https://go.vansh.nyc/1mm",
+        "locations": [
+            "New York, NY",
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ElevenLabs",
+        "title": "Full-Stack Engineer (Backend Leaning)",
+        "source": "vanshb03",
+        "id": "3e4fffc8-067c-46ed-95c4-0109aa3a557d",
+        "date_posted": 1794057641,
+        "company_url": "",
+        "is_visible": true
     }
 ]
