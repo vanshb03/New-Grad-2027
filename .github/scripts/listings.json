@@ -31790,13 +31790,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793780141,
+        "date_updated": 1794028648,
         "url": "https://go.vansh.nyc/1ga",
         "locations": [
             "Sykesville, MD"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Northrop Grumman",
         "title": "Associate Software Embedded Engineer",
         "source": "vanshb03",
