@@ -32902,5 +32902,69 @@
         "date_posted": 1793923200,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794010442,
+        "url": "https://go.vansh.nyc/1lS",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intel",
+        "title": "New Grad 2027: Software Performance Engineer (Master's)",
+        "source": "vanshb03",
+        "id": "40833a75-de7a-4c0b-b1c6-17627548d93b",
+        "date_posted": 1793923200,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794010442,
+        "url": "https://go.vansh.nyc/1lT",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Capgemini",
+        "title": "Associate Application Consultant",
+        "source": "vanshb03",
+        "id": "0db9b9e9-69a0-4dfb-8be5-d2e271946ae0",
+        "date_posted": 1794008328,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794010442,
+        "url": "https://go.vansh.nyc/1lU",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cisco",
+        "title": "Software Engineer Embedded Systems I",
+        "source": "vanshb03",
+        "id": "536ab817-e285-42e5-aaad-a2a0c95b9622",
+        "date_posted": 1794009308,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794010442,
+        "url": "https://go.vansh.nyc/1lV",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cisco",
+        "title": "ASIC DFT Engineer I",
+        "source": "vanshb03",
+        "id": "40c1cbc8-43e8-4662-ba6f-dfb909d41c98",
+        "date_posted": 1794009308,
+        "company_url": "",
+        "is_visible": true
     }
 ]
