@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Rovisys** | New Grad 2027: Entry Level Engineer/Developer | Houston, TX | <a href="https://go.vansh.nyc/1mG?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
 | **Rovisys** | New Grad 2027: Entry Level Engineer/Developer | Remote | <a href="https://go.vansh.nyc/1mH?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
 | **Rovisys** | New Grad 2027: Entry Level Engineer/Developer | Holly Springs, NC | <a href="https://go.vansh.nyc/1mI?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
+| **Lawrence Livermore National Laboratory** | Embedded Systems Engineer, Super Intelligence Integration 🇺🇸 | Livermore, CA | <a href="https://go.vansh.nyc/1n9?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
 | **ElevenLabs** | Full-Stack Engineer | New York, NY</br>Boston, MA | <a href="https://go.vansh.nyc/1ml?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
 | **ElevenLabs** | Full-Stack Engineer (Backend Leaning) | New York, NY</br>Boston, MA | <a href="https://go.vansh.nyc/1mm?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
 | **Wavestone1** | AI Full Stack Engineer 🛂 | Pittsburgh, PA | <a href="https://go.vansh.nyc/1mj?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
@@ -58,11 +59,13 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Fortinet** | Software Engineer – Cloud Platform (FortiSIEM) 🛂 | Santa Clara, CA | <a href="https://go.vansh.nyc/1l1?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | **Cisco** | Software Engineer Embedded Systems I | San Jose, CA | <a href="https://go.vansh.nyc/1lU?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | **Cisco** | ASIC DFT Engineer I | San Jose, CA | <a href="https://go.vansh.nyc/1lV?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
+| **Charles Schwab** | Jr. Software Developer | Omaha, NE | <a href="https://go.vansh.nyc/1nb?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | **Charles Schwab** | Associate Software Development & Engineering | Austin, TX</br>Southlake, TX | <a href="https://go.vansh.nyc/1ky?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | **Celonis** | Associate Deployment Engineer | New York, NY | <a href="https://go.vansh.nyc/1kh?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | **Celonis** | Associate Deployment Engineer | Raleigh, NC | <a href="https://go.vansh.nyc/1ki?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | **Capgemini** | Associate Application Consultant | Philadelphia, PA | <a href="https://go.vansh.nyc/1lT?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | **BP** | New Grad 2027: Digital – Data & AI and Digital Engineering | Houston, TX | <a href="https://go.vansh.nyc/1lA?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
+| **ASM** | Software Engineer | Phoenix, AZ | <a href="https://go.vansh.nyc/1na?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | **Apple** | AI Operations, Applied AI Research and Design Developer | Cupertino, CA | <a href="https://go.vansh.nyc/1mi?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | **Amazon** | Software Development Engineer, SoC Hardware Abstraction Layer | Cupertino, CA | <a href="https://go.vansh.nyc/1k0?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | **Yusen Logistics** | IT Reporting Analyst 1, Reports & Labels | <details><summary>**4 locations**</summary>Sumner, WA</br>Greenfield, IN</br>Jacksonville, FL</br>Grapevine, TX</details> | <a href="https://go.vansh.nyc/1i1?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
