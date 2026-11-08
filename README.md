@@ -41,6 +41,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **D3** | New Grad: Backend Engineer | Los Angeles, CA | <a href="https://go.vansh.nyc/1mR?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 08 |
+| **D3** | New Grad: Frontend Engineer | Los Angeles, CA | <a href="https://go.vansh.nyc/1mS?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 08 |
 | **Rovisys** | New Grad 2027: Entry Level Engineer/Developer | Houston, TX | <a href="https://go.vansh.nyc/1mG?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
 | **Rovisys** | New Grad 2027: Entry Level Engineer/Developer | Remote | <a href="https://go.vansh.nyc/1mH?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
 | **Rovisys** | New Grad 2027: Entry Level Engineer/Developer | Holly Springs, NC | <a href="https://go.vansh.nyc/1mI?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
