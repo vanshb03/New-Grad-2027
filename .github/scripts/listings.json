@@ -33128,5 +33128,53 @@
         "date_posted": 1794143551,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794172610,
+        "url": "https://go.vansh.nyc/1n9",
+        "locations": [
+            "Livermore, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Lawrence Livermore National Laboratory",
+        "title": "Embedded Systems Engineer, Super Intelligence Integration",
+        "source": "vanshb03",
+        "id": "29ca2b91-b27d-447b-870c-c6281e3f2a3d",
+        "date_posted": 1794086000,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794172610,
+        "url": "https://go.vansh.nyc/1na",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ASM",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "b2e4da5b-ce65-44ca-bdb0-5494b6f85754",
+        "date_posted": 1793999600,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794172610,
+        "url": "https://go.vansh.nyc/1nb",
+        "locations": [
+            "Omaha, NE"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Charles Schwab",
+        "title": "Jr. Software Developer",
+        "source": "vanshb03",
+        "id": "318f0a61-91ee-4e98-88cb-67c6ce27acfe",
+        "date_posted": 1793999600,
+        "company_url": "",
+        "is_visible": true
     }
 ]
