@@ -33096,5 +33096,37 @@
         "date_posted": 1794009600,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794143697,
+        "url": "https://go.vansh.nyc/1mR",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "D3",
+        "title": "New Grad: Backend Engineer",
+        "source": "vanshb03",
+        "id": "f4bcdc3a-3cfc-45f6-b92e-4b18961afb5b",
+        "date_posted": 1794143551,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794143697,
+        "url": "https://go.vansh.nyc/1mS",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "D3",
+        "title": "New Grad: Frontend Engineer",
+        "source": "vanshb03",
+        "id": "65ab575c-06c1-40fa-b34d-097c1bdb1fa2",
+        "date_posted": 1794143551,
+        "company_url": "",
+        "is_visible": true
     }
 ]
