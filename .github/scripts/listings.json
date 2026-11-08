@@ -33048,5 +33048,53 @@
         "date_posted": 1794057641,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794100662,
+        "url": "https://go.vansh.nyc/1mG",
+        "locations": [
+            "Houston, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rovisys",
+        "title": "New Grad 2027: Entry Level Engineer/Developer",
+        "source": "vanshb03",
+        "id": "16d70871-26be-46e7-a865-ab098aaf0165",
+        "date_posted": 1794009600,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794100662,
+        "url": "https://go.vansh.nyc/1mH",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rovisys",
+        "title": "New Grad 2027: Entry Level Engineer/Developer",
+        "source": "vanshb03",
+        "id": "7c77bc54-0f8f-4ece-a977-12141d536f36",
+        "date_posted": 1794009600,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794100662,
+        "url": "https://go.vansh.nyc/1mI",
+        "locations": [
+            "Holly Springs, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rovisys",
+        "title": "New Grad 2027: Entry Level Engineer/Developer",
+        "source": "vanshb03",
+        "id": "a950d3c1-d36e-409a-aa0e-7e5c10b98208",
+        "date_posted": 1794009600,
+        "company_url": "",
+        "is_visible": true
     }
 ]
