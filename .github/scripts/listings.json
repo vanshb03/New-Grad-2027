@@ -27976,13 +27976,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793403885,
+        "date_updated": 1794265926,
         "url": "https://go.vansh.nyc/11C",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "ASIC Design Verification Engineer (Master's)",
         "source": "vanshb03",
