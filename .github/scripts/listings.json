@@ -1147,7 +1147,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1747298441,
+        "date_updated": 1794249950,
         "url": "https://go.vansh.nyc/j9",
         "company_name": "Nuro",
         "title": "New Grad: Software Engineer, Autonomy",
@@ -1155,7 +1155,7 @@
             "Mountain View, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "ebcf7f36-de1b-4a59-846e-60e6b1ebb496",
         "date_posted": 1747298441,
@@ -2225,7 +2225,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748584030,
+        "date_updated": 1794249950,
         "url": "https://go.vansh.nyc/kd",
         "company_name": "Nuro",
         "title": "New Grad: Software Engineer, Autonomy",
@@ -2233,7 +2233,7 @@
             "Mountain View, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "8426a8c5-f1bc-4f4e-ae84-5031e24fbbe0",
         "date_posted": 1748584030,
@@ -4062,7 +4062,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1752525250,
+        "date_updated": 1794249950,
         "url": "https://go.vansh.nyc/m2",
         "company_name": "Nuro",
         "title": "New Grad: Software Engineer, Routing",
@@ -4070,7 +4070,7 @@
             "Mountain View, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "f893e67a-121d-4483-8418-6ee1b466530b",
         "date_posted": 1752525250,
@@ -4601,13 +4601,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753369646,
+        "date_updated": 1794249950,
         "url": "https://go.vansh.nyc/mz",
         "locations": [
             "Foster City, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "QuinStreet",
         "title": "Entry Level Software Engineer",
         "source": "vanshb03",
@@ -6779,14 +6779,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1755113970,
+        "date_updated": 1794249950,
         "url": "https://go.vansh.nyc/oK",
         "company_name": "Global Relay",
         "title": "Junior Software Developer Engineer in Test - C#",
         "locations": [
             "Vancouver, Canada"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "a1fe1160-a32c-41b1-a47d-c72c5d2785d6",
         "date_posted": 1755113970,
@@ -9463,7 +9463,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1756872100,
+        "date_updated": 1794249950,
         "url": "https://go.vansh.nyc/ro",
         "company_name": "Stripe",
         "title": "Software Engineer - New Grad",
@@ -9471,7 +9471,7 @@
             "Seattle, WA",
             "San Francisco, CA"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "f920da8d-120b-413a-97f5-d0f39c3c94aa",
         "date_posted": 1756872100,
@@ -9480,14 +9480,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1756872100,
+        "date_updated": 1794249950,
         "url": "https://go.vansh.nyc/rp",
         "company_name": "Stripe",
         "title": "Software Engineer - New Grad",
         "locations": [
             "Toronto, Canada"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "5b399554-b8eb-4165-96af-5d141cf9559c",
         "date_posted": 1756872100,
@@ -10538,14 +10538,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1757344867,
+        "date_updated": 1794249950,
         "url": "https://go.vansh.nyc/ss",
         "company_name": "Diverge Health",
         "title": "Associate Software Developer",
         "locations": [
             "Remote in USA"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "727f5f59-ed40-4dc1-9860-6260acd5af37",
         "date_posted": 1757344867,
@@ -13332,13 +13332,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760208486,
+        "date_updated": 1794249950,
         "url": "https://go.vansh.nyc/vd",
         "locations": [
             "Foster City, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "QuinStreet",
         "title": "Software Engineer",
         "source": "vanshb03",
@@ -14257,14 +14257,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760995046,
+        "date_updated": 1794249950,
         "url": "https://go.vansh.nyc/w8",
         "locations": [
             "New York, NY",
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Boerboel",
         "title": "New Grad: Quantitative Researcher",
         "source": "vanshb03",
@@ -14274,14 +14274,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760995056,
+        "date_updated": 1794249950,
         "url": "https://go.vansh.nyc/w9",
         "locations": [
             "New York, NY",
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Boerboel",
         "title": "New Grad: Developer",
         "source": "vanshb03",
@@ -14598,14 +14598,14 @@
         "sponsorship": "U.S. Citizenship is Required"
     },
     {
-        "date_updated": 1761174604,
+        "date_updated": 1794249950,
         "url": "https://go.vansh.nyc/wt",
         "company_name": "Spot & Tango",
         "title": "Jr. Software Engineer",
         "locations": [
             "New York, NY"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "216404c9-3313-4e64-84ae-2b3de2804e19",
         "date_posted": 1761174604,
@@ -14649,14 +14649,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1761174604,
+        "date_updated": 1794249950,
         "url": "https://go.vansh.nyc/ww",
         "company_name": "SMX",
         "title": "Junior Data Scientist",
         "locations": [
             "Patuxent River, MD"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "41c4ade7-12c9-4f52-8beb-5869068416c2",
         "date_posted": 1761174604,
@@ -14898,14 +14898,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1761840220,
+        "date_updated": 1794249950,
         "url": "https://go.vansh.nyc/wL",
         "company_name": "Nextdoor",
         "title": "New Grad 2026: Machine Learning Engineer, Machine Learning",
         "locations": [
             "Dallas, TX"
         ],
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "481c9cef-f471-4f67-95e6-3672061f33d2",
         "date_posted": 1761840220,
@@ -15372,13 +15372,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762349328,
+        "date_updated": 1794249950,
         "url": "https://go.vansh.nyc/xe",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Jump Trading",
         "title": "Campus Crypto Researcher",
         "source": "vanshb03",
