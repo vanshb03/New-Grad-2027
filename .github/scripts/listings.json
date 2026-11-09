@@ -31404,13 +31404,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793735085,
+        "date_updated": 1794239055,
         "url": "https://go.vansh.nyc/1e1",
         "locations": [
             "Tewksbury, MA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Raytheon Technologies",
         "title": "Embedded Security Software Engineer I",
         "source": "vanshb03",
