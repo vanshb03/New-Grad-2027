@@ -32709,14 +32709,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793981998,
+        "date_updated": 1794268062,
         "url": "https://go.vansh.nyc/1ky",
         "locations": [
             "Austin, TX",
             "Southlake, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Charles Schwab",
         "title": "Associate Software Development & Engineering",
         "source": "vanshb03",
@@ -33367,6 +33367,71 @@
         "source": "vanshb03",
         "id": "821ddc2d-4f85-430a-82eb-ab034f0ac3c9",
         "date_posted": 1794256008,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794268046,
+        "url": "https://go.vansh.nyc/1pz",
+        "locations": [
+            "Toronto, Canada",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sur La Table",
+        "title": "Junior Software Engineer",
+        "source": "vanshb03",
+        "id": "614f6dd8-1fa6-4e92-b630-a05968975206",
+        "date_posted": 1794266373,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794268046,
+        "url": "https://go.vansh.nyc/1pA",
+        "locations": [
+            "Tallahassee, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AECOM",
+        "title": "Software Developer 1",
+        "source": "vanshb03",
+        "id": "de0a4f7c-f520-4c33-a89e-1c72f1c08b86",
+        "date_posted": 1794255869,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794268046,
+        "url": "https://go.vansh.nyc/1pB",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intuitive Surgical",
+        "title": "Planning Analyst",
+        "source": "vanshb03",
+        "id": "ab175d31-61ea-4f07-920e-89b8ac997ce6",
+        "date_posted": 1794250464,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794268046,
+        "url": "https://go.vansh.nyc/1pC",
+        "locations": [
+            "Anaheim, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "L3Harris Technologies",
+        "title": "Associate, Software Engineering",
+        "source": "vanshb03",
+        "id": "8001c87a-98e5-4ba6-b37e-4abb953841b5",
+        "date_posted": 1794265483,
         "company_url": "",
         "is_visible": true
     }
