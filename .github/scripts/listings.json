@@ -33257,5 +33257,21 @@
         "date_posted": 1794244310,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794247975,
+        "url": "https://go.vansh.nyc/1oT",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Wolverine Trading",
+        "title": "New Grad: C++ Software Engineer",
+        "source": "vanshb03",
+        "id": "bb00ca5a-ce6a-41e7-a4d7-c772d5389e96",
+        "date_posted": 1794247809,
+        "company_url": "",
+        "is_visible": true
     }
 ]
