@@ -26656,13 +26656,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793140747,
+        "date_updated": 1794264229,
         "url": "https://go.vansh.nyc/WH",
         "locations": [
             "Greenville, SC"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "GE Vernova",
         "title": "New Grad: AI Engineer",
         "source": "vanshb03",
@@ -26690,13 +26690,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793140747,
+        "date_updated": 1794264229,
         "url": "https://go.vansh.nyc/WJ",
         "locations": [
             "Greenville, SC"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "GE Vernova",
         "title": "Data Scientist",
         "source": "vanshb03",
