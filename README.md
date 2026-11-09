@@ -636,8 +636,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Trace Labs** | Researcher (Master's) | New York, NY | <a href="https://go.vansh.nyc/NI?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 02 |
 | **Stryker** | Design Engineer - Software, RISE | Portage, MI | <a href="https://go.vansh.nyc/Og?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 02 |
 | **Newrez** | Data Product Engineering Operations Specialist | Coppell, TX | <a href="https://go.vansh.nyc/NK?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 02 |
-| **Deluxe** | New Grad 2027: Data Driven Marketing Analyst, Audience Design | New York, NY | <a href="https://go.vansh.nyc/NL?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 02 |
-| **Deluxe** | New Grad 2027: Data Driven Marketing Analyst, Performance Optimization | New York, NY | <a href="https://go.vansh.nyc/NM?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 02 |
 | **Zip** | New Grad 2027: Software Engineer | San Francisco, CA | <a href="https://go.vansh.nyc/Nq?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
 | **Wintermute** | New Grad 2027: Algorithmic Trader | New York, NY | <a href="https://go.vansh.nyc/Ns?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
 | **Stripe** | New Grad 2027: Software Engineer | San Francisco, CA</br>Seattle, WA</br>New York, NY | <a href="https://go.vansh.nyc/No?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
@@ -987,6 +985,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **General Dynamics Mission Systems** | New Grad 2027: Engineering Leadership Program Engineer (EE, SW, Firmware, Sys) 🇺🇸 | Bloomington, MN | 🔒 | Sep 09 |
 | **Terra Norbital Corporation** | Associate Flight Software Test & Tools Engineer 🇺🇸 | Irvine, CA | 🔒 | Sep 03 |
 | **Demiurge Studios** | New Grad 2027: Associate Software Engineer | Remote | 🔒 | Sep 03 |
+| **Deluxe** | New Grad 2027: Data Driven Marketing Analyst, Audience Design | New York, NY | 🔒 | Sep 02 |
+| **Deluxe** | New Grad 2027: Data Driven Marketing Analyst, Performance Optimization | New York, NY | 🔒 | Sep 02 |
 | **American Express** | New Grad 2027: Software Engineer 1, Enterprise Technology Services | Charlotte, NC | 🔒 | Sep 02 |
 | **American Express** | New Grad 2027: AI Engineer 1, Enterprise Technology Services (Master's) | New York, NY | 🔒 | Sep 02 |
 | **American Express** | New Grad 2027: AI Engineer 1, Enterprise Technology Services | Sunrise, FL | 🔒 | Sep 02 |
