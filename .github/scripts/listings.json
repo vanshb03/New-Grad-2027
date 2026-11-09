@@ -33353,5 +33353,21 @@
         "date_posted": 1794254984,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794258954,
+        "url": "https://go.vansh.nyc/1pe",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "WHOOP",
+        "title": "Software Engineer I (Backend, Growth)",
+        "source": "vanshb03",
+        "id": "821ddc2d-4f85-430a-82eb-ab034f0ac3c9",
+        "date_posted": 1794256008,
+        "company_url": "",
+        "is_visible": true
     }
 ]
