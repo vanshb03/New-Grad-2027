@@ -33240,5 +33240,22 @@
         "date_posted": 1794186872,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794244516,
+        "url": "https://go.vansh.nyc/1oL",
+        "locations": [
+            "Paducah, KY",
+            "Valparaiso, IN"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "CSI",
+        "title": "Software Engineer I, C#/.NET",
+        "source": "vanshb03",
+        "id": "bb3bc5b8-3461-47ad-822f-43a2a26cf9a2",
+        "date_posted": 1794244310,
+        "company_url": "",
+        "is_visible": true
     }
 ]
