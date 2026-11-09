@@ -330,7 +330,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Oceaneering** | Robotics Software Engineer | Houston, TX | <a href="https://go.vansh.nyc/195?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | **NVIDIA** | ASIC Physical Design and Timing Engineer (Master's) | Santa Clara, CA | <a href="https://go.vansh.nyc/11A?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | **NVIDIA** | Cell Modeling and Verification Engineer | Santa Clara, CA | <a href="https://go.vansh.nyc/11B?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
-| **NVIDIA** | ASIC Design Verification Engineer (Master's) | Austin, TX | <a href="https://go.vansh.nyc/11C?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | **NVIDIA** | Formal Verification Engineer | Santa Clara, CA | <a href="https://go.vansh.nyc/11j?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | **NVIDIA** | ASIC Floorplan Design Engineer (Master's) | Santa Clara, CA | <a href="https://go.vansh.nyc/11k?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | **NVIDIA** | New Grad 2027: ASIC Verification Engineer, Memory Management | Durham, NC</br>Madison, AL</br>Hillsboro, OR | <a href="https://go.vansh.nyc/11l?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
@@ -837,6 +836,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **NVIDIA** | ASIC Design Engineer | Santa Clara, CA | 🔒 | Oct 31 |
 | **Wise** | New Grad 2027: Product Analyst | Austin, TX | 🔒 | Oct 30 |
 | **Wise** | New Grad 2027: Product Analyst | Austin, TX | 🔒 | Oct 30 |
+| **NVIDIA** | ASIC Design Verification Engineer (Master's) | Austin, TX | 🔒 | Oct 30 |
 | **Kairos Power** | Firmware Development Engineer | Alameda, CA | 🔒 | Oct 30 |
 | **Chicago Trading Company** | New Grad 2027: Quant Trading Associate | Chicago, IL | 🔒 | Oct 30 |
 | **Chicago Trading Company** | New Grad 2027: Quant Trading Associate | Chicago, IL | 🔒 | Oct 30 |
