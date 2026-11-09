@@ -23253,13 +23253,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793025545,
+        "date_updated": 1794241128,
         "url": "https://go.vansh.nyc/NL",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Deluxe",
         "title": "New Grad 2027: Data Driven Marketing Analyst, Audience Design",
         "source": "vanshb03",
@@ -23269,13 +23269,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793025545,
+        "date_updated": 1794241128,
         "url": "https://go.vansh.nyc/NM",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Deluxe",
         "title": "New Grad 2027: Data Driven Marketing Analyst, Performance Optimization",
         "source": "vanshb03",
