@@ -21909,13 +21909,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793023323,
+        "date_updated": 1794242683,
         "url": "https://go.vansh.nyc/KA",
         "locations": [
             "Boston, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Klaviyo",
         "title": "New Grad 2027: Software Engineer 1",
         "source": "vanshb03",
@@ -22397,13 +22397,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793023324,
+        "date_updated": 1794242683,
         "url": "https://go.vansh.nyc/L4",
         "locations": [
             "Boston, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Klaviyo",
         "title": "New Grad 2027: AI Engineer 1 (Master's)",
         "source": "vanshb03",
@@ -32984,13 +32984,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794071884,
+        "date_updated": 1794242683,
         "url": "https://go.vansh.nyc/1mj",
         "locations": [
             "Pittsburgh, PA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Wavestone1",
         "title": "AI Full Stack Engineer",
         "source": "vanshb03",
