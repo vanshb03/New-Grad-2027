@@ -27714,13 +27714,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793400023,
+        "date_updated": 1794262331,
         "url": "https://go.vansh.nyc/11d",
         "locations": [
             "Alameda, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Kairos Power",
         "title": "Firmware Development Engineer",
         "source": "vanshb03",
