@@ -22639,13 +22639,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793023324,
+        "date_updated": 1794260571,
         "url": "https://go.vansh.nyc/Li",
         "locations": [
             "El Segundo, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Aerospace",
         "title": "New Grad 2027: Vehicle Systems Software Engineer",
         "source": "vanshb03",
@@ -22719,13 +22719,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793023324,
+        "date_updated": 1794260571,
         "url": "https://go.vansh.nyc/Ln",
         "locations": [
             "El Segundo, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Aero",
         "title": "New Grad 2027: RPO Software Developer/Analyst (Master's)",
         "source": "vanshb03",
@@ -32353,13 +32353,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793904660,
+        "date_updated": 1794260571,
         "url": "https://go.vansh.nyc/1iZ",
         "locations": [
             "Pleasanton, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Abbott",
         "title": "Software Test Engineer",
         "source": "vanshb03",
@@ -32562,7 +32562,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793924449,
+        "date_updated": 1794260571,
         "url": "https://go.vansh.nyc/1jN",
         "locations": [
             "Colorado Springs, CO",
@@ -32570,7 +32570,7 @@
             "El Segundo, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Aerospace",
         "title": "Operations Forecast Analyst",
         "source": "vanshb03",
