@@ -32497,13 +32497,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793922585,
+        "date_updated": 1794231878,
         "url": "https://go.vansh.nyc/1jA",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Persimmons.ai",
         "title": "New Grad: Design Verification Engineer, AI-Driven",
         "source": "vanshb03",
