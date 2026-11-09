@@ -21861,13 +21861,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793023323,
+        "date_updated": 1794251602,
         "url": "https://go.vansh.nyc/Kx",
         "locations": [
             "Mountain View, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ID.me",
         "title": "New Grad 2027: Software Development Engineer",
         "source": "vanshb03",
@@ -23317,13 +23317,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793025545,
+        "date_updated": 1794251602,
         "url": "https://go.vansh.nyc/NP",
         "locations": [
             "Laurel, MD"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "title": "New Grad 2027: Graduate - Multiple Teams",
         "source": "vanshb03",
@@ -33271,6 +33271,22 @@
         "source": "vanshb03",
         "id": "bb00ca5a-ce6a-41e7-a4d7-c772d5389e96",
         "date_posted": 1794247809,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794251584,
+        "url": "https://go.vansh.nyc/1p1",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SeatGeek",
+        "title": "New Grad 2027: Software Engineer",
+        "source": "vanshb03",
+        "id": "4291cc71-c375-469b-b519-64f791e98a7b",
+        "date_posted": 1794251402,
         "company_url": "",
         "is_visible": true
     }
