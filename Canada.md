@@ -84,9 +84,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Ciena** | Embedded Software Engineer | Ottawa, Canada | <a href="https://go.vansh.nyc/Pi?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 24 |
 | **Quadient** | Software Engineer | Vancouver, Canada | <a href="https://go.vansh.nyc/vj?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | **Tripadvisor** | Android Engineer | Ottawa, Canada | <a href="https://go.vansh.nyc/sO?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
-| **Stripe** | Software Engineer - New Grad | Toronto, Canada | <a href="https://go.vansh.nyc/rp?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
 | **Qualcomm Canada ULC** | CPU Software Telemetry Tools Developer | Markham, Canada | <a href="https://go.vansh.nyc/qi?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
-| **Global Relay** | Junior Software Developer Engineer in Test - C# | Vancouver, Canada | <a href="https://go.vansh.nyc/oK?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
 | **Tower Research Capital** | New Grad: C++ Software Engineer, MTL | Montreal, Canada | <a href="https://go.vansh.nyc/j2?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 03 |
 | **Oracle** | Software Developer | Remote</br>Canada | <a href="https://go.vansh.nyc/iS?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 19 |
 | **Oracle** | Software Developer - Rotational Program - NetSuite | Kitchiner, Canada | <a href="https://go.vansh.nyc/iR?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 19 |
@@ -124,6 +122,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **TD Securities** | Machine Learning Engineer I | Toronto, ON, Canada | 🔒 | Sep 10 |
 | **TD** | Machine Learning Engineer I | Toronto, Canada | 🔒 | Sep 10 |
 | **Clio** | Data Engineer | <details><summary>**4 locations**</summary>Toronto, Canada</br>Calgary, Canada</br>Vancouver, Canada</br>Remote</details> | 🔒 | Sep 10 |
+| **Stripe** | Software Engineer - New Grad | Toronto, Canada | 🔒 | Sep 03 |
 | **Tenstorrent** | Software Engineer, AI Tools | <details><summary>**4 locations**</summary>Austin, TX</br>Santa Clara, CA</br>Toronto, Canada</br>Remote</details> | 🔒 | Aug 28 |
 | **Magna** | AI Engineer | Concord, Canada | 🔒 | Aug 19 |
 | **Lightspeed** | Software Developer | Montreal, Canada | 🔒 | Aug 19 |
@@ -140,6 +139,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Capital One** | Associate, Software Engineer | Toronto, Canada | 🔒 | Aug 17 |
 | **AMD** | Firmware Security Engineer | Vancouver, Canada | 🔒 | Aug 17 |
 | **AMD** | ROCm AI - GPU Software Engineer | Markham, Canada | 🔒 | Aug 17 |
+| **Global Relay** | Junior Software Developer Engineer in Test - C# | Vancouver, Canada | 🔒 | Aug 13 |
 | **Spotify** | Fullstack Engineer | Toronto, Canada</br>Remote | 🔒 | Jul 30 |
 | **EvenUp** | Early Career Machine Learning Engineer | San Francisco, CA</br>Toronto, Canada | 🔒 | Jul 30 |
 | **Clio** | Machine Learning Engineer | <details><summary>**4 locations**</summary>Remote</br>Toronto, Canada</br>Calgary, Canada</br>Vancouver, Canada</details> | 🔒 | Jul 30 |
