@@ -33289,5 +33289,21 @@
         "date_posted": 1794251402,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794253384,
+        "url": "https://go.vansh.nyc/1p4",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Adobe",
+        "title": "New Grad 2027: Data Engineer",
+        "source": "vanshb03",
+        "id": "8f1a3e3b-9081-4212-8c51-544821eaafe6",
+        "date_posted": 1794251695,
+        "company_url": "",
+        "is_visible": true
     }
 ]
