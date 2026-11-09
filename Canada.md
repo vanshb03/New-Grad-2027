@@ -44,6 +44,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Sur La Table** | Junior Software Engineer | Toronto, Canada</br>Remote | <a href="https://go.vansh.nyc/1pz?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | **Valsoft** | AI Engineer 1 | Montreal, Canada | <a href="https://go.vansh.nyc/1lL?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | **Fortinet** | Technical Content DevOps Developer | Burnaby, Canada | <a href="https://go.vansh.nyc/1lB?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | **Ciena** | New Grad: Embedded Security Software Developer | Ottawa, Canada | <a href="https://go.vansh.nyc/1lM?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
