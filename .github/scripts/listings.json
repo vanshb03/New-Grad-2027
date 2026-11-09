@@ -33176,5 +33176,69 @@
         "date_posted": 1793999600,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794187030,
+        "url": "https://go.vansh.nyc/1nj",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Shield AI",
+        "title": "New Grad 2027: Engineer I, Software - Autonomy Capabilities",
+        "source": "vanshb03",
+        "id": "4e07ad8d-5f10-42fe-9e01-a1faa5d071b1",
+        "date_posted": 1794096000,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794187030,
+        "url": "https://go.vansh.nyc/1nk",
+        "locations": [
+            "Washington, DC"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Shield AI",
+        "title": "New Grad 2027: Engineer 1 - Software - Autonomous Pilot Integration",
+        "source": "vanshb03",
+        "id": "e9744687-2b8b-4ab0-8815-96bb3a99aaac",
+        "date_posted": 1794179354,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794187030,
+        "url": "https://go.vansh.nyc/1nl",
+        "locations": [
+            "Washington, DC"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Shield AI",
+        "title": "New Grad 2027: Engineer 1 - Software - Perception",
+        "source": "vanshb03",
+        "id": "f9985eb0-f56d-4d99-a3fc-db38c029e40a",
+        "date_posted": 1794179352,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794187030,
+        "url": "https://go.vansh.nyc/1nm",
+        "locations": [
+            "Washington, DC"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Shield AI",
+        "title": "New Grad 2027: Engineer II, Software - Ground Control Station - Full Stack",
+        "source": "vanshb03",
+        "id": "b4892726-cfe4-4939-9206-05b96357599e",
+        "date_posted": 1794186872,
+        "company_url": "",
+        "is_visible": true
     }
 ]
