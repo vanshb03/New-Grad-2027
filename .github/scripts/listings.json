@@ -33305,5 +33305,53 @@
         "date_posted": 1794251695,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794255172,
+        "url": "https://go.vansh.nyc/1p5",
+        "locations": [
+            "Washington, DC"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "F7d8749a 72d6 407c Bf98 292ea630c73a",
+        "title": "New Grad 2027: Engineer I, Software - Perception",
+        "source": "vanshb03",
+        "id": "1f07e40a-edcd-45fb-bcf2-e036e3cd0bd2",
+        "date_posted": 1794254984,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794255172,
+        "url": "https://go.vansh.nyc/1p6",
+        "locations": [
+            "Washington, DC"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "F7d8749a 72d6 407c Bf98 292ea630c73a",
+        "title": "New Grad 2027: Engineer I, Software - Autonomous Pilot Integration",
+        "source": "vanshb03",
+        "id": "7115f237-d638-44bc-a3c9-46938dead0c8",
+        "date_posted": 1794254984,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794255172,
+        "url": "https://go.vansh.nyc/1p7",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "F7d8749a 72d6 407c Bf98 292ea630c73a",
+        "title": "New Grad 2027: Engineer I, Software - Autonomy Capabilities",
+        "source": "vanshb03",
+        "id": "627fc978-2ec0-4f4f-979e-b3abd82d2e35",
+        "date_posted": 1794254984,
+        "company_url": "",
+        "is_visible": true
     }
 ]
