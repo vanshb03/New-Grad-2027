@@ -33516,5 +33516,21 @@
         "date_posted": 1794273212,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794301971,
+        "url": "https://go.vansh.nyc/1qd",
+        "locations": [
+            "Solon, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Eagle Wireless",
+        "title": "Junior Integration Developer - NetSuite",
+        "source": "vanshb03",
+        "id": "7fd553c7-b8f0-4752-924b-2695fa7e17b5",
+        "date_posted": 1794301806,
+        "company_url": "",
+        "is_visible": true
     }
 ]
