@@ -41,6 +41,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Zingage** | New Grad: Software Engineer | New York, NY | <a href="https://go.vansh.nyc/1rE?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
+| **Xperteez Technology** | New Grad: Software Engineer | Remote | <a href="https://go.vansh.nyc/1rD?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | **SambaNova** | New Grad: Cloud Platform Engineer | Austin, TX</br>San Jose, CA | <a href="https://go.vansh.nyc/1qj?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | **SambaNova** | New Grad: Compiler Engineer | Austin, TX</br>San Jose, CA | <a href="https://go.vansh.nyc/1qk?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | **SambaNova** | New Grad: Design Verification Engineer | San Jose, CA | <a href="https://go.vansh.nyc/1ql?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
