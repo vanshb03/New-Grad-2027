@@ -33532,5 +33532,122 @@
         "date_posted": 1794301806,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794309338,
+        "url": "https://go.vansh.nyc/1qj",
+        "locations": [
+            "Austin, TX",
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SambaNova",
+        "title": "New Grad: Cloud Platform Engineer",
+        "source": "vanshb03",
+        "id": "fb423ebc-8446-4ede-a5d2-7142d03e548f",
+        "date_posted": 1794309161,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794309338,
+        "url": "https://go.vansh.nyc/1qk",
+        "locations": [
+            "Austin, TX",
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SambaNova",
+        "title": "New Grad: Compiler Engineer",
+        "source": "vanshb03",
+        "id": "f9b5c3bd-1531-4e19-99aa-9f38164add27",
+        "date_posted": 1794309161,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794309338,
+        "url": "https://go.vansh.nyc/1ql",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SambaNova",
+        "title": "New Grad: Design Verification Engineer",
+        "source": "vanshb03",
+        "id": "58ce52ac-79d2-4c87-acb4-6074b17e081d",
+        "date_posted": 1794309161,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794309338,
+        "url": "https://go.vansh.nyc/1qm",
+        "locations": [
+            "Austin, TX",
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SambaNova",
+        "title": "New Grad: Machine Learning Engineer",
+        "source": "vanshb03",
+        "id": "bfeb1b0f-cfff-49ae-9e46-beab7029bbe4",
+        "date_posted": 1794309161,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794309338,
+        "url": "https://go.vansh.nyc/1qn",
+        "locations": [
+            "Austin, TX",
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SambaNova",
+        "title": "New Grad: ML Infrastructure Engineer",
+        "source": "vanshb03",
+        "id": "7f0254fe-9c00-438d-a6d2-293fb21c6dc4",
+        "date_posted": 1794309161,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794309338,
+        "url": "https://go.vansh.nyc/1qo",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SambaNova",
+        "title": "New Grad: Physical Design Engineer",
+        "source": "vanshb03",
+        "id": "c8aa5a83-cf5f-405a-934b-0e1dbc32a8ac",
+        "date_posted": 1794309161,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794309338,
+        "url": "https://go.vansh.nyc/1qp",
+        "locations": [
+            "Austin, TX",
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SambaNova",
+        "title": "New Grad: Runtime Engineer",
+        "source": "vanshb03",
+        "id": "6b8fbe2a-ed26-4829-9110-745d3eb4c117",
+        "date_posted": 1794309161,
+        "company_url": "",
+        "is_visible": true
     }
 ]
