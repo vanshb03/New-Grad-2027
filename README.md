@@ -138,7 +138,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Rothera** | Associate Software Engineer | Chicago, IL</br>New York, NY | <a href="https://go.vansh.nyc/1bF?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | **Realm** | New Grad: Software Engineer | Remote | <a href="https://go.vansh.nyc/1f8?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | **Preference Model** | New Grad: Member of Technical Staff - Machine Learning Capabilities | San Francisco, CA | <a href="https://go.vansh.nyc/1fI?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
-| **Paperless Parts** | Platform Engineer | Boston, MA | <a href="https://go.vansh.nyc/1gT?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | **NVIDIA** | GPU System and Scheduling Architect (Master's) | Santa Clara, CA | <a href="https://go.vansh.nyc/1ea?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | **Nooks** | New Grad: Software Engineer | San Francisco, CA | <a href="https://go.vansh.nyc/1fJ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | **Micron Technology** | Engineer, Edge Systems Architecture | Boise, ID | <a href="https://go.vansh.nyc/1dv?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
@@ -832,6 +831,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Frontgrade** | Software Engineer I | Colorado Springs, CO | 🔒 | Nov 04 |
 | **Abbott** | Software Test Engineer | Pleasanton, CA | 🔒 | Nov 04 |
 | **RTX** | New Grad 2027: Leadership Development Program - Engineering - Software Discipline 🇺🇸 | Arlington, VA | 🔒 | Nov 03 |
+| **Paperless Parts** | Platform Engineer | Boston, MA | 🔒 | Nov 03 |
 | **Northrop Grumman** | New Grad 2027: Associate Flight Software Engineer 🇺🇸 | Manhattan Beach, CA | 🔒 | Nov 03 |
 | **RTX** | New Grad: Electrical Engineer 1 | Cedar Rapids, IA | 🔒 | Nov 02 |
 | **Raytheon Technologies** | Embedded Security Software Engineer I 🇺🇸 | Tewksbury, MA | 🔒 | Nov 02 |
