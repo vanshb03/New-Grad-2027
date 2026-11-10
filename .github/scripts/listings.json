@@ -33825,5 +33825,53 @@
         "date_posted": 1794337870,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794339714,
+        "url": "https://go.vansh.nyc/1rZ",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Raytheon Technologies",
+        "title": "Software Engineer I",
+        "source": "vanshb03",
+        "id": "572b1778-1a07-4d28-ac83-d312ced6bde3",
+        "date_posted": 1794253154,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794339714,
+        "url": "https://go.vansh.nyc/1s0",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Abacus Insights",
+        "title": "Associate Data Engineer",
+        "source": "vanshb03",
+        "id": "b752819d-38fe-4910-841d-b071c3969f93",
+        "date_posted": 1794339554,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794339714,
+        "url": "https://go.vansh.nyc/1s1",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apple",
+        "title": "Tools & Automation Engineer",
+        "source": "vanshb03",
+        "id": "0fb369eb-3f5b-4f57-a372-15ea45e69fa5",
+        "date_posted": 1794237666,
+        "company_url": "",
+        "is_visible": true
     }
 ]
