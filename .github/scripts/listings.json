@@ -33371,14 +33371,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794268046,
+        "date_updated": 1794336476,
         "url": "https://go.vansh.nyc/1pz",
         "locations": [
             "Toronto, Canada",
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Sur La Table",
         "title": "Junior Software Engineer",
         "source": "vanshb03",
@@ -33743,6 +33743,70 @@
         "source": "vanshb03",
         "id": "c9ff12ce-12d2-4e2b-b51c-b223c13506c9",
         "date_posted": 1794331205,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794336457,
+        "url": "https://go.vansh.nyc/1rL",
+        "locations": [
+            "Columbus, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cummins",
+        "title": "Electronic Systems Engineer - Software",
+        "source": "vanshb03",
+        "id": "aed9aa2a-41b1-4562-8cf1-3fa0b4e1554b",
+        "date_posted": 1794325790,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794336457,
+        "url": "https://go.vansh.nyc/1rM",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "SAIC",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "69f219fb-ceed-4fcf-8486-c4bbe9f5b257",
+        "date_posted": 1794323141,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794336457,
+        "url": "https://go.vansh.nyc/1rN",
+        "locations": [
+            "Tallahassee, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AECOM",
+        "title": "Digital Solutions Software Developer I",
+        "source": "vanshb03",
+        "id": "8dba64c1-4e27-4f66-bb66-58d4d40768f8",
+        "date_posted": 1794255869,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794336457,
+        "url": "https://go.vansh.nyc/1rO",
+        "locations": [
+            "Waltham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "National Grid",
+        "title": "New Grad 2027: Associate Data Analyst, Electric Projects Estimating",
+        "source": "vanshb03",
+        "id": "2586dd53-a222-4fe1-b393-a49fa13cd530",
+        "date_posted": 1794211492,
         "company_url": "",
         "is_visible": true
     }
