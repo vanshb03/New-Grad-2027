@@ -32546,13 +32546,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793924449,
+        "date_updated": 1794345469,
         "url": "https://go.vansh.nyc/1jM",
         "locations": [
             "Regina, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Capital Automotive Group",
         "title": "AI & Data Systems Specialist",
         "source": "vanshb03",
@@ -33871,6 +33871,22 @@
         "source": "vanshb03",
         "id": "0fb369eb-3f5b-4f57-a372-15ea45e69fa5",
         "date_posted": 1794237666,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794345444,
+        "url": "https://go.vansh.nyc/1s4",
+        "locations": [
+            "Costa Mesa, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Anduril",
+        "title": "New Grad 2027: Information Security Engineer",
+        "source": "vanshb03",
+        "id": "cb297c7a-59d5-4986-9f29-2aebcf665141",
+        "date_posted": 1794344428,
         "company_url": "",
         "is_visible": true
     }
