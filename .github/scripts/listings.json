@@ -22949,13 +22949,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793025545,
+        "date_updated": 1794323684,
         "url": "https://go.vansh.nyc/Ns",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Wintermute",
         "title": "New Grad 2027: Algorithmic Trader",
         "source": "vanshb03",
@@ -32758,13 +32758,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793988831,
+        "date_updated": 1794323684,
         "url": "https://go.vansh.nyc/1kK",
         "locations": [
             "Irving, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "McKesson",
         "title": "Cyber Security Analyst (Cyber Academy)",
         "source": "vanshb03",
