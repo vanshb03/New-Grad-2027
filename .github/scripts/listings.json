@@ -31966,13 +31966,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793818047,
+        "date_updated": 1794325107,
         "url": "https://go.vansh.nyc/1gT",
         "locations": [
             "Boston, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Paperless Parts",
         "title": "Platform Engineer",
         "source": "vanshb03",
