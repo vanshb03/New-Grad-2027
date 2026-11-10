@@ -32241,13 +32241,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793890008,
+        "date_updated": 1794294769,
         "url": "https://go.vansh.nyc/1iB",
         "locations": [
             "Roy, UT"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Northrop Grumman",
         "title": "New Grad 2027: Associate Cyber Systems Engineer",
         "source": "vanshb03",
@@ -33448,6 +33448,22 @@
         "source": "vanshb03",
         "id": "899566fc-b574-4491-98e9-e11a222f7467",
         "date_posted": 1794267146,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794294744,
+        "url": "https://go.vansh.nyc/1q7",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Domino",
+        "title": "New Grad 2027: Software Engineer",
+        "source": "vanshb03",
+        "id": "f176a641-a962-4f88-9bd2-efbcb4092590",
+        "date_posted": 1794294569,
         "company_url": "",
         "is_visible": true
     }
