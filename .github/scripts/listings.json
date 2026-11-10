@@ -28072,13 +28072,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793408936,
+        "date_updated": 1794348700,
         "url": "https://go.vansh.nyc/11L",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "Security Architect",
         "source": "vanshb03",
@@ -33420,13 +33420,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794268046,
+        "date_updated": 1794348700,
         "url": "https://go.vansh.nyc/1pC",
         "locations": [
             "Anaheim, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "L3Harris Technologies",
         "title": "Associate, Software Engineering",
         "source": "vanshb03",
