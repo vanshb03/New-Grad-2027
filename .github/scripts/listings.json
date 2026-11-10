@@ -29496,13 +29496,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793526377,
+        "date_updated": 1794332530,
         "url": "https://go.vansh.nyc/15Y",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2027: Software Engineer/Mobile Engineer (Ads Core Demonstration)",
         "source": "vanshb03",
@@ -30472,13 +30472,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793526377,
+        "date_updated": 1794332530,
         "url": "https://go.vansh.nyc/16X",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2027: Research Engineer, Monetization Technology - Business Integrity (Master's)",
         "source": "vanshb03",
@@ -33727,6 +33727,22 @@
         "source": "vanshb03",
         "id": "f42173bd-a50a-46bc-b57d-cc9b11f46490",
         "date_posted": 1794330654,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794332511,
+        "url": "https://go.vansh.nyc/1rG",
+        "locations": [
+            "Des Moines, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Wellmark",
+        "title": "Data Science Associate - FEP",
+        "source": "vanshb03",
+        "id": "c9ff12ce-12d2-4e2b-b51c-b223c13506c9",
+        "date_posted": 1794331205,
         "company_url": "",
         "is_visible": true
     }
