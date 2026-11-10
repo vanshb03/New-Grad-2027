@@ -33697,5 +33697,37 @@
         "date_posted": 1794329139,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794330849,
+        "url": "https://go.vansh.nyc/1rD",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Xperteez Technology",
+        "title": "New Grad: Software Engineer",
+        "source": "vanshb03",
+        "id": "8f2faed9-16c7-4a45-8d95-d8b7c7a2ec8f",
+        "date_posted": 1794330654,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794330849,
+        "url": "https://go.vansh.nyc/1rE",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zingage",
+        "title": "New Grad: Software Engineer",
+        "source": "vanshb03",
+        "id": "f42173bd-a50a-46bc-b57d-cc9b11f46490",
+        "date_posted": 1794330654,
+        "company_url": "",
+        "is_visible": true
     }
 ]
