@@ -586,7 +586,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **ID.me** | New Grad 2027: Data Scientist (Master's) | Mountain View, CA | <a href="https://go.vansh.nyc/Ky?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | **Commure** | Software Engineer | Los Angeles, CA</br>Mountain View, CA | <a href="https://go.vansh.nyc/Kw?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | **Cadence Design Systems** | Software Engineer | San Jose, CA | <a href="https://go.vansh.nyc/Kv?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
-| **Anysphere** | New Grad 2027: Software Engineer | San Francisco, CA</br>New York, NY | <a href="https://go.vansh.nyc/Kt?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | **Anduril** | Flight Software Engineer | Costa Mesa, CA | <a href="https://go.vansh.nyc/Ks?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | **Akuna Capital University** | New Grad 2027: Junior Quantitative Researcher | Chicago, IL | <a href="https://go.vansh.nyc/Kp?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | **TikTok** | New Grad 2027: Machine Learning Engineer, E-Commerce Recommendation Video | San Jose, CA | <a href="https://go.vansh.nyc/KU?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
@@ -971,6 +970,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **AllianceBernstein** | New Grad 2027: Software Development Associate 🇺🇸 | Nashville, TN | 🔒 | Sep 20 |
 | **Klaviyo** | New Grad 2027: Software Engineer 1 | Boston, MA | 🔒 | Sep 19 |
 | **ID.me** | New Grad 2027: Software Development Engineer | Mountain View, CA | 🔒 | Sep 19 |
+| **Anysphere** | New Grad 2027: Software Engineer | San Francisco, CA</br>New York, NY | 🔒 | Sep 19 |
 | **American Express** | Software Engineer 1, Enterprise Technology Services | New York, NY | 🔒 | Sep 19 |
 | **American Express** | Data Engineer 1, Enterprise Technology Services | Phoenix, AZ | 🔒 | Sep 19 |
 | **Aerospace** | New Grad 2027: Vehicle Systems Software Engineer 🇺🇸 | El Segundo, CA | 🔒 | Sep 17 |
