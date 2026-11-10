@@ -32465,13 +32465,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793915043,
+        "date_updated": 1794273136,
         "url": "https://go.vansh.nyc/1ji",
         "locations": [
             "Salt Lake City, UT"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "WGU",
         "title": "Associate Software Engineer",
         "source": "vanshb03",
