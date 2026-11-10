@@ -33466,5 +33466,55 @@
         "date_posted": 1794294569,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794298469,
+        "url": "https://go.vansh.nyc/1q8",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intel",
+        "title": "SoC Design Verification Engineer",
+        "source": "vanshb03",
+        "id": "971514d5-a719-4db1-a0ba-0d0fba725350",
+        "date_posted": 1794182400,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794298469,
+        "url": "https://go.vansh.nyc/1q9",
+        "locations": [
+            "Santa Clara, CA",
+            "Hillsboro, OR",
+            "Folsom, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intel",
+        "title": "SoC Logic Design Engineer",
+        "source": "vanshb03",
+        "id": "2d0c1ca3-3aa8-4c13-9c09-6d560e806602",
+        "date_posted": 1794182400,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794298469,
+        "url": "https://go.vansh.nyc/1qa",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cursor",
+        "title": "New Grad 2027: Software Engineer",
+        "source": "vanshb03",
+        "id": "5b8e4ad0-e54a-4c77-94c1-09f70c16e127",
+        "date_posted": 1794273212,
+        "company_url": "",
+        "is_visible": true
     }
 ]
