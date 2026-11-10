@@ -33291,13 +33291,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794253384,
+        "date_updated": 1794338063,
         "url": "https://go.vansh.nyc/1p4",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Adobe",
         "title": "New Grad 2027: Data Engineer",
         "source": "vanshb03",
@@ -33404,13 +33404,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794268046,
+        "date_updated": 1794338063,
         "url": "https://go.vansh.nyc/1pB",
         "locations": [
             "Sunnyvale, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Intuitive Surgical",
         "title": "Planning Analyst",
         "source": "vanshb03",
@@ -33807,6 +33807,22 @@
         "source": "vanshb03",
         "id": "2586dd53-a222-4fe1-b393-a49fa13cd530",
         "date_posted": 1794211492,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794338038,
+        "url": "https://go.vansh.nyc/1rV",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Aerospace",
+        "title": "Software Engineer I, Web Applications",
+        "source": "vanshb03",
+        "id": "d1264e12-75b7-465f-83d4-c7a6ab6cb5ae",
+        "date_posted": 1794337870,
         "company_url": "",
         "is_visible": true
     }
