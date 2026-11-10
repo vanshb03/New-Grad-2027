@@ -41,6 +41,13 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **SambaNova** | New Grad: Cloud Platform Engineer | Austin, TX</br>San Jose, CA | <a href="https://go.vansh.nyc/1qj?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
+| **SambaNova** | New Grad: Compiler Engineer | Austin, TX</br>San Jose, CA | <a href="https://go.vansh.nyc/1qk?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
+| **SambaNova** | New Grad: Design Verification Engineer | San Jose, CA | <a href="https://go.vansh.nyc/1ql?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
+| **SambaNova** | New Grad: Machine Learning Engineer | Austin, TX</br>San Jose, CA | <a href="https://go.vansh.nyc/1qm?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
+| **SambaNova** | New Grad: ML Infrastructure Engineer | Austin, TX</br>San Jose, CA | <a href="https://go.vansh.nyc/1qn?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
+| **SambaNova** | New Grad: Physical Design Engineer | San Jose, CA | <a href="https://go.vansh.nyc/1qo?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
+| **SambaNova** | New Grad: Runtime Engineer | Austin, TX</br>San Jose, CA | <a href="https://go.vansh.nyc/1qp?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | **Eagle Wireless** | Junior Integration Developer - NetSuite | Solon, OH | <a href="https://go.vansh.nyc/1qd?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | **Domino** | New Grad 2027: Software Engineer | New York, NY | <a href="https://go.vansh.nyc/1q7?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | **Cursor** | New Grad 2027: Software Engineer | San Francisco, CA | <a href="https://go.vansh.nyc/1qa?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
