@@ -22703,13 +22703,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793023324,
+        "date_updated": 1794329343,
         "url": "https://go.vansh.nyc/Lm",
         "locations": [
             "Durham, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "HPE",
         "title": "AI and Machine Learning Engineering",
         "source": "vanshb03",
@@ -33647,6 +33647,54 @@
         "source": "vanshb03",
         "id": "6b8fbe2a-ed26-4829-9110-745d3eb4c117",
         "date_posted": 1794309161,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794329325,
+        "url": "https://go.vansh.nyc/1rp",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Natoma",
+        "title": "New Grad: Software Engineer",
+        "source": "vanshb03",
+        "id": "4b10cd29-777b-498b-9f03-e36ff08bf591",
+        "date_posted": 1794329139,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794329325,
+        "url": "https://go.vansh.nyc/1rq",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Natoma",
+        "title": "New Grad: Software Engineer",
+        "source": "vanshb03",
+        "id": "0c33aecf-b636-4c8d-9db0-de6606af9f96",
+        "date_posted": 1794329139,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794329325,
+        "url": "https://go.vansh.nyc/1rr",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Coreintels",
+        "title": "New Grad: Data Analyst",
+        "source": "vanshb03",
+        "id": "0be02c1f-0076-4fa8-b368-9c1776534156",
+        "date_posted": 1794329139,
         "company_url": "",
         "is_visible": true
     }
