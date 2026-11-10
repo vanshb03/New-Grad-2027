@@ -33434,5 +33434,21 @@
         "date_posted": 1794265483,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794269640,
+        "url": "https://go.vansh.nyc/1pF",
+        "locations": [
+            "Seymour, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cummins",
+        "title": "Electronic Systems Engineer - Software",
+        "source": "vanshb03",
+        "id": "899566fc-b574-4491-98e9-e11a222f7467",
+        "date_posted": 1794267146,
+        "company_url": "",
+        "is_visible": true
     }
 ]
