@@ -33889,5 +33889,37 @@
         "date_posted": 1794344428,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794354385,
+        "url": "https://go.vansh.nyc/1sq",
+        "locations": [
+            "Novi, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Autodesk",
+        "title": "Software Engineer: AI & Fusion Engineering, Fusion Engineering",
+        "source": "vanshb03",
+        "id": "515071eb-9395-4455-a628-5859402b47c4",
+        "date_posted": 1794268800,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794354385,
+        "url": "https://go.vansh.nyc/1sr",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Techstra Solutions",
+        "title": "AI Engineer (Master's)",
+        "source": "vanshb03",
+        "id": "3dfacba3-76a3-4b02-971d-eee15cf95c22",
+        "date_posted": 1794352898,
+        "company_url": "",
+        "is_visible": true
     }
 ]
