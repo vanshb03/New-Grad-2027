@@ -44,6 +44,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Zingage** | New Grad: Software Engineer | New York, NY | <a href="https://go.vansh.nyc/1rE?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | **Xperteez Technology** | New Grad: Software Engineer | Remote | <a href="https://go.vansh.nyc/1rD?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | **Wellmark** | Data Science Associate - FEP | Des Moines, IA | <a href="https://go.vansh.nyc/1rG?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
+| **Techstra Solutions** | AI Engineer (Master's) | Pittsburgh, PA | <a href="https://go.vansh.nyc/1sr?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | **SambaNova** | New Grad: Cloud Platform Engineer | Austin, TX</br>San Jose, CA | <a href="https://go.vansh.nyc/1qj?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | **SambaNova** | New Grad: Compiler Engineer | Austin, TX</br>San Jose, CA | <a href="https://go.vansh.nyc/1qk?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | **SambaNova** | New Grad: Design Verification Engineer | San Jose, CA | <a href="https://go.vansh.nyc/1ql?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
@@ -59,6 +60,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Cursor** | New Grad 2027: Software Engineer | San Francisco, CA | <a href="https://go.vansh.nyc/1qa?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | **Cummins** | Electronic Systems Engineer - Software | Columbus, IN | <a href="https://go.vansh.nyc/1rL?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | **Coreintels** | New Grad: Data Analyst | Remote | <a href="https://go.vansh.nyc/1rr?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
+| **Autodesk** | Software Engineer: AI & Fusion Engineering, Fusion Engineering | Novi, MI | <a href="https://go.vansh.nyc/1sq?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | **Anduril** | New Grad 2027: Information Security Engineer | Costa Mesa, CA | <a href="https://go.vansh.nyc/1s4?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | **Aerospace** | Software Engineer I, Web Applications 🇺🇸 | Phoenix, AZ | <a href="https://go.vansh.nyc/1rV?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | **Abacus Insights** | Associate Data Engineer | Remote | <a href="https://go.vansh.nyc/1s0?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
