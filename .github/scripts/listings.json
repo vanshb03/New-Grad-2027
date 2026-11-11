@@ -34561,5 +34561,21 @@
         "date_posted": 1794402128,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794406590,
+        "url": "https://go.vansh.nyc/1uB",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Manhattan Associates",
+        "title": "New Grad 2027: Technology Consultant",
+        "source": "vanshb03",
+        "id": "b5e410d4-385b-4d23-b233-0a1035cc57d6",
+        "date_posted": 1794355200,
+        "company_url": "",
+        "is_visible": true
     }
 ]
