@@ -135,7 +135,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Shield** | New Grad: Engineer I, Software, Factory Team 🇺🇸 | Washington, DC | <a href="https://go.vansh.nyc/1ge?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | **Rolls-Royce** | New Grad 2027: Integrated Control Systems Engineer - Software | Indianapolis, IN | <a href="https://go.vansh.nyc/1hE?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | **Nuance Labs** | New Grad: Member of Technical Staff — Model Optimization and Inference | Seattle, WA | <a href="https://go.vansh.nyc/1g7?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
-| **Northrop Grumman** | Electrical Engineer - Digital Hardware Design (Master's) 🇺🇸 | Dulles, VA | <a href="https://go.vansh.nyc/1hF?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | **Nooks** | Software Engineer | Seattle, WA</br>San Francisco, CA | <a href="https://go.vansh.nyc/1g9?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | **Microchip Technology** | Engineer 1 - Design | Hauppauge, NY | <a href="https://go.vansh.nyc/1hC?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | **M&T Bank** | New Grad 2027: Technology Development Program - Cybersecurity (Encryption Services) | Buffalo, NY | <a href="https://go.vansh.nyc/1j5?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
@@ -842,6 +841,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Early Warning** | Software Engineer - Java - Paze | Scottsdale, AZ</br>Chicago, IL</br>San Francisco, CA | 🔒 | Nov 05 |
 | **Booz Allen Hamilton** | New Grad 2027: Software Developer 🇺🇸 | McLean, VA | 🔒 | Nov 05 |
 | **Aerospace** | Operations Forecast Analyst 🇺🇸 | Colorado Springs, CO</br>Chantilly, VA</br>El Segundo, CA | 🔒 | Nov 05 |
+| **Northrop Grumman** | Electrical Engineer - Digital Hardware Design (Master's) 🇺🇸 | Dulles, VA | 🔒 | Nov 04 |
 | **Northrop Grumman** | Associate Software Embedded Engineer 🇺🇸 | Sykesville, MD | 🔒 | Nov 04 |
 | **L3Harris Technologies** | Associate, Software Engineer | Palm Bay, FL | 🔒 | Nov 04 |
 | **L3Harris Technologies** | Associate, Software Engineer | Palm Bay, FL | 🔒 | Nov 04 |
