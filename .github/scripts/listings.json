@@ -34791,5 +34791,69 @@
         "date_posted": 1794433239,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794440895,
+        "url": "https://go.vansh.nyc/1vE",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rubrik",
+        "title": "Software Engineer - Virtual Platform",
+        "source": "vanshb03",
+        "id": "5cee036f-0250-4d12-8148-a07ebafaa246",
+        "date_posted": 1794437669,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794440895,
+        "url": "https://go.vansh.nyc/1vF",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bask Health",
+        "title": "New Grad: Backend Engineer",
+        "source": "vanshb03",
+        "id": "71bb8b85-79c8-4fba-af9b-ff7cba137689",
+        "date_posted": 1794438467,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794440895,
+        "url": "https://go.vansh.nyc/1vG",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bask Health",
+        "title": "New Grad: Product Engineer",
+        "source": "vanshb03",
+        "id": "78ed57cf-a30c-4c3d-a60d-abd7e45a24b5",
+        "date_posted": 1794438467,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794440895,
+        "url": "https://go.vansh.nyc/1vH",
+        "locations": [
+            "Richland, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pacific Northwest National Laboratory",
+        "title": "Post-Bachelor Research Associate, Full Stack Product",
+        "source": "vanshb03",
+        "id": "b5c1090a-e429-4b0e-92af-4ba87a3bb612",
+        "date_posted": 1794424440,
+        "company_url": "",
+        "is_visible": true
     }
 ]
