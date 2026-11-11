@@ -34425,7 +34425,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794376563,
+        "date_updated": 1794409970,
         "url": "https://go.vansh.nyc/1uh",
         "locations": [
             "San Francisco, CA",
@@ -34437,7 +34437,7 @@
             "Indianapolis, IN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Salesforce",
         "title": "Software Engineering AMTS - College Grad",
         "source": "vanshb03",
@@ -34575,6 +34575,22 @@
         "source": "vanshb03",
         "id": "b5e410d4-385b-4d23-b233-0a1035cc57d6",
         "date_posted": 1794355200,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794409941,
+        "url": "https://go.vansh.nyc/1uE",
+        "locations": [
+            "Hudson, NH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "BAE Systems",
+        "title": "New Grad 2027: Software Engineer",
+        "source": "vanshb03",
+        "id": "d7ab433b-d2fa-4a34-945f-e9e9bfe9c19a",
+        "date_posted": 1794355879,
         "company_url": "",
         "is_visible": true
     }
