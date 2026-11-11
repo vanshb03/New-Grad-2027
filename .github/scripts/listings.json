@@ -32597,13 +32597,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793924449,
+        "date_updated": 1794424423,
         "url": "https://go.vansh.nyc/1jP",
         "locations": [
             "Dallas, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Salesforce",
         "title": "Systems Engineering Associate",
         "source": "vanshb03",
@@ -32888,13 +32888,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794009109,
+        "date_updated": 1794424423,
         "url": "https://go.vansh.nyc/1lM",
         "locations": [
             "Ottawa, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Ciena",
         "title": "New Grad: Embedded Security Software Developer",
         "source": "vanshb03",
@@ -34709,6 +34709,22 @@
         "source": "vanshb03",
         "id": "330134c9-da3c-43d9-a888-cd45d580dd4d",
         "date_posted": 1794314224,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794424402,
+        "url": "https://go.vansh.nyc/1v5",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Annapurna Labs (U.S.) Inc.",
+        "title": "Software Development Engineer I, Inference models optimization, AWS Neuron Inference",
+        "source": "vanshb03",
+        "id": "e002e73f-242d-4ec3-84a4-c33e05713ca5",
+        "date_posted": 1794337935,
         "company_url": "",
         "is_visible": true
     }
