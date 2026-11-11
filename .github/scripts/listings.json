@@ -34002,5 +34002,37 @@
         "date_posted": 1794361956,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794368836,
+        "url": "https://go.vansh.nyc/1sQ",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bask Health",
+        "title": "Product Builder",
+        "source": "vanshb03",
+        "id": "ec98a2cd-c9ae-4b8e-87c1-5ef133822d55",
+        "date_posted": 1794362780,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794368836,
+        "url": "https://go.vansh.nyc/1sR",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Software Engineer 1",
+        "source": "vanshb03",
+        "id": "b4bbb3fb-aaaf-46d0-9044-8dd9b99cd72b",
+        "date_posted": 1794268800,
+        "company_url": "",
+        "is_visible": true
     }
 ]
