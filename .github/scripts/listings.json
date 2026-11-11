@@ -34727,5 +34727,37 @@
         "date_posted": 1794337935,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794426199,
+        "url": "https://go.vansh.nyc/1v7",
+        "locations": [
+            "Kansas City, MO"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Spring Venture Group",
+        "title": "DevOps Engineer I",
+        "source": "vanshb03",
+        "id": "264daf37-a6f2-49f4-901f-7981d2d9c44a",
+        "date_posted": 1794426046,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794426199,
+        "url": "https://go.vansh.nyc/1v8",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Western Digital",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "9a8defc0-b26b-42ec-9116-695ab2078099",
+        "date_posted": 1794426046,
+        "company_url": "",
+        "is_visible": true
     }
 ]
