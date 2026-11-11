@@ -34034,5 +34034,516 @@
         "date_posted": 1794268800,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794376563,
+        "url": "https://go.vansh.nyc/1tT",
+        "locations": [
+            "Markham, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qualcomm",
+        "title": "New Grad: Machine Learning Engineer - AI Processors",
+        "source": "vanshb03",
+        "id": "287a67cd-702e-438b-96af-d1f1d5479ac3",
+        "date_posted": 1789776000,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794376563,
+        "url": "https://go.vansh.nyc/1tU",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "LSEG",
+        "title": "New Grad 2027: Engineering Graduate Programme",
+        "source": "vanshb03",
+        "id": "76918a87-1395-496d-b2e8-58c0b3cdebe2",
+        "date_posted": 1789344000,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794376563,
+        "url": "https://go.vansh.nyc/1tV",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cerebras",
+        "title": "Software Engineer - Kernel Reliability",
+        "source": "vanshb03",
+        "id": "ec55137f-cb90-4e75-a4be-f27d838cc457",
+        "date_posted": 1789511063,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794376563,
+        "url": "https://go.vansh.nyc/1tW",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Atlassian",
+        "title": "New Grad 2027: Machine Learning Engineer",
+        "source": "vanshb03",
+        "id": "d3195154-5022-470e-8081-96f5fd0c2f0c",
+        "date_posted": 1790287661,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794376563,
+        "url": "https://go.vansh.nyc/1tX",
+        "locations": [
+            "McLean, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Infinitive",
+        "title": "Technology Consultant",
+        "source": "vanshb03",
+        "id": "df65d46c-9a4e-4cb4-9cd0-88293f08d27c",
+        "date_posted": 1790720521,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794376563,
+        "url": "https://go.vansh.nyc/1tY",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Atlassian",
+        "title": "New Grad 2027: Data Scientist (Master's)",
+        "source": "vanshb03",
+        "id": "51868e25-f80c-4f5c-8cd8-87139a5a63f0",
+        "date_posted": 1790806007,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794376563,
+        "url": "https://go.vansh.nyc/1tZ",
+        "locations": [
+            "Palo Alto, CA",
+            "Seattle, WA",
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pinterest",
+        "title": "Master's University Graduate Data Scientist",
+        "source": "vanshb03",
+        "id": "514a4a0b-82b9-4087-bfa5-c165250312d2",
+        "date_posted": 1790893159,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794376563,
+        "url": "https://go.vansh.nyc/1u0",
+        "locations": [
+            "San Francisco, CA",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pinterest",
+        "title": "University Grad Software Engineer",
+        "source": "vanshb03",
+        "id": "afe0d7f5-3dc9-4655-a418-61ec24f91623",
+        "date_posted": 1790893159,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794376563,
+        "url": "https://go.vansh.nyc/1u1",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nutanix",
+        "title": "New Grad: Software Engineer (Master's)",
+        "source": "vanshb03",
+        "id": "4ff1b92a-bb6f-445e-ab5f-442fc363db18",
+        "date_posted": 1790374523,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794376563,
+        "url": "https://go.vansh.nyc/1u2",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Atlassian",
+        "title": "New Grad 2027: Data Engineer",
+        "source": "vanshb03",
+        "id": "9705d9df-f46a-437f-948b-bd11b916e99e",
+        "date_posted": 1791237839,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794376563,
+        "url": "https://go.vansh.nyc/1u3",
+        "locations": [
+            "Grand Rapids, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GE Aerospace",
+        "title": "Entry Level FPGA Design/Verification Engineer",
+        "source": "vanshb03",
+        "id": "7bb43a06-33c8-4842-afeb-7c96a6f7bc8d",
+        "date_posted": 1791504000,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794376563,
+        "url": "https://go.vansh.nyc/1u4",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Planview",
+        "title": "Software Engineer 1",
+        "source": "vanshb03",
+        "id": "0dd5a692-8e1b-4e38-acb8-d6cd9f41cc64",
+        "date_posted": 1792188717,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794376563,
+        "url": "https://go.vansh.nyc/1u5",
+        "locations": [
+            "Carlsbad, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "L3Harris Technologies",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "b8a27933-0de9-4303-bd7f-a202fa8d85ba",
+        "date_posted": 1792449178,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794376563,
+        "url": "https://go.vansh.nyc/1u6",
+        "locations": [
+            "Tysons, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "C3.ai",
+        "title": "New Grad: Forward Deployed Engineer - Federal",
+        "source": "vanshb03",
+        "id": "e0b3398c-dc37-47c8-bd14-d014354fd89c",
+        "date_posted": 1792448909,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794376563,
+        "url": "https://go.vansh.nyc/1u7",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Viggle AI",
+        "title": "New Grad: Full-Stack Software Engineer - AI & 3D Creator Tools",
+        "source": "vanshb03",
+        "id": "e4aaa049-8fee-46a8-9e19-e444c2039788",
+        "date_posted": 1789516800,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794376563,
+        "url": "https://go.vansh.nyc/1u8",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Fiserv",
+        "title": "Android Application Framework Developer - Device Engineering",
+        "source": "vanshb03",
+        "id": "5fbc5dc7-ffb7-419b-b496-a162273184fe",
+        "date_posted": 1791849600,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794376563,
+        "url": "https://go.vansh.nyc/1u9",
+        "locations": [
+            "Norwalk, CT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Oxbridge Health",
+        "title": "AI Engineer",
+        "source": "vanshb03",
+        "id": "b3e22521-7a07-4875-9c4c-465b7a0e1c19",
+        "date_posted": 1793196673,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794376563,
+        "url": "https://go.vansh.nyc/1ua",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Capital de Recherche Tower",
+        "title": "New Grad: C++ Software Developer",
+        "source": "vanshb03",
+        "id": "408db90a-5691-4570-85bd-fc3ded65fc35",
+        "date_posted": 1789480714,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794376563,
+        "url": "https://go.vansh.nyc/1ub",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Fuku",
+        "title": "Software Engineer / Member of Technical Staff",
+        "source": "vanshb03",
+        "id": "2f51b115-5c17-4baf-9b6c-12ebe60c9eaf",
+        "date_posted": 1793313786,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794376563,
+        "url": "https://go.vansh.nyc/1uc",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Raydar",
+        "title": "Member of Technical Staff - Product",
+        "source": "vanshb03",
+        "id": "e4e4ec5e-9b0b-4af2-8e49-c3fd166ff657",
+        "date_posted": 1793312992,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794376563,
+        "url": "https://go.vansh.nyc/1ud",
+        "locations": [
+            "Markham, Canada",
+            "Ottawa, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AMD",
+        "title": "Silicon Design Engineer",
+        "source": "vanshb03",
+        "id": "ab799ed9-1161-4c88-b3ea-49108ed4894a",
+        "date_posted": 1790604795,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794376563,
+        "url": "https://go.vansh.nyc/1ue",
+        "locations": [
+            "Etobicoke, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Wonderbrands",
+        "title": "New Grad: Fullstack Software Developer",
+        "source": "vanshb03",
+        "id": "bc47a9f1-633f-4314-85a1-6e6ab3942ea4",
+        "date_posted": 1792368000,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794376563,
+        "url": "https://go.vansh.nyc/1uf",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Didero",
+        "title": "Forward Deployed Engineer",
+        "source": "vanshb03",
+        "id": "93b7d8dd-10c5-4df5-baa4-3ca0f2d9cd39",
+        "date_posted": 1793059200,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794376563,
+        "url": "https://go.vansh.nyc/1ug",
+        "locations": [
+            "Alexandria, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Kearney and Co.",
+        "title": "Data Analyst",
+        "source": "vanshb03",
+        "id": "d2d25928-0257-40fe-8ca8-1397cbee6a7b",
+        "date_posted": 1790109660,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794376563,
+        "url": "https://go.vansh.nyc/1uh",
+        "locations": [
+            "San Francisco, CA",
+            "Palo Alto, CA",
+            "New York, NY",
+            "Seattle, WA",
+            "Bellevue, WA",
+            "Dallas, TX",
+            "Indianapolis, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Salesforce",
+        "title": "Software Engineering AMTS - College Grad",
+        "source": "vanshb03",
+        "id": "d6b591cf-1a50-458a-80e5-1e58d1cb2152",
+        "date_posted": 1790315194,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794376563,
+        "url": "https://go.vansh.nyc/1ui",
+        "locations": [
+            "Washington, DC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Shield AI",
+        "title": "New Grad: Software Test and Automation Engineer",
+        "source": "vanshb03",
+        "id": "e4227e0c-249e-487a-b33b-ebc487dacb0d",
+        "date_posted": 1791697594,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794376563,
+        "url": "https://go.vansh.nyc/1uj",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "rubrik",
+        "title": "Software Engineer - Product Platform Security",
+        "source": "vanshb03",
+        "id": "a9495bea-dcd3-4f1b-91cf-a222bba6e5a7",
+        "date_posted": 1791351994,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794376563,
+        "url": "https://go.vansh.nyc/1uk",
+        "locations": [
+            "San Francisco, CA",
+            "Palo Alto, CA",
+            "Seattle, WA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pinterest",
+        "title": "New Grad 2027: Machine Learning Engineer (Master's)",
+        "source": "vanshb03",
+        "id": "4cb64d36-6aa5-4a50-b5a6-f1b426cc42e7",
+        "date_posted": 1790874043,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794376563,
+        "url": "https://go.vansh.nyc/1ul",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nuro",
+        "title": "New Grad: Software Engineer, AI Platform",
+        "source": "vanshb03",
+        "id": "be26e98c-02ea-4a1f-8540-f700e27803d3",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794376563,
+        "url": "https://go.vansh.nyc/1um",
+        "locations": [
+            "Lake Forest, CA",
+            "Scottsdale, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AVEVA",
+        "title": "New Grad 2027: Cloud Operations & Infrastructure Graduate",
+        "source": "vanshb03",
+        "id": "3999eafc-fcc0-4d82-ab2e-1a765d8eeff9",
+        "date_posted": 1791849600,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794376563,
+        "url": "https://go.vansh.nyc/1un",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Astera Labs",
+        "title": "New Grad: Data Analyst",
+        "source": "vanshb03",
+        "id": "dd775018-5fa2-4878-8b4c-a0a066dab77b",
+        "date_posted": 1791267443,
+        "company_url": "",
+        "is_visible": true
     }
 ]
