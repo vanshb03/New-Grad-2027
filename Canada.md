@@ -46,7 +46,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | --- | --- | --- | :---: | :---: |
 | **Valsoft** | AI Engineer 1 | Montreal, Canada | <a href="https://go.vansh.nyc/1lL?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | **Fortinet** | Technical Content DevOps Developer | Burnaby, Canada | <a href="https://go.vansh.nyc/1lB?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
-| **Ciena** | New Grad: Software Design/Engineer | Ottawa, Canada | <a href="https://go.vansh.nyc/1iK?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | **Lyft** | Software Engineer, Backend | Toronto, Canada | <a href="https://go.vansh.nyc/1h1?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | **Infoblox** | Associate Software Engineer | Burnaby, Canada | <a href="https://go.vansh.nyc/1gv?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | **Nexthop.ai** | New Grad 2027: Software Engineer | Burnaby, Canada | <a href="https://go.vansh.nyc/1f6?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
@@ -84,7 +83,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Capital de Recherche Tower** | New Grad: C++ Software Developer | Montreal, Canada | <a href="https://go.vansh.nyc/1ua?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | **General Dynamics Mission Systems** | Junior Hardware Engineering Developer, FPGA | Ottawa, Canada | <a href="https://go.vansh.nyc/Oa?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 04 |
 | **General Dynamics UK** | Junior Hardware Engineer Developer, FPGA | Ottawa, Canada | <a href="https://go.vansh.nyc/NN?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
-| **Zip** | New Grad 2027: Software Engineer | Toronto, Canada | <a href="https://go.vansh.nyc/Np?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
 | **Cerebras** | DevOps Engineer | Toronto, Canada | <a href="https://go.vansh.nyc/OU?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
 | **Ciena** | Embedded Software Engineer | Ottawa, Canada | <a href="https://go.vansh.nyc/Pi?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 24 |
 | **Quadient** | Software Engineer | Vancouver, Canada | <a href="https://go.vansh.nyc/vj?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
@@ -96,6 +94,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Blackberry** | Systems Software Developer, Sensor Framework | Ottawa, Canada | 🔒 | Nov 11 |
 | **Sur La Table** | Junior Software Engineer | Toronto, Canada</br>Remote | 🔒 | Nov 09 |
 | **Ciena** | New Grad: Embedded Security Software Developer | Ottawa, Canada | 🔒 | Nov 06 |
+| **Ciena** | New Grad: Software Design/Engineer | Ottawa, Canada | 🔒 | Nov 05 |
 | **Capital Automotive Group** | AI & Data Systems Specialist | Regina, Canada | 🔒 | Nov 05 |
 | **Capgemini** | Associate Application Consultant | Mississauga, Canada | 🔒 | Nov 03 |
 | **Genesys** | Associate Software Developer in Test | Toronto, Canada | 🔒 | Oct 30 |
@@ -109,6 +108,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **AMD** | Software System Designer | Markham, Canada | 🔒 | Sep 28 |
 | **AMD** | Silicon Design Engineer | Markham, Canada | 🔒 | Sep 28 |
 | **Tower Research Capital** | C++ Software Developer, Rotational Program | Montreal, Canada | 🔒 | Sep 15 |
+| **Zip** | New Grad 2027: Software Engineer | Toronto, Canada | 🔒 | Sep 01 |
 | **Cohere** | Member of Technical Staff, MLE | <details><summary>**5 locations**</summary>San Francisco, CA</br>New York, NY</br>Toronto, Canada</br>Montreal, Canada</br>Remote</details> | 🔒 | Jan 09 |
 | **Magical** | New Grad: Junior Software Engineer, AI | San Francisco, CA</br>Toronto, Canada | 🔒 | Dec 12 |
 | **Wanderlog** | Full-Stack Software Engineer 🇺🇸 | Toronto, Canada</br>Remote | 🔒 | Dec 09 |

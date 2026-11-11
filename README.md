@@ -155,7 +155,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **General Motors** | Software Systems Engineer, Data Labeling Engineering | Sunnyvale, CA | <a href="https://go.vansh.nyc/1h6?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | **endeavorai.com** | New Grad 2027: Forward Deployed Engineer | Chicago, IL | <a href="https://go.vansh.nyc/1fT?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | **CCT** | Technical Consultant 🛂 | Tulsa, OK | <a href="https://go.vansh.nyc/1fP?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
-| **Analog Devices** | Field Robotics Systems Engineer | Wilmington, MA | <a href="https://go.vansh.nyc/1gC?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | **Vantive** | Embedded Software Engineer | Plymouth, MN | <a href="https://go.vansh.nyc/1h0?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | **TRM Labs** | New Grad 2027: Product Engineer | Los Angeles, CA | <a href="https://go.vansh.nyc/1fv?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | **Strada** | New Grad: Software Engineer | San Francisco, CA | <a href="https://go.vansh.nyc/1f7?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
@@ -875,6 +874,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **L3Harris Technologies** | Associate, Software Engineer | Palm Bay, FL | 🔒 | Nov 04 |
 | **Keenfinity** | Associate DevOps Software Engineer | Fairport, NY | 🔒 | Nov 04 |
 | **Frontgrade** | Software Engineer I | Colorado Springs, CO | 🔒 | Nov 04 |
+| **Analog Devices** | Field Robotics Systems Engineer | Wilmington, MA | 🔒 | Nov 04 |
 | **Abbott** | Software Test Engineer | Pleasanton, CA | 🔒 | Nov 04 |
 | **RTX** | New Grad 2027: Leadership Development Program - Engineering - Software Discipline 🇺🇸 | Arlington, VA | 🔒 | Nov 03 |
 | **Paperless Parts** | Platform Engineer | Boston, MA | 🔒 | Nov 03 |
