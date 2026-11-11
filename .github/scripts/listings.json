@@ -31388,13 +31388,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793731654,
+        "date_updated": 1794384941,
         "url": "https://go.vansh.nyc/1dU",
         "locations": [
             "Milpitas, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "KLA",
         "title": "Software Engineer (Master's)",
         "source": "vanshb03",
@@ -31740,14 +31740,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793772823,
+        "date_updated": 1794384941,
         "url": "https://go.vansh.nyc/1g6",
         "locations": [
             "San Diego, CA",
             "Washington, DC"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Shield AI",
         "title": "New Grad: Engineer II, Simulation Framework (Master's)",
         "source": "vanshb03",
@@ -32110,13 +32110,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793844930,
+        "date_updated": 1794384941,
         "url": "https://go.vansh.nyc/1hs",
         "locations": [
             "Tarzana, LA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "AstraZeneca",
         "title": "Digital Automation Engineer, Cell Therapy",
         "source": "vanshb03",
@@ -34280,13 +34280,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794376563,
+        "date_updated": 1794384941,
         "url": "https://go.vansh.nyc/1u8",
         "locations": [
             "Sunnyvale, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Fiserv",
         "title": "Android Application Framework Developer - Device Engineering",
         "source": "vanshb03",
@@ -34447,13 +34447,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794376563,
+        "date_updated": 1794384941,
         "url": "https://go.vansh.nyc/1ui",
         "locations": [
             "Washington, DC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Shield AI",
         "title": "New Grad: Software Test and Automation Engineer",
         "source": "vanshb03",
