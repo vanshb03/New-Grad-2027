@@ -43,6 +43,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | --- | --- | --- | :---: | :---: |
 | **Johns Hopkins APL** | New Grad 2027: Algorithm Development Engineer | Laurel, MD | <a href="https://go.vansh.nyc/1sJ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | **Intel** | New Grad 2027: Junior CPU Verification Engineer | Austin, TX</br>Hillsboro, OR | <a href="https://go.vansh.nyc/1sO?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
+| **GlobalFoundries** | New Grad 2027: AI Processor Hardware/Software Integration Engineer | Richardson, TX | <a href="https://go.vansh.nyc/1uA?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | **Bask Health** | Product Builder | Remote | <a href="https://go.vansh.nyc/1sQ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | **Amazon** | New Grad 2027: Software Development Engineer, Amazon Dedicated Cloud 🇺🇸 | Seattle, WA | <a href="https://go.vansh.nyc/1sv?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | **Zingage** | New Grad: Software Engineer | New York, NY | <a href="https://go.vansh.nyc/1rE?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
