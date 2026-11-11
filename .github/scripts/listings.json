@@ -33923,13 +33923,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794355916,
+        "date_updated": 1794427995,
         "url": "https://go.vansh.nyc/1st",
         "locations": [
             "Ann Arbor, MI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "KLA",
         "title": "Business Intelligence Analyst (Master's)",
         "source": "vanshb03",
