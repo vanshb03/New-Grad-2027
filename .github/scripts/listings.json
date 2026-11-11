@@ -24367,7 +24367,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793027000,
+        "date_updated": 1794359671,
         "url": "https://go.vansh.nyc/Pt",
         "locations": [
             "Honolulu, HI",
@@ -24383,7 +24383,7 @@
             "El Segundo, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Booz Allen",
         "title": "New Grad 2027: Data Scientist",
         "source": "vanshb03",
@@ -33967,6 +33967,22 @@
         "source": "vanshb03",
         "id": "c4d7ab6c-a1c8-427a-9a75-340e78062307",
         "date_posted": 1794355773,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794359648,
+        "url": "https://go.vansh.nyc/1sJ",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Johns Hopkins APL",
+        "title": "New Grad 2027: Algorithm Development Engineer",
+        "source": "vanshb03",
+        "id": "614da85c-21d6-465b-a8b1-e0a458fc6d90",
+        "date_posted": 1794359472,
         "company_url": "",
         "is_visible": true
     }
