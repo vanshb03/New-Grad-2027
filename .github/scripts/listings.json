@@ -22037,13 +22037,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793023323,
+        "date_updated": 1794420716,
         "url": "https://go.vansh.nyc/KI",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "BlackEdge Capital",
         "title": "New Grad 2027: Quantitative Researcher",
         "source": "vanshb03",
