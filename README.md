@@ -71,7 +71,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **RTX** | Software Engineer 1 🇺🇸 | Richardson, TX | <a href="https://go.vansh.nyc/1sR?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | **Natoma** | New Grad: Software Engineer | Boston, MA | <a href="https://go.vansh.nyc/1rp?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | **Natoma** | New Grad: Software Engineer | Boston, MA | <a href="https://go.vansh.nyc/1rq?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
-| **KLA** | Business Intelligence Analyst (Master's) | Ann Arbor, MI | <a href="https://go.vansh.nyc/1st?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | **Gournay Consulting** | Systems Engineer I | New Hope, PA | <a href="https://go.vansh.nyc/1uS?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | **Eagle Wireless** | Junior Integration Developer - NetSuite | Solon, OH | <a href="https://go.vansh.nyc/1qd?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | **Domino** | New Grad 2027: Software Engineer | New York, NY | <a href="https://go.vansh.nyc/1q7?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
@@ -849,6 +848,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Softheon** | Software Engineer I - Membership | Remote</br>United States | <a href="https://go.vansh.nyc/iG?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 12 |
 | **Tesla** | Software Engineer, Traction Control & Stability | Palo Alto, CA | <a href="https://go.vansh.nyc/ig?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 05 |
 | **Qualcomm** | Embedded DSP Software Engineer | San Diego, CA | <a href="https://go.vansh.nyc/i2?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 31 |
+| **KLA** | Business Intelligence Analyst (Master's) | Ann Arbor, MI | 🔒 | Nov 10 |
 | **Autodesk** | Software Engineer: AI & Fusion Engineering, Fusion Engineering | Novi, MI | 🔒 | Nov 10 |
 | **L3Harris Technologies** | Associate, Software Engineering | Anaheim, CA | 🔒 | Nov 09 |
 | **Intuitive Surgical** | Planning Analyst | Sunnyvale, CA | 🔒 | Nov 09 |
