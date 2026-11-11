@@ -41,7 +41,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Western Digital** | Software Engineer | San Jose, CA | <a href="https://go.vansh.nyc/1v8?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | **Symbotic** | New Grad: Robotics Software Engineer | Wilmington, MA | <a href="https://go.vansh.nyc/1uP?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
+| **Spring Venture Group** | DevOps Engineer I 🇺🇸 | Kansas City, MO | <a href="https://go.vansh.nyc/1v7?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | **Salesforce** | New Grad: Software Engineering AMTS | <details><summary>**7 locations**</summary>Palo Alto, CA</br>Seattle, WA</br>Indianapolis, IN</br>San Francisco, CA</br>Dallas, TX</br>New York, NY</br>Bellevue, WA</details> | <a href="https://go.vansh.nyc/1uI?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | **RTX** | Software Engineer I | Cedar Rapids, IA | <a href="https://go.vansh.nyc/1uL?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | **RTX** | Software Engineer I 🇺🇸 | Ft Wayne, IN | <a href="https://go.vansh.nyc/1uF?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
