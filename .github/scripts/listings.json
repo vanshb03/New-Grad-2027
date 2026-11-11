@@ -17730,13 +17730,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1771170016,
+        "date_updated": 1794436981,
         "url": "https://go.vansh.nyc/zz",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Amazon",
         "title": "Software Development Engineer",
         "source": "vanshb03",
