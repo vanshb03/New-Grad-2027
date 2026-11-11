@@ -19023,14 +19023,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1792698816,
+        "date_updated": 1794417151,
         "url": "https://go.vansh.nyc/AQ",
         "locations": [
             "Santa Clara, CA",
             "Richardson, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "GlobalFoundries",
         "title": "New Grad 2027: AI Software Engineer",
         "source": "vanshb03",
@@ -21102,14 +21102,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793018234,
+        "date_updated": 1794417151,
         "url": "https://go.vansh.nyc/I2",
         "locations": [
             "Austin, TX",
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "GlobalFoundries",
         "title": "New Grad 2027: Software Engineer",
         "source": "vanshb03",
@@ -33891,13 +33891,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794354385,
+        "date_updated": 1794417151,
         "url": "https://go.vansh.nyc/1sq",
         "locations": [
             "Novi, MI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Autodesk",
         "title": "Software Engineer: AI & Fusion Engineering, Fusion Engineering",
         "source": "vanshb03",
@@ -34633,13 +34633,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794413866,
+        "date_updated": 1794417151,
         "url": "https://go.vansh.nyc/1uJ",
         "locations": [
             "Ottawa, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Blackberry",
         "title": "Systems Software Developer, Sensor Framework",
         "source": "vanshb03",
@@ -34677,6 +34677,22 @@
         "source": "vanshb03",
         "id": "c8316886-10ef-4ff8-a0bb-6eb99ed17bbf",
         "date_posted": 1794413487,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794417131,
+        "url": "https://go.vansh.nyc/1uP",
+        "locations": [
+            "Wilmington, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Symbotic",
+        "title": "New Grad: Robotics Software Engineer",
+        "source": "vanshb03",
+        "id": "96035d05-03e8-447e-9a04-d5d178737803",
+        "date_posted": 1794416651,
         "company_url": "",
         "is_visible": true
     }
