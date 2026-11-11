@@ -34593,5 +34593,21 @@
         "date_posted": 1794355879,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794411475,
+        "url": "https://go.vansh.nyc/1uF",
+        "locations": [
+            "Ft Wayne, IN"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Software Engineer I",
+        "source": "vanshb03",
+        "id": "ff7873c8-dcc8-4bbf-ac84-f574d92d2e1a",
+        "date_posted": 1794409386,
+        "company_url": "",
+        "is_visible": true
     }
 ]
