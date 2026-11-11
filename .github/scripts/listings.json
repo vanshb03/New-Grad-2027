@@ -33921,5 +33921,53 @@
         "date_posted": 1794352898,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794355916,
+        "url": "https://go.vansh.nyc/1st",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KLA",
+        "title": "Business Intelligence Analyst (Master's)",
+        "source": "vanshb03",
+        "id": "c49f6d18-ff12-4218-a331-c968c1f39ffa",
+        "date_posted": 1794268800,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794355916,
+        "url": "https://go.vansh.nyc/1su",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Wise",
+        "title": "New Grad 2027: Data Scientist",
+        "source": "vanshb03",
+        "id": "cf6019bf-adbe-4a03-9a0f-2b68d19fe04f",
+        "date_posted": 1794331435,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794355916,
+        "url": "https://go.vansh.nyc/1sv",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "New Grad 2027: Software Development Engineer, Amazon Dedicated Cloud",
+        "source": "vanshb03",
+        "id": "c4d7ab6c-a1c8-427a-9a75-340e78062307",
+        "date_posted": 1794355773,
+        "company_url": "",
+        "is_visible": true
     }
 ]
