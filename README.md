@@ -648,7 +648,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Johns Hopkins Applied Physics Laboratory** | New Grad 2027: Engineer/Analyst | Laurel, MD | <a href="https://go.vansh.nyc/KK?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 14 |
 | **C3.ai** | New Grad 2027: Forward Deployed Engineer | Redwood City, CA | <a href="https://go.vansh.nyc/KL?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 14 |
 | **C3.ai** | New Grad 2027: Platform Full-Stack Engineer | Redwood City, CA | <a href="https://go.vansh.nyc/KM?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 14 |
-| **BlackEdge Capital** | New Grad 2027: Quantitative Researcher | Chicago, IL | <a href="https://go.vansh.nyc/KI?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 14 |
 | **Applied Materials** | Logistics Automation | Santa Clara, CA | <a href="https://go.vansh.nyc/O5?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 14 |
 | **Kitware** | Software Developer | Clifton Park, NY | <a href="https://go.vansh.nyc/O4?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
 | **SpaceX** | New Grad 2027: Engineer, Security Software | Washington, DC | <a href="https://go.vansh.nyc/Nf?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
@@ -1044,6 +1043,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Aero** | New Grad 2027: RPO Software Developer/Analyst (Master's) 🇺🇸 | El Segundo, CA | 🔒 | Sep 15 |
 | **HPE** | AI and Machine Learning Engineering | Durham, NC | 🔒 | Sep 14 |
 | **CoStar Group** | New Grad 2027: Associate Security Engineer 🛂 | Richmond, VA | 🔒 | Sep 14 |
+| **BlackEdge Capital** | New Grad 2027: Quantitative Researcher | Chicago, IL | 🔒 | Sep 14 |
 | **L3Harris Technologies** | Software Engineer | Salt Lake City, UT | 🔒 | Sep 11 |
 | **L3Harris Technologies** | Software Engineer | Salt Lake City, UT | 🔒 | Sep 11 |
 | **General Dynamics Mission Systems** | New Grad 2027: Engineering Leadership Program Engineer (EE, SW, Firmware, Sys) 🇺🇸 | Bloomington, MN | 🔒 | Sep 09 |
