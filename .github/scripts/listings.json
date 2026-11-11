@@ -34759,5 +34759,37 @@
         "date_posted": 1794426046,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794433414,
+        "url": "https://go.vansh.nyc/1vk",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bask",
+        "title": "New Grad: Backend Engineer",
+        "source": "vanshb03",
+        "id": "5c3120be-1000-4564-b946-44523735e697",
+        "date_posted": 1794433239,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794433414,
+        "url": "https://go.vansh.nyc/1vl",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bask",
+        "title": "New Grad: Product Engineer",
+        "source": "vanshb03",
+        "id": "810254aa-40b4-4bcd-9909-4b89242f94c1",
+        "date_posted": 1794433239,
+        "company_url": "",
+        "is_visible": true
     }
 ]
