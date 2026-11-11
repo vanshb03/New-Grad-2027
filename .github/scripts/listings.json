@@ -31902,13 +31902,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793807145,
+        "date_updated": 1794431871,
         "url": "https://go.vansh.nyc/1gC",
         "locations": [
             "Wilmington, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Analog Devices",
         "title": "Field Robotics Systems Engineer",
         "source": "vanshb03",
@@ -32273,13 +32273,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793895602,
+        "date_updated": 1794431871,
         "url": "https://go.vansh.nyc/1iK",
         "locations": [
             "Ottawa, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Ciena",
         "title": "New Grad: Software Design/Engineer",
         "source": "vanshb03",
