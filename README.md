@@ -41,6 +41,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Manhattan Associates** | New Grad 2027: Technology Consultant | Atlanta, GA | <a href="https://go.vansh.nyc/1uB?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | **Johns Hopkins APL** | New Grad 2027: Algorithm Development Engineer | Laurel, MD | <a href="https://go.vansh.nyc/1sJ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | **Intel** | New Grad 2027: Junior CPU Verification Engineer | Austin, TX</br>Hillsboro, OR | <a href="https://go.vansh.nyc/1sO?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | **GlobalFoundries** | New Grad 2027: AI Processor Hardware/Software Integration Engineer | Richardson, TX | <a href="https://go.vansh.nyc/1uA?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
