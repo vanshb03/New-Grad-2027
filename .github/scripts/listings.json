@@ -34545,5 +34545,21 @@
         "date_posted": 1791267443,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794402711,
+        "url": "https://go.vansh.nyc/1uA",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GlobalFoundries",
+        "title": "New Grad 2027: AI Processor Hardware/Software Integration Engineer",
+        "source": "vanshb03",
+        "id": "9dd05eb0-5bac-4ad7-8926-f7142a79103a",
+        "date_posted": 1794402128,
+        "company_url": "",
+        "is_visible": true
     }
 ]
