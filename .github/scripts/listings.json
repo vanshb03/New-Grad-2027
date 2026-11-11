@@ -34609,5 +34609,75 @@
         "date_posted": 1794409386,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794413866,
+        "url": "https://go.vansh.nyc/1uI",
+        "locations": [
+            "Palo Alto, CA",
+            "Seattle, WA",
+            "Indianapolis, IN",
+            "San Francisco, CA",
+            "Dallas, TX",
+            "New York, NY",
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Salesforce",
+        "title": "New Grad: Software Engineering AMTS",
+        "source": "vanshb03",
+        "id": "040ae0b9-6d76-4faf-9fbb-83d3353f714f",
+        "date_posted": 1794355200,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794413866,
+        "url": "https://go.vansh.nyc/1uJ",
+        "locations": [
+            "Ottawa, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Blackberry",
+        "title": "Systems Software Developer, Sensor Framework",
+        "source": "vanshb03",
+        "id": "3bc1d3bc-16f8-40d2-9c84-4d39462c0ca4",
+        "date_posted": 1794355200,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794413866,
+        "url": "https://go.vansh.nyc/1uK",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Maven Securities",
+        "title": "Floor Trader",
+        "source": "vanshb03",
+        "id": "1e23baa9-c908-427b-85a8-ed5372ec6fc3",
+        "date_posted": 1794407916,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794413866,
+        "url": "https://go.vansh.nyc/1uL",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Software Engineer I",
+        "source": "vanshb03",
+        "id": "c8316886-10ef-4ff8-a0bb-6eb99ed17bbf",
+        "date_posted": 1794413487,
+        "company_url": "",
+        "is_visible": true
     }
 ]
