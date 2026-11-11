@@ -34695,5 +34695,21 @@
         "date_posted": 1794416651,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794422939,
+        "url": "https://go.vansh.nyc/1uS",
+        "locations": [
+            "New Hope, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Gournay Consulting",
+        "title": "Systems Engineer I",
+        "source": "vanshb03",
+        "id": "330134c9-da3c-43d9-a888-cd45d580dd4d",
+        "date_posted": 1794314224,
+        "company_url": "",
+        "is_visible": true
     }
 ]
