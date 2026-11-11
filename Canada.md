@@ -46,7 +46,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | --- | --- | --- | :---: | :---: |
 | **Valsoft** | AI Engineer 1 | Montreal, Canada | <a href="https://go.vansh.nyc/1lL?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | **Fortinet** | Technical Content DevOps Developer | Burnaby, Canada | <a href="https://go.vansh.nyc/1lB?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
-| **Ciena** | New Grad: Embedded Security Software Developer | Ottawa, Canada | <a href="https://go.vansh.nyc/1lM?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | **Ciena** | New Grad: Software Design/Engineer | Ottawa, Canada | <a href="https://go.vansh.nyc/1iK?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | **Lyft** | Software Engineer, Backend | Toronto, Canada | <a href="https://go.vansh.nyc/1h1?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | **Infoblox** | Associate Software Engineer | Burnaby, Canada | <a href="https://go.vansh.nyc/1gv?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
@@ -96,6 +95,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Oracle** | Software Developer - Rotational Program - NetSuite | Kitchiner, Canada | <a href="https://go.vansh.nyc/iR?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 19 |
 | **Blackberry** | Systems Software Developer, Sensor Framework | Ottawa, Canada | 🔒 | Nov 11 |
 | **Sur La Table** | Junior Software Engineer | Toronto, Canada</br>Remote | 🔒 | Nov 09 |
+| **Ciena** | New Grad: Embedded Security Software Developer | Ottawa, Canada | 🔒 | Nov 06 |
 | **Capital Automotive Group** | AI & Data Systems Specialist | Regina, Canada | 🔒 | Nov 05 |
 | **Capgemini** | Associate Application Consultant | Mississauga, Canada | 🔒 | Nov 03 |
 | **Genesys** | Associate Software Developer in Test | Toronto, Canada | 🔒 | Oct 30 |
