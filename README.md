@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Intel** | New Grad 2027: Junior CPU Verification Engineer | Austin, TX</br>Hillsboro, OR | <a href="https://go.vansh.nyc/1sO?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | **GlobalFoundries** | New Grad 2027: AI Processor Hardware/Software Integration Engineer | Richardson, TX | <a href="https://go.vansh.nyc/1uA?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | **Bask Health** | Product Builder | Remote | <a href="https://go.vansh.nyc/1sQ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
+| **BAE Systems** | New Grad 2027: Software Engineer | Hudson, NH | <a href="https://go.vansh.nyc/1uE?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | **Amazon** | New Grad 2027: Software Development Engineer, Amazon Dedicated Cloud 🇺🇸 | Seattle, WA | <a href="https://go.vansh.nyc/1sv?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | **Zingage** | New Grad: Software Engineer | New York, NY | <a href="https://go.vansh.nyc/1rE?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | **Xperteez Technology** | New Grad: Software Engineer | Remote | <a href="https://go.vansh.nyc/1rD?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
@@ -590,7 +591,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Fidelity Investments** | New Grad 2027: Leap Software Engineer | <details><summary>**4 locations**</summary>Westlake, TX</br>Boston, MA</br>Durham, NC</br>Merrimack, NH</details> | <a href="https://go.vansh.nyc/O7?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 27 |
 | **Snap Finance** | Software Engineer, Applied AI | West Valley City, UT | <a href="https://go.vansh.nyc/La?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | **Sim** | Forward Deployed Engineer | San Francisco, CA | <a href="https://go.vansh.nyc/L8?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
-| **Salesforce** | Software Engineering AMTS - College Grad | <details><summary>**7 locations**</summary>San Francisco, CA</br>Palo Alto, CA</br>New York, NY</br>Seattle, WA</br>Bellevue, WA</br>Dallas, TX</br>Indianapolis, IN</details> | <a href="https://go.vansh.nyc/1uh?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | **Johns Hopkins Applied Physics Laboratory** | New Grad 2027: Neural Engineer | Laurel, MD | <a href="https://go.vansh.nyc/L9?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | **Caesars Entertainment** | New Grad 2027: Data Analyst 1, Rotational Program | Las Vegas, NV | <a href="https://go.vansh.nyc/Lb?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | **KLA** | Software Engineer, Metrology Systems (Master's) | Milpitas, CA | <a href="https://go.vansh.nyc/Lk?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 24 |
@@ -1018,6 +1018,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **NVIDIA** | New Grad 2027: ASIC Design Engineer | Santa Clara, CA | 🔒 | Sep 28 |
 | **NVIDIA** | New Grad 2027: ASIC Verification Engineer, Memory Management | Durham, NC</br>Madison, AL</br>Hillsboro, OR | 🔒 | Sep 28 |
 | **NVIDIA** | New Grad 2027: ASIC Verification Engineer | Austin, TX</br>Santa Clara, CA | 🔒 | Sep 28 |
+| **Salesforce** | Software Engineering AMTS - College Grad | <details><summary>**7 locations**</summary>San Francisco, CA</br>Palo Alto, CA</br>New York, NY</br>Seattle, WA</br>Bellevue, WA</br>Dallas, TX</br>Indianapolis, IN</details> | 🔒 | Sep 25 |
 | **Lattice Semiconductor** | Junior Firmware Engineer | Duluth, GA | 🔒 | Sep 23 |
 | **Klaviyo** | New Grad 2027: AI Engineer 1 (Master's) | Boston, MA | 🔒 | Sep 23 |
 | **Honeywell** | Software Engineer 1 | Duluth, GA | 🔒 | Sep 23 |
