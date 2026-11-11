@@ -32174,13 +32174,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793848448,
+        "date_updated": 1794374110,
         "url": "https://go.vansh.nyc/1hF",
         "locations": [
             "Dulles, VA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Northrop Grumman",
         "title": "Electrical Engineer - Digital Hardware Design (Master's)",
         "source": "vanshb03",
