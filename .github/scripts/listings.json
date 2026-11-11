@@ -18758,13 +18758,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1792698816,
+        "date_updated": 1794363395,
         "url": "https://go.vansh.nyc/AA",
         "locations": [
             "Richardson, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "GlobalFoundries",
         "title": "New Grad 2027: AI/ML Systems Engineer",
         "source": "vanshb03",
@@ -33983,6 +33983,23 @@
         "source": "vanshb03",
         "id": "614da85c-21d6-465b-a8b1-e0a458fc6d90",
         "date_posted": 1794359472,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794363379,
+        "url": "https://go.vansh.nyc/1sO",
+        "locations": [
+            "Austin, TX",
+            "Hillsboro, OR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intel",
+        "title": "New Grad 2027: Junior CPU Verification Engineer",
+        "source": "vanshb03",
+        "id": "17c35689-9e2c-4b47-8f4d-cdccbd9d3d2c",
+        "date_posted": 1794361956,
         "company_url": "",
         "is_visible": true
     }
