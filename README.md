@@ -41,6 +41,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Zensar** | Software Engineer - AI Platform Development | San Jose, CA</br>Jersey City, NJ | <a href="https://go.vansh.nyc/1vM?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
+| **Zensar** | Software Engineer, AI Platform Development | San Jose, CA</br>Ann Arbor, MI | <a href="https://go.vansh.nyc/1vO?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
+| **Zensar** | Software Engineer, AI Platform Development | San Jose, CA | <a href="https://go.vansh.nyc/1vP?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | **Western Digital** | Software Engineer | San Jose, CA | <a href="https://go.vansh.nyc/1v8?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | **Symbotic** | New Grad: Robotics Software Engineer | Wilmington, MA | <a href="https://go.vansh.nyc/1uP?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | **Spring Venture Group** | DevOps Engineer I 🇺🇸 | Kansas City, MO | <a href="https://go.vansh.nyc/1v7?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
@@ -54,6 +57,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Johns Hopkins APL** | New Grad 2027: Algorithm Development Engineer | Laurel, MD | <a href="https://go.vansh.nyc/1sJ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | **Intel** | New Grad 2027: Junior CPU Verification Engineer | Austin, TX</br>Hillsboro, OR | <a href="https://go.vansh.nyc/1sO?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | **GlobalFoundries** | New Grad 2027: AI Processor Hardware/Software Integration Engineer | Richardson, TX | <a href="https://go.vansh.nyc/1uA?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
+| **Boeing** | Missions Systems Software Engineer, Embedded 🇺🇸 | Berkeley, MO | <a href="https://go.vansh.nyc/1vN?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | **Bask Health** | New Grad: Backend Engineer | Remote | <a href="https://go.vansh.nyc/1vF?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | **Bask Health** | New Grad: Product Engineer | Remote | <a href="https://go.vansh.nyc/1vG?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | **Bask Health** | Product Builder | Remote | <a href="https://go.vansh.nyc/1sQ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
@@ -127,7 +131,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Capgemini** | Associate Application Consultant | Philadelphia, PA | <a href="https://go.vansh.nyc/1lT?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | **BP** | New Grad 2027: Digital – Data & AI and Digital Engineering | Houston, TX | <a href="https://go.vansh.nyc/1lA?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | **ASM** | Software Engineer | Phoenix, AZ | <a href="https://go.vansh.nyc/1na?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
-| **Apple** | AI Operations, Applied AI Research and Design Developer | Cupertino, CA | <a href="https://go.vansh.nyc/1mi?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | **Amazon** | Software Development Engineer, SoC Hardware Abstraction Layer | Cupertino, CA | <a href="https://go.vansh.nyc/1k0?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | **Yusen Logistics** | IT Reporting Analyst 1, Reports & Labels | <details><summary>**4 locations**</summary>Sumner, WA</br>Greenfield, IN</br>Jacksonville, FL</br>Grapevine, TX</details> | <a href="https://go.vansh.nyc/1i1?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | **Susquehanna International Group** | Quantitative Sports Researcher (Master's) | Bala Cynwyd, PA | <a href="https://go.vansh.nyc/1hG?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
@@ -861,6 +864,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Salesforce** | Systems Engineering Associate | Dallas, TX | 🔒 | Nov 06 |
 | **Huntington Ingalls Industries** | Software Engineer 1 🇺🇸 | Newport News, VA | 🔒 | Nov 06 |
 | **Charles Schwab** | Associate Software Development & Engineering | Austin, TX</br>Southlake, TX | 🔒 | Nov 06 |
+| **Apple** | AI Operations, Applied AI Research and Design Developer | Cupertino, CA | 🔒 | Nov 06 |
 | **Wise** | New Grad 2027: Analyst | Austin, TX | 🔒 | Nov 05 |
 | **WGU** | Associate Software Engineer | Salt Lake City, UT | 🔒 | Nov 05 |
 | **RTX** | Infrastructure Engineer I 🇺🇸 | West Valley City, UT | 🔒 | Nov 05 |
