@@ -26427,13 +26427,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793113789,
+        "date_updated": 1794505458,
         "url": "https://go.vansh.nyc/VK",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CrossCountry Consulting",
         "title": "New Grad: Forward Deployed Software Engineer",
         "source": "vanshb03",
@@ -26443,13 +26443,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793113789,
+        "date_updated": 1794505458,
         "url": "https://go.vansh.nyc/VL",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CrossCountry Consulting",
         "title": "New Grad: Forward Deployed Software Engineer",
         "source": "vanshb03",
