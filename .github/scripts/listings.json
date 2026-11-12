@@ -33162,13 +33162,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794172610,
+        "date_updated": 1794444627,
         "url": "https://go.vansh.nyc/1nb",
         "locations": [
             "Omaha, NE"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Charles Schwab",
         "title": "Jr. Software Developer",
         "source": "vanshb03",
