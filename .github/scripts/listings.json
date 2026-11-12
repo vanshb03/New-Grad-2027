@@ -22504,13 +22504,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793023324,
+        "date_updated": 1794523176,
         "url": "https://go.vansh.nyc/La",
         "locations": [
             "West Valley City, UT"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Snap Finance",
         "title": "Software Engineer, Applied AI",
         "source": "vanshb03",
