@@ -34937,5 +34937,21 @@
         "date_posted": 1794440355,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794456796,
+        "url": "https://go.vansh.nyc/1w2",
+        "locations": [
+            "Etc, CT"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Associate Software Engineer I, CDS / Engine System Software",
+        "source": "vanshb03",
+        "id": "bc41dd4e-3319-4672-8e56-bee0b6b615df",
+        "date_posted": 1794456017,
+        "company_url": "",
+        "is_visible": true
     }
 ]
