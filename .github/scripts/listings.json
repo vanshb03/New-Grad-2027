@@ -22504,13 +22504,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793023324,
+        "date_updated": 1794525426,
         "url": "https://go.vansh.nyc/La",
         "locations": [
             "West Valley City, UT"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Snap Finance",
         "title": "Software Engineer, Applied AI",
         "source": "vanshb03",
@@ -33763,13 +33763,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794336457,
+        "date_updated": 1794525426,
         "url": "https://go.vansh.nyc/1rM",
         "locations": [
             "Huntsville, AL"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "SAIC",
         "title": "Software Engineer",
         "source": "vanshb03",
