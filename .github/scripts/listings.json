@@ -35065,5 +35065,37 @@
         "date_posted": 1794471231,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794485612,
+        "url": "https://go.vansh.nyc/1wo",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Planview",
+        "title": "Software Engineer I",
+        "source": "vanshb03",
+        "id": "ddc8d096-6d8e-49e7-b96a-0c37a347e3f3",
+        "date_posted": 1794485451,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794485612,
+        "url": "https://go.vansh.nyc/1wp",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Planview",
+        "title": "Software Engineer I",
+        "source": "vanshb03",
+        "id": "9e8b009e-a5c3-4300-b5c9-9fa29907c400",
+        "date_posted": 1794485451,
+        "company_url": "",
+        "is_visible": true
     }
 ]
