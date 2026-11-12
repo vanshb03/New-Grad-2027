@@ -21135,13 +21135,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793018234,
+        "date_updated": 1794460706,
         "url": "https://go.vansh.nyc/I4",
         "locations": [
             "Warren, MI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "General Motors",
         "title": "New Grad 2027: Semiconductors and Compute Platforms Researcher, SoC/MCU Semiconductor Systems (Master's)",
         "source": "vanshb03",
