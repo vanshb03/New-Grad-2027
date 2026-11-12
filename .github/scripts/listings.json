@@ -23889,13 +23889,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793027000,
+        "date_updated": 1794498238,
         "url": "https://go.vansh.nyc/P1",
         "locations": [
             "Columbus, OH"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Veeva Systems",
         "title": "New Grad 2027: Associate Software Engineer",
         "source": "vanshb03",
@@ -33388,13 +33388,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794268046,
+        "date_updated": 1794498238,
         "url": "https://go.vansh.nyc/1pA",
         "locations": [
             "Tallahassee, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AECOM",
         "title": "Software Developer 1",
         "source": "vanshb03",
@@ -33779,13 +33779,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794336457,
+        "date_updated": 1794498238,
         "url": "https://go.vansh.nyc/1rN",
         "locations": [
             "Tallahassee, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AECOM",
         "title": "Digital Solutions Software Developer I",
         "source": "vanshb03",
@@ -35095,6 +35095,22 @@
         "source": "vanshb03",
         "id": "9e8b009e-a5c3-4300-b5c9-9fa29907c400",
         "date_posted": 1794485451,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794498221,
+        "url": "https://go.vansh.nyc/1wA",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "JBT Marel",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "4886b2fe-3f6a-4591-aa2e-4f348ed501b4",
+        "date_posted": 1794268800,
         "company_url": "",
         "is_visible": true
     }
