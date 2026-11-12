@@ -32774,13 +32774,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793988831,
+        "date_updated": 1794463956,
         "url": "https://go.vansh.nyc/1kL",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Medtronic",
         "title": "Software Test Engineer I",
         "source": "vanshb03",
@@ -33827,13 +33827,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794339714,
+        "date_updated": 1794463956,
         "url": "https://go.vansh.nyc/1rZ",
         "locations": [
             "Cedar Rapids, IA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Raytheon Technologies",
         "title": "Software Engineer I",
         "source": "vanshb03",
@@ -34951,6 +34951,22 @@
         "source": "vanshb03",
         "id": "bc41dd4e-3319-4672-8e56-bee0b6b615df",
         "date_posted": 1794456017,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794463935,
+        "url": "https://go.vansh.nyc/1w3",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GlobalFoundries",
+        "title": "New Grad 2027: Tapeout Biz Products & Engineering",
+        "source": "vanshb03",
+        "id": "e313050c-9567-47a5-a3f2-24f976fa5248",
+        "date_posted": 1794461542,
         "company_url": "",
         "is_visible": true
     }
