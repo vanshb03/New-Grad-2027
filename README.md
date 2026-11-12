@@ -552,7 +552,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **AVEVA** | New Grad 2027: Cloud Operations & Infrastructure Graduate | Lake Forest, CA</br>Scottsdale, AZ | <a href="https://go.vansh.nyc/1um?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
 | **Astera Labs** | Digital Design Engineer | San Jose, CA | <a href="https://go.vansh.nyc/Do?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
 | **Motorola Solutions** | Software Test Engineer 🇺🇸 | Los Angeles, CA | <a href="https://go.vansh.nyc/DN?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 12 |
-| **General Motors** | New Grad 2027: Semiconductors and Compute Platforms Researcher, SoC/MCU Semiconductor Systems (Master's) | Warren, MI | <a href="https://go.vansh.nyc/I4?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 12 |
 | **Charter Manufacturing** | New Grad 2027: Digital Rotational Analyst | Mequon, WI | <a href="https://go.vansh.nyc/Dg?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 12 |
 | **Apple** | ASIC Design Engineer, Fabric/Interconnect | Austin, TX</br>Santa Clara, CA | <a href="https://go.vansh.nyc/UI?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 12 |
 | **Affirm** | New Grad 2027: Software Engineer I, Instruments | Remote | <a href="https://go.vansh.nyc/BX?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 12 |
@@ -1012,6 +1011,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **NVIDIA** | New Grad 2027: Low Power ASIC Engineer | Santa Clara, CA | 🔒 | Oct 13 |
 | **NVIDIA** | SRAM Circuit Design Engineer (Master's) | Santa Clara, CA | 🔒 | Oct 13 |
 | **Fiserv** | Android Application Framework Developer - Device Engineering | Sunnyvale, CA | 🔒 | Oct 13 |
+| **General Motors** | New Grad 2027: Semiconductors and Compute Platforms Researcher, SoC/MCU Semiconductor Systems (Master's) | Warren, MI | 🔒 | Oct 12 |
 | **Shield AI** | New Grad: Software Test and Automation Engineer | Washington, DC | 🔒 | Oct 11 |
 | **ALTEN Technology USA** | SAP ABAP & BTP Full Stack Developer | Irvine, CA | 🔒 | Oct 11 |
 | **66degrees** | New Grad 2027: Associate Software Engineer, Gradient Specialist | Chicago, IL | 🔒 | Oct 10 |
