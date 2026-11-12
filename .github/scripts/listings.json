@@ -34873,14 +34873,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794442327,
+        "date_updated": 1794449875,
         "url": "https://go.vansh.nyc/1vM",
         "locations": [
             "San Jose, CA",
             "Jersey City, NJ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Zensar",
         "title": "Software Engineer - AI Platform Development",
         "source": "vanshb03",
