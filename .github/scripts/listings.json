@@ -32968,13 +32968,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794071884,
+        "date_updated": 1794442347,
         "url": "https://go.vansh.nyc/1mi",
         "locations": [
             "Cupertino, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Apple",
         "title": "AI Operations, Applied AI Research and Design Developer",
         "source": "vanshb03",
@@ -34853,6 +34853,88 @@
         "source": "vanshb03",
         "id": "b5c1090a-e429-4b0e-92af-4ba87a3bb612",
         "date_posted": 1794424440,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794442327,
+        "url": "https://go.vansh.nyc/1vL",
+        "locations": [
+            "Ottawa, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ciena",
+        "title": "New Grad 2027: Embedded Software Engineer",
+        "source": "vanshb03",
+        "id": "73fb5342-ed4f-42ad-b200-4a2721fd4d39",
+        "date_posted": 1794355200,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794442327,
+        "url": "https://go.vansh.nyc/1vM",
+        "locations": [
+            "San Jose, CA",
+            "Jersey City, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zensar",
+        "title": "Software Engineer - AI Platform Development",
+        "source": "vanshb03",
+        "id": "2ef7437a-69c6-4f9f-a3b1-bf81f8a54c49",
+        "date_posted": 1794440355,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794442327,
+        "url": "https://go.vansh.nyc/1vN",
+        "locations": [
+            "Berkeley, MO"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Boeing",
+        "title": "Missions Systems Software Engineer, Embedded",
+        "source": "vanshb03",
+        "id": "b505d4e2-0947-4acc-9e14-04e508c4e248",
+        "date_posted": 1794355200,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794442327,
+        "url": "https://go.vansh.nyc/1vO",
+        "locations": [
+            "San Jose, CA",
+            "Ann Arbor, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zensar",
+        "title": "Software Engineer, AI Platform Development",
+        "source": "vanshb03",
+        "id": "a432dd27-2a8c-429e-aaab-8c63d4132ef5",
+        "date_posted": 1794440356,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794442327,
+        "url": "https://go.vansh.nyc/1vP",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zensar",
+        "title": "Software Engineer, AI Platform Development",
+        "source": "vanshb03",
+        "id": "7fcdda00-c9d9-4fd7-804d-46589d32cdf4",
+        "date_posted": 1794440355,
         "company_url": "",
         "is_visible": true
     }
