@@ -41,6 +41,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **RTX** | Associate Software Engineer I, CDS / Engine System Software 🇺🇸 | Etc, CT | <a href="https://go.vansh.nyc/1w2?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | **Zensar** | Software Engineer, AI Platform Development | San Jose, CA</br>Ann Arbor, MI | <a href="https://go.vansh.nyc/1vO?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | **Zensar** | Software Engineer, AI Platform Development | San Jose, CA | <a href="https://go.vansh.nyc/1vP?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | **Western Digital** | Software Engineer | San Jose, CA | <a href="https://go.vansh.nyc/1v8?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
