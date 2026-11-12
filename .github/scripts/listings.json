@@ -33843,13 +33843,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794339714,
+        "date_updated": 1794500102,
         "url": "https://go.vansh.nyc/1s0",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Abacus Insights",
         "title": "Associate Data Engineer",
         "source": "vanshb03",
@@ -35111,6 +35111,38 @@
         "source": "vanshb03",
         "id": "4886b2fe-3f6a-4591-aa2e-4f348ed501b4",
         "date_posted": 1794268800,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794500078,
+        "url": "https://go.vansh.nyc/1wB",
+        "locations": [
+            "Little Rock, AR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Dillards",
+        "title": "COBOL Developer",
+        "source": "vanshb03",
+        "id": "aa31def3-15ba-44b1-aa73-95f7e610e513",
+        "date_posted": 1794497398,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794500078,
+        "url": "https://go.vansh.nyc/1wC",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "title": "New Grad: Mission Modeling, Simulation & Software Engineer",
+        "source": "vanshb03",
+        "id": "01b74b59-f4b6-4d25-8fff-dc495bf615c4",
+        "date_posted": 1794490980,
         "company_url": "",
         "is_visible": true
     }
