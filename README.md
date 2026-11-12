@@ -496,6 +496,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **NewsBreak** | New Grad: Applied AI Engineer, Advertising Agents | Mountain View, CA | <a href="https://go.vansh.nyc/Uc?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | **Netic** | New Grad 2027: Full-Stack Software Engineer, Product | San Francisco, CA | <a href="https://go.vansh.nyc/Tr?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | **Netic** | New Grad 2027: Software Engineer, Agent Platform | San Francisco, CA | <a href="https://go.vansh.nyc/Ts?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
+| **MITRE** | Associate Data Scientist | McLean, VA | <a href="https://go.vansh.nyc/1w7?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | **L3Harris Technologies** | Software Engineer | Carlsbad, CA | <a href="https://go.vansh.nyc/1u5?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | **Johns Hopkins Applied Physics Laboratory** | New Grad 2027: Engineer/Researcher, Cyber Capabilities Development | Laurel, MD | <a href="https://go.vansh.nyc/TG?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | **Johns Hopkins Applied Physics Laboratory** | New Grad 2027: Robotics Engineer | Laurel, MD | <a href="https://go.vansh.nyc/TH?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
