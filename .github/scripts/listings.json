@@ -24457,13 +24457,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793027000,
+        "date_updated": 1794509297,
         "url": "https://go.vansh.nyc/Py",
         "locations": [
             "Atlanta, GA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Booz Allen",
         "title": "New Grad 2027: Data Engineer",
         "source": "vanshb03",
