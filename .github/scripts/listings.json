@@ -23365,13 +23365,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793025545,
+        "date_updated": 1794513392,
         "url": "https://go.vansh.nyc/NS",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2027: Data Engineer",
         "source": "vanshb03",
@@ -24664,13 +24664,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793027000,
+        "date_updated": 1794513392,
         "url": "https://go.vansh.nyc/PK",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2027: Software Engineer, Search Data Infra",
         "source": "vanshb03",
@@ -29288,13 +29288,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793526377,
+        "date_updated": 1794513392,
         "url": "https://go.vansh.nyc/15L",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2027: Backend Software Engineer (Risk & Response)",
         "source": "vanshb03",
@@ -29400,13 +29400,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793526377,
+        "date_updated": 1794513392,
         "url": "https://go.vansh.nyc/15S",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2027: Software Engineer, Ads Infrastructure",
         "source": "vanshb03",
@@ -29640,13 +29640,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793526377,
+        "date_updated": 1794513392,
         "url": "https://go.vansh.nyc/167",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2027: Backend Software Engineer (Trust & Safety)",
         "source": "vanshb03",
@@ -29672,13 +29672,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793526377,
+        "date_updated": 1794513392,
         "url": "https://go.vansh.nyc/169",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2027: Software Engineer (AI Agent & Global Revenue Platform)",
         "source": "vanshb03",
@@ -29720,13 +29720,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793526377,
+        "date_updated": 1794513392,
         "url": "https://go.vansh.nyc/16c",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2027: Backend Software Engineer (Machine Moderation Platform)",
         "source": "vanshb03",
@@ -29816,13 +29816,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793526377,
+        "date_updated": 1794513392,
         "url": "https://go.vansh.nyc/16i",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2027: Machine Learning Engineer (Commercial AI-CRM and Transaction) (Master's)",
         "source": "vanshb03",
@@ -29832,13 +29832,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793526377,
+        "date_updated": 1794513392,
         "url": "https://go.vansh.nyc/16j",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2027: Machine Learning Engineer, Search Quality",
         "source": "vanshb03",
@@ -30040,13 +30040,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793526377,
+        "date_updated": 1794513392,
         "url": "https://go.vansh.nyc/16w",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2027: Software Engineer (Media Engine)",
         "source": "vanshb03",
@@ -30664,13 +30664,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793526377,
+        "date_updated": 1794513392,
         "url": "https://go.vansh.nyc/179",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2027: Machine Learning Engineer, TikTok-Data-Search-Local Service",
         "source": "vanshb03",
@@ -35255,6 +35255,22 @@
         "source": "vanshb03",
         "id": "cdd33a4c-8216-4331-81f7-fe9dfd83bd35",
         "date_posted": 1794425431,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794513368,
+        "url": "https://go.vansh.nyc/1xw",
+        "locations": [
+            "Boise, ID"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Micron Technology",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "ec1537b4-5000-4cc3-9bc6-5b33c3078d15",
+        "date_posted": 1794512469,
         "company_url": "",
         "is_visible": true
     }
