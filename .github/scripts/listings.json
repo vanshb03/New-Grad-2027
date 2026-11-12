@@ -34969,5 +34969,37 @@
         "date_posted": 1794461542,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794467578,
+        "url": "https://go.vansh.nyc/1w5",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "MITRE",
+        "title": "Associate Software Engineer",
+        "source": "vanshb03",
+        "id": "08788972-04f8-47bc-aeec-cd411e37610e",
+        "date_posted": 1794321558,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794467578,
+        "url": "https://go.vansh.nyc/1w6",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "MITRE",
+        "title": "Associate Data Scientist",
+        "source": "vanshb03",
+        "id": "731d92eb-92de-4c8d-8ab8-f07236e1ba9a",
+        "date_posted": 1794433239,
+        "company_url": "",
+        "is_visible": true
     }
 ]
