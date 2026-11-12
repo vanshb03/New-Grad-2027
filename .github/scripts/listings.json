@@ -35273,5 +35273,53 @@
         "date_posted": 1794512469,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794527277,
+        "url": "https://go.vansh.nyc/1y8",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Boeing",
+        "title": "Flight Software Engineer, Vehicle Management Systems",
+        "source": "vanshb03",
+        "id": "386bc549-fcff-4df1-acf1-d6380e7c183a",
+        "date_posted": 1794441600,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794527277,
+        "url": "https://go.vansh.nyc/1y9",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Leidos",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "fac3db2c-5984-461b-8ab2-0ee834b93e0e",
+        "date_posted": 1794441600,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794527277,
+        "url": "https://go.vansh.nyc/1ya",
+        "locations": [
+            "Houston, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "ZettaSquared",
+        "title": "New Grad 2027: Forward Engineer / AI Developer",
+        "source": "vanshb03",
+        "id": "81996a05-c2b7-4cc7-bbb3-ccf81b6a4f67",
+        "date_posted": 1794441600,
+        "company_url": "",
+        "is_visible": true
     }
 ]
