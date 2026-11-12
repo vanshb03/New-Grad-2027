@@ -35017,5 +35017,53 @@
         "date_posted": 1792368702,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794471408,
+        "url": "https://go.vansh.nyc/1wd",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bask Health",
+        "title": "New Grad: Frontend Engineer",
+        "source": "vanshb03",
+        "id": "f0623ca0-a2f2-4b34-a08b-00227e1f8e8d",
+        "date_posted": 1794467524,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794471408,
+        "url": "https://go.vansh.nyc/1we",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bask Health",
+        "title": "Junior Design Engineer",
+        "source": "vanshb03",
+        "id": "01933a0b-bf62-40d8-857d-7eee10d2c481",
+        "date_posted": 1794467523,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794471408,
+        "url": "https://go.vansh.nyc/1wf",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bask",
+        "title": "New Grad: Frontend Engineer",
+        "source": "vanshb03",
+        "id": "83c52e8a-0bc9-4526-889a-a6871b82a2e4",
+        "date_posted": 1794471231,
+        "company_url": "",
+        "is_visible": true
     }
 ]
