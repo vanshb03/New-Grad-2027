@@ -35001,5 +35001,21 @@
         "date_posted": 1794433239,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794468711,
+        "url": "https://go.vansh.nyc/1w7",
+        "locations": [
+            "McLean, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MITRE",
+        "title": "Associate Data Scientist",
+        "source": "vanshb03",
+        "id": "69729c8f-8d42-4bb2-83d6-56dcf70b0534",
+        "date_posted": 1792368702,
+        "company_url": "",
+        "is_visible": true
     }
 ]
