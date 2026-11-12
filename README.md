@@ -719,7 +719,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **IMC Trading** | New Grad 2027: Performance Engineer | Chicago, IL | <a href="https://go.vansh.nyc/Pz?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
 | **GLS** | New Grad 2027: Infrastructure Administrator | Greenville, SC | <a href="https://go.vansh.nyc/PN?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
 | **Global Lending Services** | New Grad 2027: Data Scientist | Greenville, SC | <a href="https://go.vansh.nyc/Px?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
-| **Booz Allen** | New Grad 2027: Data Engineer | Atlanta, GA | <a href="https://go.vansh.nyc/Py?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
 | **Booz Allen** | New Grad 2027: Quantum Research Professional 🇺🇸 | Washington, DC | <a href="https://go.vansh.nyc/PH?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
 | **TikTok** | New Grad 2027: Data Engineer, Data Platform E-commerce | San Jose, CA | <a href="https://go.vansh.nyc/Po?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 26 |
 | **TikTok** | New Grad 2027: Data Engineer, Data Platform Global Live | San Jose, CA | <a href="https://go.vansh.nyc/Pp?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 26 |
@@ -1100,6 +1099,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **TikTok** | New Grad 2027: Machine Learning Engineer, E-Commerce Recommendation Video | Seattle, WA | 🔒 | Aug 27 |
 | **GLS** | New Grad 2027: IT Security Analyst | Greenville, SC | 🔒 | Aug 27 |
 | **Global Lending Services** | New Grad 2027: Software Developer | Greenville, SC | 🔒 | Aug 27 |
+| **Booz Allen** | New Grad 2027: Data Engineer | Atlanta, GA | 🔒 | Aug 27 |
 | **Domino's** | New Grad 2027: Technology Rotation Program, Multiple Teams | Ann Arbor, MI | 🔒 | Aug 26 |
 | **Booz Allen** | New Grad 2027: Data Scientist 🇺🇸 | <details><summary>**11 locations**</summary>Honolulu, HI</br>Annapolis Junction, MD</br>Colorado Springs, CO</br>McLean, VA</br>Rome, NY</br>Panama City, FL</br>Charleston, SC</br>Atlanta, GA</br>Huntsville, AL</br>San Diego, CA</br>El Segundo, CA</details> | 🔒 | Aug 26 |
 | **SAIC** | Software Systems Engineer (Master's) | Chantilly, VA | 🔒 | Aug 20 |
