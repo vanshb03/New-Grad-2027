@@ -30760,13 +30760,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793526377,
+        "date_updated": 1794510898,
         "url": "https://go.vansh.nyc/17f",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2027: Machine Learning Engineer (Data-Global E-Commerce-Search)",
         "source": "vanshb03",
@@ -35143,6 +35143,118 @@
         "source": "vanshb03",
         "id": "01b74b59-f4b6-4d25-8fff-dc495bf615c4",
         "date_posted": 1794490980,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794510863,
+        "url": "https://go.vansh.nyc/1wP",
+        "locations": [
+            "Hawthorne, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SpaceX",
+        "title": "Software Engineer, Starship",
+        "source": "vanshb03",
+        "id": "410f4ee6-ba7d-40ff-aa83-0a5ded8136f9",
+        "date_posted": 1794430560,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794510863,
+        "url": "https://go.vansh.nyc/1wQ",
+        "locations": [
+            "Starbase, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SpaceX",
+        "title": "Software Engineer (Starship)",
+        "source": "vanshb03",
+        "id": "96e97c13-d66e-432a-8849-d54507509c6d",
+        "date_posted": 1794430558,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794510863,
+        "url": "https://go.vansh.nyc/1wR",
+        "locations": [
+            "Hawthorne, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SpaceX",
+        "title": "New Grad 2027: Engineer, Aerospace Software (Starfall)",
+        "source": "vanshb03",
+        "id": "98363926-5ed4-45a4-90d9-b31d22c2ff7d",
+        "date_posted": 1794506168,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794510863,
+        "url": "https://go.vansh.nyc/1wS",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Leidos",
+        "title": "Network and Systems Engineer",
+        "source": "vanshb03",
+        "id": "ba4f8016-9431-4835-847c-6aefa853abbc",
+        "date_posted": 1794505691,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794510863,
+        "url": "https://go.vansh.nyc/1wT",
+        "locations": [
+            "Tulsa, OK"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Enovation Controls",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "b597bc67-519d-4da4-993f-98be176b2f8a",
+        "date_posted": 1794380254,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794510863,
+        "url": "https://go.vansh.nyc/1wU",
+        "locations": [
+            "Bldg, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Keysight Technologies",
+        "title": "New Grad 2027: Software Engineer, Semiconductor Technology",
+        "source": "vanshb03",
+        "id": "070a8205-c941-4f0e-a53e-9cc3b2187c33",
+        "date_posted": 1794438148,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794510863,
+        "url": "https://go.vansh.nyc/1wV",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Lanteris Space",
+        "title": "Simulation Software Engineer",
+        "source": "vanshb03",
+        "id": "cdd33a4c-8216-4331-81f7-fe9dfd83bd35",
+        "date_posted": 1794425431,
         "company_url": "",
         "is_visible": true
     }
