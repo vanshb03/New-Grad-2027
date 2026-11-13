@@ -44,6 +44,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **ZettaSquared** | New Grad 2027: Forward Engineer / AI Developer 🛂 | Houston, TX | <a href="https://go.vansh.nyc/1ya?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | **SpaceX** | New Grad 2027: Engineer, Aerospace Software (Starfall) | Hawthorne, CA | <a href="https://go.vansh.nyc/1wR?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | **RTX** | Associate Software Engineer I, CDS / Engine System Software 🇺🇸 | Etc, CT | <a href="https://go.vansh.nyc/1w2?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
+| **RLI** | Associate Software Engineer | Peoria, IL</br>Tempe, AZ | <a href="https://go.vansh.nyc/1yn?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | **Micron Technology** | Software Engineer | Boise, ID | <a href="https://go.vansh.nyc/1xw?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | **Leidos** | Software Engineer 🇺🇸 | Tucson, AZ | <a href="https://go.vansh.nyc/1y9?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | **Leidos** | Network and Systems Engineer | Huntsville, AL | <a href="https://go.vansh.nyc/1wS?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
