@@ -23445,13 +23445,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793025545,
+        "date_updated": 1794579243,
         "url": "https://go.vansh.nyc/NX",
         "locations": [
             "Greenville, SC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "GE Vernova",
         "title": "Data Scientist",
         "source": "vanshb03",
