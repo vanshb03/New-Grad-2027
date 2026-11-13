@@ -218,7 +218,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **TikTok** | New Grad 2027: Backend Software Engineer (TikTok-PGC-Digital Content Center) | San Jose, CA | <a href="https://go.vansh.nyc/15N?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | **TikTok** | New Grad 2027: Frontend Software Engineer (Global CRM) | San Jose, CA | <a href="https://go.vansh.nyc/15O?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | **TikTok** | New Grad 2027: AI Software Engineer (TikTok-PGC-OGC&Creator Strategy) | San Jose, CA | <a href="https://go.vansh.nyc/15P?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
-| **TikTok** | New Grad 2027: Research Scientist (Ads Creative) (Master's) | San Jose, CA | <a href="https://go.vansh.nyc/15Q?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | **TikTok** | New Grad 2027: Backend Software Engineer (Feed Safety) | Seattle, WA | <a href="https://go.vansh.nyc/15R?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | **TikTok** | New Grad 2027: Site Reliability Engineer (Global SRE) | San Jose, CA | <a href="https://go.vansh.nyc/15T?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | **TikTok** | New Grad 2027: Research Scientist, TikTok Recommendation | San Jose, CA | <a href="https://go.vansh.nyc/15V?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
@@ -899,6 +898,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **KLA** | Software Engineer (Master's) | Milpitas, CA | 🔒 | Nov 02 |
 | **Huntington Ingalls Industries** | IT Software Engineer 1 - Robotic Process Automation 🇺🇸 | Newport News, VA | 🔒 | Nov 02 |
 | **Aprio** | AI & Automation Associate | Atlanta, GA | 🔒 | Nov 02 |
+| **TikTok** | New Grad 2027: Research Scientist (Ads Creative) (Master's) | San Jose, CA | 🔒 | Nov 01 |
 | **TikTok** | New Grad 2027: Backend Software Engineer (Risk & Response) | Seattle, WA | 🔒 | Nov 01 |
 | **TikTok** | New Grad 2027: Software Engineer, Ads Infrastructure | San Jose, CA | 🔒 | Nov 01 |
 | **TikTok** | New Grad 2027: Backend Software Engineer (Trust & Safety) | Seattle, WA | 🔒 | Nov 01 |
