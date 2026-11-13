@@ -33502,13 +33502,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794298469,
+        "date_updated": 1794609469,
         "url": "https://go.vansh.nyc/1qa",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cursor",
         "title": "New Grad 2027: Software Engineer",
         "source": "vanshb03",
