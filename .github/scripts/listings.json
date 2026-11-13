@@ -35369,5 +35369,22 @@
         "date_posted": 1794441600,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794530616,
+        "url": "https://go.vansh.nyc/1yn",
+        "locations": [
+            "Peoria, IL",
+            "Tempe, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "RLI",
+        "title": "Associate Software Engineer",
+        "source": "vanshb03",
+        "id": "27649094-f21d-4b74-9929-c4b39785e14c",
+        "date_posted": 1794441600,
+        "company_url": "",
+        "is_visible": true
     }
 ]
