@@ -98,7 +98,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **SambaNova** | New Grad: ML Infrastructure Engineer | Austin, TX</br>San Jose, CA | <a href="https://go.vansh.nyc/1qn?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | **SambaNova** | New Grad: Physical Design Engineer | San Jose, CA | <a href="https://go.vansh.nyc/1qo?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | **SambaNova** | New Grad: Runtime Engineer | Austin, TX</br>San Jose, CA | <a href="https://go.vansh.nyc/1qp?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
-| **RTX** | Software Engineer 1 🇺🇸 | Richardson, TX | <a href="https://go.vansh.nyc/1sR?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | **Natoma** | New Grad: Software Engineer | Boston, MA | <a href="https://go.vansh.nyc/1rp?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | **Natoma** | New Grad: Software Engineer | Boston, MA | <a href="https://go.vansh.nyc/1rq?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | **MITRE** | Associate Software Engineer 🇺🇸 | Clarksburg, WV | <a href="https://go.vansh.nyc/1w5?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
@@ -855,6 +854,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Qualcomm** | Embedded DSP Software Engineer | San Diego, CA | <a href="https://go.vansh.nyc/i2?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 31 |
 | **Zensar** | Software Engineer - AI Platform Development | San Jose, CA</br>Jersey City, NJ | 🔒 | Nov 11 |
 | **SAIC** | Software Engineer 🇺🇸 | Huntsville, AL | 🔒 | Nov 10 |
+| **RTX** | Software Engineer 1 🇺🇸 | Richardson, TX | 🔒 | Nov 10 |
 | **KLA** | Business Intelligence Analyst (Master's) | Ann Arbor, MI | 🔒 | Nov 10 |
 | **Autodesk** | Software Engineer: AI & Fusion Engineering, Fusion Engineering | Novi, MI | 🔒 | Nov 10 |
 | **Abacus Insights** | Associate Data Engineer | Remote | 🔒 | Nov 10 |
