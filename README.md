@@ -665,7 +665,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Garner Health** | New Grad 2027: Associate Applied Scientist 🛂 | New York, NY | <a href="https://go.vansh.nyc/O3?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | **Johns Hopkins Applied Physics Laboratory** | New Grad 2027: Electrical or Computer Engineer, Miniature Device Technologies | Laurel, MD | <a href="https://go.vansh.nyc/O0?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
 | **Johns Hopkins Applied Physics Laboratory** | New Grad 2027: Robotics & Autonomous Systems Engineer, Tailored Autonomous Systems | Laurel, MD | <a href="https://go.vansh.nyc/NZ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
-| **GE Vernova** | Data Scientist | Greenville, SC | <a href="https://go.vansh.nyc/NX?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
 | **GE Vernova** | AI Engineer | Greenville, SC | <a href="https://go.vansh.nyc/NY?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
 | **Emerson Electric** | Embedded Firmware Development Engineer | Eden Prairie, MN | <a href="https://go.vansh.nyc/NW?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
 | **Johns Hopkins Applied Physics Laboratory** | New Grad 2027: Synthetic Aperture Radar Machine Learning Engineer, Imaging Systems | Laurel, MD | <a href="https://go.vansh.nyc/NU?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 09 |
@@ -1082,6 +1081,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **BlackEdge Capital** | New Grad 2027: Quantitative Researcher | Chicago, IL | 🔒 | Sep 14 |
 | **L3Harris Technologies** | Software Engineer | Salt Lake City, UT | 🔒 | Sep 11 |
 | **L3Harris Technologies** | Software Engineer | Salt Lake City, UT | 🔒 | Sep 11 |
+| **GE Vernova** | Data Scientist | Greenville, SC | 🔒 | Sep 10 |
 | **General Dynamics Mission Systems** | New Grad 2027: Engineering Leadership Program Engineer (EE, SW, Firmware, Sys) 🇺🇸 | Bloomington, MN | 🔒 | Sep 09 |
 | **TikTok** | New Grad 2027: Data Engineer | San Jose, CA | 🔒 | Sep 07 |
 | **Terra Norbital Corporation** | Associate Flight Software Test & Tools Engineer 🇺🇸 | Irvine, CA | 🔒 | Sep 03 |
