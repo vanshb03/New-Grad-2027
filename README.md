@@ -76,6 +76,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **RTX** | Software Engineer I | Cedar Rapids, IA | <a href="https://go.vansh.nyc/1uL?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | **RTX** | Software Engineer I 🇺🇸 | Ft Wayne, IN | <a href="https://go.vansh.nyc/1uF?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | **Pacific Northwest National Laboratory** | Post-Bachelor Research Associate, Full Stack Product | Richland, WA | <a href="https://go.vansh.nyc/1vH?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
+| **Northrop Grumman** | New Grad 2027: Associate Software Engineer, Pathways 🇺🇸 | Colorado Springs, CO | <a href="https://go.vansh.nyc/1z3?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
+| **Northrop Grumman** | New Grad 2027: Associate Software Engineer, Pathways 🇺🇸 | Boulder, CO | <a href="https://go.vansh.nyc/1z4?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | **MITRE** | Associate Data Scientist 🇺🇸 | Clarksburg, WV | <a href="https://go.vansh.nyc/1w6?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | **Maven Securities** | Floor Trader | Chicago, IL | <a href="https://go.vansh.nyc/1uK?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | **Manhattan Associates** | New Grad 2027: Technology Consultant | Atlanta, GA | <a href="https://go.vansh.nyc/1uB?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
