@@ -32030,13 +32030,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793828609,
+        "date_updated": 1794557945,
         "url": "https://go.vansh.nyc/1h6",
         "locations": [
             "Sunnyvale, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "General Motors",
         "title": "Software Systems Engineer, Data Labeling Engineering",
         "source": "vanshb03",
@@ -32936,13 +32936,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794010442,
+        "date_updated": 1794557945,
         "url": "https://go.vansh.nyc/1lU",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cisco",
         "title": "Software Engineer Embedded Systems I",
         "source": "vanshb03",
