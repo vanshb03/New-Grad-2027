@@ -18830,13 +18830,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1792698816,
+        "date_updated": 1794593667,
         "url": "https://go.vansh.nyc/AE",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Applied Materials",
         "title": "Software Engineer",
         "source": "vanshb03",
@@ -20827,13 +20827,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793018234,
+        "date_updated": 1794593667,
         "url": "https://go.vansh.nyc/HL",
         "locations": [
             "San Diego, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Shield AI",
         "title": "New Grad 2027: Software Development Engineer",
         "source": "vanshb03",
@@ -33194,13 +33194,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794187030,
+        "date_updated": 1794593667,
         "url": "https://go.vansh.nyc/1nk",
         "locations": [
             "Washington, DC"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Shield AI",
         "title": "New Grad 2027: Engineer 1 - Software - Autonomous Pilot Integration",
         "source": "vanshb03",
@@ -33518,13 +33518,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794301971,
+        "date_updated": 1794593667,
         "url": "https://go.vansh.nyc/1qd",
         "locations": [
             "Solon, OH"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Eagle Wireless",
         "title": "Junior Integration Developer - NetSuite",
         "source": "vanshb03",
