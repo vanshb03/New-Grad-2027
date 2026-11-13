@@ -35546,5 +35546,21 @@
         "date_posted": 1794426065,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794613693,
+        "url": "https://go.vansh.nyc/1zm",
+        "locations": [
+            "Newport News, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Huntington Ingalls Industries",
+        "title": "Software Development Engineer 1",
+        "source": "vanshb03",
+        "id": "500a95b0-e9ef-4aee-aa28-fceca4062b2c",
+        "date_posted": 1794611375,
+        "company_url": "",
+        "is_visible": true
     }
 ]
