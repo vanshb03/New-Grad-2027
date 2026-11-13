@@ -33987,14 +33987,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794363379,
+        "date_updated": 1794591829,
         "url": "https://go.vansh.nyc/1sO",
         "locations": [
             "Austin, TX",
             "Hillsboro, OR"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Intel",
         "title": "New Grad 2027: Junior CPU Verification Engineer",
         "source": "vanshb03",
