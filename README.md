@@ -140,7 +140,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Nightwing** | Software Developer I, System Security 🇺🇸 | Huntsville, AL | <a href="https://go.vansh.nyc/1kI?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | **Intel** | New Grad 2027: Software Performance Engineer (Master's) | Hillsboro, OR | <a href="https://go.vansh.nyc/1lS?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | **Fortinet** | Software Engineer – Cloud Platform (FortiSIEM) 🛂 | Santa Clara, CA | <a href="https://go.vansh.nyc/1l1?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
-| **Cisco** | Software Engineer Embedded Systems I | San Jose, CA | <a href="https://go.vansh.nyc/1lU?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | **Cisco** | ASIC DFT Engineer I | San Jose, CA | <a href="https://go.vansh.nyc/1lV?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | **Celonis** | Associate Deployment Engineer | New York, NY | <a href="https://go.vansh.nyc/1kh?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | **Celonis** | Associate Deployment Engineer | Raleigh, NC | <a href="https://go.vansh.nyc/1ki?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
@@ -176,7 +175,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **M&T Bank** | New Grad 2027: Technology Development Program - Operating Systems Engineer | Buffalo, NY | <a href="https://go.vansh.nyc/1hd?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | **M&T Bank** | New Grad 2027: Technology Development Program - Cloud Storage & Data Protection Engineer | Buffalo, NY | <a href="https://go.vansh.nyc/1he?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | **Human Interest** | Software Engineer I 🛂 | San Francisco, CA | <a href="https://go.vansh.nyc/1gi?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
-| **General Motors** | Software Systems Engineer, Data Labeling Engineering | Sunnyvale, CA | <a href="https://go.vansh.nyc/1h6?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | **endeavorai.com** | New Grad 2027: Forward Deployed Engineer | Chicago, IL | <a href="https://go.vansh.nyc/1fT?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | **CCT** | Technical Consultant 🛂 | Tulsa, OK | <a href="https://go.vansh.nyc/1fP?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | **Vantive** | Embedded Software Engineer | Plymouth, MN | <a href="https://go.vansh.nyc/1h0?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
@@ -866,6 +864,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Wavestone1** | AI Full Stack Engineer 🛂 | Pittsburgh, PA | 🔒 | Nov 06 |
 | **Salesforce** | Systems Engineering Associate | Dallas, TX | 🔒 | Nov 06 |
 | **Huntington Ingalls Industries** | Software Engineer 1 🇺🇸 | Newport News, VA | 🔒 | Nov 06 |
+| **Cisco** | Software Engineer Embedded Systems I | San Jose, CA | 🔒 | Nov 06 |
 | **Charles Schwab** | Jr. Software Developer | Omaha, NE | 🔒 | Nov 06 |
 | **Charles Schwab** | Associate Software Development & Engineering | Austin, TX</br>Southlake, TX | 🔒 | Nov 06 |
 | **Apple** | AI Operations, Applied AI Research and Design Developer | Cupertino, CA | 🔒 | Nov 06 |
@@ -887,6 +886,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **L3Harris Technologies** | Associate, Software Engineer | Palm Bay, FL | 🔒 | Nov 04 |
 | **L3Harris Technologies** | Associate, Software Engineer | Palm Bay, FL | 🔒 | Nov 04 |
 | **Keenfinity** | Associate DevOps Software Engineer | Fairport, NY | 🔒 | Nov 04 |
+| **General Motors** | Software Systems Engineer, Data Labeling Engineering | Sunnyvale, CA | 🔒 | Nov 04 |
 | **Frontgrade** | Software Engineer I | Colorado Springs, CO | 🔒 | Nov 04 |
 | **Analog Devices** | Field Robotics Systems Engineer | Wilmington, MA | 🔒 | Nov 04 |
 | **Abbott** | Software Test Engineer | Pleasanton, CA | 🔒 | Nov 04 |
