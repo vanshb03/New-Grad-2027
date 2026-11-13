@@ -35418,5 +35418,21 @@
         "date_posted": 1794561033,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794581096,
+        "url": "https://go.vansh.nyc/1yD",
+        "locations": [
+            "Mcclellan, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "New Grad 2027: Associate Software Engineer",
+        "source": "vanshb03",
+        "id": "c6e45d65-5cbd-4eec-b84d-4cbdaf868c28",
+        "date_posted": 1794528000,
+        "company_url": "",
+        "is_visible": true
     }
 ]
