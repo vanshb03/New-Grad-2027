@@ -35514,5 +35514,37 @@
         "date_posted": 1794524947,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794599039,
+        "url": "https://go.vansh.nyc/1z3",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "New Grad 2027: Associate Software Engineer, Pathways",
+        "source": "vanshb03",
+        "id": "e2506cfc-ee9b-4728-b100-ac84dd19e4ad",
+        "date_posted": 1794426065,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794599039,
+        "url": "https://go.vansh.nyc/1z4",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "New Grad 2027: Associate Software Engineer, Pathways",
+        "source": "vanshb03",
+        "id": "3138182f-6caa-4f92-9dbb-a9e70d34d352",
+        "date_posted": 1794426065,
+        "company_url": "",
+        "is_visible": true
     }
 ]
