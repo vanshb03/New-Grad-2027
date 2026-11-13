@@ -22570,7 +22570,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793023324,
+        "date_updated": 1794611495,
         "url": "https://go.vansh.nyc/Le",
         "locations": [
             "Nashville, TN",
@@ -22580,7 +22580,7 @@
             "Atlanta, GA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Capgemini",
         "title": "Associate Application Consultant",
         "source": "vanshb03",
@@ -32920,13 +32920,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794010442,
+        "date_updated": 1794611495,
         "url": "https://go.vansh.nyc/1lT",
         "locations": [
             "Philadelphia, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Capgemini",
         "title": "Associate Application Consultant",
         "source": "vanshb03",
