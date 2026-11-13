@@ -35321,5 +35321,53 @@
         "date_posted": 1794441600,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794528724,
+        "url": "https://go.vansh.nyc/1yb",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "L3Harris Technologies",
+        "title": "Associate, Application Development",
+        "source": "vanshb03",
+        "id": "c6909fbc-4424-438d-a275-cf0caaa37fdf",
+        "date_posted": 1794527520,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794528724,
+        "url": "https://go.vansh.nyc/1yc",
+        "locations": [
+            "Remote, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Affirm",
+        "title": "Software Engineer 1, Backend, Continuous Delivery",
+        "source": "vanshb03",
+        "id": "70b6e1f1-7456-4126-b5e4-570ef3247da9",
+        "date_posted": 1794525357,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794528724,
+        "url": "https://go.vansh.nyc/1yd",
+        "locations": [
+            "Beavercreek, OH"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Booz Allen",
+        "title": "Junior C++ Software Engineer",
+        "source": "vanshb03",
+        "id": "8e030812-7594-4d73-aaa1-29bb3dcdf794",
+        "date_posted": 1794441600,
+        "company_url": "",
+        "is_visible": true
     }
 ]
