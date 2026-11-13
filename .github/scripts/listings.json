@@ -28200,13 +28200,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793492254,
+        "date_updated": 1794586678,
         "url": "https://go.vansh.nyc/13R",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "LiveFlow",
         "title": "Graduate Engineer - AI Agents",
         "source": "vanshb03",
@@ -33178,13 +33178,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794187030,
+        "date_updated": 1794586678,
         "url": "https://go.vansh.nyc/1nj",
         "locations": [
             "Remote"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Shield AI",
         "title": "New Grad 2027: Engineer I, Software - Autonomy Capabilities",
         "source": "vanshb03",
@@ -33210,13 +33210,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794187030,
+        "date_updated": 1794586678,
         "url": "https://go.vansh.nyc/1nl",
         "locations": [
             "Washington, DC"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Shield AI",
         "title": "New Grad 2027: Engineer 1 - Software - Perception",
         "source": "vanshb03",
@@ -33226,13 +33226,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794187030,
+        "date_updated": 1794586678,
         "url": "https://go.vansh.nyc/1nm",
         "locations": [
             "Washington, DC"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Shield AI",
         "title": "New Grad 2027: Engineer II, Software - Ground Control Station - Full Stack",
         "source": "vanshb03",
@@ -35388,13 +35388,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794561188,
+        "date_updated": 1794586678,
         "url": "https://go.vansh.nyc/1yz",
         "locations": [
             "Washington, DC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Shield AI",
         "title": "New Grad 2027: Engineer I, Software",
         "source": "vanshb03",
@@ -35448,6 +35448,38 @@
         "source": "vanshb03",
         "id": "f8874c40-ee50-45fa-be76-8ee39111b089",
         "date_posted": 1794528000,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794586643,
+        "url": "https://go.vansh.nyc/1yH",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citi",
+        "title": "AVP Quantitative Engineer, Exotic Equity Derivatives (Master's)",
+        "source": "vanshb03",
+        "id": "395e3e21-a77a-4ec7-bc28-b889a4191e04",
+        "date_posted": 1794528000,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794586643,
+        "url": "https://go.vansh.nyc/1yI",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cisco",
+        "title": "Software Engineer Compiler I",
+        "source": "vanshb03",
+        "id": "4bbbf732-35b2-45f5-9c77-3d3536bef7f0",
+        "date_posted": 1794585487,
         "company_url": "",
         "is_visible": true
     }
