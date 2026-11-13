@@ -35482,5 +35482,37 @@
         "date_posted": 1794585487,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794595746,
+        "url": "https://go.vansh.nyc/1yS",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Micron Technology",
+        "title": "Design Engineer",
+        "source": "vanshb03",
+        "id": "9e06a9d8-bec3-4565-b5f5-584789bd0c43",
+        "date_posted": 1794594698,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794595746,
+        "url": "https://go.vansh.nyc/1yT",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Oracle",
+        "title": "New Grad 2027: Site Reliability Engineer, OCI",
+        "source": "vanshb03",
+        "id": "9e6e9b0f-64c3-4f37-b21f-900c2adf61bd",
+        "date_posted": 1794524947,
+        "company_url": "",
+        "is_visible": true
     }
 ]
