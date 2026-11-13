@@ -35386,5 +35386,37 @@
         "date_posted": 1794441600,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794561188,
+        "url": "https://go.vansh.nyc/1yz",
+        "locations": [
+            "Washington, DC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Shield AI",
+        "title": "New Grad 2027: Engineer I, Software",
+        "source": "vanshb03",
+        "id": "4579ea70-a897-4dd4-b849-00f48e4e0d7a",
+        "date_posted": 1794557540,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794561188,
+        "url": "https://go.vansh.nyc/1yA",
+        "locations": [
+            "Washington, DC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Shield",
+        "title": "New Grad 2027: Engineer I, Software",
+        "source": "vanshb03",
+        "id": "6629ecae-d8cd-4d6e-a7d8-237d7a309cfd",
+        "date_posted": 1794561033,
+        "company_url": "",
+        "is_visible": true
     }
 ]
