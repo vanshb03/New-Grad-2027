@@ -27378,13 +27378,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793299643,
+        "date_updated": 1794547138,
         "url": "https://go.vansh.nyc/Zq",
         "locations": [
             "Ottawa, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NAV CANADA",
         "title": "Business Automation Developer",
         "source": "vanshb03",
