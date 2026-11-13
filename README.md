@@ -65,7 +65,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Bask Health** | Junior Design Engineer | Remote | <a href="https://go.vansh.nyc/1we?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | **Bask** | New Grad: Frontend Engineer | Remote | <a href="https://go.vansh.nyc/1wf?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | **Zensar** | Software Engineer, AI Platform Development | San Jose, CA</br>Ann Arbor, MI | <a href="https://go.vansh.nyc/1vO?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
-| **Zensar** | Software Engineer, AI Platform Development | San Jose, CA | <a href="https://go.vansh.nyc/1vP?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | **Western Digital** | Software Engineer | San Jose, CA | <a href="https://go.vansh.nyc/1v8?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | **Symbotic** | New Grad: Robotics Software Engineer | Wilmington, MA | <a href="https://go.vansh.nyc/1uP?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | **Spring Venture Group** | DevOps Engineer I 🇺🇸 | Kansas City, MO | <a href="https://go.vansh.nyc/1v7?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
@@ -848,6 +847,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Tesla** | Software Engineer, Traction Control & Stability | Palo Alto, CA | <a href="https://go.vansh.nyc/ig?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 05 |
 | **Qualcomm** | Embedded DSP Software Engineer | San Diego, CA | <a href="https://go.vansh.nyc/i2?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 31 |
 | **Shield AI** | New Grad 2027: Engineer I, Software | Washington, DC | 🔒 | Nov 13 |
+| **Zensar** | Software Engineer, AI Platform Development | San Jose, CA | 🔒 | Nov 11 |
 | **Zensar** | Software Engineer - AI Platform Development | San Jose, CA</br>Jersey City, NJ | 🔒 | Nov 11 |
 | **Intel** | New Grad 2027: Junior CPU Verification Engineer | Austin, TX</br>Hillsboro, OR | 🔒 | Nov 11 |
 | **SAIC** | Software Engineer 🇺🇸 | Huntsville, AL | 🔒 | Nov 10 |
