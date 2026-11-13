@@ -55,7 +55,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Nexthop.ai** | New Grad 2027: Software Engineer | Burnaby, Canada | <a href="https://go.vansh.nyc/1f6?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | **PRI Engineering** | Junior Software Developer | Mississauga, Canada | <a href="https://go.vansh.nyc/1e2?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | **PRI Engineering** | Junior Software Developer | Calgary, Canada | <a href="https://go.vansh.nyc/1e3?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
-| **NAV CANADA** | Business Automation Developer | Ottawa, Canada | <a href="https://go.vansh.nyc/Zq?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | **Ciena** | New Grad: Photonic Card Software Developer | Ottawa, Canada | <a href="https://go.vansh.nyc/10O?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | **Neon** | New Grad 2027: Software Engineer | <details><summary>**4 locations**</summary>San Francisco, CA</br>Mountain View, CA</br>Bellevue, WA</br>Vancouver, Canada</details> | <a href="https://go.vansh.nyc/YJ?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | **Ciena** | New Grad: Routing/IP Software Engineer | Ottawa, Canada | <a href="https://go.vansh.nyc/Ym?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
@@ -103,6 +102,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Capgemini** | Associate Application Consultant | Mississauga, Canada | 🔒 | Nov 03 |
 | **Genesys** | Associate Software Developer in Test | Toronto, Canada | 🔒 | Oct 30 |
 | **Thoughtworks** | Associate Developer | Toronto, Canada | 🔒 | Oct 29 |
+| **NAV CANADA** | Business Automation Developer | Ottawa, Canada | 🔒 | Oct 29 |
 | **General Motors** | New Grad 2027: Software Test Developer, Propulsion Thermal Management | Markham, Canada | 🔒 | Oct 26 |
 | **Capital One** | Associate Software Engineer, Card Expansion | Toronto, Canada | 🔒 | Oct 23 |
 | **Cisco** | Software Developer, Embedded Systems I | <details><summary>**6 locations**</summary>Kanata, Canada</br>Laurent, Canada</br>Calgary, Canada</br>Montreal, Canada</br>Vancouver, Canada</br>Ottawa, Canada</details> | 🔒 | Oct 22 |
