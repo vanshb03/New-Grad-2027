@@ -22349,13 +22349,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793023324,
+        "date_updated": 1794575626,
         "url": "https://go.vansh.nyc/L1",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Renesas Electronics",
         "title": "Electrical Engineer",
         "source": "vanshb03",
