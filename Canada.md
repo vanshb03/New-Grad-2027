@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | --- | --- | --- | :---: | :---: |
 | **Planview** | Software Engineer I | Vancouver, Canada | <a href="https://go.vansh.nyc/1wo?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | **Planview** | Software Engineer I | Vancouver, Canada | <a href="https://go.vansh.nyc/1wp?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
+| **Affirm** | Software Engineer 1, Backend, Continuous Delivery | Remote, Canada | <a href="https://go.vansh.nyc/1yc?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | **Ciena** | New Grad 2027: Embedded Software Engineer | Ottawa, Canada | <a href="https://go.vansh.nyc/1vL?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | **Valsoft** | AI Engineer 1 | Montreal, Canada | <a href="https://go.vansh.nyc/1lL?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | **Fortinet** | Technical Content DevOps Developer | Burnaby, Canada | <a href="https://go.vansh.nyc/1lB?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
