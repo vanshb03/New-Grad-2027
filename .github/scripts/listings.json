@@ -29368,13 +29368,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793526377,
+        "date_updated": 1794554026,
         "url": "https://go.vansh.nyc/15Q",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2027: Research Scientist (Ads Creative) (Master's)",
         "source": "vanshb03",
