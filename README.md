@@ -49,6 +49,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Northrop Grumman** | New Grad 2027: Associate Software Engineer 🇺🇸 | Mcclellan, CA | <a href="https://go.vansh.nyc/1yD?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | **Micron Technology** | Design Engineer | San Jose, CA | <a href="https://go.vansh.nyc/1yS?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | **Huntington Ingalls Industries** | Software Development Engineer 1 🇺🇸 | Newport News, VA | <a href="https://go.vansh.nyc/1zm?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
+| **Everest** | New Grad 2027: Information Technology Rotational Development Program | Warren, NJ | <a href="https://go.vansh.nyc/1zG?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | **Empire State Realty Trust** | Applied AI Engineer 1 | New York, NY | <a href="https://go.vansh.nyc/1zo?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | **Cummins** | New Grad 2027: Systems Engineer | Seymour, IN | <a href="https://go.vansh.nyc/1zp?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | **Citi** | AVP Quantitative Engineer, Exotic Equity Derivatives (Master's) | New York, NY | <a href="https://go.vansh.nyc/1yH?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
