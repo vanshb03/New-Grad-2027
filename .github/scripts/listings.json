@@ -35658,5 +35658,21 @@
         "date_posted": 1794619347,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794676651,
+        "url": "https://go.vansh.nyc/1zG",
+        "locations": [
+            "Warren, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Everest",
+        "title": "New Grad 2027: Information Technology Rotational Development Program",
+        "source": "vanshb03",
+        "id": "d23e0d5f-366a-4379-9b5e-be86274b95a5",
+        "date_posted": 1794528000,
+        "company_url": "",
+        "is_visible": true
     }
 ]
