@@ -35610,5 +35610,21 @@
         "date_posted": 1794612800,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794618789,
+        "url": "https://go.vansh.nyc/1zv",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DataVisor",
+        "title": "New Grad: Infrastructure Engineer",
+        "source": "vanshb03",
+        "id": "c9cd9ec6-b9b3-4716-9921-287555fa2a7e",
+        "date_posted": 1794618592,
+        "company_url": "",
+        "is_visible": true
     }
 ]
