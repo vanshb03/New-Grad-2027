@@ -44,6 +44,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **DataVisor** | New Grad: Infrastructure Engineer | Toronto, Canada | <a href="https://go.vansh.nyc/1zv?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | **Planview** | Software Engineer I | Vancouver, Canada | <a href="https://go.vansh.nyc/1wo?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | **Planview** | Software Engineer I | Vancouver, Canada | <a href="https://go.vansh.nyc/1wp?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | **Affirm** | Software Engineer 1, Backend, Continuous Delivery | Remote, Canada | <a href="https://go.vansh.nyc/1yc?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
