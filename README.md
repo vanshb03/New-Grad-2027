@@ -132,7 +132,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **F7d8749a 72d6 407c Bf98 292ea630c73a** | New Grad 2027: Engineer I, Software - Perception 🇺🇸 | Washington, DC | <a href="https://go.vansh.nyc/1p5?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | **F7d8749a 72d6 407c Bf98 292ea630c73a** | New Grad 2027: Engineer I, Software - Autonomous Pilot Integration 🇺🇸 | Washington, DC | <a href="https://go.vansh.nyc/1p6?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | **F7d8749a 72d6 407c Bf98 292ea630c73a** | New Grad 2027: Engineer I, Software - Autonomy Capabilities 🇺🇸 | Remote | <a href="https://go.vansh.nyc/1p7?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
-| **Cummins** | Electronic Systems Engineer - Software | Seymour, IN | <a href="https://go.vansh.nyc/1pF?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | **CSI** | Software Engineer I, C#/.NET 🛂 | Paducah, KY</br>Valparaiso, IN | <a href="https://go.vansh.nyc/1oL?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | **Apple** | Tools & Automation Engineer | Sunnyvale, CA | <a href="https://go.vansh.nyc/1s1?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | **D3** | New Grad: Backend Engineer | Los Angeles, CA | <a href="https://go.vansh.nyc/1mR?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 08 |
@@ -864,6 +863,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Raytheon Technologies** | Software Engineer I 🇺🇸 | Cedar Rapids, IA | 🔒 | Nov 09 |
 | **L3Harris Technologies** | Associate, Software Engineering | Anaheim, CA | 🔒 | Nov 09 |
 | **Intuitive Surgical** | Planning Analyst | Sunnyvale, CA | 🔒 | Nov 09 |
+| **Cummins** | Electronic Systems Engineer - Software | Seymour, IN | 🔒 | Nov 09 |
 | **AECOM** | Software Developer 1 | Tallahassee, FL | 🔒 | Nov 09 |
 | **AECOM** | Digital Solutions Software Developer I | Tallahassee, FL | 🔒 | Nov 09 |
 | **Adobe** | New Grad 2027: Data Engineer | San Jose, CA | 🔒 | Nov 09 |
