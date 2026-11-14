@@ -35642,5 +35642,21 @@
         "date_posted": 1794622505,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794626013,
+        "url": "https://go.vansh.nyc/1zA",
+        "locations": [
+            "Redwood City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Integrated Biosciences",
+        "title": "Software Engineer - Robotics (Master's)",
+        "source": "vanshb03",
+        "id": "233aa56b-8fb8-4dc8-b61a-61d8dfe5ce27",
+        "date_posted": 1794619347,
+        "company_url": "",
+        "is_visible": true
     }
 ]
