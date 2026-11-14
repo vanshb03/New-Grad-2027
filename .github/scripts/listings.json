@@ -34232,13 +34232,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794376563,
+        "date_updated": 1794647884,
         "url": "https://go.vansh.nyc/1u5",
         "locations": [
             "Carlsbad, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "L3Harris Technologies",
         "title": "Software Engineer",
         "source": "vanshb03",
