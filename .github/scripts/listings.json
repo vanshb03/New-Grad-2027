@@ -35626,5 +35626,21 @@
         "date_posted": 1794618592,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794622654,
+        "url": "https://go.vansh.nyc/1zw",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Aerospace",
+        "title": "Embedded Software Engineer I - Flight Management System",
+        "source": "vanshb03",
+        "id": "e8d1690c-7154-48e4-944a-b11c5a40d67e",
+        "date_posted": 1794622505,
+        "company_url": "",
+        "is_visible": true
     }
 ]
