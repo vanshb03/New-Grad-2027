@@ -35562,5 +35562,53 @@
         "date_posted": 1794611375,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794615148,
+        "url": "https://go.vansh.nyc/1zn",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "UTHealth Houston",
+        "title": "Clinical Business Intelligence Analyst",
+        "source": "vanshb03",
+        "id": "4a97ca69-1a31-4cc9-942f-5bbd2dfc8c8d",
+        "date_posted": 1794613794,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794615148,
+        "url": "https://go.vansh.nyc/1zo",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Empire State Realty Trust",
+        "title": "Applied AI Engineer 1",
+        "source": "vanshb03",
+        "id": "60443d5f-10a6-4d96-9efa-936fda22a717",
+        "date_posted": 1794612914,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794615148,
+        "url": "https://go.vansh.nyc/1zp",
+        "locations": [
+            "Seymour, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cummins",
+        "title": "New Grad 2027: Systems Engineer",
+        "source": "vanshb03",
+        "id": "f07e0447-01c5-4882-9f98-b9c4c8f835b9",
+        "date_posted": 1794612800,
+        "company_url": "",
+        "is_visible": true
     }
 ]
