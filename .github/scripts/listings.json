@@ -24955,13 +24955,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793063868,
+        "date_updated": 1794777502,
         "url": "https://go.vansh.nyc/Ts",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Netic",
         "title": "New Grad 2027: Software Engineer, Agent Platform",
         "source": "vanshb03",
@@ -25775,13 +25775,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793063869,
+        "date_updated": 1794777502,
         "url": "https://go.vansh.nyc/Uk",
         "locations": [
             "Bastrop, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "SpaceX",
         "title": "New Grad 2027: Engineer, GNC",
         "source": "vanshb03",
@@ -35706,6 +35706,38 @@
         "source": "vanshb03",
         "id": "1c056340-a057-4f3e-a0c6-a22b4280495c",
         "date_posted": 1794704678,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794777475,
+        "url": "https://go.vansh.nyc/1zZ",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SpaceX",
+        "title": "Full Stack Software Engineer (Starlink)",
+        "source": "vanshb03",
+        "id": "f74568a9-19a0-4465-b8c9-13309d11b990",
+        "date_posted": 1794711583,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794777475,
+        "url": "https://go.vansh.nyc/1A0",
+        "locations": [
+            "Newport News, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Ingalls Shipbuilding",
+        "title": "Software Development Engineer 1",
+        "source": "vanshb03",
+        "id": "11e2ec03-8f65-4c19-b392-e9d523c3e8ef",
+        "date_posted": 1794698149,
         "company_url": "",
         "is_visible": true
     }
