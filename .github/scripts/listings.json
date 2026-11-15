@@ -33859,13 +33859,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794339714,
+        "date_updated": 1794705484,
         "url": "https://go.vansh.nyc/1s1",
         "locations": [
             "Sunnyvale, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Apple",
         "title": "Tools & Automation Engineer",
         "source": "vanshb03",
@@ -35672,6 +35672,40 @@
         "source": "vanshb03",
         "id": "d23e0d5f-366a-4379-9b5e-be86274b95a5",
         "date_posted": 1794528000,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794705468,
+        "url": "https://go.vansh.nyc/1zN",
+        "locations": [
+            "Milwaukee, WI",
+            "Westford, MA",
+            "Glendale, WI"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Johnson Controls",
+        "title": "New Grad: Nextgen Software Engineer",
+        "source": "vanshb03",
+        "id": "0f6698b3-c1c3-4b84-8a15-e5345e5d2012",
+        "date_posted": 1794528000,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794705468,
+        "url": "https://go.vansh.nyc/1zO",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Deep Learning Framework Communications Engineer",
+        "source": "vanshb03",
+        "id": "1c056340-a057-4f3e-a0c6-a22b4280495c",
+        "date_posted": 1794704678,
         "company_url": "",
         "is_visible": true
     }
