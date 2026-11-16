@@ -44,6 +44,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **American Express** | New Grad 2027: Software Engineer I, Enterprise Technology Services | Toronto, Canada | <a href="https://go.vansh.nyc/1Ab?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | **DataVisor** | New Grad: Infrastructure Engineer | Toronto, Canada | <a href="https://go.vansh.nyc/1zv?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | **Planview** | Software Engineer I | Vancouver, Canada | <a href="https://go.vansh.nyc/1wo?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | **Planview** | Software Engineer I | Vancouver, Canada | <a href="https://go.vansh.nyc/1wp?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
