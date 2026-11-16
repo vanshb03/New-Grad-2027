@@ -41,6 +41,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Microsoft** | Applied Sciences | Remote | <a href="https://go.vansh.nyc/1A4?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | **SpaceX** | Full Stack Software Engineer (Starlink) | Palo Alto, CA | <a href="https://go.vansh.nyc/1zZ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | **NVIDIA** | Deep Learning Framework Communications Engineer | Santa Clara, CA | <a href="https://go.vansh.nyc/1zO?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | **Integrated Biosciences** | Software Engineer - Robotics (Master's) | Redwood City, CA | <a href="https://go.vansh.nyc/1zA?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
