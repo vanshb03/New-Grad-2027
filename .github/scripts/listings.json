@@ -21296,13 +21296,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793018234,
+        "date_updated": 1794836615,
         "url": "https://go.vansh.nyc/Ie",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Canonical",
         "title": "Software Engineer, Open Source and Linux",
         "source": "vanshb03",
