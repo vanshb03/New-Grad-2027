@@ -33939,13 +33939,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794355916,
+        "date_updated": 1794827796,
         "url": "https://go.vansh.nyc/1su",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Wise",
         "title": "New Grad 2027: Data Scientist",
         "source": "vanshb03",
