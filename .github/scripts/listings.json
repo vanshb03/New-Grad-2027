@@ -32225,13 +32225,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793873727,
+        "date_updated": 1794845679,
         "url": "https://go.vansh.nyc/1iq",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "FlexAI",
         "title": "New Grad: Software Engineer",
         "source": "vanshb03",
@@ -34296,13 +34296,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794376563,
+        "date_updated": 1794845679,
         "url": "https://go.vansh.nyc/1u9",
         "locations": [
             "Norwalk, CT"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Oxbridge Health",
         "title": "AI Engineer",
         "source": "vanshb03",
@@ -34697,13 +34697,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794422939,
+        "date_updated": 1794845679,
         "url": "https://go.vansh.nyc/1uS",
         "locations": [
             "New Hope, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Gournay Consulting",
         "title": "Systems Engineer I",
         "source": "vanshb03",
