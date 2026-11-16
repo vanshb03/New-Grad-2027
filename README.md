@@ -207,7 +207,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Verkada** | New Grad 2027: Backend Software Engineer | San Mateo, CA | <a href="https://go.vansh.nyc/19H?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | **Microsoft** | Software Engineering IC2 | Redmond, WA | <a href="https://go.vansh.nyc/19Q?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | **GlobalFoundries** | New Grad 2027: Design Verification Engineer | Plano, TX | <a href="https://go.vansh.nyc/1bo?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
-| **Fireworks AI** | New Grad 2027: Member of Technical Staff | San Mateo, CA | <a href="https://go.vansh.nyc/19h?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | **Equifax** | New Grad 2027: Data Analytics Rotational Development Associate | Alpharetta, GA | <a href="https://go.vansh.nyc/19F?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | **Decagon** | New Grad 2027: Member of Technical Staff | San Francisco, CA | <a href="https://go.vansh.nyc/19g?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | **Boeing** | ASIC / FPGA Digital Design Engineer (Master's) 🇺🇸 | El Segundo, CA | <a href="https://go.vansh.nyc/19R?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
@@ -908,6 +907,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Raytheon Technologies** | Embedded Security Software Engineer I 🇺🇸 | Tewksbury, MA | 🔒 | Nov 02 |
 | **KLA** | Software Engineer (Master's) | Milpitas, CA | 🔒 | Nov 02 |
 | **Huntington Ingalls Industries** | IT Software Engineer 1 - Robotic Process Automation 🇺🇸 | Newport News, VA | 🔒 | Nov 02 |
+| **Fireworks AI** | New Grad 2027: Member of Technical Staff | San Mateo, CA | 🔒 | Nov 02 |
 | **Aprio** | AI & Automation Associate | Atlanta, GA | 🔒 | Nov 02 |
 | **TikTok** | New Grad 2027: Research Scientist (Ads Creative) (Master's) | San Jose, CA | 🔒 | Nov 01 |
 | **TikTok** | New Grad 2027: Backend Software Engineer (Risk & Response) | Seattle, WA | 🔒 | Nov 01 |
