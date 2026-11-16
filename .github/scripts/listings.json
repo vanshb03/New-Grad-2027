@@ -25791,13 +25791,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793063869,
+        "date_updated": 1794859976,
         "url": "https://go.vansh.nyc/Ul",
         "locations": [
             "Hawthorne, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "SpaceX",
         "title": "New Grad 2027: Engineer, Software",
         "source": "vanshb03",
@@ -31016,13 +31016,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793629207,
+        "date_updated": 1794859976,
         "url": "https://go.vansh.nyc/19g",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Decagon",
         "title": "New Grad 2027: Member of Technical Staff",
         "source": "vanshb03",
@@ -35786,6 +35786,22 @@
         "source": "vanshb03",
         "id": "25c6f536-6c97-4b27-899a-3cd3d58241ec",
         "date_posted": 1794854545,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794859940,
+        "url": "https://go.vansh.nyc/1Aq",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nuro",
+        "title": "New Grad 2027: Systems Engineering",
+        "source": "vanshb03",
+        "id": "e03ac3a1-a119-4174-a2d0-84255bb38e47",
+        "date_posted": 1794512067,
         "company_url": "",
         "is_visible": true
     }
