@@ -83,7 +83,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Salesforce** | New Grad: Software Engineering AMTS | <details><summary>**7 locations**</summary>Palo Alto, CA</br>Seattle, WA</br>Indianapolis, IN</br>San Francisco, CA</br>Dallas, TX</br>New York, NY</br>Bellevue, WA</details> | <a href="https://go.vansh.nyc/1uI?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | **Rubrik** | Software Engineer - Virtual Platform | Palo Alto, CA | <a href="https://go.vansh.nyc/1vE?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | **RTX** | Software Engineer I | Cedar Rapids, IA | <a href="https://go.vansh.nyc/1uL?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
-| **RTX** | Software Engineer I 🇺🇸 | Ft Wayne, IN | <a href="https://go.vansh.nyc/1uF?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | **Pacific Northwest National Laboratory** | Post-Bachelor Research Associate, Full Stack Product | Richland, WA | <a href="https://go.vansh.nyc/1vH?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | **Northrop Grumman** | New Grad 2027: Associate Software Engineer, Pathways 🇺🇸 | Colorado Springs, CO | <a href="https://go.vansh.nyc/1z3?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | **Northrop Grumman** | New Grad 2027: Associate Software Engineer, Pathways 🇺🇸 | Boulder, CO | <a href="https://go.vansh.nyc/1z4?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
@@ -705,7 +704,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Susquehanna International Group** | Quantitative Strategy Developer | Bala Cynwyd, PA | <a href="https://go.vansh.nyc/Pa?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
 | **Notion** | Software Engineer | San Francisco, CA | <a href="https://go.vansh.nyc/P8?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
 | **Newrez** | Data & Analytics Operations Specialist | Fort Washington, PA | <a href="https://go.vansh.nyc/PC?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
-| **Iberdrola Group** | Technology, Digital & Analytics 🛂 | <details><summary>**7 locations**</summary>Boston, MA</br>Rochester, NY</br>Augusta, ME</br>Orange, CT</br>Binghamton, NY</br>Portland, OR</br>Portland, ME</details> | <a href="https://go.vansh.nyc/PD?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
 | **Hewlett Packard Enterprise** | Data Science | <details><summary>**10 locations**</summary>Andover, MA</br>Bloomington, MN</br>San Jose, CA</br>Spring, TX</br>Durham, NC</br>Westford, MA</br>Chippewa Falls, WI</br>Fort Collins, CO</br>Sunnyvale, CA</br>Roseville, CA</details> | <a href="https://go.vansh.nyc/PA?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
 | **Freeform** | New Grad 2027: Software Engineer | Los Angeles, CA | <a href="https://go.vansh.nyc/P6?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
 | **Composio** | Fullstack Engineer, Product Team | San Francisco, CA | <a href="https://go.vansh.nyc/P5?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 28 |
@@ -852,6 +850,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Northrop Grumman** | New Grad 2027: Associate Software Engineer 🇺🇸 | Mcclellan, CA | 🔒 | Nov 13 |
 | **Zensar** | Software Engineer, AI Platform Development | San Jose, CA | 🔒 | Nov 11 |
 | **Zensar** | Software Engineer - AI Platform Development | San Jose, CA</br>Jersey City, NJ | 🔒 | Nov 11 |
+| **RTX** | Software Engineer I 🇺🇸 | Ft Wayne, IN | 🔒 | Nov 11 |
 | **Intel** | New Grad 2027: Junior CPU Verification Engineer | Austin, TX</br>Hillsboro, OR | 🔒 | Nov 11 |
 | **SAIC** | Software Engineer 🇺🇸 | Huntsville, AL | 🔒 | Nov 10 |
 | **RTX** | Software Engineer 1 🇺🇸 | Richardson, TX | 🔒 | Nov 10 |
@@ -1129,6 +1128,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Wolverine Trading** | Entry Level C++ Software Engineer 🛂 | Chicago, IL | 🔒 | Aug 28 |
 | **Viavi Solutions** | Development Engineer | Minnetonka, MN | 🔒 | Aug 28 |
 | **Viavi Solutions** | Development Engineer | Colorado Springs, CO | 🔒 | Aug 28 |
+| **Iberdrola Group** | Technology, Digital & Analytics 🛂 | <details><summary>**7 locations**</summary>Boston, MA</br>Rochester, NY</br>Augusta, ME</br>Orange, CT</br>Binghamton, NY</br>Portland, OR</br>Portland, ME</details> | 🔒 | Aug 28 |
 | **General Matter** | Software Engineer | Los Angeles, CA | 🔒 | Aug 28 |
 | **TikTok** | New Grad 2027: Machine Learning Engineer, E-Commerce Recommendation Video | Seattle, WA | 🔒 | Aug 27 |
 | **GLS** | New Grad 2027: IT Security Analyst | Greenville, SC | 🔒 | Aug 27 |

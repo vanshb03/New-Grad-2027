@@ -60,7 +60,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Neon** | New Grad 2027: Software Engineer | <details><summary>**4 locations**</summary>San Francisco, CA</br>Mountain View, CA</br>Bellevue, WA</br>Vancouver, Canada</details> | <a href="https://go.vansh.nyc/YJ?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | **Ciena** | New Grad: Routing/IP Software Engineer | Ottawa, Canada | <a href="https://go.vansh.nyc/Ym?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | **Charles River Associates (CRA)** | New Grad 2027: Cyber & Forensic Technology Consulting Analyst/Associate | Toronto, Canada | <a href="https://go.vansh.nyc/WY?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
-| **American Express** | New Grad 2027: Engineer, AI Engineering, Enterprise Technology Services (Master's) | Ca, Canada | <a href="https://go.vansh.nyc/XE?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | **Didero** | Forward Deployed Engineer | Toronto, Canada | <a href="https://go.vansh.nyc/1uf?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | **Databricks** | New Grad 2027: Software Engineer | <details><summary>**4 locations**</summary>Bellevue, WA</br>Mountain View, CA</br>San Francisco, CA</br>Vancouver, Canada</details> | <a href="https://go.vansh.nyc/WA?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | **Motorola Solutions** | Junior Software Engineer - Emergency Call Handling | Gatineau, Canada</br>Ottawa, Canada | <a href="https://go.vansh.nyc/W6?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
@@ -104,6 +103,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Genesys** | Associate Software Developer in Test | Toronto, Canada | 🔒 | Oct 30 |
 | **Thoughtworks** | Associate Developer | Toronto, Canada | 🔒 | Oct 29 |
 | **NAV CANADA** | Business Automation Developer | Ottawa, Canada | 🔒 | Oct 29 |
+| **American Express** | New Grad 2027: Engineer, AI Engineering, Enterprise Technology Services (Master's) | Ca, Canada | 🔒 | Oct 28 |
 | **General Motors** | New Grad 2027: Software Test Developer, Propulsion Thermal Management | Markham, Canada | 🔒 | Oct 26 |
 | **Capital One** | Associate Software Engineer, Card Expansion | Toronto, Canada | 🔒 | Oct 23 |
 | **Cisco** | Software Developer, Embedded Systems I | <details><summary>**6 locations**</summary>Kanata, Canada</br>Laurent, Canada</br>Calgary, Canada</br>Montreal, Canada</br>Vancouver, Canada</br>Ottawa, Canada</details> | 🔒 | Oct 22 |
