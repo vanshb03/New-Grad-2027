@@ -33731,13 +33731,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794332511,
+        "date_updated": 1794854732,
         "url": "https://go.vansh.nyc/1rG",
         "locations": [
             "Des Moines, IA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Wellmark",
         "title": "Data Science Associate - FEP",
         "source": "vanshb03",
@@ -35770,6 +35770,22 @@
         "source": "vanshb03",
         "id": "dd2d9599-ede0-486b-aebd-7a877cab9c53",
         "date_posted": 1794787200,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794854697,
+        "url": "https://go.vansh.nyc/1Ak",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Momentum",
+        "title": "New Grad 2027: Associate Cybersecurity Analyst",
+        "source": "vanshb03",
+        "id": "25c6f536-6c97-4b27-899a-3cd3d58241ec",
+        "date_posted": 1794854545,
         "company_url": "",
         "is_visible": true
     }
