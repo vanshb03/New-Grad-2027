@@ -35211,13 +35211,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794510863,
+        "date_updated": 1794863872,
         "url": "https://go.vansh.nyc/1wT",
         "locations": [
             "Tulsa, OK"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Enovation Controls",
         "title": "Software Engineer",
         "source": "vanshb03",
@@ -35802,6 +35802,54 @@
         "source": "vanshb03",
         "id": "e03ac3a1-a119-4174-a2d0-84255bb38e47",
         "date_posted": 1794512067,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794863840,
+        "url": "https://go.vansh.nyc/1Ar",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AlphaOne Robotics",
+        "title": "Junior Robotics Software Engineer",
+        "source": "vanshb03",
+        "id": "df09cecc-0472-4247-9c6a-5d0d8fa0fc47",
+        "date_posted": 1794785104,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794863840,
+        "url": "https://go.vansh.nyc/1As",
+        "locations": [
+            "Patrick AFB, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Velocity Explorations",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "9527e698-7932-4e1b-8cd4-c4f53ecc9ec0",
+        "date_posted": 1794787107,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794863840,
+        "url": "https://go.vansh.nyc/1At",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Miraterra",
+        "title": "Associate Software Developer",
+        "source": "vanshb03",
+        "id": "0fa27844-9118-4266-a470-fcadb886b6fe",
+        "date_posted": 1794702376,
         "company_url": "",
         "is_visible": true
     }
