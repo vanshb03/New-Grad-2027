@@ -19760,13 +19760,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1792812025,
+        "date_updated": 1794873477,
         "url": "https://go.vansh.nyc/Bx",
         "locations": [
             "Hillsboro, OR"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Intel",
         "title": "Software Engineer, CAD/EDA Tools (Master's)",
         "source": "vanshb03",
