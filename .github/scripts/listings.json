@@ -35740,5 +35740,21 @@
         "date_posted": 1794698149,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794813118,
+        "url": "https://go.vansh.nyc/1A4",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Applied Sciences",
+        "source": "vanshb03",
+        "id": "be21157d-6428-4e79-a765-847d4971de51",
+        "date_posted": 1794809441,
+        "company_url": "",
+        "is_visible": true
     }
 ]
