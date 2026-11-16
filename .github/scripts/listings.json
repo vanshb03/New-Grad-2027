@@ -34890,13 +34890,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794442327,
+        "date_updated": 1794809583,
         "url": "https://go.vansh.nyc/1vN",
         "locations": [
             "Berkeley, MO"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Boeing",
         "title": "Missions Systems Software Engineer, Embedded",
         "source": "vanshb03",
