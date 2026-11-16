@@ -35756,5 +35756,21 @@
         "date_posted": 1794809441,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794843793,
+        "url": "https://go.vansh.nyc/1Ab",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "American Express",
+        "title": "New Grad 2027: Software Engineer I, Enterprise Technology Services",
+        "source": "vanshb03",
+        "id": "dd2d9599-ede0-486b-aebd-7a877cab9c53",
+        "date_posted": 1794787200,
+        "company_url": "",
+        "is_visible": true
     }
 ]
