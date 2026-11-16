@@ -24546,7 +24546,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793027000,
+        "date_updated": 1794806168,
         "url": "https://go.vansh.nyc/PD",
         "locations": [
             "Boston, MA",
@@ -24558,7 +24558,7 @@
             "Portland, ME"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Iberdrola Group",
         "title": "Technology, Digital & Analytics",
         "source": "vanshb03",
@@ -26902,13 +26902,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793205603,
+        "date_updated": 1794806168,
         "url": "https://go.vansh.nyc/XE",
         "locations": [
             "Ca, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "American Express",
         "title": "New Grad 2027: Engineer, AI Engineering, Enterprise Technology Services (Master's)",
         "source": "vanshb03",
@@ -34595,13 +34595,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794411475,
+        "date_updated": 1794806168,
         "url": "https://go.vansh.nyc/1uF",
         "locations": [
             "Ft Wayne, IN"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "Software Engineer I",
         "source": "vanshb03",
