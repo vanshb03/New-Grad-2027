@@ -43,8 +43,10 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | --- | --- | --- | :---: | :---: |
 | **Momentum** | New Grad 2027: Associate Cybersecurity Analyst | Dallas, TX | <a href="https://go.vansh.nyc/1Ak?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | **Microsoft** | Applied Sciences | Remote | <a href="https://go.vansh.nyc/1A4?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
+| **Velocity Explorations** | Software Engineer | Patrick AFB, FL | <a href="https://go.vansh.nyc/1As?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | **SpaceX** | Full Stack Software Engineer (Starlink) | Palo Alto, CA | <a href="https://go.vansh.nyc/1zZ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | **NVIDIA** | Deep Learning Framework Communications Engineer | Santa Clara, CA | <a href="https://go.vansh.nyc/1zO?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
+| **AlphaOne Robotics** | Junior Robotics Software Engineer | Dallas, TX | <a href="https://go.vansh.nyc/1Ar?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | **Integrated Biosciences** | Software Engineer - Robotics (Master's) | Redwood City, CA | <a href="https://go.vansh.nyc/1zA?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | **Ingalls Shipbuilding** | Software Development Engineer 1 🇺🇸 | Newport News, VA | <a href="https://go.vansh.nyc/1A0?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | **Aerospace** | Embedded Software Engineer I - Flight Management System 🛂 | Phoenix, AZ | <a href="https://go.vansh.nyc/1zw?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
@@ -96,7 +98,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Keysight Technologies** | New Grad 2027: Software Engineer, Semiconductor Technology 🇺🇸 | Bldg, CA | <a href="https://go.vansh.nyc/1wU?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | **Johns Hopkins APL** | New Grad 2027: Algorithm Development Engineer | Laurel, MD | <a href="https://go.vansh.nyc/1sJ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | **GlobalFoundries** | New Grad 2027: AI Processor Hardware/Software Integration Engineer | Richardson, TX | <a href="https://go.vansh.nyc/1uA?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
-| **Enovation Controls** | Software Engineer | Tulsa, OK | <a href="https://go.vansh.nyc/1wT?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | **Bask Health** | New Grad: Backend Engineer | Remote | <a href="https://go.vansh.nyc/1vF?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | **Bask Health** | New Grad: Product Engineer | Remote | <a href="https://go.vansh.nyc/1vG?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | **Bask Health** | Product Builder | Remote | <a href="https://go.vansh.nyc/1sQ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
@@ -845,6 +846,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Zensar** | Software Engineer - AI Platform Development | San Jose, CA</br>Jersey City, NJ | 🔒 | Nov 11 |
 | **RTX** | Software Engineer I 🇺🇸 | Ft Wayne, IN | 🔒 | Nov 11 |
 | **Intel** | New Grad 2027: Junior CPU Verification Engineer | Austin, TX</br>Hillsboro, OR | 🔒 | Nov 11 |
+| **Enovation Controls** | Software Engineer | Tulsa, OK | 🔒 | Nov 11 |
 | **Boeing** | Missions Systems Software Engineer, Embedded 🇺🇸 | Berkeley, MO | 🔒 | Nov 11 |
 | **Wise** | New Grad 2027: Data Scientist 🛂 | Austin, TX | 🔒 | Nov 10 |
 | **Wellmark** | Data Science Associate - FEP | Des Moines, IA | 🔒 | Nov 10 |
