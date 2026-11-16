@@ -578,7 +578,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Cincinnati Children’s** | Developer I, Psychiatry | Burnet, TX | <a href="https://go.vansh.nyc/Ic?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
 | **Mach Industries** | New Grad 2027: Software Engineer - Software 🛂 | Huntington Beach, CA | <a href="https://go.vansh.nyc/HH?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | **Mach Industries** | Software Engineer 🛂 | Huntington Beach, CA | <a href="https://go.vansh.nyc/HI?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
-| **Canonical** | Software Engineer, Open Source and Linux | Remote | <a href="https://go.vansh.nyc/Ie?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | **Astera Labs** | New Grad: Data Analyst | San Jose, CA | <a href="https://go.vansh.nyc/1un?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | **Astera Labs** | Applied AI (Non Silicon) | San Jose, CA | <a href="https://go.vansh.nyc/HG?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | **Affirm** | Software Engineer 1 | New York, NY | <a href="https://go.vansh.nyc/HK?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
@@ -1061,6 +1060,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Shield AI** | New Grad 2027: Software Development Engineer | San Diego, CA | 🔒 | Oct 06 |
 | **NVIDIA** | New Grad 2027: GPU PCIe and Boot Architect | Austin, TX</br>Santa Clara, CA | 🔒 | Oct 06 |
 | **NVIDIA** | Formal Verification Engineer | Santa Clara, CA | 🔒 | Oct 06 |
+| **Canonical** | Software Engineer, Open Source and Linux | Remote | 🔒 | Oct 06 |
 | **Interdigital** | Research Engineer, 6G AI-Enabled Systems and Testbeds (Master's) | Conshohocken, PA | 🔒 | Oct 02 |
 | **Harvey** | New Grad 2027: Software Engineer | San Francisco, CA | 🔒 | Oct 02 |
 | **Harvey** | New Grad 2027: Software Engineer | New York, NY | 🔒 | Oct 02 |
