@@ -35259,13 +35259,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794513368,
+        "date_updated": 1794957736,
         "url": "https://go.vansh.nyc/1xw",
         "locations": [
             "Boise, ID"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Micron Technology",
         "title": "Software Engineer",
         "source": "vanshb03",
