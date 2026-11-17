@@ -30008,13 +30008,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793526377,
+        "date_updated": 1794900103,
         "url": "https://go.vansh.nyc/16u",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2027: Backend Engineer, User Growth",
         "source": "vanshb03",
