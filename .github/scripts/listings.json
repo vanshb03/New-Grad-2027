@@ -25631,13 +25631,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793063869,
+        "date_updated": 1794959856,
         "url": "https://go.vansh.nyc/Ub",
         "locations": [
             "Long Beach, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Relativity Space",
         "title": "Software Engineer I, Factory Platform",
         "source": "vanshb03",
@@ -36058,6 +36058,54 @@
         "source": "vanshb03",
         "id": "b4a1eeaa-8356-41e7-a44e-39bb8ec6a88c",
         "date_posted": 1794863876,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794959706,
+        "url": "https://go.vansh.nyc/1BF",
+        "locations": [
+            "Sherwood Park, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "BIS Safety Software",
+        "title": "Junior Data Analyst",
+        "source": "vanshb03",
+        "id": "b37aeb4a-9690-4b50-8afd-d4ef678991e4",
+        "date_posted": 1794957889,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794959706,
+        "url": "https://go.vansh.nyc/1BG",
+        "locations": [
+            "Fairfax, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CDM Smith",
+        "title": "Artificial Intelligence/Machine Learning Developer",
+        "source": "vanshb03",
+        "id": "cf45674c-2f94-470a-938c-baf98343f9b4",
+        "date_posted": 1794930840,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794959706,
+        "url": "https://go.vansh.nyc/1BH",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Relativity Space",
+        "title": "Software Engineer I, Factory Platform",
+        "source": "vanshb03",
+        "id": "fb343e07-172a-4524-9c6c-df8e4b48c5a2",
+        "date_posted": 1794958247,
         "company_url": "",
         "is_visible": true
     }
