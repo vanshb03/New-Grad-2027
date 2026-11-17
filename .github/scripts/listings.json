@@ -35996,5 +35996,21 @@
         "date_posted": 1794901132,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794907150,
+        "url": "https://go.vansh.nyc/1B9",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Jobgether",
+        "title": "New Grad 2027: Software Engineer, Open Source and Linux",
+        "source": "vanshb03",
+        "id": "43c1dd60-2b0a-4941-a9a6-c7262801c850",
+        "date_posted": 1794906950,
+        "company_url": "",
+        "is_visible": true
     }
 ]
