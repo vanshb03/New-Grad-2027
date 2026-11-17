@@ -26475,14 +26475,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793124630,
+        "date_updated": 1794875083,
         "url": "https://go.vansh.nyc/W6",
         "locations": [
             "Gatineau, Canada",
             "Ottawa, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Motorola Solutions",
         "title": "Junior Software Engineer - Emergency Call Handling",
         "source": "vanshb03",
@@ -32790,13 +32790,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793988831,
+        "date_updated": 1794875083,
         "url": "https://go.vansh.nyc/1kM",
         "locations": [
             "Rome, NY"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Booz Allen Hamilton",
         "title": "New Grad 2027: Cybersecurity Analyst, Junior",
         "source": "vanshb03",
@@ -35850,6 +35850,54 @@
         "source": "vanshb03",
         "id": "0fa27844-9118-4266-a470-fcadb886b6fe",
         "date_posted": 1794702376,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794874931,
+        "url": "https://go.vansh.nyc/1AG",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Silna Health",
+        "title": "AI Deployment Analyst",
+        "source": "vanshb03",
+        "id": "6ccf0f57-da8c-4b45-9d66-dbfaf2501200",
+        "date_posted": 1794787200,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794874931,
+        "url": "https://go.vansh.nyc/1AH",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CrossCountry Consulting",
+        "title": "New Grad 2027: Junior Forward Deployed Software Engineer",
+        "source": "vanshb03",
+        "id": "491f62cb-11f8-4b18-92ef-298a2466105c",
+        "date_posted": 1794871977,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794874931,
+        "url": "https://go.vansh.nyc/1AI",
+        "locations": [
+            "McLean, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CrossCountry Consulting",
+        "title": "Junior Forward Deployed Software Engineer",
+        "source": "vanshb03",
+        "id": "bca9d7d0-116d-4f88-8d98-f974e3b2fd52",
+        "date_posted": 1794871977,
         "company_url": "",
         "is_visible": true
     }
