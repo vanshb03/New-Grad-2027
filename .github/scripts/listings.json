@@ -35676,7 +35676,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794705468,
+        "date_updated": 1794876877,
         "url": "https://go.vansh.nyc/1zN",
         "locations": [
             "Milwaukee, WI",
@@ -35684,7 +35684,7 @@
             "Glendale, WI"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Johnson Controls",
         "title": "New Grad: Nextgen Software Engineer",
         "source": "vanshb03",
