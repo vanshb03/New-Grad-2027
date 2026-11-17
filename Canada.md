@@ -44,6 +44,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Senstar** | Machine Learning Developer | Waterloo, Canada | <a href="https://go.vansh.nyc/1B2?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
+| **Kraun Electric** | Junior Software Developer | St. Catharines, Canada | <a href="https://go.vansh.nyc/1B4?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
+| **Flexspring** | New Grad: AI Model Training and Deployment Developer | Montreal, Canada | <a href="https://go.vansh.nyc/1B5?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | **AMD** | Silicon Design Engineer | Markham, Canada | <a href="https://go.vansh.nyc/1AU?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | **American Express** | New Grad 2027: Software Engineer I, Enterprise Technology Services | Toronto, Canada | <a href="https://go.vansh.nyc/1Ab?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | **Miraterra** | Associate Software Developer | Toronto, Canada | <a href="https://go.vansh.nyc/1At?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
