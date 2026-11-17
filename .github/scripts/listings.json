@@ -35099,13 +35099,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794498221,
+        "date_updated": 1794941635,
         "url": "https://go.vansh.nyc/1wA",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "JBT Marel",
         "title": "Software Engineer",
         "source": "vanshb03",
