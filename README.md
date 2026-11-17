@@ -251,7 +251,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **TikTok** | New Grad 2027: Machine Learning Engineer, E-Commerce Recommendation Mall | Seattle, WA | <a href="https://go.vansh.nyc/16r?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | **TikTok** | New Grad 2027: Software Engineer (Global E-commerce-Search) | Seattle, WA | <a href="https://go.vansh.nyc/16s?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | **TikTok** | New Grad 2027: AI Systems Engineer (AI Code Infrastructure-Agentic Ops US) | San Jose, CA | <a href="https://go.vansh.nyc/16t?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
-| **TikTok** | New Grad 2027: Backend Engineer, User Growth | San Jose, CA | <a href="https://go.vansh.nyc/16u?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | **TikTok** | New Grad 2027: Machine Learning Engineer, TikTok-Data-Search-Recommendation 🛂 | San Jose, CA | <a href="https://go.vansh.nyc/16v?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | **TikTok** | New Grad 2027: Recommendation Architecture AI/ML Infrastructure Engineer, Data-Arch-TikTok Live | San Jose, CA | <a href="https://go.vansh.nyc/16x?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | **TikTok** | New Grad 2027: Backend Software Engineer, Global E-commerce | San Jose, CA | <a href="https://go.vansh.nyc/16y?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
@@ -913,6 +912,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Fireworks AI** | New Grad 2027: Member of Technical Staff | San Mateo, CA | 🔒 | Nov 02 |
 | **Decagon** | New Grad 2027: Member of Technical Staff | San Francisco, CA | 🔒 | Nov 02 |
 | **Aprio** | AI & Automation Associate | Atlanta, GA | 🔒 | Nov 02 |
+| **TikTok** | New Grad 2027: Backend Engineer, User Growth | San Jose, CA | 🔒 | Nov 01 |
 | **TikTok** | New Grad 2027: Research Scientist (Ads Creative) (Master's) | San Jose, CA | 🔒 | Nov 01 |
 | **TikTok** | New Grad 2027: Backend Software Engineer (Risk & Response) | Seattle, WA | 🔒 | Nov 01 |
 | **TikTok** | New Grad 2027: Software Engineer, Ads Infrastructure | San Jose, CA | 🔒 | Nov 01 |
