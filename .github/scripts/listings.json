@@ -36028,5 +36028,37 @@
         "date_posted": 1794873600,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794950525,
+        "url": "https://go.vansh.nyc/1Bv",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "QuaverEd",
+        "title": "Junior Developer - AI Team",
+        "source": "vanshb03",
+        "id": "3e4ebfac-e285-4c88-8f9c-8168bd3f5c5a",
+        "date_posted": 1794950276,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794950525,
+        "url": "https://go.vansh.nyc/1Bw",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Canonical",
+        "title": "New Grad 2027: Graduate Software Engineer - Open Source and Linux",
+        "source": "vanshb03",
+        "id": "b4a1eeaa-8356-41e7-a44e-39bb8ec6a88c",
+        "date_posted": 1794863876,
+        "company_url": "",
+        "is_visible": true
     }
 ]
