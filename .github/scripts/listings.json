@@ -35900,5 +35900,21 @@
         "date_posted": 1794871977,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794878553,
+        "url": "https://go.vansh.nyc/1AM",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Federal Reserve System",
+        "title": "New Grad 2027: Quantitative Fellowship Program (Master's)",
+        "source": "vanshb03",
+        "id": "5fec3b17-2712-4c72-a047-3d1f72cb783a",
+        "date_posted": 1794874733,
+        "company_url": "",
+        "is_visible": true
     }
 ]
