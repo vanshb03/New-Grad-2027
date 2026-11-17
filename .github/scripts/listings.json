@@ -23821,7 +23821,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793027000,
+        "date_updated": 1794937770,
         "url": "https://go.vansh.nyc/OX",
         "locations": [
             "Seattle, WA",
@@ -23831,7 +23831,7 @@
             "Mountain View, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Atoms",
         "title": "New Grad 2027: Software Engineer",
         "source": "vanshb03",
