@@ -455,7 +455,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Performance Software** | Software Engineer | Cedar Rapids, IA | <a href="https://go.vansh.nyc/UK?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | **Palantir** | Software Engineer, Query Engines | New York, NY | <a href="https://go.vansh.nyc/Az?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | **Oshkosh** | Software Engineer | Oshkosh, WI | <a href="https://go.vansh.nyc/AJ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
-| **Johns Hopkins Applied Physics Laboratory** | New Grad 2027: Cybersecurity Software Engineer - Cyber Concepts | Laurel, MD | <a href="https://go.vansh.nyc/AH?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | **Intel** | SoC Design Verification Engineer (Master's) | Hillsboro, OR</br>Folsom, CA</br>Fort Collins, CO | <a href="https://go.vansh.nyc/Tn?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | **Intel** | IP Design Verification Engineer | Santa Clara, CA</br>Worcester, MA | <a href="https://go.vansh.nyc/To?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | **College Board** | Software Engineer I | Remote | <a href="https://go.vansh.nyc/B0?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
@@ -1017,6 +1016,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Mastercard** | Software Engineer I | O'Fallon, MO | 🔒 | Oct 22 |
 | **L3Harris Technologies** | New Grad 2027: Associate Software Engineer | Colorado Springs, CO | 🔒 | Oct 22 |
 | **KLA** | Software Engineer 1 | Remote | 🔒 | Oct 22 |
+| **Johns Hopkins Applied Physics Laboratory** | New Grad 2027: Cybersecurity Software Engineer - Cyber Concepts | Laurel, MD | 🔒 | Oct 22 |
 | **Johns Hopkins Applied Physics Laboratory** | New Grad 2027: Software Engineer, Applications, Analysis, and Services Group | Laurel, MD | 🔒 | Oct 22 |
 | **GlobalFoundries** | New Grad 2027: AI Software Engineer | Santa Clara, CA</br>Richardson, TX | 🔒 | Oct 22 |
 | **GlobalFoundries** | New Grad 2027: AI/ML Systems Engineer | Richardson, TX | 🔒 | Oct 22 |
