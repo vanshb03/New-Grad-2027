@@ -18879,13 +18879,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1792698816,
+        "date_updated": 1794934243,
         "url": "https://go.vansh.nyc/AH",
         "locations": [
             "Laurel, MD"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "title": "New Grad 2027: Cybersecurity Software Engineer - Cyber Concepts",
         "source": "vanshb03",
