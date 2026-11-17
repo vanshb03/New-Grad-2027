@@ -41,6 +41,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Jobgether** | New Grad 2027: Software Engineer, Open Source and Linux | Remote | <a href="https://go.vansh.nyc/1B9?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | **Federal Reserve System** | New Grad 2027: Quantitative Fellowship Program (Master's) | Minneapolis, MN | <a href="https://go.vansh.nyc/1AM?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | **All Options** | New Grad 2027: Quantitative Researcher | Austin, TX | <a href="https://go.vansh.nyc/1B3?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | **Silna Health** | AI Deployment Analyst | New York, NY | <a href="https://go.vansh.nyc/1AG?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
