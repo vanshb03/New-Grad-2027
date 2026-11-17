@@ -35932,5 +35932,69 @@
         "date_posted": 1794873840,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794903843,
+        "url": "https://go.vansh.nyc/1B2",
+        "locations": [
+            "Waterloo, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Senstar",
+        "title": "Machine Learning Developer",
+        "source": "vanshb03",
+        "id": "b51f7cf1-92c7-47e6-8921-eda89b49c9ea",
+        "date_posted": 1794899818,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794903843,
+        "url": "https://go.vansh.nyc/1B3",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "All Options",
+        "title": "New Grad 2027: Quantitative Researcher",
+        "source": "vanshb03",
+        "id": "c6a1dfbf-b4bd-4711-b6e0-63d98458f976",
+        "date_posted": 1794899057,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794903843,
+        "url": "https://go.vansh.nyc/1B4",
+        "locations": [
+            "St. Catharines, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Kraun Electric",
+        "title": "Junior Software Developer",
+        "source": "vanshb03",
+        "id": "c209507f-a634-40e3-aa3f-afc5a5110ed8",
+        "date_posted": 1794902183,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794903843,
+        "url": "https://go.vansh.nyc/1B5",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Flexspring",
+        "title": "New Grad: AI Model Training and Deployment Developer",
+        "source": "vanshb03",
+        "id": "ecb89dfe-5d78-4d8a-b01b-e60156b27b1b",
+        "date_posted": 1794901132,
+        "company_url": "",
+        "is_visible": true
     }
 ]
