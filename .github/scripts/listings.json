@@ -20811,13 +20811,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793018234,
+        "date_updated": 1795029872,
         "url": "https://go.vansh.nyc/HK",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Affirm",
         "title": "Software Engineer 1",
         "source": "vanshb03",
@@ -20843,14 +20843,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793018234,
+        "date_updated": 1795029872,
         "url": "https://go.vansh.nyc/HM",
         "locations": [
             "San Francisco, CA",
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Affirm",
         "title": "Software Engineer 1",
         "source": "vanshb03",
