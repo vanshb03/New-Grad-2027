@@ -19952,13 +19952,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793014740,
+        "date_updated": 1795038895,
         "url": "https://go.vansh.nyc/Dk",
         "locations": [
             "Cary, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CWILL",
         "title": "Loyalty & Referrals R&D Trainee",
         "source": "vanshb03",
@@ -36348,6 +36348,22 @@
         "source": "vanshb03",
         "id": "6054bb8d-d1b9-4d18-9704-df7278e18f08",
         "date_posted": 1795021455,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795038734,
+        "url": "https://go.vansh.nyc/1Cs",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Raytheon Technologies",
+        "title": "Embedded Software Developer I",
+        "source": "vanshb03",
+        "id": "7aafa4f5-0abd-43f5-aca6-e1933eddae09",
+        "date_posted": 1794952064,
         "company_url": "",
         "is_visible": true
     }
