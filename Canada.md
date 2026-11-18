@@ -64,7 +64,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **PRI Engineering** | Junior Software Developer | Mississauga, Canada | <a href="https://go.vansh.nyc/1e2?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | **PRI Engineering** | Junior Software Developer | Calgary, Canada | <a href="https://go.vansh.nyc/1e3?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | **Ciena** | New Grad: Photonic Card Software Developer | Ottawa, Canada | <a href="https://go.vansh.nyc/10O?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
-| **Neon** | New Grad 2027: Software Engineer | <details><summary>**4 locations**</summary>San Francisco, CA</br>Mountain View, CA</br>Bellevue, WA</br>Vancouver, Canada</details> | <a href="https://go.vansh.nyc/YJ?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | **Ciena** | New Grad: Routing/IP Software Engineer | Ottawa, Canada | <a href="https://go.vansh.nyc/Ym?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | **Charles River Associates (CRA)** | New Grad 2027: Cyber & Forensic Technology Consulting Analyst/Associate | Toronto, Canada | <a href="https://go.vansh.nyc/WY?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | **Didero** | Forward Deployed Engineer | Toronto, Canada | <a href="https://go.vansh.nyc/1uf?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
@@ -108,6 +107,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Genesys** | Associate Software Developer in Test | Toronto, Canada | 🔒 | Oct 30 |
 | **Thoughtworks** | Associate Developer | Toronto, Canada | 🔒 | Oct 29 |
 | **NAV CANADA** | Business Automation Developer | Ottawa, Canada | 🔒 | Oct 29 |
+| **Neon** | New Grad 2027: Software Engineer | <details><summary>**4 locations**</summary>San Francisco, CA</br>Mountain View, CA</br>Bellevue, WA</br>Vancouver, Canada</details> | 🔒 | Oct 28 |
 | **American Express** | New Grad 2027: Engineer, AI Engineering, Enterprise Technology Services (Master's) | Ca, Canada | 🔒 | Oct 28 |
 | **Databricks** | New Grad 2027: Software Engineer | <details><summary>**4 locations**</summary>Bellevue, WA</br>Mountain View, CA</br>San Francisco, CA</br>Vancouver, Canada</details> | 🔒 | Oct 27 |
 | **Motorola Solutions** | Junior Software Engineer - Emergency Call Handling | Gatineau, Canada</br>Ottawa, Canada | 🔒 | Oct 26 |
