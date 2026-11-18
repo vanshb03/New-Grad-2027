@@ -88,8 +88,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Atlassian** | New Grad 2027: Software Engineer | Burnaby, Canada</br>Vancouver, Canada</br>Richmond, Canada | <a href="https://go.vansh.nyc/Ku?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | **Viggle AI** | New Grad: Full-Stack Software Engineer - AI & 3D Creator Tools | Toronto, Canada | <a href="https://go.vansh.nyc/1u7?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 16 |
 | **Capital de Recherche Tower** | New Grad: C++ Software Developer | Montreal, Canada | <a href="https://go.vansh.nyc/1ua?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
-| **General Dynamics Mission Systems** | Junior Hardware Engineering Developer, FPGA | Ottawa, Canada | <a href="https://go.vansh.nyc/Oa?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 04 |
-| **General Dynamics UK** | Junior Hardware Engineer Developer, FPGA | Ottawa, Canada | <a href="https://go.vansh.nyc/NN?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
 | **Cerebras** | DevOps Engineer | Toronto, Canada | <a href="https://go.vansh.nyc/OU?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
 | **Ciena** | Embedded Software Engineer | Ottawa, Canada | <a href="https://go.vansh.nyc/Pi?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 24 |
 | **Quadient** | Software Engineer | Vancouver, Canada | <a href="https://go.vansh.nyc/vj?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
@@ -120,6 +118,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **AMD** | Software System Designer | Markham, Canada | 🔒 | Sep 28 |
 | **AMD** | Silicon Design Engineer | Markham, Canada | 🔒 | Sep 28 |
 | **Tower Research Capital** | C++ Software Developer, Rotational Program | Montreal, Canada | 🔒 | Sep 15 |
+| **General Dynamics Mission Systems** | Junior Hardware Engineering Developer, FPGA | Ottawa, Canada | 🔒 | Sep 04 |
+| **General Dynamics UK** | Junior Hardware Engineer Developer, FPGA | Ottawa, Canada | 🔒 | Sep 03 |
 | **Zip** | New Grad 2027: Software Engineer | Toronto, Canada | 🔒 | Sep 01 |
 | **Cohere** | Member of Technical Staff, MLE | <details><summary>**5 locations**</summary>San Francisco, CA</br>New York, NY</br>Toronto, Canada</br>Montreal, Canada</br>Remote</details> | 🔒 | Jan 09 |
 | **Magical** | New Grad: Junior Software Engineer, AI | San Francisco, CA</br>Toronto, Canada | 🔒 | Dec 12 |
