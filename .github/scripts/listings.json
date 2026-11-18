@@ -23285,13 +23285,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793025545,
+        "date_updated": 1795035285,
         "url": "https://go.vansh.nyc/NN",
         "locations": [
             "Ottawa, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "General Dynamics UK",
         "title": "Junior Hardware Engineer Developer, FPGA",
         "source": "vanshb03",
@@ -23661,13 +23661,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793025546,
+        "date_updated": 1795035285,
         "url": "https://go.vansh.nyc/Oa",
         "locations": [
             "Ottawa, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "General Dynamics Mission Systems",
         "title": "Junior Hardware Engineering Developer, FPGA",
         "source": "vanshb03",
