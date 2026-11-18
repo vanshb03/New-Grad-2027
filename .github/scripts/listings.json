@@ -36254,5 +36254,21 @@
         "date_posted": 1794885475,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794975644,
+        "url": "https://go.vansh.nyc/1C5",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cisco",
+        "title": "Technical Product Management Specialist I (Master's)",
+        "source": "vanshb03",
+        "id": "7c1a957b-fae2-4bff-91ab-f5acaa6c86e0",
+        "date_posted": 1794974273,
+        "company_url": "",
+        "is_visible": true
     }
 ]
