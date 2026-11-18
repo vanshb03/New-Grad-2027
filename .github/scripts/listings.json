@@ -32094,13 +32094,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793844930,
+        "date_updated": 1795020868,
         "url": "https://go.vansh.nyc/1hr",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cisco",
         "title": "Software Engineer Full Stack / Backend I",
         "source": "vanshb03",
