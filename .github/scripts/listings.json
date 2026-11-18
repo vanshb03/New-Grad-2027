@@ -22149,7 +22149,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793023324,
+        "date_updated": 1795026180,
         "url": "https://go.vansh.nyc/KP",
         "locations": [
             "San Jose, CA",
@@ -22157,7 +22157,7 @@
             "Durham, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Analog Devices",
         "title": "Associate Embedded Software Engineer",
         "source": "vanshb03",
