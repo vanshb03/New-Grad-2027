@@ -36334,5 +36334,21 @@
         "date_posted": 1795015832,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795022372,
+        "url": "https://go.vansh.nyc/1Cf",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Software Engineer I",
+        "source": "vanshb03",
+        "id": "6054bb8d-d1b9-4d18-9704-df7278e18f08",
+        "date_posted": 1795021455,
+        "company_url": "",
+        "is_visible": true
     }
 ]
