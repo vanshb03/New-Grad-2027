@@ -51,6 +51,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Utilidata** | Embedded Firmware Engineer | Remote | <a href="https://go.vansh.nyc/1BT?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | **RTX** | Software Engineer I | Cedar Rapids, IA | <a href="https://go.vansh.nyc/1Ca?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | **Relativity Space** | Software Engineer I, Factory Platform | Long Beach, CA | <a href="https://go.vansh.nyc/1BH?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
+| **Raytheon Technologies** | Embedded Software Developer I 🇺🇸 | El Segundo, CA | <a href="https://go.vansh.nyc/1Cs?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | **Peraton** | New Grad 2027: Entry-Level Software Engineer - Ignite Innovator Program | Blacksburg, VA | <a href="https://go.vansh.nyc/1Bi?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | **Mirantis** | New Grad: Software Engineer - Backend - Go | Raleigh, NC | <a href="https://go.vansh.nyc/1BV?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | **Micron Technology** | Software Engineer | Boise, ID | <a href="https://go.vansh.nyc/1C3?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
@@ -551,7 +552,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Rovisys** | New Grad 2027: Engineer/Developer | Dublin, OH | <a href="https://go.vansh.nyc/DM?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
 | **KLA** | Software Engineer 1 | Ann Arbor, MI | <a href="https://go.vansh.nyc/Dj?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
 | **Johns Hopkins Applied Physics Laboratory** | New Grad 2027: Engineer/Analyst for ISRT and BMC2 Applications | Laurel, MD | <a href="https://go.vansh.nyc/Dm?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
-| **CWILL** | Loyalty & Referrals R&D Trainee | Cary, NC | <a href="https://go.vansh.nyc/Dk?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
 | **CWILL** | AI SEO R&D Trainee - Multiple Teams | Cary, NC | <a href="https://go.vansh.nyc/Dl?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
 | **Cricut** | Firmware Engineer | South Jordan, UT | <a href="https://go.vansh.nyc/Dn?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
 | **Axtria** | New Grad 2027: AI & Data Associate | Berkeley Heights, NJ | <a href="https://go.vansh.nyc/Di?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
@@ -1071,6 +1071,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **NVIDIA** | New Grad 2027: Low Power ASIC Engineer | Santa Clara, CA | 🔒 | Oct 13 |
 | **NVIDIA** | SRAM Circuit Design Engineer (Master's) | Santa Clara, CA | 🔒 | Oct 13 |
 | **Fiserv** | Android Application Framework Developer - Device Engineering | Sunnyvale, CA | 🔒 | Oct 13 |
+| **CWILL** | Loyalty & Referrals R&D Trainee | Cary, NC | 🔒 | Oct 13 |
 | **General Motors** | New Grad 2027: Semiconductors and Compute Platforms Researcher, SoC/MCU Semiconductor Systems (Master's) | Warren, MI | 🔒 | Oct 12 |
 | **Shield AI** | New Grad: Software Test and Automation Engineer | Washington, DC | 🔒 | Oct 11 |
 | **ALTEN Technology USA** | SAP ABAP & BTP Full Stack Developer | Irvine, CA | 🔒 | Oct 11 |
