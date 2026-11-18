@@ -30904,13 +30904,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793526377,
+        "date_updated": 1795017103,
         "url": "https://go.vansh.nyc/17o",
         "locations": [
             "Cambridge, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Amazon",
         "title": "Software Development Engineer",
         "source": "vanshb03",
@@ -36300,6 +36300,22 @@
         "source": "vanshb03",
         "id": "590ef3c7-5bab-41dc-b6ad-27bd3157ba75",
         "date_posted": 1794923237,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795017004,
+        "url": "https://go.vansh.nyc/1Cc",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Adyen",
+        "title": "Junior Full-Stack Developer, Docs Experience Engineering Team",
+        "source": "vanshb03",
+        "id": "2af7779e-b297-4394-bbe3-140e1763ffb4",
+        "date_posted": 1794960000,
         "company_url": "",
         "is_visible": true
     }
