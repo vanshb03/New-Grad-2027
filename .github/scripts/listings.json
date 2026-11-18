@@ -32629,13 +32629,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793953083,
+        "date_updated": 1794968834,
         "url": "https://go.vansh.nyc/1k0",
         "locations": [
             "Cupertino, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Amazon",
         "title": "Software Development Engineer, SoC Hardware Abstraction Layer",
         "source": "vanshb03",
@@ -36220,6 +36220,22 @@
         "source": "vanshb03",
         "id": "d585431d-e2f2-4809-9f18-d54e0c2091c0",
         "date_posted": 1794961388,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794968692,
+        "url": "https://go.vansh.nyc/1C2",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "New Grad 2027: Software Development Engineer, Robotics",
+        "source": "vanshb03",
+        "id": "9a12e36f-50b3-4517-ac49-7756fc90877d",
+        "date_posted": 1794968436,
         "company_url": "",
         "is_visible": true
     }
