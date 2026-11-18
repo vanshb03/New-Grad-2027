@@ -26604,7 +26604,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793138951,
+        "date_updated": 1795024429,
         "url": "https://go.vansh.nyc/WA",
         "locations": [
             "Bellevue, WA",
@@ -26613,7 +26613,7 @@
             "Vancouver, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Databricks",
         "title": "New Grad 2027: Software Engineer",
         "source": "vanshb03",
@@ -26623,14 +26623,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793138951,
+        "date_updated": 1795024429,
         "url": "https://go.vansh.nyc/WB",
         "locations": [
             "Bellevue, WA",
             "Mountain View, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Databricks",
         "title": "New Grad 2027: Software Engineer, Distributed Data Systems",
         "source": "vanshb03",
