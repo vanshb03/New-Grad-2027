@@ -36108,5 +36108,119 @@
         "date_posted": 1794958247,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794961651,
+        "url": "https://go.vansh.nyc/1BS",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microchip Technology",
+        "title": "Engineer 1 - Verification",
+        "source": "vanshb03",
+        "id": "d6b80cae-35f6-4d99-bc87-85868f142bef",
+        "date_posted": 1794873600,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794961651,
+        "url": "https://go.vansh.nyc/1BT",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Utilidata",
+        "title": "Embedded Firmware Engineer",
+        "source": "vanshb03",
+        "id": "de099ed7-2848-42b5-81cc-e4e16c2f011d",
+        "date_posted": 1794959196,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794961651,
+        "url": "https://go.vansh.nyc/1BU",
+        "locations": [
+            "San Francisco, CA",
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Atoms",
+        "title": "New Grad: AI Researcher",
+        "source": "vanshb03",
+        "id": "5d140cff-9645-45fd-b2b9-e37a9821c4c0",
+        "date_posted": 1794946090,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794961651,
+        "url": "https://go.vansh.nyc/1BV",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Mirantis",
+        "title": "New Grad: Software Engineer - Backend - Go",
+        "source": "vanshb03",
+        "id": "d4c77f2e-4abd-4b51-8886-f57c2bf5983d",
+        "date_posted": 1794957577,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794961651,
+        "url": "https://go.vansh.nyc/1BW",
+        "locations": [
+            "San Francisco, CA",
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Atoms",
+        "title": "New Grad: AI Researcher",
+        "source": "vanshb03",
+        "id": "53061784-9cc7-43c4-bc64-91bf5f781748",
+        "date_posted": 1794946092,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794961651,
+        "url": "https://go.vansh.nyc/1BX",
+        "locations": [
+            "Spring, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "HPE",
+        "title": "AI Automation Engineer",
+        "source": "vanshb03",
+        "id": "1044414d-5310-48ae-998e-72ddee728c14",
+        "date_posted": 1794960700,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1794961651,
+        "url": "https://go.vansh.nyc/1BY",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "General Matter",
+        "title": "New Grad: Automation & Controls Engineer",
+        "source": "vanshb03",
+        "id": "d585431d-e2f2-4809-9f18-d54e0c2091c0",
+        "date_posted": 1794961388,
+        "company_url": "",
+        "is_visible": true
     }
 ]
