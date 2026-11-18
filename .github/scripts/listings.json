@@ -36318,5 +36318,21 @@
         "date_posted": 1794960000,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795018931,
+        "url": "https://go.vansh.nyc/1Ce",
+        "locations": [
+            "Galesburg, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cummins",
+        "title": "New Grad 2027: Electronic Systems Engineer - Software",
+        "source": "vanshb03",
+        "id": "5efc4b7a-58a7-4ed7-8941-3a7a4ba677f2",
+        "date_posted": 1795015832,
+        "company_url": "",
+        "is_visible": true
     }
 ]
