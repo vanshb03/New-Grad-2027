@@ -36238,5 +36238,21 @@
         "date_posted": 1794968436,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1794972040,
+        "url": "https://go.vansh.nyc/1C3",
+        "locations": [
+            "Boise, ID"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Micron Technology",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "2273a2fa-d0fb-449a-b1fa-0abd15a3ea32",
+        "date_posted": 1794885475,
+        "company_url": "",
+        "is_visible": true
     }
 ]
