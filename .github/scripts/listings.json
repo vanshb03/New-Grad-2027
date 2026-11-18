@@ -36286,5 +36286,21 @@
         "date_posted": 1794914335,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795009877,
+        "url": "https://go.vansh.nyc/1Cb",
+        "locations": [
+            "Lemont, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Argonne National Laboratory",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "590ef3c7-5bab-41dc-b6ad-27bd3157ba75",
+        "date_posted": 1794923237,
+        "company_url": "",
+        "is_visible": true
     }
 ]
