@@ -27182,14 +27182,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793243411,
+        "date_updated": 1795028283,
         "url": "https://go.vansh.nyc/YI",
         "locations": [
             "Mountain View, CA",
             "Bellevue, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Neon",
         "title": "New Grad 2027: Software Engineer, Distributed Data Systems",
         "source": "vanshb03",
@@ -27199,7 +27199,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793243412,
+        "date_updated": 1795028283,
         "url": "https://go.vansh.nyc/YJ",
         "locations": [
             "San Francisco, CA",
@@ -27208,7 +27208,7 @@
             "Vancouver, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Neon",
         "title": "New Grad 2027: Software Engineer",
         "source": "vanshb03",
@@ -35516,13 +35516,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794599039,
+        "date_updated": 1795028283,
         "url": "https://go.vansh.nyc/1z3",
         "locations": [
             "Colorado Springs, CO"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Northrop Grumman",
         "title": "New Grad 2027: Associate Software Engineer, Pathways",
         "source": "vanshb03",
@@ -35532,13 +35532,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794599039,
+        "date_updated": 1795028283,
         "url": "https://go.vansh.nyc/1z4",
         "locations": [
             "Boulder, CO"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Northrop Grumman",
         "title": "New Grad 2027: Associate Software Engineer, Pathways",
         "source": "vanshb03",
