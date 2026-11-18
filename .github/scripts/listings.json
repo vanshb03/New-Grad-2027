@@ -35195,13 +35195,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794510863,
+        "date_updated": 1795044302,
         "url": "https://go.vansh.nyc/1wS",
         "locations": [
             "Huntsville, AL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Leidos",
         "title": "Network and Systems Engineer",
         "source": "vanshb03",
@@ -35291,13 +35291,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794527277,
+        "date_updated": 1795044302,
         "url": "https://go.vansh.nyc/1y9",
         "locations": [
             "Tucson, AZ"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Leidos",
         "title": "Software Engineer",
         "source": "vanshb03",
