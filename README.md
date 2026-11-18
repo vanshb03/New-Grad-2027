@@ -428,7 +428,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Johns Hopkins APL** | New Grad 2027: Cybersecurity Engineer, Critical Infrastructure Protection | Laurel, MD | <a href="https://go.vansh.nyc/Wt?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | **ID.me** | New Grad 2027: General Program | Mountain View, CA | <a href="https://go.vansh.nyc/W3?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | **Emerson Electric** | Software Engineer | Austin, TX | <a href="https://go.vansh.nyc/WK?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
-| **Databricks** | New Grad 2027: Software Engineer, Distributed Data Systems | Bellevue, WA</br>Mountain View, CA | <a href="https://go.vansh.nyc/WB?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | **Cerebras** | CoDesign & NextGen | Sunnyvale, CA | <a href="https://go.vansh.nyc/Vo?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | **Cerebras** | New Grad: Kernel Engineer | Sunnyvale, CA | <a href="https://go.vansh.nyc/Vp?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | **Agave** | New Grad: Full-Stack Software Engineer | San Francisco, CA | <a href="https://go.vansh.nyc/Xc?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
@@ -1000,6 +999,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **General Motors** | Software Verification Engineer, AV Platform | Milford, MI</br>Warren, MI | 🔒 | Oct 27 |
 | **GE Vernova** | New Grad: AI Engineer 🛂 | Greenville, SC | 🔒 | Oct 27 |
 | **GE Vernova** | Data Scientist 🛂 | Greenville, SC | 🔒 | Oct 27 |
+| **Databricks** | New Grad 2027: Software Engineer, Distributed Data Systems | Bellevue, WA</br>Mountain View, CA | 🔒 | Oct 27 |
 | **CrossCountry Consulting** | New Grad: Forward Deployed Software Engineer | Chicago, IL | 🔒 | Oct 27 |
 | **CrossCountry Consulting** | New Grad: Forward Deployed Software Engineer | Chicago, IL | 🔒 | Oct 27 |
 | **CoStar Group** | New Grad 2027: Associate Software Engineer | Irvine, CA | 🔒 | Oct 27 |
