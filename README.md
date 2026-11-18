@@ -584,8 +584,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Mach Industries** | Software Engineer 🛂 | Huntington Beach, CA | <a href="https://go.vansh.nyc/HI?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | **Astera Labs** | New Grad: Data Analyst | San Jose, CA | <a href="https://go.vansh.nyc/1un?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | **Astera Labs** | Applied AI (Non Silicon) | San Jose, CA | <a href="https://go.vansh.nyc/HG?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
-| **Affirm** | Software Engineer 1 | New York, NY | <a href="https://go.vansh.nyc/HK?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
-| **Affirm** | Software Engineer 1 | San Francisco, CA</br>New York, NY | <a href="https://go.vansh.nyc/HM?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | **Auto-Owners Insurance** | COBOL Software Developer 🛂 | Lansing, MI | <a href="https://go.vansh.nyc/HE?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
 | **Atlassian** | New Grad 2027: Data Engineer | Seattle, WA | <a href="https://go.vansh.nyc/1u2?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
 | **Pinterest** | Master's University Graduate Data Scientist | <details><summary>**4 locations**</summary>Palo Alto, CA</br>Seattle, WA</br>San Francisco, CA</br>New York, NY</details> | <a href="https://go.vansh.nyc/1tZ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 01 |
@@ -1088,6 +1086,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **NVIDIA** | New Grad 2027: GPU PCIe and Boot Architect | Austin, TX</br>Santa Clara, CA | 🔒 | Oct 06 |
 | **NVIDIA** | Formal Verification Engineer | Santa Clara, CA | 🔒 | Oct 06 |
 | **Canonical** | Software Engineer, Open Source and Linux | Remote | 🔒 | Oct 06 |
+| **Affirm** | Software Engineer 1 | New York, NY | 🔒 | Oct 06 |
+| **Affirm** | Software Engineer 1 | San Francisco, CA</br>New York, NY | 🔒 | Oct 06 |
 | **Interdigital** | Research Engineer, 6G AI-Enabled Systems and Testbeds (Master's) | Conshohocken, PA | 🔒 | Oct 02 |
 | **Harvey** | New Grad 2027: Software Engineer | San Francisco, CA | 🔒 | Oct 02 |
 | **Harvey** | New Grad 2027: Software Engineer | New York, NY | 🔒 | Oct 02 |
