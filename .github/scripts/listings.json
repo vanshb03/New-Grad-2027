@@ -36030,13 +36030,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794950525,
+        "date_updated": 1795031590,
         "url": "https://go.vansh.nyc/1Bv",
         "locations": [
             "Nashville, TN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "QuaverEd",
         "title": "Junior Developer - AI Team",
         "source": "vanshb03",
