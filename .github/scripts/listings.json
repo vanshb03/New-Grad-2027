@@ -36558,5 +36558,37 @@
         "date_posted": 1795119399,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795121543,
+        "url": "https://go.vansh.nyc/1D4",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SpaceX",
+        "title": "Backend Software Engineer, GNC",
+        "source": "vanshb03",
+        "id": "eb0da105-f983-42b1-85f4-2723187d0458",
+        "date_posted": 1795121320,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795121543,
+        "url": "https://go.vansh.nyc/1D5",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SpaceX",
+        "title": "Software Engineer, Alerts",
+        "source": "vanshb03",
+        "id": "078b6818-fc81-4d2f-a236-ec54696f1971",
+        "date_posted": 1795121320,
+        "company_url": "",
+        "is_visible": true
     }
 ]
