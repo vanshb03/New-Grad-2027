@@ -36478,5 +36478,21 @@
         "date_posted": 1795094131,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795101649,
+        "url": "https://go.vansh.nyc/1CO",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GlobalFoundries",
+        "title": "New Grad 2027: Design-for-Test Engineer",
+        "source": "vanshb03",
+        "id": "b13d101a-4258-4259-b667-e3cb547872c6",
+        "date_posted": 1795100297,
+        "company_url": "",
+        "is_visible": true
     }
 ]
