@@ -36382,5 +36382,37 @@
         "date_posted": 1795044843,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795062105,
+        "url": "https://go.vansh.nyc/1CH",
+        "locations": [
+            "Littleton, CO"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Lockheed Martin",
+        "title": "Embedded Software Engineer",
+        "source": "vanshb03",
+        "id": "012cbd61-9586-48d1-ad35-dbd516313c1b",
+        "date_posted": 1795061910,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795062105,
+        "url": "https://go.vansh.nyc/1CI",
+        "locations": [
+            "Littleton, CO"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Lockheed Martin",
+        "title": "Embedded Software Engineer",
+        "source": "vanshb03",
+        "id": "a1753554-257c-46aa-a37c-d681a5289da4",
+        "date_posted": 1795061910,
+        "company_url": "",
+        "is_visible": true
     }
 ]
