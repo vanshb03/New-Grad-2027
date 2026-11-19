@@ -19510,13 +19510,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1792732377,
+        "date_updated": 1795103626,
         "url": "https://go.vansh.nyc/Bi",
         "locations": [
             "Chandler, AZ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Applied Materials",
         "title": "Software Engineer (Master's)",
         "source": "vanshb03",
@@ -19734,7 +19734,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1792812025,
+        "date_updated": 1795103626,
         "url": "https://go.vansh.nyc/Bw",
         "locations": [
             "Honolulu, HI",
@@ -19750,7 +19750,7 @@
             "El Segundo, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Booz Allen",
         "title": "New Grad 2027: Data Scientist",
         "source": "vanshb03",
@@ -19824,13 +19824,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793009686,
+        "date_updated": 1795103626,
         "url": "https://go.vansh.nyc/BW",
         "locations": [
             "Lewisville, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Prime Controls",
         "title": "Enterprise Automation Developer",
         "source": "vanshb03",
@@ -35355,13 +35355,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794528724,
+        "date_updated": 1795103626,
         "url": "https://go.vansh.nyc/1yd",
         "locations": [
             "Beavercreek, OH"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Booz Allen",
         "title": "Junior C++ Software Engineer",
         "source": "vanshb03",
@@ -36492,6 +36492,22 @@
         "source": "vanshb03",
         "id": "b13d101a-4258-4259-b667-e3cb547872c6",
         "date_posted": 1795100297,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795103467,
+        "url": "https://go.vansh.nyc/1CR",
+        "locations": [
+            "Newport News, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Huntington Ingalls Industries",
+        "title": "Software Engineer 1",
+        "source": "vanshb03",
+        "id": "19679278-4db6-4a04-bc22-201a59f7c42c",
+        "date_posted": 1795100759,
         "company_url": "",
         "is_visible": true
     }
