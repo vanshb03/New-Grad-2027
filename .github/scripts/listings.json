@@ -35548,13 +35548,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794613693,
+        "date_updated": 1795069423,
         "url": "https://go.vansh.nyc/1zm",
         "locations": [
             "Newport News, VA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Huntington Ingalls Industries",
         "title": "Software Development Engineer 1",
         "source": "vanshb03",
@@ -36412,6 +36412,22 @@
         "source": "vanshb03",
         "id": "a1753554-257c-46aa-a37c-d681a5289da4",
         "date_posted": 1795061910,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795069279,
+        "url": "https://go.vansh.nyc/1CJ",
+        "locations": [
+            "Houston, TX"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "CACI",
+        "title": "Flight Software Development Engineer, NASA Space Reactor \u2013 1 Freedom",
+        "source": "vanshb03",
+        "id": "bc36202c-dfb7-4478-ae8f-702e18051fd2",
+        "date_posted": 1795058350,
         "company_url": "",
         "is_visible": true
     }
