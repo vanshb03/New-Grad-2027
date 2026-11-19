@@ -36590,5 +36590,21 @@
         "date_posted": 1795121320,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795124292,
+        "url": "https://go.vansh.nyc/1D9",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bitdeer",
+        "title": "New Grad 2027: AI Engineering",
+        "source": "vanshb03",
+        "id": "abf9218f-334a-4d3f-bb7c-f7762ce4406d",
+        "date_posted": 1795124103,
+        "company_url": "",
+        "is_visible": true
     }
 ]
