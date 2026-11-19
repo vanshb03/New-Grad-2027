@@ -25085,13 +25085,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793063869,
+        "date_updated": 1795083889,
         "url": "https://go.vansh.nyc/TB",
         "locations": [
             "Verdun, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Bell Canada",
         "title": "New Grad 2027: Technology Services, Delivery, Excellence & Architecture",
         "source": "vanshb03",
@@ -25101,13 +25101,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793063869,
+        "date_updated": 1795083889,
         "url": "https://go.vansh.nyc/TC",
         "locations": [
             "Verdun, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Bell Canada",
         "title": "New Grad 2027: Technology Services, Emerging AI and Data Solutions",
         "source": "vanshb03",
@@ -26138,13 +26138,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793090819,
+        "date_updated": 1795083889,
         "url": "https://go.vansh.nyc/UP",
         "locations": [
             "Verdun, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Bell Canada",
         "title": "New Grad 2027: Technology Services, Product and Initiative Management",
         "source": "vanshb03",
