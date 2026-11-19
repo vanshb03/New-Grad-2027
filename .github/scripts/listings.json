@@ -36430,5 +36430,37 @@
         "date_posted": 1795058350,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795090862,
+        "url": "https://go.vansh.nyc/1CK",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Segment",
+        "title": "Software Engineer, Platform Engineering",
+        "source": "vanshb03",
+        "id": "e54b6d5d-2a32-48df-8f91-85d6fa8182cd",
+        "date_posted": 1795087501,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795090862,
+        "url": "https://go.vansh.nyc/1CL",
+        "locations": [
+            "Roseville, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hpe Simplivity",
+        "title": "Linux Software Engineer",
+        "source": "vanshb03",
+        "id": "ff92a6e1-0d75-4015-a823-2ec340b82cef",
+        "date_posted": 1795086052,
+        "company_url": "",
+        "is_visible": true
     }
 ]
