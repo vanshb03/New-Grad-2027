@@ -36542,5 +36542,21 @@
         "date_posted": 1795021358,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795119597,
+        "url": "https://go.vansh.nyc/1D3",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Post-Silicon Systems Validation Engineer I, Annapurna Labs",
+        "source": "vanshb03",
+        "id": "fd5843f4-7216-449c-948d-c15d78dcb582",
+        "date_posted": 1795119399,
+        "company_url": "",
+        "is_visible": true
     }
 ]
