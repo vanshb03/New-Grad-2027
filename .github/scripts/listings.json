@@ -23461,13 +23461,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793025545,
+        "date_updated": 1795109000,
         "url": "https://go.vansh.nyc/NY",
         "locations": [
             "Greenville, SC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "GE Vernova",
         "title": "AI Engineer",
         "source": "vanshb03",
