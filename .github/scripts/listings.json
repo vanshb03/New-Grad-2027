@@ -36366,5 +36366,21 @@
         "date_posted": 1794952064,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795047649,
+        "url": "https://go.vansh.nyc/1CD",
+        "locations": [
+            "Cary, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CWILL",
+        "title": "AI Agent R&D Trainee - Full-Stack Engineer",
+        "source": "vanshb03",
+        "id": "c818d106-b6a4-4d51-88cf-d37f672129b2",
+        "date_posted": 1795044843,
+        "company_url": "",
+        "is_visible": true
     }
 ]
