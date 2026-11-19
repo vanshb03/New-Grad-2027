@@ -23429,13 +23429,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793025545,
+        "date_updated": 1795126960,
         "url": "https://go.vansh.nyc/NW",
         "locations": [
             "Eden Prairie, MN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Emerson Electric",
         "title": "Embedded Firmware Development Engineer",
         "source": "vanshb03",
