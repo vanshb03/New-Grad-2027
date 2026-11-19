@@ -36510,5 +36510,37 @@
         "date_posted": 1795100759,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795117855,
+        "url": "https://go.vansh.nyc/1CZ",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GlobalFoundries",
+        "title": "New Grad 2027: Analyst, Data Systems and Automation",
+        "source": "vanshb03",
+        "id": "764805a5-1f5b-4099-a50b-054038615a85",
+        "date_posted": 1795116527,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795117855,
+        "url": "https://go.vansh.nyc/1D0",
+        "locations": [
+            "Manchester, NH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DEKA",
+        "title": "Junior Android Developer",
+        "source": "vanshb03",
+        "id": "f4751be1-be50-42a6-8eeb-b45a969c447e",
+        "date_posted": 1795021358,
+        "company_url": "",
+        "is_visible": true
     }
 ]
