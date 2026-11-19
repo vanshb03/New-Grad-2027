@@ -46,11 +46,13 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Lockheed Martin** | Embedded Software Engineer 🇺🇸 | Littleton, CO | <a href="https://go.vansh.nyc/1CI?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | **Huntington Ingalls Industries** | Software Engineer 1 🇺🇸 | Newport News, VA | <a href="https://go.vansh.nyc/1CR?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | **Hpe Simplivity** | Linux Software Engineer | Roseville, CA | <a href="https://go.vansh.nyc/1CL?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
+| **GlobalFoundries** | New Grad 2027: Analyst, Data Systems and Automation | Austin, TX | <a href="https://go.vansh.nyc/1CZ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | **GlobalFoundries** | New Grad 2027: Design-for-Test Engineer | Richardson, TX | <a href="https://go.vansh.nyc/1CO?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | **Eight Sleep** | New Grad: Engineering | New York, NY | <a href="https://go.vansh.nyc/1CM?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | **CACI** | Flight Software Development Engineer, NASA Space Reactor – 1 Freedom 🇺🇸 | Houston, TX | <a href="https://go.vansh.nyc/1CJ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | **RTX** | Software Engineer I 🇺🇸 | Cedar Rapids, IA | <a href="https://go.vansh.nyc/1Cf?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | **General Matter** | New Grad: Automation & Controls Engineer | Los Angeles, CA | <a href="https://go.vansh.nyc/1BY?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
+| **DEKA** | Junior Android Developer | Manchester, NH | <a href="https://go.vansh.nyc/1D0?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | **CWILL** | AI Agent R&D Trainee - Full-Stack Engineer | Cary, NC | <a href="https://go.vansh.nyc/1CD?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | **Cummins** | New Grad 2027: Electronic Systems Engineer - Software | Galesburg, MI | <a href="https://go.vansh.nyc/1Ce?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | **Cisco** | Technical Product Management Specialist I (Master's) | San Jose, CA | <a href="https://go.vansh.nyc/1C5?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
