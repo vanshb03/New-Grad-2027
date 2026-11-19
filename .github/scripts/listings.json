@@ -35115,13 +35115,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794500078,
+        "date_updated": 1795105611,
         "url": "https://go.vansh.nyc/1wB",
         "locations": [
             "Little Rock, AR"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Dillards",
         "title": "COBOL Developer",
         "source": "vanshb03",
