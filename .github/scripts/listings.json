@@ -19590,13 +19590,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1792812025,
+        "date_updated": 1795132604,
         "url": "https://go.vansh.nyc/Bn",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ServiceNow",
         "title": "Associate Software Engineer",
         "source": "vanshb03",
@@ -19776,13 +19776,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1792973552,
+        "date_updated": 1795132604,
         "url": "https://go.vansh.nyc/BI",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ServiceNow",
         "title": "Associate Software Engineer",
         "source": "vanshb03",
@@ -36604,6 +36604,54 @@
         "source": "vanshb03",
         "id": "abf9218f-334a-4d3f-bb7c-f7762ce4406d",
         "date_posted": 1795124103,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795132466,
+        "url": "https://go.vansh.nyc/1DB",
+        "locations": [
+            "Centennial, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "United Launch Alliance",
+        "title": "Ground Software Avionics & Infrastructure Engineer 1",
+        "source": "vanshb03",
+        "id": "e792a827-1e27-4cef-81f9-2c295b6d2e0a",
+        "date_posted": 1795130593,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795132466,
+        "url": "https://go.vansh.nyc/1DC",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Koch Industries",
+        "title": "Software Engineer - AI Agents",
+        "source": "vanshb03",
+        "id": "de826350-5272-43df-baab-c0bfecd3ca60",
+        "date_posted": 1795130632,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795132466,
+        "url": "https://go.vansh.nyc/1DD",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "neurohire.ai",
+        "title": "Forward Deployed Engineer (Master's)",
+        "source": "vanshb03",
+        "id": "3bee9e34-d504-4a17-b591-85f99471f12e",
+        "date_posted": 1795129470,
         "company_url": "",
         "is_visible": true
     }
