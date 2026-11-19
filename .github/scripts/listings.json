@@ -36192,13 +36192,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794961651,
+        "date_updated": 1795055253,
         "url": "https://go.vansh.nyc/1BX",
         "locations": [
             "Spring, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "HPE",
         "title": "AI Automation Engineer",
         "source": "vanshb03",
