@@ -25005,13 +25005,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793063868,
+        "date_updated": 1795116156,
         "url": "https://go.vansh.nyc/Tv",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Old Mission",
         "title": "New Grad 2027: Software Engineer (August Start)",
         "source": "vanshb03",
