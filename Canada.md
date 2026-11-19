@@ -67,7 +67,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Ciena** | New Grad: Routing/IP Software Engineer | Ottawa, Canada | <a href="https://go.vansh.nyc/Ym?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | **Charles River Associates (CRA)** | New Grad 2027: Cyber & Forensic Technology Consulting Analyst/Associate | Toronto, Canada | <a href="https://go.vansh.nyc/WY?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | **Didero** | Forward Deployed Engineer | Toronto, Canada | <a href="https://go.vansh.nyc/1uf?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
-| **Citi** | New Grad 2027: Application Development Technology Analyst | Mississauga, Canada | <a href="https://go.vansh.nyc/Bs?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | **Analog Devices** | Associate Engineer, SDK and Tools Development | Vancouver, Canada | <a href="https://go.vansh.nyc/Bo?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | **Amazon** | Data Engineer | Toronto, Canada | <a href="https://go.vansh.nyc/Bh?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | **Amazon** | New Grad 2027: Software Development Engineer | Vancouver, Canada | <a href="https://go.vansh.nyc/B2?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
@@ -110,6 +109,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Databricks** | New Grad 2027: Software Engineer | <details><summary>**4 locations**</summary>Bellevue, WA</br>Mountain View, CA</br>San Francisco, CA</br>Vancouver, Canada</details> | 🔒 | Oct 27 |
 | **Motorola Solutions** | Junior Software Engineer - Emergency Call Handling | Gatineau, Canada</br>Ottawa, Canada | 🔒 | Oct 26 |
 | **General Motors** | New Grad 2027: Software Test Developer, Propulsion Thermal Management | Markham, Canada | 🔒 | Oct 26 |
+| **Citi** | New Grad 2027: Application Development Technology Analyst | Mississauga, Canada | 🔒 | Oct 24 |
 | **Capital One** | Associate Software Engineer, Card Expansion | Toronto, Canada | 🔒 | Oct 23 |
 | **Cisco** | Software Developer, Embedded Systems I | <details><summary>**6 locations**</summary>Kanata, Canada</br>Laurent, Canada</br>Calgary, Canada</br>Montreal, Canada</br>Vancouver, Canada</br>Ottawa, Canada</details> | 🔒 | Oct 22 |
 | **Cenovus Energy** | New Grad 2027: Process Data Solutions | Calgary, Canada | 🔒 | Oct 22 |
