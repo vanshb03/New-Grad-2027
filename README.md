@@ -41,6 +41,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **SpaceX** | Backend Software Engineer, GNC | Redmond, WA | <a href="https://go.vansh.nyc/1D4?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
+| **SpaceX** | Software Engineer, Alerts | Redmond, WA | <a href="https://go.vansh.nyc/1D5?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | **Segment** | Software Engineer, Platform Engineering | Remote | <a href="https://go.vansh.nyc/1CK?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | **Lockheed Martin** | Embedded Software Engineer 🇺🇸 | Littleton, CO | <a href="https://go.vansh.nyc/1CH?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | **Lockheed Martin** | Embedded Software Engineer 🇺🇸 | Littleton, CO | <a href="https://go.vansh.nyc/1CI?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
