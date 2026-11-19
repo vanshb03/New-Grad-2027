@@ -497,7 +497,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Palantir** | New Grad: Software Engineer, Production Infrastructure | Washington, DC | <a href="https://go.vansh.nyc/U8?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | **Old Mission** | New Grad 2027: Quantitative Trader (February Start) | Chicago, IL</br>New York, NY | <a href="https://go.vansh.nyc/Tt?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | **Old Mission** | New Grad 2027: Quantitative Trader (August Start) | Chicago, IL</br>New York, NY | <a href="https://go.vansh.nyc/Tu?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
-| **Old Mission** | New Grad 2027: Software Engineer (August Start) | Chicago, IL | <a href="https://go.vansh.nyc/Tv?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | **Nuro** | New Grad: Software Engineer, AI Platform | Mountain View, CA | <a href="https://go.vansh.nyc/1ul?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | **NewsBreak** | New Grad: Applied AI Engineer, Advertising Agents | Mountain View, CA | <a href="https://go.vansh.nyc/Uc?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | **Netic** | New Grad 2027: Full-Stack Software Engineer, Product | San Francisco, CA | <a href="https://go.vansh.nyc/Tr?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
@@ -1054,6 +1053,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **SpaceX** | New Grad 2027: Engineer, GNC | Bastrop, TX | 🔒 | Oct 19 |
 | **Seagate** | Embedded Software Engineer I | Longmont, CO | 🔒 | Oct 19 |
 | **Relativity Space** | Software Engineer I, Factory Platform | Long Beach, CA | 🔒 | Oct 19 |
+| **Old Mission** | New Grad 2027: Software Engineer (August Start) | Chicago, IL | 🔒 | Oct 19 |
 | **Netic** | New Grad 2027: Software Engineer, Agent Platform | San Francisco, CA | 🔒 | Oct 19 |
 | **L3Harris Technologies** | Software Engineer | Carlsbad, CA | 🔒 | Oct 19 |
 | **Johns Hopkins Applied Physics Laboratory** | New Grad 2027: Junior AI Platform Engineer | Laurel, MD | 🔒 | Oct 19 |
