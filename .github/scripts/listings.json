@@ -19654,13 +19654,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1792812025,
+        "date_updated": 1795049608,
         "url": "https://go.vansh.nyc/Br",
         "locations": [
             "Jacksonville, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Citi",
         "title": "New Grad 2027: Software Developer, Application Development",
         "source": "vanshb03",
@@ -19670,13 +19670,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1792812025,
+        "date_updated": 1795049608,
         "url": "https://go.vansh.nyc/Bs",
         "locations": [
             "Mississauga, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Citi",
         "title": "New Grad 2027: Application Development Technology Analyst",
         "source": "vanshb03",
@@ -35468,13 +35468,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794586643,
+        "date_updated": 1795049608,
         "url": "https://go.vansh.nyc/1yI",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cisco",
         "title": "Software Engineer Compiler I",
         "source": "vanshb03",
