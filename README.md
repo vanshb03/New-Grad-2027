@@ -44,6 +44,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Segment** | Software Engineer, Platform Engineering | Remote | <a href="https://go.vansh.nyc/1CK?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | **Lockheed Martin** | Embedded Software Engineer 🇺🇸 | Littleton, CO | <a href="https://go.vansh.nyc/1CH?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | **Lockheed Martin** | Embedded Software Engineer 🇺🇸 | Littleton, CO | <a href="https://go.vansh.nyc/1CI?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
+| **Huntington Ingalls Industries** | Software Engineer 1 🇺🇸 | Newport News, VA | <a href="https://go.vansh.nyc/1CR?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | **Hpe Simplivity** | Linux Software Engineer | Roseville, CA | <a href="https://go.vansh.nyc/1CL?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | **GlobalFoundries** | New Grad 2027: Design-for-Test Engineer | Richardson, TX | <a href="https://go.vansh.nyc/1CO?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | **Eight Sleep** | New Grad: Engineering | New York, NY | <a href="https://go.vansh.nyc/1CM?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
@@ -101,7 +102,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Johns Hopkins Applied Physics Laboratory** | New Grad: Mission Modeling, Simulation & Software Engineer | Laurel, MD | <a href="https://go.vansh.nyc/1wC?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | **GlobalFoundries** | New Grad 2027: Tapeout Biz Products & Engineering | Austin, TX | <a href="https://go.vansh.nyc/1w3?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | **Dillards** | COBOL Developer | Little Rock, AR | <a href="https://go.vansh.nyc/1wB?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
-| **Booz Allen** | Junior C++ Software Engineer 🇺🇸 | Beavercreek, OH | <a href="https://go.vansh.nyc/1yd?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | **Boeing** | Flight Software Engineer, Vehicle Management Systems 🇺🇸 | El Segundo, CA | <a href="https://go.vansh.nyc/1y8?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | **Bask Health** | New Grad: Frontend Engineer | Remote | <a href="https://go.vansh.nyc/1wd?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | **Bask Health** | Junior Design Engineer | Remote | <a href="https://go.vansh.nyc/1we?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
@@ -445,10 +445,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Citi** | New Grad 2027: Technology Cyber Security | Irving, TX | <a href="https://go.vansh.nyc/Bq?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | **Citi** | New Grad 2027: Technology Analyst, Application Development | Irving, TX | <a href="https://go.vansh.nyc/Bt?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | **Citi** | New Grad 2027: Application Development Analyst | Jersey City, NJ | <a href="https://go.vansh.nyc/Bu?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
-| **Booz Allen** | New Grad 2027: Data Scientist 🇺🇸 | <details><summary>**11 locations**</summary>Honolulu, HI</br>Annapolis Junction, MD</br>Colorado Springs, CO</br>Arlington, VA</br>Rome, NY</br>Panama City, FL</br>Charleston, SC</br>Atlanta, GA</br>Huntsville, AL</br>San Diego, CA</br>El Segundo, CA</details> | <a href="https://go.vansh.nyc/Bw?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | **Sola** | Forward Deployed Engineer | New York, NY | <a href="https://go.vansh.nyc/I8?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | **Rendezvous Robotics** | New Grad 2027: Flight Software Engineer | Golden, CO | <a href="https://go.vansh.nyc/B8?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
-| **Prime Controls** | Enterprise Automation Developer | Lewisville, TX | <a href="https://go.vansh.nyc/BW?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | **Palantir** | New Grad 2027: Forward Deployed Software Engineer, Warp Speed | New York, NY | <a href="https://go.vansh.nyc/Bb?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | **NetApp** | Software Engineer, Cloud Volumes (Master's) | San Jose, CA | <a href="https://go.vansh.nyc/UL?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | **Lovelytics** | Advance Program Data Associate 🛂 | Arlington, VA | <a href="https://go.vansh.nyc/1k1?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
@@ -456,7 +454,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Booz Allen** | New Grad 2027: Data Scientist 🇺🇸 | <details><summary>**11 locations**</summary>Honolulu, HI</br>Annapolis Junction, MD</br>Colorado Springs, CO</br>McLean, VA</br>Rome, NY</br>Panama City, FL</br>Charleston, SC</br>Atlanta, GA</br>Huntsville, AL</br>San Diego, CA</br>El Segundo, CA</details> | <a href="https://go.vansh.nyc/Bd?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | **Booz Allen** | New Grad 2027: Systems Engineer 🇺🇸 | <details><summary>**11 locations**</summary>Honolulu, HI</br>Annapolis Junction, MD</br>Colorado Springs, CO</br>McLean, VA</br>Rome, NY</br>Panama City, FL</br>Charleston, SC</br>Atlanta, GA</br>Huntsville, AL</br>San Diego, CA</br>El Segundo, CA</details> | <a href="https://go.vansh.nyc/Be?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | **Applied Materials** | New Grad 2027: Software Engineer | Gloucester, MA | <a href="https://go.vansh.nyc/Bj?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
-| **Applied Materials** | Software Engineer (Master's) | Chandler, AZ | <a href="https://go.vansh.nyc/Bi?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | **Amazon** | New Grad 2027: Software Development Engineer 1, Annapurna Labs | Seattle, WA</br>Austin, TX</br>Cupertino, CA | <a href="https://go.vansh.nyc/Bg?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | **Xaira Therapeutics** | Robotics Systems & Simulation Engineer | South San Francisco, CA | <a href="https://go.vansh.nyc/AR?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | **Verily** | Cloud Engineer | Raleigh, NC | <a href="https://go.vansh.nyc/AY?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
@@ -854,6 +851,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Micron Technology** | Software Engineer | Boise, ID | 🔒 | Nov 12 |
 | **Leidos** | Network and Systems Engineer | Huntsville, AL | 🔒 | Nov 12 |
 | **Leidos** | Software Engineer 🇺🇸 | Tucson, AZ | 🔒 | Nov 12 |
+| **Booz Allen** | Junior C++ Software Engineer 🇺🇸 | Beavercreek, OH | 🔒 | Nov 12 |
 | **Zensar** | Software Engineer, AI Platform Development | San Jose, CA | 🔒 | Nov 11 |
 | **Zensar** | Software Engineer - AI Platform Development | San Jose, CA</br>Jersey City, NJ | 🔒 | Nov 11 |
 | **RTX** | Software Engineer I 🇺🇸 | Ft Wayne, IN | 🔒 | Nov 11 |
@@ -1017,13 +1015,16 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Abacus Insights** | Associate Data Engineer | Remote | 🔒 | Oct 26 |
 | **Intel** | Software Engineer, CAD/EDA Tools (Master's) | Hillsboro, OR | 🔒 | Oct 24 |
 | **Citi** | New Grad 2027: Software Developer, Application Development | Jacksonville, FL | 🔒 | Oct 24 |
+| **Booz Allen** | New Grad 2027: Data Scientist 🇺🇸 | <details><summary>**11 locations**</summary>Honolulu, HI</br>Annapolis Junction, MD</br>Colorado Springs, CO</br>Arlington, VA</br>Rome, NY</br>Panama City, FL</br>Charleston, SC</br>Atlanta, GA</br>Huntsville, AL</br>San Diego, CA</br>El Segundo, CA</details> | 🔒 | Oct 24 |
 | **Boeing** | Entry-Level Software Engineer 🇺🇸 | Maryland Heights, MO | 🔒 | Oct 24 |
+| **Prime Controls** | Enterprise Automation Developer | Lewisville, TX | 🔒 | Oct 23 |
 | **Peraton** | Junior Data Engineer, ETL/GIS 🇺🇸 | Remote | 🔒 | Oct 23 |
 | **Guidehouse** | New Grad 2027: Technical Associate Application Developer | Chicago, IL | 🔒 | Oct 23 |
 | **FNBO** | Associate Cloud Engineer | Omaha, NE | 🔒 | Oct 23 |
 | **Boeing** | Software Engineer 🇺🇸 | Maryland Heights, MO</br>Hazelwood, MO | 🔒 | Oct 23 |
 | **Autostore** | Software Engineer | Atlanta, GA | 🔒 | Oct 23 |
 | **AstraZeneca** | Digital Automation Engineer, Cell Therapy 🛂 | Tarzana, LA | 🔒 | Oct 23 |
+| **Applied Materials** | Software Engineer (Master's) | Chandler, AZ | 🔒 | Oct 23 |
 | **Wellmark** | Data Wrangler | Des Moines, IA | 🔒 | Oct 22 |
 | **SAIC** | Software Test Engineer | Point Mugu NAWC, CA | 🔒 | Oct 22 |
 | **ResMed** | Associate Android Developer | San Diego, CA | 🔒 | Oct 22 |
