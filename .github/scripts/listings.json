@@ -34547,13 +34547,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794402711,
+        "date_updated": 1795215316,
         "url": "https://go.vansh.nyc/1uA",
         "locations": [
             "Richardson, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "GlobalFoundries",
         "title": "New Grad 2027: AI Processor Hardware/Software Integration Engineer",
         "source": "vanshb03",
@@ -36992,6 +36992,22 @@
         "source": "vanshb03",
         "id": "6329f1b4-9d3b-4e82-9e87-a5425aa11916",
         "date_posted": 1795208877,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795215171,
+        "url": "https://go.vansh.nyc/1F6",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "New Grad 2027: Security Engineer",
+        "source": "vanshb03",
+        "id": "fe3a50c9-b467-40a8-8450-577080666a01",
+        "date_posted": 1795214927,
         "company_url": "",
         "is_visible": true
     }
