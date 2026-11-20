@@ -36782,5 +36782,21 @@
         "date_posted": 1795159699,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795177304,
+        "url": "https://go.vansh.nyc/1Eq",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cadence Design Systems",
+        "title": "Software Engineering, Verification IP Team",
+        "source": "vanshb03",
+        "id": "0351cd26-0a2e-4a50-933f-7bf8ca4775ad",
+        "date_posted": 1795169937,
+        "company_url": "",
+        "is_visible": true
     }
 ]
