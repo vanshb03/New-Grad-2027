@@ -36814,5 +36814,73 @@
         "date_posted": 1795094425,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795193534,
+        "url": "https://go.vansh.nyc/1EH",
+        "locations": [
+            "Houston, TX",
+            "Cleveland, OH",
+            "Dallas, TX",
+            "Kansas City, MO",
+            "Chattanooga, TN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Autura",
+        "title": "Data Operations Associate",
+        "source": "vanshb03",
+        "id": "225fe92d-63eb-4878-9aa9-165c1c7fd84e",
+        "date_posted": 1795184750,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795193534,
+        "url": "https://go.vansh.nyc/1EI",
+        "locations": [
+            "Fort Wayne, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "L3Harris Technologies",
+        "title": "Associate, FPGA Firmware Electrical Engineering",
+        "source": "vanshb03",
+        "id": "e14d525c-2bd2-47a2-930b-38de3f2d85ad",
+        "date_posted": 1795190328,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795193534,
+        "url": "https://go.vansh.nyc/1EJ",
+        "locations": [
+            "Fort Wayne, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "L3Harris Technologies",
+        "title": "Associate, FPGA Firmware Electrical Engineering",
+        "source": "vanshb03",
+        "id": "38e7a060-e5cd-452b-89e8-14994dc152a0",
+        "date_posted": 1795190328,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795193534,
+        "url": "https://go.vansh.nyc/1EK",
+        "locations": [
+            "Fort Wayne, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "L3Harris Technologies",
+        "title": "Associate, Embedded Software Engineer",
+        "source": "vanshb03",
+        "id": "f787d653-3c92-4c8e-8cb2-f823907c1544",
+        "date_posted": 1795190327,
+        "company_url": "",
+        "is_visible": true
     }
 ]
