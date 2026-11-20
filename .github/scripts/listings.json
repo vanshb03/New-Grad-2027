@@ -36528,13 +36528,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1795117855,
+        "date_updated": 1795190085,
         "url": "https://go.vansh.nyc/1D0",
         "locations": [
             "Manchester, NH"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "DEKA",
         "title": "Junior Android Developer",
         "source": "vanshb03",
