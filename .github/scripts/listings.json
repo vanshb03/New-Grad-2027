@@ -36304,13 +36304,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1795017004,
+        "date_updated": 1795141660,
         "url": "https://go.vansh.nyc/1Cc",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Adyen",
         "title": "Junior Full-Stack Developer, Docs Experience Engineering Team",
         "source": "vanshb03",
@@ -36668,6 +36668,22 @@
         "source": "vanshb03",
         "id": "5439522e-c671-4ccd-b1ab-1c651139753d",
         "date_posted": 1795132162,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795141543,
+        "url": "https://go.vansh.nyc/1DR",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Blue Cross Blue Shield of Michigan",
+        "title": "Data Science Analyst I",
+        "source": "vanshb03",
+        "id": "fcbd6512-994b-45e6-ba92-ad8bd7c186e0",
+        "date_posted": 1794960000,
         "company_url": "",
         "is_visible": true
     }
