@@ -31115,13 +31115,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793646776,
+        "date_updated": 1795134347,
         "url": "https://go.vansh.nyc/19F",
         "locations": [
             "Alpharetta, GA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Equifax",
         "title": "New Grad 2027: Data Analytics Rotational Development Associate",
         "source": "vanshb03",
@@ -36652,6 +36652,22 @@
         "source": "vanshb03",
         "id": "3bee9e34-d504-4a17-b591-85f99471f12e",
         "date_posted": 1795129470,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795134151,
+        "url": "https://go.vansh.nyc/1DH",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qualcomm",
+        "title": "Noc Interconnect Design Engineer and Architect",
+        "source": "vanshb03",
+        "id": "5439522e-c671-4ccd-b1ab-1c651139753d",
+        "date_posted": 1795132162,
         "company_url": "",
         "is_visible": true
     }
