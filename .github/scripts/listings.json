@@ -36798,5 +36798,21 @@
         "date_posted": 1795169937,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795181034,
+        "url": "https://go.vansh.nyc/1Er",
+        "locations": [
+            "Portage, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Stryker",
+        "title": "Software Developer in Test",
+        "source": "vanshb03",
+        "id": "a3d0c963-b298-4e2a-a7fd-deb6d91bb803",
+        "date_posted": 1795094425,
+        "company_url": "",
+        "is_visible": true
     }
 ]
