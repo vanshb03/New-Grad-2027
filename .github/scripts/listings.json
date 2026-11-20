@@ -35452,13 +35452,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794586643,
+        "date_updated": 1795166770,
         "url": "https://go.vansh.nyc/1yH",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Citi",
         "title": "AVP Quantitative Engineer, Exotic Equity Derivatives (Master's)",
         "source": "vanshb03",
