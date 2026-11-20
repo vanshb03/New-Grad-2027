@@ -36914,5 +36914,21 @@
         "date_posted": 1795112385,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795201744,
+        "url": "https://go.vansh.nyc/1EQ",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "OPOWER",
+        "title": "New Grad 2027: Software Engineer, Oracle Cloud Infrastructure (OCI)",
+        "source": "vanshb03",
+        "id": "2e077267-f897-4d1c-9714-269161e44aa6",
+        "date_posted": 1795201529,
+        "company_url": "",
+        "is_visible": true
     }
 ]
