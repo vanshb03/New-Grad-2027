@@ -20546,13 +20546,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793018233,
+        "date_updated": 1795152458,
         "url": "https://go.vansh.nyc/Hu",
         "locations": [
             "Miami, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "OneImaging",
         "title": "New Grad 2027: Associate Data Engineer",
         "source": "vanshb03",
@@ -21569,13 +21569,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793023323,
+        "date_updated": 1795152458,
         "url": "https://go.vansh.nyc/Kf",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "JPMorganChase",
         "title": "New Grad 2027: Data & AI Program, Analyst",
         "source": "vanshb03",
@@ -24939,13 +24939,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793063868,
+        "date_updated": 1795152458,
         "url": "https://go.vansh.nyc/Tr",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Netic",
         "title": "New Grad 2027: Full-Stack Software Engineer, Product",
         "source": "vanshb03",
@@ -36684,6 +36684,38 @@
         "source": "vanshb03",
         "id": "fcbd6512-994b-45e6-ba92-ad8bd7c186e0",
         "date_posted": 1794960000,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795152334,
+        "url": "https://go.vansh.nyc/1E0",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "HPE",
+        "title": "Systems / Software Engineer I",
+        "source": "vanshb03",
+        "id": "fb099d85-f56a-45e3-bcc5-b845b7983549",
+        "date_posted": 1795150559,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795152334,
+        "url": "https://go.vansh.nyc/1E1",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Micron Technology",
+        "title": "AI Innovation Research Engineer (Master's)",
+        "source": "vanshb03",
+        "id": "63629146-8789-4634-9bde-359072d68731",
+        "date_posted": 1795144859,
         "company_url": "",
         "is_visible": true
     }
