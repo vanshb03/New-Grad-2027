@@ -43,11 +43,15 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | --- | --- | --- | :---: | :---: |
 | **Qualcomm** | DSP Applications Software Engineer - ASICS Engineering | Austin, TX | <a href="https://go.vansh.nyc/1Ec?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | **Micron Technology** | AI Innovation Research Engineer (Master's) | San Jose, CA | <a href="https://go.vansh.nyc/1E1?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
+| **L3Harris Technologies** | Associate, FPGA Firmware Electrical Engineering | Fort Wayne, IN | <a href="https://go.vansh.nyc/1EI?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
+| **L3Harris Technologies** | Associate, FPGA Firmware Electrical Engineering | Fort Wayne, IN | <a href="https://go.vansh.nyc/1EJ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
+| **L3Harris Technologies** | Associate, Embedded Software Engineer | Fort Wayne, IN | <a href="https://go.vansh.nyc/1EK?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | **HPE** | Systems / Software Engineer I | Sunnyvale, CA | <a href="https://go.vansh.nyc/1E0?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | **Honeywell Aerospace** | New Grad 2027: Information Systems & Data Science 🇺🇸 | Remote | <a href="https://go.vansh.nyc/1Ed?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | **Honeywell Aerospace** | New Grad 2027: Software Engineering 🛂 | Remote | <a href="https://go.vansh.nyc/1Ee?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | **Honeywell Aerospace** | New Grad 2027: Software Engineer 🇺🇸 | Remote | <a href="https://go.vansh.nyc/1Ef?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | **Cadence Design Systems** | Software Engineering, Verification IP Team | San Jose, CA | <a href="https://go.vansh.nyc/1Eq?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
+| **Autura** | Data Operations Associate | <details><summary>**5 locations**</summary>Houston, TX</br>Cleveland, OH</br>Dallas, TX</br>Kansas City, MO</br>Chattanooga, TN</details> | <a href="https://go.vansh.nyc/1EH?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | **United Launch Alliance** | Ground Software Avionics & Infrastructure Engineer 1 | Centennial, CO | <a href="https://go.vansh.nyc/1DB?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | **Stryker** | Software Developer in Test | Portage, MI | <a href="https://go.vansh.nyc/1Er?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | **SpaceX** | Backend Software Engineer, GNC | Redmond, WA | <a href="https://go.vansh.nyc/1D4?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
