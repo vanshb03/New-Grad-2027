@@ -37010,5 +37010,21 @@
         "date_posted": 1795214927,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795216961,
+        "url": "https://go.vansh.nyc/1F7",
+        "locations": [
+            "Roanoke, VA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "GE Vernova",
+        "title": "Embedded Software Engineer",
+        "source": "vanshb03",
+        "id": "9acb2303-09ef-4993-b027-e1e3d786fba9",
+        "date_posted": 1795130290,
+        "company_url": "",
+        "is_visible": true
     }
 ]
