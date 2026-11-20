@@ -36882,5 +36882,21 @@
         "date_posted": 1795190327,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795195427,
+        "url": "https://go.vansh.nyc/1EL",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rolls-Royce",
+        "title": "New Grad 2027: Junior Machine Learning Engineering",
+        "source": "vanshb03",
+        "id": "a29748bf-4131-42f9-bd4e-83291cbac5d9",
+        "date_posted": 1795182722,
+        "company_url": "",
+        "is_visible": true
     }
 ]
