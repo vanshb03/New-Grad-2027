@@ -36978,5 +36978,21 @@
         "date_posted": 1795207098,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795209991,
+        "url": "https://go.vansh.nyc/1F0",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "New Grad 2027: Software Engineer, DL Kernel Libraries",
+        "source": "vanshb03",
+        "id": "6329f1b4-9d3b-4e82-9e87-a5425aa11916",
+        "date_posted": 1795208877,
+        "company_url": "",
+        "is_visible": true
     }
 ]
