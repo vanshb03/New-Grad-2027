@@ -36718,5 +36718,69 @@
         "date_posted": 1795144859,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795163278,
+        "url": "https://go.vansh.nyc/1Ec",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qualcomm",
+        "title": "DSP Applications Software Engineer - ASICS Engineering",
+        "source": "vanshb03",
+        "id": "eb26890d-0453-44a0-8caf-d1227c95c0d8",
+        "date_posted": 1795158320,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795163278,
+        "url": "https://go.vansh.nyc/1Ed",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Honeywell Aerospace",
+        "title": "New Grad 2027: Information Systems & Data Science",
+        "source": "vanshb03",
+        "id": "f78eb554-e77c-4c87-96c1-eb18ba6a81a0",
+        "date_posted": 1795159698,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795163278,
+        "url": "https://go.vansh.nyc/1Ee",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Honeywell Aerospace",
+        "title": "New Grad 2027: Software Engineering",
+        "source": "vanshb03",
+        "id": "b574f5e1-90c5-4823-af0b-7b222e94262f",
+        "date_posted": 1795159699,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795163278,
+        "url": "https://go.vansh.nyc/1Ef",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Honeywell Aerospace",
+        "title": "New Grad 2027: Software Engineer",
+        "source": "vanshb03",
+        "id": "f4d3c972-4d91-4781-bce6-59d7fa63d393",
+        "date_posted": 1795159699,
+        "company_url": "",
+        "is_visible": true
     }
 ]
