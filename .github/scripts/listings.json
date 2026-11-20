@@ -36962,5 +36962,21 @@
         "date_posted": 1795205905,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795207991,
+        "url": "https://go.vansh.nyc/1EZ",
+        "locations": [
+            "Tinker AFB, OK"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Boeing",
+        "title": "Software Engineer \u2013 Test & Verification",
+        "source": "vanshb03",
+        "id": "efbf23fa-78fc-434a-a56c-538a08ce390f",
+        "date_posted": 1795207098,
+        "company_url": "",
+        "is_visible": true
     }
 ]
