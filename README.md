@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Honeywell Aerospace** | New Grad 2027: Information Systems & Data Science 🇺🇸 | Remote | <a href="https://go.vansh.nyc/1Ed?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | **Honeywell Aerospace** | New Grad 2027: Software Engineering 🛂 | Remote | <a href="https://go.vansh.nyc/1Ee?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | **Honeywell Aerospace** | New Grad 2027: Software Engineer 🇺🇸 | Remote | <a href="https://go.vansh.nyc/1Ef?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
+| **Cadence Design Systems** | Software Engineering, Verification IP Team | San Jose, CA | <a href="https://go.vansh.nyc/1Eq?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | **United Launch Alliance** | Ground Software Avionics & Infrastructure Engineer 1 | Centennial, CO | <a href="https://go.vansh.nyc/1DB?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | **SpaceX** | Backend Software Engineer, GNC | Redmond, WA | <a href="https://go.vansh.nyc/1D4?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | **SpaceX** | Software Engineer, Alerts | Redmond, WA | <a href="https://go.vansh.nyc/1D5?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
