@@ -36496,13 +36496,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1795103467,
+        "date_updated": 1795137805,
         "url": "https://go.vansh.nyc/1CR",
         "locations": [
             "Newport News, VA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Huntington Ingalls Industries",
         "title": "Software Engineer 1",
         "source": "vanshb03",
