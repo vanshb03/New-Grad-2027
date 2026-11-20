@@ -37026,5 +37026,55 @@
         "date_posted": 1795130290,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795219013,
+        "url": "https://go.vansh.nyc/1Fl",
+        "locations": [
+            "Pontiac, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Williams International",
+        "title": "Engineer Software/Controls - Rotation",
+        "source": "vanshb03",
+        "id": "55bbc2ad-fee7-4e76-8816-539b92f262b1",
+        "date_posted": 1795216315,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795219013,
+        "url": "https://go.vansh.nyc/1Fm",
+        "locations": [
+            "Seattle, WA",
+            "New York, NY",
+            "Cupertino, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apple",
+        "title": "New Grad 2027: Engineer - Evolve - An Apple Services Rotation Program",
+        "source": "vanshb03",
+        "id": "46143866-7622-422c-94a4-0c7f451c2cc5",
+        "date_posted": 1795216305,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795219013,
+        "url": "https://go.vansh.nyc/1Fn",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "neurohire.ai",
+        "title": "Python Developer (Master's)",
+        "source": "vanshb03",
+        "id": "590bdecc-986c-41e9-bf11-3317c6756874",
+        "date_posted": 1795215849,
+        "company_url": "",
+        "is_visible": true
     }
 ]
