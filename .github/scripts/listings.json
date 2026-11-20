@@ -20562,13 +20562,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793018233,
+        "date_updated": 1795206358,
         "url": "https://go.vansh.nyc/Hv",
         "locations": [
             "Miami, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "OneImaging",
         "title": "New Grad 2027: Full Stack Associate Software Engineer",
         "source": "vanshb03",
@@ -22117,13 +22117,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793023324,
+        "date_updated": 1795206358,
         "url": "https://go.vansh.nyc/KN",
         "locations": [
             "Miami, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "OneImaging",
         "title": "New Grad 2027: Associate Data Engineer",
         "source": "vanshb03",
@@ -35484,13 +35484,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794595746,
+        "date_updated": 1795206358,
         "url": "https://go.vansh.nyc/1yS",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Micron Technology",
         "title": "Design Engineer",
         "source": "vanshb03",
@@ -36928,6 +36928,38 @@
         "source": "vanshb03",
         "id": "2e077267-f897-4d1c-9714-269161e44aa6",
         "date_posted": 1795201529,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795206180,
+        "url": "https://go.vansh.nyc/1EV",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "CPI Card Group",
+        "title": "DevOps Engineer I",
+        "source": "vanshb03",
+        "id": "042b99b6-de43-42a5-82c0-8fcf6a2b84f6",
+        "date_posted": 1795205905,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795206180,
+        "url": "https://go.vansh.nyc/1EW",
+        "locations": [
+            "Vandalia, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Logan A/C & Heat Services",
+        "title": "Junior Business Systems & Automation Developer",
+        "source": "vanshb03",
+        "id": "b6c12347-dac9-4f1c-ac86-9eb3b258933e",
+        "date_posted": 1795205905,
         "company_url": "",
         "is_visible": true
     }
