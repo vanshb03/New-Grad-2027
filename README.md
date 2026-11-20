@@ -106,7 +106,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Everest** | New Grad 2027: Information Technology Rotational Development Program | Warren, NJ | <a href="https://go.vansh.nyc/1zG?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | **Empire State Realty Trust** | Applied AI Engineer 1 | New York, NY | <a href="https://go.vansh.nyc/1zo?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | **Cummins** | New Grad 2027: Systems Engineer | Seymour, IN | <a href="https://go.vansh.nyc/1zp?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
-| **Citi** | AVP Quantitative Engineer, Exotic Equity Derivatives (Master's) | New York, NY | <a href="https://go.vansh.nyc/1yH?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | **ZettaSquared** | New Grad 2027: Forward Engineer / AI Developer 🛂 | Houston, TX | <a href="https://go.vansh.nyc/1ya?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | **SpaceX** | New Grad 2027: Engineer, Aerospace Software (Starfall) | Hawthorne, CA | <a href="https://go.vansh.nyc/1wR?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | **RTX** | Associate Software Engineer I, CDS / Engine System Software 🇺🇸 | Etc, CT | <a href="https://go.vansh.nyc/1w2?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
@@ -853,6 +852,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Northrop Grumman** | New Grad 2027: Associate Software Engineer 🇺🇸 | Mcclellan, CA | 🔒 | Nov 13 |
 | **Johnson Controls** | New Grad: Nextgen Software Engineer 🛂 | Milwaukee, WI</br>Westford, MA</br>Glendale, WI | 🔒 | Nov 13 |
 | **Huntington Ingalls Industries** | Software Development Engineer 1 🇺🇸 | Newport News, VA | 🔒 | Nov 13 |
+| **Citi** | AVP Quantitative Engineer, Exotic Equity Derivatives (Master's) | New York, NY | 🔒 | Nov 13 |
 | **Cisco** | Software Engineer Compiler I | Austin, TX | 🔒 | Nov 13 |
 | **Micron Technology** | Software Engineer | Boise, ID | 🔒 | Nov 12 |
 | **Leidos** | Network and Systems Engineer | Huntsville, AL | 🔒 | Nov 12 |
