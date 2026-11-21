@@ -34681,13 +34681,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794417131,
+        "date_updated": 1795238930,
         "url": "https://go.vansh.nyc/1uP",
         "locations": [
             "Wilmington, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Symbotic",
         "title": "New Grad: Robotics Software Engineer",
         "source": "vanshb03",
