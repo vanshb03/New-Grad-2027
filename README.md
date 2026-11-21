@@ -41,6 +41,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Secureframe** | New Grad 2027: Software Engineer | New York, NY | <a href="https://go.vansh.nyc/1Gh?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
 | **Williams International** | Engineer Software/Controls - Rotation | Pontiac, MI | <a href="https://go.vansh.nyc/1Fl?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | **Vertex Service Partners** | Junior AI Engineer | Charlotte, NC | <a href="https://go.vansh.nyc/1FM?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | **Trimont** | New Grad 2027: Technology Analyst | Atlanta, GA | <a href="https://go.vansh.nyc/1FK?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
