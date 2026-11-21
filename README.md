@@ -42,6 +42,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
 | **Williams International** | Engineer Software/Controls - Rotation | Pontiac, MI | <a href="https://go.vansh.nyc/1Fl?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
+| **Vertex Service Partners** | Junior AI Engineer | Charlotte, NC | <a href="https://go.vansh.nyc/1FM?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
+| **Trimont** | New Grad 2027: Technology Analyst | Atlanta, GA | <a href="https://go.vansh.nyc/1FK?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | **Rolls-Royce** | New Grad 2027: Junior Machine Learning Engineering | Indianapolis, IN | <a href="https://go.vansh.nyc/1EL?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | **Qualcomm** | DSP Applications Software Engineer - ASICS Engineering | Austin, TX | <a href="https://go.vansh.nyc/1Ec?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | **OPOWER** | New Grad 2027: Software Engineer, Oracle Cloud Infrastructure (OCI) | Nashville, TN | <a href="https://go.vansh.nyc/1EQ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
@@ -56,6 +58,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Honeywell Aerospace** | New Grad 2027: Information Systems & Data Science 🇺🇸 | Remote | <a href="https://go.vansh.nyc/1Ed?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | **Honeywell Aerospace** | New Grad 2027: Software Engineering 🛂 | Remote | <a href="https://go.vansh.nyc/1Ee?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | **Honeywell Aerospace** | New Grad 2027: Software Engineer 🇺🇸 | Remote | <a href="https://go.vansh.nyc/1Ef?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
+| **Further** | New Grad 2027: AI/Data Engineer 🛂 | Cleveland, OH | <a href="https://go.vansh.nyc/1FN?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
+| **Further** | New Grad 2027: Analytics Developer 🛂 | Cleveland, OH | <a href="https://go.vansh.nyc/1FO?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
+| **Further** | New Grad 2027: Entry Level Developer 🛂 | Dallas, TX | <a href="https://go.vansh.nyc/1FP?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | **CPI Card Group** | DevOps Engineer I 🛂 | Nashville, TN | <a href="https://go.vansh.nyc/1EV?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | **Cadence Design Systems** | Software Engineering, Verification IP Team | San Jose, CA | <a href="https://go.vansh.nyc/1Eq?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | **Boeing** | Software Engineer – Test & Verification 🇺🇸 | Tinker AFB, OK | <a href="https://go.vansh.nyc/1EZ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
