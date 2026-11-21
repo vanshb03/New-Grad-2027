@@ -36416,13 +36416,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1795069279,
+        "date_updated": 1795231521,
         "url": "https://go.vansh.nyc/1CJ",
         "locations": [
             "Houston, TX"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "CACI",
         "title": "Flight Software Development Engineer, NASA Space Reactor \u2013 1 Freedom",
         "source": "vanshb03",
