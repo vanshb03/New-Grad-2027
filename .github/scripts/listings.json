@@ -37076,5 +37076,102 @@
         "date_posted": 1795215849,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795221005,
+        "url": "https://go.vansh.nyc/1FK",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Trimont",
+        "title": "New Grad 2027: Technology Analyst",
+        "source": "vanshb03",
+        "id": "f89f0b94-5767-4b97-98d0-4c6c3647c715",
+        "date_posted": 1795218971,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795221005,
+        "url": "https://go.vansh.nyc/1FL",
+        "locations": [
+            "Toronto, Canada",
+            "Waterloo, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Keplar",
+        "title": "New Grad: Software Engineer",
+        "source": "vanshb03",
+        "id": "6e2b407d-3f23-4d15-b1a2-e74358c63e74",
+        "date_posted": 1795132800,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795221005,
+        "url": "https://go.vansh.nyc/1FM",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Vertex Service Partners",
+        "title": "Junior AI Engineer",
+        "source": "vanshb03",
+        "id": "3f5efd7b-847e-4f4a-a066-e2b80892b6e0",
+        "date_posted": 1795208627,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795221005,
+        "url": "https://go.vansh.nyc/1FN",
+        "locations": [
+            "Cleveland, OH"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Further",
+        "title": "New Grad 2027: AI/Data Engineer",
+        "source": "vanshb03",
+        "id": "2a904f18-a853-4fe6-a14c-b8822741697c",
+        "date_posted": 1795194223,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795221005,
+        "url": "https://go.vansh.nyc/1FO",
+        "locations": [
+            "Cleveland, OH"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Further",
+        "title": "New Grad 2027: Analytics Developer",
+        "source": "vanshb03",
+        "id": "54244b7b-8d98-428c-9efd-1f91e08ad1c4",
+        "date_posted": 1795194477,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795221005,
+        "url": "https://go.vansh.nyc/1FP",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Further",
+        "title": "New Grad 2027: Entry Level Developer",
+        "source": "vanshb03",
+        "id": "f3b8d3f8-fb17-4517-813e-295284b71765",
+        "date_posted": 1795194169,
+        "company_url": "",
+        "is_visible": true
     }
 ]
