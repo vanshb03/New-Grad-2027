@@ -37173,5 +37173,21 @@
         "date_posted": 1795194169,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795227894,
+        "url": "https://go.vansh.nyc/1G4",
+        "locations": [
+            "Carmel, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zotec Partners",
+        "title": "Security Platform Engineer I \u2013 Splunk, Analytics & Automation",
+        "source": "vanshb03",
+        "id": "1eded9b8-fe65-4ed6-9f3e-4cebf0474a6a",
+        "date_posted": 1795126070,
+        "company_url": "",
+        "is_visible": true
     }
 ]
