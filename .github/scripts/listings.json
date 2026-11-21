@@ -37189,5 +37189,37 @@
         "date_posted": 1795126070,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795253236,
+        "url": "https://go.vansh.nyc/1Gb",
+        "locations": [
+            "Remote, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Gradient MSP",
+        "title": "Junior Full Stack Developer",
+        "source": "vanshb03",
+        "id": "50c04ad4-d231-4794-9312-ab8b40b60142",
+        "date_posted": 1795245517,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795253236,
+        "url": "https://go.vansh.nyc/1Gc",
+        "locations": [
+            "Ottawa, Canada"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Trend Micro",
+        "title": "Software Developer",
+        "source": "vanshb03",
+        "id": "ca71b79d-50d5-4c60-8e41-a451e160ad6f",
+        "date_posted": 1795166611,
+        "company_url": "",
+        "is_visible": true
     }
 ]
