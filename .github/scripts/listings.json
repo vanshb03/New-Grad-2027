@@ -37221,5 +37221,21 @@
         "date_posted": 1795166611,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795282031,
+        "url": "https://go.vansh.nyc/1Gh",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Secureframe",
+        "title": "New Grad 2027: Software Engineer",
+        "source": "vanshb03",
+        "id": "ce11f468-12c8-4124-87d0-0be7f50285b7",
+        "date_posted": 1795219200,
+        "company_url": "",
+        "is_visible": true
     }
 ]
