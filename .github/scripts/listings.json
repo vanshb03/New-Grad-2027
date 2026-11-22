@@ -31179,13 +31179,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793654080,
+        "date_updated": 1795368386,
         "url": "https://go.vansh.nyc/19S",
         "locations": [
             "El Segundo, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Boeing",
         "title": "ASIC / FPGA Design Verification Engineer (Master's)",
         "source": "vanshb03",
