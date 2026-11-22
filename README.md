@@ -41,11 +41,11 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
-| **Sierra** | New Grad 2027: Software Engineer, Agent (New Grad 2027) | San Francisco, CA | <a href="https://go.vansh.nyc/1Gs?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
-| **Sierra** | New Grad 2027: APX (New Grad 2027) (Master's) | San Francisco, CA | <a href="https://go.vansh.nyc/1Gt?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
-| **RoadRunner** | Forward Deployed Engineer (New Grad) | San Francisco, CA | <a href="https://go.vansh.nyc/1Gw?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
-| **Old Mission Capital** | New Grad 2027: Trading Production Engineer - 2027 Graduate Program | Chicago, IL | <a href="https://go.vansh.nyc/1Gv?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
-| **Applied Intuition** | New Grad 2027: Forward Deployed Engineer - New Grad (2027) | Sunnyvale, CA | <a href="https://go.vansh.nyc/1Gu?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
+| **Sierra** | New Grad 2027: Software Engineer, Agent | San Francisco, CA | <a href="https://go.vansh.nyc/1Gs?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
+| **Sierra** | New Grad 2027: APX | San Francisco, CA | <a href="https://go.vansh.nyc/1Gt?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
+| **RoadRunner** | New Grad: Forward Deployed Engineer | San Francisco, CA | <a href="https://go.vansh.nyc/1Gw?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
+| **Old Mission Capital** | New Grad 2027: Trading Production Engineer | Chicago, IL | <a href="https://go.vansh.nyc/1Gv?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
+| **Applied Intuition** | New Grad 2027: Forward Deployed Engineer | Sunnyvale, CA | <a href="https://go.vansh.nyc/1Gu?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
 | **Secureframe** | New Grad 2027: Software Engineer | New York, NY | <a href="https://go.vansh.nyc/1Gh?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
 | **Williams International** | Engineer Software/Controls - Rotation | Pontiac, MI | <a href="https://go.vansh.nyc/1Fl?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | **Vertex Service Partners** | Junior AI Engineer | Charlotte, NC | <a href="https://go.vansh.nyc/1FM?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
