@@ -37269,5 +37269,85 @@
         "date_posted": 1795209521,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795386212,
+        "url": "https://go.vansh.nyc/1Gs",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sierra",
+        "title": "New Grad 2027: Software Engineer, Agent (New Grad 2027)",
+        "source": "vanshb03",
+        "id": "ed575980-8cfd-434e-869b-91f8f7eb7908",
+        "date_posted": 1795385814,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795386212,
+        "url": "https://go.vansh.nyc/1Gt",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sierra",
+        "title": "New Grad 2027: APX (New Grad 2027) (Master's)",
+        "source": "vanshb03",
+        "id": "f30691c2-0e9b-44d2-9d2f-946d50601fa2",
+        "date_posted": 1795385814,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795386212,
+        "url": "https://go.vansh.nyc/1Gu",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Applied Intuition",
+        "title": "New Grad 2027: Forward Deployed Engineer - New Grad (2027)",
+        "source": "vanshb03",
+        "id": "4b127fdd-f3a4-4234-9247-493a785c3c06",
+        "date_posted": 1795386034,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795386212,
+        "url": "https://go.vansh.nyc/1Gv",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Old Mission Capital",
+        "title": "New Grad 2027: Trading Production Engineer - 2027 Graduate Program",
+        "source": "vanshb03",
+        "id": "442ebce6-f74c-4509-a52d-97387bfe72e4",
+        "date_posted": 1795386034,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795386212,
+        "url": "https://go.vansh.nyc/1Gw",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "RoadRunner",
+        "title": "Forward Deployed Engineer (New Grad)",
+        "source": "vanshb03",
+        "id": "09938999-48a9-4043-9c2e-efc50a18e5a6",
+        "date_posted": 1795386034,
+        "company_url": "",
+        "is_visible": true
     }
 ]
