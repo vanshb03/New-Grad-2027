@@ -35227,13 +35227,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794510863,
+        "date_updated": 1795325197,
         "url": "https://go.vansh.nyc/1wU",
         "locations": [
             "Bldg, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Keysight Technologies",
         "title": "New Grad 2027: Software Engineer, Semiconductor Technology",
         "source": "vanshb03",
