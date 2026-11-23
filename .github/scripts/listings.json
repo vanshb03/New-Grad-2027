@@ -37510,5 +37510,37 @@
         "date_posted": 1795466813,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795477961,
+        "url": "https://go.vansh.nyc/1Hx",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sorenson",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "52939beb-a8dd-4c5a-b91f-e81039224d73",
+        "date_posted": 1795475164,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795477961,
+        "url": "https://go.vansh.nyc/1Hy",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Adobe",
+        "title": "New Grad 2027: Research Scientist (Master's)",
+        "source": "vanshb03",
+        "id": "51743f42-51e8-4eaa-b657-bf114bf6f2b0",
+        "date_posted": 1795475802,
+        "company_url": "",
+        "is_visible": true
     }
 ]
