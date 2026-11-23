@@ -41,6 +41,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Sorenson** | Software Engineer | Salt Lake City, UT | <a href="https://go.vansh.nyc/1Hx?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | **Quantiq** | New Grad: Software Developer | Austin, TX | <a href="https://go.vansh.nyc/1GR?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | **Northrop Grumman** | New Grad 2027: Associate Software Engineer / Software Engineer 🇺🇸 | Colorado Springs, CO | <a href="https://go.vansh.nyc/1GL?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | **L3Harris Technologies** | Associate, Software Engineering 🇺🇸 | Yorba Linda, CA | <a href="https://go.vansh.nyc/1GT?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
@@ -48,6 +49,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Enterprise Holdings** | Data Scientist 1 (Master's) | St. Louis, MO | <a href="https://go.vansh.nyc/1GS?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | **Aon** | New Grad 2027: Health Analytics Specialist | Chicago, IL</br>Atlanta, GA | <a href="https://go.vansh.nyc/1GK?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | **All Options** | New Grad 2027: Quantitative Trader | Austin, TX | <a href="https://go.vansh.nyc/1GJ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
+| **Adobe** | New Grad 2027: Research Scientist (Master's) | San Jose, CA | <a href="https://go.vansh.nyc/1Hy?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | **Sierra** | New Grad 2027: Software Engineer, Agent | San Francisco, CA | <a href="https://go.vansh.nyc/1Gs?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
 | **Sierra** | New Grad 2027: APX | San Francisco, CA | <a href="https://go.vansh.nyc/1Gt?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
 | **RoadRunner** | New Grad: Forward Deployed Engineer | San Francisco, CA | <a href="https://go.vansh.nyc/1Gw?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
