@@ -37478,5 +37478,21 @@
         "date_posted": 1795195016,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795456210,
+        "url": "https://go.vansh.nyc/1H3",
+        "locations": [
+            "Ottawa, Canada"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Trend Micro",
+        "title": "Software Developer",
+        "source": "vanshb03",
+        "id": "41726008-9ef7-4552-915c-1ce7b91afc6d",
+        "date_posted": 1795283227,
+        "company_url": "",
+        "is_visible": true
     }
 ]
