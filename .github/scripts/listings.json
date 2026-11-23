@@ -37349,5 +37349,54 @@
         "date_posted": 1795386034,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795422046,
+        "url": "https://go.vansh.nyc/1GJ",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "All Options",
+        "title": "New Grad 2027: Quantitative Trader",
+        "source": "vanshb03",
+        "id": "895c7b4a-8992-4e1f-97eb-c5a15577cf9f",
+        "date_posted": 1795392000,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795422046,
+        "url": "https://go.vansh.nyc/1GK",
+        "locations": [
+            "Chicago, IL",
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Aon",
+        "title": "New Grad 2027: Health Analytics Specialist",
+        "source": "vanshb03",
+        "id": "beefe459-a5fb-4464-97c3-14593e3333d7",
+        "date_posted": 1795399080,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795422046,
+        "url": "https://go.vansh.nyc/1GL",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "New Grad 2027: Associate Software Engineer / Software Engineer",
+        "source": "vanshb03",
+        "id": "a822f439-a24e-4a06-aa9b-384436b75d90",
+        "date_posted": 1795392000,
+        "company_url": "",
+        "is_visible": true
     }
 ]
