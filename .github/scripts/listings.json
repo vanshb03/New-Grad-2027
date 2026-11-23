@@ -35436,13 +35436,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794584691,
+        "date_updated": 1795452781,
         "url": "https://go.vansh.nyc/1yG",
         "locations": [
             "Columbus, OH"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Peraton",
         "title": "Full Stack Engineer",
         "source": "vanshb03",
