@@ -23573,13 +23573,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793025546,
+        "date_updated": 1795467162,
         "url": "https://go.vansh.nyc/O5",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Applied Materials",
         "title": "Logistics Automation",
         "source": "vanshb03",
@@ -37492,6 +37492,22 @@
         "source": "vanshb03",
         "id": "41726008-9ef7-4552-915c-1ce7b91afc6d",
         "date_posted": 1795283227,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795467003,
+        "url": "https://go.vansh.nyc/1Hl",
+        "locations": [
+            "Fort Worth, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Koddi",
+        "title": "Associate Software Engineer",
+        "source": "vanshb03",
+        "id": "c041546c-df4d-4126-9f68-7adf4232e660",
+        "date_posted": 1795466813,
         "company_url": "",
         "is_visible": true
     }
