@@ -79,7 +79,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Amazon** | New Grad 2027: Security Engineer | Seattle, WA | <a href="https://go.vansh.nyc/1F6?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | **Zotec Partners** | Security Platform Engineer I – Splunk, Analytics & Automation | Carmel, IN | <a href="https://go.vansh.nyc/1G4?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | **United Launch Alliance** | Ground Software Avionics & Infrastructure Engineer 1 | Centennial, CO | <a href="https://go.vansh.nyc/1DB?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
-| **Stryker** | Software Developer in Test | Portage, MI | <a href="https://go.vansh.nyc/1Er?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | **SpaceX** | Backend Software Engineer, GNC | Redmond, WA | <a href="https://go.vansh.nyc/1D4?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | **SpaceX** | Software Engineer, Alerts | Redmond, WA | <a href="https://go.vansh.nyc/1D5?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | **Segment** | Software Engineer, Platform Engineering | Remote | <a href="https://go.vansh.nyc/1CK?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
@@ -266,7 +265,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Verkada** | New Grad 2027: Backend Software Engineer | San Mateo, CA | <a href="https://go.vansh.nyc/19H?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | **Microsoft** | Software Engineering IC2 | Redmond, WA | <a href="https://go.vansh.nyc/19Q?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | **GlobalFoundries** | New Grad 2027: Design Verification Engineer | Plano, TX | <a href="https://go.vansh.nyc/1bo?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
-| **Boeing** | ASIC / FPGA Digital Design Engineer (Master's) 🇺🇸 | El Segundo, CA | <a href="https://go.vansh.nyc/19R?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | **Amazon** | Software Development Engineer, Robotics | <details><summary>**4 locations**</summary>Austin, TX</br>Bellevue, WA</br>North Reading, MA</br>Westborough, MA</details> | <a href="https://go.vansh.nyc/19D?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | **Amazon** | Software Development Engineer, AWS Data Services | Seattle, WA | <a href="https://go.vansh.nyc/19E?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | **TikTok** | New Grad 2027: Machine Learning Engineer (Lead Ads) | San Jose, CA | <a href="https://go.vansh.nyc/19A?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
@@ -866,6 +864,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Tesla** | Software Engineer, Traction Control & Stability | Palo Alto, CA | <a href="https://go.vansh.nyc/ig?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 05 |
 | **Qualcomm** | Embedded DSP Software Engineer | San Diego, CA | <a href="https://go.vansh.nyc/i2?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 31 |
 | **MasterBorn** | Junior QA Specialist | Remote | 🔒 | Nov 23 |
+| **Stryker** | Software Developer in Test | Portage, MI | 🔒 | Nov 19 |
 | **Huntington Ingalls Industries** | Software Engineer 1 🇺🇸 | Newport News, VA | 🔒 | Nov 19 |
 | **CACI** | Flight Software Development Engineer, NASA Space Reactor – 1 Freedom 🇺🇸 | Houston, TX | 🔒 | Nov 19 |
 | **HPE** | AI Automation Engineer | Spring, TX | 🔒 | Nov 18 |
@@ -967,6 +966,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Fireworks AI** | New Grad 2027: Member of Technical Staff | San Mateo, CA | 🔒 | Nov 02 |
 | **Equifax** | New Grad 2027: Data Analytics Rotational Development Associate | Alpharetta, GA | 🔒 | Nov 02 |
 | **Decagon** | New Grad 2027: Member of Technical Staff | San Francisco, CA | 🔒 | Nov 02 |
+| **Boeing** | ASIC / FPGA Digital Design Engineer (Master's) 🇺🇸 | El Segundo, CA | 🔒 | Nov 02 |
 | **Boeing** | ASIC / FPGA Design Verification Engineer (Master's) 🇺🇸 | El Segundo, CA | 🔒 | Nov 02 |
 | **Aprio** | AI & Automation Associate | Atlanta, GA | 🔒 | Nov 02 |
 | **TikTok** | New Grad 2027: Backend Engineer, User Growth | San Jose, CA | 🔒 | Nov 01 |
