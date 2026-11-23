@@ -114,7 +114,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Microchip Technology** | Engineer 1 - Verification | Chandler, AZ | <a href="https://go.vansh.nyc/1BS?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | **Jobgether** | New Grad 2027: Software Engineer, Open Source and Linux | Remote | <a href="https://go.vansh.nyc/1B9?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | **Federal Reserve System** | New Grad 2027: Quantitative Fellowship Program (Master's) | Minneapolis, MN | <a href="https://go.vansh.nyc/1AM?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
-| **CDM Smith** | Artificial Intelligence/Machine Learning Developer | Fairfax, VA | <a href="https://go.vansh.nyc/1BG?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | **Atoms** | New Grad: AI Researcher | San Francisco, CA</br>Mountain View, CA | <a href="https://go.vansh.nyc/1BU?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | **Atoms** | New Grad: AI Researcher | San Francisco, CA</br>Mountain View, CA | <a href="https://go.vansh.nyc/1BW?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | **Argonne National Laboratory** | Software Engineer | Lemont, IL | <a href="https://go.vansh.nyc/1Cb?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
@@ -873,6 +872,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **DEKA** | Junior Android Developer | Manchester, NH | 🔒 | Nov 18 |
 | **Adyen** | Junior Full-Stack Developer, Docs Experience Engineering Team 🛂 | Chicago, IL | 🔒 | Nov 18 |
 | **QuaverEd** | Junior Developer - AI Team | Nashville, TN | 🔒 | Nov 17 |
+| **CDM Smith** | Artificial Intelligence/Machine Learning Developer | Fairfax, VA | 🔒 | Nov 17 |
 | **Shield AI** | New Grad 2027: Engineer I, Software | Washington, DC | 🔒 | Nov 13 |
 | **Northrop Grumman** | New Grad 2027: Associate Software Engineer 🇺🇸 | Mcclellan, CA | 🔒 | Nov 13 |
 | **Micron Technology** | Design Engineer | San Jose, CA | 🔒 | Nov 13 |
