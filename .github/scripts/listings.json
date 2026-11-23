@@ -34168,13 +34168,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794376563,
+        "date_updated": 1795460121,
         "url": "https://go.vansh.nyc/1u1",
         "locations": [
             "Vancouver, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Nutanix",
         "title": "New Grad: Software Engineer (Master's)",
         "source": "vanshb03",
@@ -37464,13 +37464,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1795454472,
+        "date_updated": 1795460121,
         "url": "https://go.vansh.nyc/1GX",
         "locations": [
             "Arlington, VA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Booz Allen",
         "title": "Software Developer",
         "source": "vanshb03",
