@@ -26822,13 +26822,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793171321,
+        "date_updated": 1795458124,
         "url": "https://go.vansh.nyc/Xb",
         "locations": [
             "San Diego, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Shield AI",
         "title": "New Grad 2027: Autonomous Software Engineer",
         "source": "vanshb03",
@@ -34906,14 +34906,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794442327,
+        "date_updated": 1795458124,
         "url": "https://go.vansh.nyc/1vO",
         "locations": [
             "San Jose, CA",
             "Ann Arbor, MI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Zensar",
         "title": "Software Engineer, AI Platform Development",
         "source": "vanshb03",
