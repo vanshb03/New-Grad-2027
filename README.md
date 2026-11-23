@@ -76,7 +76,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Further** | New Grad 2027: Entry Level Developer 🛂 | Dallas, TX | <a href="https://go.vansh.nyc/1FP?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | **CPI Card Group** | DevOps Engineer I 🛂 | Nashville, TN | <a href="https://go.vansh.nyc/1EV?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | **Cadence Design Systems** | Software Engineering, Verification IP Team | San Jose, CA | <a href="https://go.vansh.nyc/1Eq?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
-| **Booz Allen** | Software Developer 🇺🇸 | Arlington, VA | <a href="https://go.vansh.nyc/1GX?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | **Boeing** | Software Engineer – Test & Verification 🇺🇸 | Tinker AFB, OK | <a href="https://go.vansh.nyc/1EZ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | **Autura** | Data Operations Associate | <details><summary>**5 locations**</summary>Houston, TX</br>Cleveland, OH</br>Dallas, TX</br>Kansas City, MO</br>Chattanooga, TN</details> | <a href="https://go.vansh.nyc/1EH?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | **Apple** | New Grad 2027: Engineer - Evolve - An Apple Services Rotation Program | Seattle, WA</br>New York, NY</br>Cupertino, CA | <a href="https://go.vansh.nyc/1Fm?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
@@ -865,6 +864,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Tesla** | Software Engineer, Traction Control & Stability | Palo Alto, CA | <a href="https://go.vansh.nyc/ig?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 05 |
 | **Qualcomm** | Embedded DSP Software Engineer | San Diego, CA | <a href="https://go.vansh.nyc/i2?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 31 |
 | **MasterBorn** | Junior QA Specialist | Remote | 🔒 | Nov 23 |
+| **Booz Allen** | Software Developer 🇺🇸 | Arlington, VA | 🔒 | Nov 20 |
 | **Stryker** | Software Developer in Test | Portage, MI | 🔒 | Nov 19 |
 | **Huntington Ingalls Industries** | Software Engineer 1 🇺🇸 | Newport News, VA | 🔒 | Nov 19 |
 | **CACI** | Flight Software Development Engineer, NASA Space Reactor – 1 Freedom 🇺🇸 | Houston, TX | 🔒 | Nov 19 |

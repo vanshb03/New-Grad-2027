@@ -82,7 +82,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **AMD** | Silicon Design Engineer | Markham, Canada</br>Ottawa, Canada | <a href="https://go.vansh.nyc/1ud?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
 | **AMD** | RTL/Firmware Design Engineer | Markham, Canada | <a href="https://go.vansh.nyc/Hw?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
 | **Quora** | Software Engineer, Machine Learning Platform | Remote</br>Remote, Canada | <a href="https://go.vansh.nyc/Lc?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
-| **Nutanix** | New Grad: Software Engineer (Master's) | Vancouver, Canada | <a href="https://go.vansh.nyc/1u1?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | **DoorDash** | New Grad 2027: Software Engineer | Toronto, Canada | <a href="https://go.vansh.nyc/Kd?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | **Qualcomm** | New Grad: Machine Learning Engineer - AI Processors | Markham, Canada | <a href="https://go.vansh.nyc/1tT?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | **Atlassian** | New Grad 2027: Software Engineer | Burnaby, Canada</br>Vancouver, Canada</br>Richmond, Canada | <a href="https://go.vansh.nyc/Ku?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
@@ -122,6 +121,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Motorola** | Junior Software Engineer, AI Agent Platform | Remote, Canada | 🔒 | Oct 05 |
 | **AMD** | Software System Designer | Markham, Canada | 🔒 | Sep 28 |
 | **AMD** | Silicon Design Engineer | Markham, Canada | 🔒 | Sep 28 |
+| **Nutanix** | New Grad: Software Engineer (Master's) | Vancouver, Canada | 🔒 | Sep 25 |
 | **Tower Research Capital** | C++ Software Developer, Rotational Program | Montreal, Canada | 🔒 | Sep 15 |
 | **General Dynamics Mission Systems** | Junior Hardware Engineering Developer, FPGA | Ottawa, Canada | 🔒 | Sep 04 |
 | **General Dynamics UK** | Junior Hardware Engineer Developer, FPGA | Ottawa, Canada | 🔒 | Sep 03 |
