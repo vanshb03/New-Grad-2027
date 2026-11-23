@@ -110,7 +110,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **RTX** | Software Engineer I | Cedar Rapids, IA | <a href="https://go.vansh.nyc/1Ca?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | **Relativity Space** | Software Engineer I, Factory Platform | Long Beach, CA | <a href="https://go.vansh.nyc/1BH?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | **Raytheon Technologies** | Embedded Software Developer I 🇺🇸 | El Segundo, CA | <a href="https://go.vansh.nyc/1Cs?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
-| **Peraton** | New Grad 2027: Entry-Level Software Engineer - Ignite Innovator Program | Blacksburg, VA | <a href="https://go.vansh.nyc/1Bi?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | **Mirantis** | New Grad: Software Engineer - Backend - Go | Raleigh, NC | <a href="https://go.vansh.nyc/1BV?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | **Micron Technology** | Software Engineer | Boise, ID | <a href="https://go.vansh.nyc/1C3?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | **Microchip Technology** | Engineer 1 - Verification | Chandler, AZ | <a href="https://go.vansh.nyc/1BS?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
@@ -872,6 +871,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **DEKA** | Junior Android Developer | Manchester, NH | 🔒 | Nov 18 |
 | **Adyen** | Junior Full-Stack Developer, Docs Experience Engineering Team 🛂 | Chicago, IL | 🔒 | Nov 18 |
 | **QuaverEd** | Junior Developer - AI Team | Nashville, TN | 🔒 | Nov 17 |
+| **Peraton** | New Grad 2027: Entry-Level Software Engineer - Ignite Innovator Program | Blacksburg, VA | 🔒 | Nov 17 |
 | **CDM Smith** | Artificial Intelligence/Machine Learning Developer | Fairfax, VA | 🔒 | Nov 17 |
 | **Shield AI** | New Grad 2027: Engineer I, Software | Washington, DC | 🔒 | Nov 13 |
 | **Peraton** | Full Stack Engineer | Columbus, OH | 🔒 | Nov 13 |
