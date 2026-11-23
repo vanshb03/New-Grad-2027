@@ -26492,13 +26492,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793128226,
+        "date_updated": 1795474371,
         "url": "https://go.vansh.nyc/Wc",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cisco",
         "title": "ASIC Design Verification Engineer I",
         "source": "vanshb03",
