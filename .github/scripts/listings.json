@@ -37400,13 +37400,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1795432759,
+        "date_updated": 1795447062,
         "url": "https://go.vansh.nyc/1GN",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "MasterBorn",
         "title": "Junior QA Specialist",
         "source": "vanshb03",
