@@ -53,7 +53,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Flexspring** | New Grad: AI Model Training and Deployment Developer | Montreal, Canada | <a href="https://go.vansh.nyc/1B5?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | **BIS Safety Software** | Junior Data Analyst | Sherwood Park, Canada | <a href="https://go.vansh.nyc/1BF?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | **AMD** | Silicon Design Engineer | Markham, Canada | <a href="https://go.vansh.nyc/1AU?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
-| **American Express** | New Grad 2027: Software Engineer I, Enterprise Technology Services | Toronto, Canada | <a href="https://go.vansh.nyc/1Ab?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | **Miraterra** | Associate Software Developer | Toronto, Canada | <a href="https://go.vansh.nyc/1At?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | **DataVisor** | New Grad: Infrastructure Engineer | Toronto, Canada | <a href="https://go.vansh.nyc/1zv?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | **Planview** | Software Engineer I | Vancouver, Canada | <a href="https://go.vansh.nyc/1wo?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
@@ -96,6 +95,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Tower Research Capital** | New Grad: C++ Software Engineer, MTL | Montreal, Canada | <a href="https://go.vansh.nyc/j2?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 03 |
 | **Oracle** | Software Developer | Remote</br>Canada | <a href="https://go.vansh.nyc/iS?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 19 |
 | **Oracle** | Software Developer - Rotational Program - NetSuite | Kitchiner, Canada | <a href="https://go.vansh.nyc/iR?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 19 |
+| **American Express** | New Grad 2027: Software Engineer I, Enterprise Technology Services | Toronto, Canada | 🔒 | Nov 16 |
 | **Blackberry** | Systems Software Developer, Sensor Framework | Ottawa, Canada | 🔒 | Nov 11 |
 | **Sur La Table** | Junior Software Engineer | Toronto, Canada</br>Remote | 🔒 | Nov 09 |
 | **Ciena** | New Grad: Embedded Security Software Developer | Ottawa, Canada | 🔒 | Nov 06 |
