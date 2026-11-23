@@ -42,6 +42,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
 | **Northrop Grumman** | New Grad 2027: Associate Software Engineer / Software Engineer 🇺🇸 | Colorado Springs, CO | <a href="https://go.vansh.nyc/1GL?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
+| **MasterBorn** | Junior QA Specialist | Remote | <a href="https://go.vansh.nyc/1GN?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | **Aon** | New Grad 2027: Health Analytics Specialist | Chicago, IL</br>Atlanta, GA | <a href="https://go.vansh.nyc/1GK?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | **All Options** | New Grad 2027: Quantitative Trader | Austin, TX | <a href="https://go.vansh.nyc/1GJ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | **Sierra** | New Grad 2027: Software Engineer, Agent | San Francisco, CA | <a href="https://go.vansh.nyc/1Gs?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
