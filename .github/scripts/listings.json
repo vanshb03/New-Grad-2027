@@ -31163,13 +31163,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793654080,
+        "date_updated": 1795449196,
         "url": "https://go.vansh.nyc/19R",
         "locations": [
             "El Segundo, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Boeing",
         "title": "ASIC / FPGA Digital Design Engineer (Master's)",
         "source": "vanshb03",
@@ -36800,13 +36800,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1795181034,
+        "date_updated": 1795449196,
         "url": "https://go.vansh.nyc/1Er",
         "locations": [
             "Portage, MI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Stryker",
         "title": "Software Developer in Test",
         "source": "vanshb03",
