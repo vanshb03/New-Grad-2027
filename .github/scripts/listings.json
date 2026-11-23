@@ -32142,13 +32142,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793848448,
+        "date_updated": 1795397154,
         "url": "https://go.vansh.nyc/1hD",
         "locations": [
             "Marshalltown, IA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Emerson Electric",
         "title": "Embedded Software Engineer - AI - Web",
         "source": "vanshb03",
