@@ -36014,13 +36014,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794930527,
+        "date_updated": 1795469084,
         "url": "https://go.vansh.nyc/1Bi",
         "locations": [
             "Blacksburg, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Peraton",
         "title": "New Grad 2027: Entry-Level Software Engineer - Ignite Innovator Program",
         "source": "vanshb03",
