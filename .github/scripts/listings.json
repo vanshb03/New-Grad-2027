@@ -19382,7 +19382,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1792732377,
+        "date_updated": 1795476321,
         "url": "https://go.vansh.nyc/Bc",
         "locations": [
             "Honolulu, HI",
@@ -19398,7 +19398,7 @@
             "El Segundo, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Booz Allen",
         "title": "New Grad 2027: Software Developer",
         "source": "vanshb03",
@@ -19434,7 +19434,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1792732377,
+        "date_updated": 1795476321,
         "url": "https://go.vansh.nyc/Be",
         "locations": [
             "Honolulu, HI",
@@ -19450,7 +19450,7 @@
             "El Segundo, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Booz Allen",
         "title": "New Grad 2027: Systems Engineer",
         "source": "vanshb03",
@@ -28696,13 +28696,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793520239,
+        "date_updated": 1795476321,
         "url": "https://go.vansh.nyc/154",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ByteDance",
         "title": "New Grad 2027: Data Lake Infrastructure & Data Analytics Research Engineer (AML-Ark-US)",
         "source": "vanshb03",
@@ -29080,13 +29080,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793520239,
+        "date_updated": 1795476321,
         "url": "https://go.vansh.nyc/15s",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ByteDance",
         "title": "New Grad 2027: Data Lake Infrastructure & Data Analytics Research Engineer (AML-Ark-US)",
         "source": "vanshb03",
