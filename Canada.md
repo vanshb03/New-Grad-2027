@@ -44,6 +44,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Trend Micro** | Software Developer 🛂 | Ottawa, Canada | <a href="https://go.vansh.nyc/1H3?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
 | **Gradient MSP** | Junior Full Stack Developer | Remote, Canada | <a href="https://go.vansh.nyc/1Gb?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
 | **Trend Micro** | Software Developer 🛂 | Ottawa, Canada | <a href="https://go.vansh.nyc/1Gc?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | **Keplar** | New Grad: Software Engineer | Toronto, Canada</br>Waterloo, Canada | <a href="https://go.vansh.nyc/1FL?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
