@@ -37414,5 +37414,53 @@
         "date_posted": 1795432602,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795450932,
+        "url": "https://go.vansh.nyc/1GR",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Quantiq",
+        "title": "New Grad: Software Developer",
+        "source": "vanshb03",
+        "id": "63a56c69-391e-4b00-88b2-7112ae12f606",
+        "date_posted": 1795392000,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795450932,
+        "url": "https://go.vansh.nyc/1GS",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Enterprise Holdings",
+        "title": "Data Scientist 1 (Master's)",
+        "source": "vanshb03",
+        "id": "f826e2fb-839b-42cd-9f63-bc1d09d60800",
+        "date_posted": 1795392000,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795450932,
+        "url": "https://go.vansh.nyc/1GT",
+        "locations": [
+            "Yorba Linda, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "L3Harris Technologies",
+        "title": "Associate, Software Engineering",
+        "source": "vanshb03",
+        "id": "088d922e-5c8b-49f2-838d-572e38dd9bf5",
+        "date_posted": 1795447811,
+        "company_url": "",
+        "is_visible": true
     }
 ]
