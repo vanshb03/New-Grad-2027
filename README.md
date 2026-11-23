@@ -134,7 +134,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Aerospace** | Embedded Software Engineer I - Flight Management System 🛂 | Phoenix, AZ | <a href="https://go.vansh.nyc/1zw?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | **UTHealth Houston** | Clinical Business Intelligence Analyst | San Antonio, TX | <a href="https://go.vansh.nyc/1zn?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | **Shield** | New Grad 2027: Engineer I, Software | Washington, DC | <a href="https://go.vansh.nyc/1yA?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
-| **Peraton** | Full Stack Engineer | Columbus, OH | <a href="https://go.vansh.nyc/1yG?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | **Everest** | New Grad 2027: Information Technology Rotational Development Program | Warren, NJ | <a href="https://go.vansh.nyc/1zG?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | **Empire State Realty Trust** | Applied AI Engineer 1 | New York, NY | <a href="https://go.vansh.nyc/1zo?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | **Cummins** | New Grad 2027: Systems Engineer | Seymour, IN | <a href="https://go.vansh.nyc/1zp?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
@@ -876,6 +875,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **QuaverEd** | Junior Developer - AI Team | Nashville, TN | 🔒 | Nov 17 |
 | **CDM Smith** | Artificial Intelligence/Machine Learning Developer | Fairfax, VA | 🔒 | Nov 17 |
 | **Shield AI** | New Grad 2027: Engineer I, Software | Washington, DC | 🔒 | Nov 13 |
+| **Peraton** | Full Stack Engineer | Columbus, OH | 🔒 | Nov 13 |
 | **Northrop Grumman** | New Grad 2027: Associate Software Engineer 🇺🇸 | Mcclellan, CA | 🔒 | Nov 13 |
 | **Micron Technology** | Design Engineer | San Jose, CA | 🔒 | Nov 13 |
 | **Johnson Controls** | New Grad: Nextgen Software Engineer 🛂 | Milwaukee, WI</br>Westford, MA</br>Glendale, WI | 🔒 | Nov 13 |
