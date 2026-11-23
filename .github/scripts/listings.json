@@ -20578,13 +20578,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793018233,
+        "date_updated": 1795472520,
         "url": "https://go.vansh.nyc/Hw",
         "locations": [
             "Markham, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AMD",
         "title": "RTL/Firmware Design Engineer",
         "source": "vanshb03",
