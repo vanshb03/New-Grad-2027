@@ -35758,13 +35758,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794843793,
+        "date_updated": 1795447289,
         "url": "https://go.vansh.nyc/1Ab",
         "locations": [
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "American Express",
         "title": "New Grad 2027: Software Engineer I, Enterprise Technology Services",
         "source": "vanshb03",
