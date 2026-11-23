@@ -36078,13 +36078,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794959706,
+        "date_updated": 1795443660,
         "url": "https://go.vansh.nyc/1BG",
         "locations": [
             "Fairfax, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CDM Smith",
         "title": "Artificial Intelligence/Machine Learning Developer",
         "source": "vanshb03",
