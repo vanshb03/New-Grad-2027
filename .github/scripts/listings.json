@@ -37760,5 +37760,37 @@
         "date_posted": 1795556852,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795560683,
+        "url": "https://go.vansh.nyc/1Iw",
+        "locations": [
+            "Wilmington, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Analog Devices",
+        "title": "Associate Engineer, Quality Engineering",
+        "source": "vanshb03",
+        "id": "d524fd39-a219-4aaf-81c1-d4c92a51d63d",
+        "date_posted": 1795559241,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795560683,
+        "url": "https://go.vansh.nyc/1Ix",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Boeing",
+        "title": "ASIC/FPGA Design Verification Engineer",
+        "source": "vanshb03",
+        "id": "7f083c16-5821-4ec1-8284-9dd474c0b17f",
+        "date_posted": 1795557981,
+        "company_url": "",
+        "is_visible": true
     }
 ]
