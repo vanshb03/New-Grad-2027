@@ -23905,13 +23905,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793027000,
+        "date_updated": 1795551826,
         "url": "https://go.vansh.nyc/P2",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "WeRide",
         "title": "New Grad 2027: Software Engineer",
         "source": "vanshb03",
@@ -35998,13 +35998,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794907150,
+        "date_updated": 1795551826,
         "url": "https://go.vansh.nyc/1B9",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Jobgether",
         "title": "New Grad 2027: Software Engineer, Open Source and Linux",
         "source": "vanshb03",
