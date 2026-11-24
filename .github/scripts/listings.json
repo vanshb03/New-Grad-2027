@@ -33130,13 +33130,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794172610,
+        "date_updated": 1795562800,
         "url": "https://go.vansh.nyc/1n9",
         "locations": [
             "Livermore, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Lawrence Livermore National Laboratory",
         "title": "Embedded Systems Engineer, Super Intelligence Integration",
         "source": "vanshb03",
