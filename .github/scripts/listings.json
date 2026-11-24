@@ -37728,5 +37728,21 @@
         "date_posted": 1795546178,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795548042,
+        "url": "https://go.vansh.nyc/1Iq",
+        "locations": [
+            "Binghamton, NY"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Software Engineer I",
+        "source": "vanshb03",
+        "id": "78b9daf6-13af-4bab-9e61-b888d3694430",
+        "date_posted": 1795546049,
+        "company_url": "",
+        "is_visible": true
     }
 ]
