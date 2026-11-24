@@ -37496,13 +37496,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1795467003,
+        "date_updated": 1795540995,
         "url": "https://go.vansh.nyc/1Hl",
         "locations": [
             "Fort Worth, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Koddi",
         "title": "Associate Software Engineer",
         "source": "vanshb03",
