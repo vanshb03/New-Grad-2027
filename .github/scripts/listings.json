@@ -37744,5 +37744,21 @@
         "date_posted": 1795546049,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795557080,
+        "url": "https://go.vansh.nyc/1Iv",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "New Grad 2027: Front-End Engineer",
+        "source": "vanshb03",
+        "id": "142c0840-653a-43a0-882a-25b47e35f3f3",
+        "date_posted": 1795556852,
+        "company_url": "",
+        "is_visible": true
     }
 ]
