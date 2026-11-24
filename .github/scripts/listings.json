@@ -37678,5 +37678,21 @@
         "date_posted": 1795478400,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795537489,
+        "url": "https://go.vansh.nyc/1Ic",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ServiceRocket",
+        "title": "Associate Service Delivery Engineer",
+        "source": "vanshb03",
+        "id": "f6f919bf-594a-424f-bb76-7b327bac4c3d",
+        "date_posted": 1795535686,
+        "company_url": "",
+        "is_visible": true
     }
 ]
