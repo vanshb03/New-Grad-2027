@@ -37581,5 +37581,21 @@
         "date_posted": 1795477897,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795481352,
+        "url": "https://go.vansh.nyc/1HL",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Philips",
+        "title": "New Grad 2027: AI & Analytics Associate",
+        "source": "vanshb03",
+        "id": "3641cd6a-3ca2-49ee-a28a-b612234ba42a",
+        "date_posted": 1795480529,
+        "company_url": "",
+        "is_visible": true
     }
 ]
