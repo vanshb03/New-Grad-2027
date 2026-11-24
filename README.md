@@ -213,7 +213,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Rovisys** | New Grad 2027: Entry Level Engineer/Developer | Houston, TX | <a href="https://go.vansh.nyc/1mG?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
 | **Rovisys** | New Grad 2027: Entry Level Engineer/Developer | Remote | <a href="https://go.vansh.nyc/1mH?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
 | **Rovisys** | New Grad 2027: Entry Level Engineer/Developer | Holly Springs, NC | <a href="https://go.vansh.nyc/1mI?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
-| **Lawrence Livermore National Laboratory** | Embedded Systems Engineer, Super Intelligence Integration 🇺🇸 | Livermore, CA | <a href="https://go.vansh.nyc/1n9?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
 | **ElevenLabs** | Full-Stack Engineer | New York, NY</br>Boston, MA | <a href="https://go.vansh.nyc/1ml?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
 | **ElevenLabs** | Full-Stack Engineer (Backend Leaning) | New York, NY</br>Boston, MA | <a href="https://go.vansh.nyc/1mm?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
 | **Secfix** | Backend Engineer, GTM Engineering | Remote | <a href="https://go.vansh.nyc/1mk?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
@@ -922,6 +921,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Shield AI** | New Grad 2027: Engineer 1 - Software - Autonomous Pilot Integration 🇺🇸 | Washington, DC | 🔒 | Nov 08 |
 | **Shield AI** | New Grad 2027: Engineer I, Software - Autonomy Capabilities 🇺🇸 | Remote | 🔒 | Nov 08 |
 | **Shield AI** | New Grad 2027: Engineer 1 - Software - Perception 🇺🇸 | Washington, DC | 🔒 | Nov 08 |
+| **Lawrence Livermore National Laboratory** | Embedded Systems Engineer, Super Intelligence Integration 🇺🇸 | Livermore, CA | 🔒 | Nov 07 |
 | **Wavestone1** | AI Full Stack Engineer 🛂 | Pittsburgh, PA | 🔒 | Nov 06 |
 | **Salesforce** | Systems Engineering Associate | Dallas, TX | 🔒 | Nov 06 |
 | **Huntington Ingalls Industries** | Software Engineer 1 🇺🇸 | Newport News, VA | 🔒 | Nov 06 |
