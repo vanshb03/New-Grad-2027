@@ -32530,13 +32530,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793924449,
+        "date_updated": 1795546589,
         "url": "https://go.vansh.nyc/1jL",
         "locations": [
             "Dublin, OH"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cardinal Health",
         "title": "New Grad 2027: Data & Analytics Development Program",
         "source": "vanshb03",
@@ -37708,6 +37708,24 @@
         "source": "vanshb03",
         "id": "1bf303ee-74aa-47c6-ab7d-c1ee618cad3d",
         "date_posted": 1795538905,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795546422,
+        "url": "https://go.vansh.nyc/1Io",
+        "locations": [
+            "San Jose, CA",
+            "Chicago, IL",
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PayPal",
+        "title": "New Grad 2027: Software Engineer",
+        "source": "vanshb03",
+        "id": "fbefa51b-8b58-4bd0-81c0-6eee36d64ce9",
+        "date_posted": 1795546178,
         "company_url": "",
         "is_visible": true
     }
