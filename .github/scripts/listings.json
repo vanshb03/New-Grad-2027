@@ -18678,13 +18678,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1792698816,
+        "date_updated": 1795550660,
         "url": "https://go.vansh.nyc/Av",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Brain Co.",
         "title": "New Grad 2027: AI Platform Engineer",
         "source": "vanshb03",
@@ -29608,13 +29608,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793526377,
+        "date_updated": 1795550660,
         "url": "https://go.vansh.nyc/165",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2027: Machine Learning Engineer, E-Commerce Supply Chain & Logistics",
         "source": "vanshb03",
@@ -29688,13 +29688,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793526377,
+        "date_updated": 1795550660,
         "url": "https://go.vansh.nyc/16a",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "New Grad 2027: Machine Learning Engineer (E-Commerce Supply Chain & Logistics)",
         "source": "vanshb03",
