@@ -36608,13 +36608,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1795132466,
+        "date_updated": 1795539278,
         "url": "https://go.vansh.nyc/1DB",
         "locations": [
             "Centennial, CO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "United Launch Alliance",
         "title": "Ground Software Avionics & Infrastructure Engineer 1",
         "source": "vanshb03",
@@ -37692,6 +37692,22 @@
         "source": "vanshb03",
         "id": "f6f919bf-594a-424f-bb76-7b327bac4c3d",
         "date_posted": 1795535686,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795539133,
+        "url": "https://go.vansh.nyc/1Ig",
+        "locations": [
+            "Parkland, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Appodeal",
+        "title": "Junior Software Engineer",
+        "source": "vanshb03",
+        "id": "1bf303ee-74aa-47c6-ab7d-c1ee618cad3d",
+        "date_posted": 1795538905,
         "company_url": "",
         "is_visible": true
     }
