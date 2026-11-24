@@ -32840,13 +32840,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794006809,
+        "date_updated": 1795564558,
         "url": "https://go.vansh.nyc/1lA",
         "locations": [
             "Houston, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "BP",
         "title": "New Grad 2027: Digital \u2013 Data & AI and Digital Engineering",
         "source": "vanshb03",
@@ -37790,6 +37790,38 @@
         "source": "vanshb03",
         "id": "7f083c16-5821-4ec1-8284-9dd474c0b17f",
         "date_posted": 1795557981,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795564379,
+        "url": "https://go.vansh.nyc/1IB",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Consolidated Edison",
+        "title": "Associate, Research & Development",
+        "source": "vanshb03",
+        "id": "b355d45a-8df7-433f-83de-b14106b73c26",
+        "date_posted": 1795562159,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795564379,
+        "url": "https://go.vansh.nyc/1IC",
+        "locations": [
+            "Ottawa, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ciena",
+        "title": "New Grad: Software Engineering",
+        "source": "vanshb03",
+        "id": "fecc8bee-968a-4335-b20f-0d829a644cc7",
+        "date_posted": 1795564120,
         "company_url": "",
         "is_visible": true
     }
