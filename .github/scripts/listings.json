@@ -37597,5 +37597,54 @@
         "date_posted": 1795480529,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795497792,
+        "url": "https://go.vansh.nyc/1HX",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Shield AI",
+        "title": "New Grad 2027: Engineer II, Software - Ground Control Station - Full Stack",
+        "source": "vanshb03",
+        "id": "cc12a432-2919-4efb-b67c-4f7271c2852a",
+        "date_posted": 1795478400,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795497792,
+        "url": "https://go.vansh.nyc/1HY",
+        "locations": [
+            "Austin, TX",
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SambaNova Systems",
+        "title": "New Grad: AI Performance Engineer",
+        "source": "vanshb03",
+        "id": "ba8fe7b6-41df-4531-9ed5-4f80a543c4dc",
+        "date_posted": 1795478400,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795497792,
+        "url": "https://go.vansh.nyc/1HZ",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Iridium Communications",
+        "title": "Software Test Engineer I",
+        "source": "vanshb03",
+        "id": "054f47dc-f32f-4b1f-a51c-b22e91c12e4c",
+        "date_posted": 1795478400,
+        "company_url": "",
+        "is_visible": true
     }
 ]
