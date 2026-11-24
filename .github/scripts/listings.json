@@ -28264,13 +28264,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793506412,
+        "date_updated": 1795542825,
         "url": "https://go.vansh.nyc/13X",
         "locations": [
             "Milwaukee, WI"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Rockwell Automation",
         "title": "New Grad 2027: EDGE, Information Technology Rotational Program",
         "source": "vanshb03",
@@ -36288,13 +36288,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1795009877,
+        "date_updated": 1795542825,
         "url": "https://go.vansh.nyc/1Cb",
         "locations": [
             "Lemont, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Argonne National Laboratory",
         "title": "Software Engineer",
         "source": "vanshb03",
@@ -37696,13 +37696,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1795539133,
+        "date_updated": 1795542825,
         "url": "https://go.vansh.nyc/1Ig",
         "locations": [
             "Parkland, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Appodeal",
         "title": "Junior Software Engineer",
         "source": "vanshb03",
