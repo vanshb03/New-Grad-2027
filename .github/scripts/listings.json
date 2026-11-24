@@ -37646,5 +37646,21 @@
         "date_posted": 1795478400,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795529939,
+        "url": "https://go.vansh.nyc/1I7",
+        "locations": [
+            "Denver, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pismo",
+        "title": "Software Engineer, Agentic Developer",
+        "source": "vanshb03",
+        "id": "ff18715a-6787-4b17-935f-4a954c7012b2",
+        "date_posted": 1795517427,
+        "company_url": "",
+        "is_visible": true
     }
 ]
