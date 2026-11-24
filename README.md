@@ -289,8 +289,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **TikTok** | New Grad 2027: Machine Learning Engineer, Commerce Ads | San Jose, CA | <a href="https://go.vansh.nyc/162?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | **TikTok** | New Grad 2027: Machine Learning Engineer (E-Commerce Recommendation Mall) | San Jose, CA | <a href="https://go.vansh.nyc/163?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | **TikTok** | New Grad 2027: Machine Learning Engineer (E-Commerce Recommendation/Search Alliance) | San Jose, CA | <a href="https://go.vansh.nyc/164?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
-| **TikTok** | New Grad 2027: Machine Learning Engineer, E-Commerce Supply Chain & Logistics | Seattle, WA | <a href="https://go.vansh.nyc/165?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
-| **TikTok** | New Grad 2027: Machine Learning Engineer (E-Commerce Supply Chain & Logistics) | San Jose, CA | <a href="https://go.vansh.nyc/16a?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | **TikTok** | New Grad 2027: Machine Learning Engineer, E-Commerce Recommendation Foundation | San Jose, CA | <a href="https://go.vansh.nyc/16b?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | **TikTok** | New Grad 2027: Backend Software Engineer (Trust & Safety) | San Jose, CA | <a href="https://go.vansh.nyc/16d?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | **TikTok** | New Grad 2027: Machine Learning Engineer, E-Commerce Recommendation Live | San Jose, CA | <a href="https://go.vansh.nyc/16e?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
@@ -499,7 +497,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Brain Co.** | New Grad 2027: AI/ML Engineer | San Francisco, CA | <a href="https://go.vansh.nyc/As?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | **Brain Co.** | New Grad 2027: AI Security Engineer | San Francisco, CA | <a href="https://go.vansh.nyc/At?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | **Brain Co.** | New Grad 2027: AI Product Engineer | San Francisco, CA | <a href="https://go.vansh.nyc/Au?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
-| **Brain Co.** | New Grad 2027: AI Platform Engineer | San Francisco, CA | <a href="https://go.vansh.nyc/Av?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | **Amazon** | New Grad 2027: Software Engineer | <details><summary>**9 locations**</summary>Madison, WI</br>Boston, MA</br>Seattle, WA</br>Austin, TX</br>Detroit, MI</br>Santa Clara, CA</br>Arlington, VA</br>Minneapolis, MN</br>Denver, CO</details> | <a href="https://go.vansh.nyc/AD?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | **Acxiom** | Associate Solution Developer | Conway, AR | <a href="https://go.vansh.nyc/AG?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | **Veeva Systems** | New Grad 2027: Data Analyst, Marketing Analytics | New York, NY | <a href="https://go.vansh.nyc/Ua?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
@@ -977,6 +974,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Boeing** | ASIC / FPGA Digital Design Engineer (Master's) 🇺🇸 | El Segundo, CA | 🔒 | Nov 02 |
 | **Boeing** | ASIC / FPGA Design Verification Engineer (Master's) 🇺🇸 | El Segundo, CA | 🔒 | Nov 02 |
 | **Aprio** | AI & Automation Associate | Atlanta, GA | 🔒 | Nov 02 |
+| **TikTok** | New Grad 2027: Machine Learning Engineer, E-Commerce Supply Chain & Logistics | Seattle, WA | 🔒 | Nov 01 |
+| **TikTok** | New Grad 2027: Machine Learning Engineer (E-Commerce Supply Chain & Logistics) | San Jose, CA | 🔒 | Nov 01 |
 | **TikTok** | New Grad 2027: Backend Engineer, User Growth | San Jose, CA | 🔒 | Nov 01 |
 | **TikTok** | New Grad 2027: Research Scientist (Ads Creative) (Master's) | San Jose, CA | 🔒 | Nov 01 |
 | **TikTok** | New Grad 2027: Backend Software Engineer (Risk & Response) | Seattle, WA | 🔒 | Nov 01 |
@@ -1102,6 +1101,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Electronic Arts** | New Grad 2027: Software Engineer 1 | Orlando, FL | 🔒 | Oct 22 |
 | **Citi** | Angular Developer / Frontend Engineer | Irving, TX | 🔒 | Oct 22 |
 | **Cisco** | Attack Surface Management Security Engineer I | Research Triangle Park, NC | 🔒 | Oct 22 |
+| **Brain Co.** | New Grad 2027: AI Platform Engineer | San Francisco, CA | 🔒 | Oct 22 |
 | **Boeing** | Associate Flight Test Data Processing Software Engineer 🇺🇸 | Berkeley, MO | 🔒 | Oct 22 |
 | **Applied Materials** | Software Engineer | Santa Clara, CA | 🔒 | Oct 22 |
 | **Applied Materials** | Algorithm Developer (Master's) | Santa Clara, CA | 🔒 | Oct 22 |
