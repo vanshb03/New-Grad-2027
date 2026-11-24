@@ -20594,14 +20594,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793018234,
+        "date_updated": 1795480056,
         "url": "https://go.vansh.nyc/Hx",
         "locations": [
             "Folsom, CA",
             "Richardson, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Micron Technology",
         "title": "HBM SoC Design Engineer/Architect",
         "source": "vanshb03",
@@ -37239,13 +37239,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1795382534,
+        "date_updated": 1795480056,
         "url": "https://go.vansh.nyc/1Gq",
         "locations": [
             "Remote"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Parsons",
         "title": "Associate Software Engineer",
         "source": "vanshb03",
@@ -37540,6 +37540,45 @@
         "source": "vanshb03",
         "id": "51743f42-51e8-4eaa-b657-bf114bf6f2b0",
         "date_posted": 1795475802,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795479866,
+        "url": "https://go.vansh.nyc/1HF",
+        "locations": [
+            "Farmington Hills, MI",
+            "King of Prussia, PA",
+            "Houston, TX",
+            "Dallas, TX",
+            "Philadelphia, PA",
+            "Rosemont, IL",
+            "Chicago, IL",
+            "Golden, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GHD",
+        "title": "Developer",
+        "source": "vanshb03",
+        "id": "cf2cddf5-8e82-444d-adc1-760819e4bf93",
+        "date_posted": 1795477886,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795479866,
+        "url": "https://go.vansh.nyc/1HG",
+        "locations": [
+            "Durham, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Duke University",
+        "title": "Analytics Engineer, Department of Pharmacy",
+        "source": "vanshb03",
+        "id": "8a7c3208-8bc4-402a-99c5-1ac2d310bd8b",
+        "date_posted": 1795477897,
         "company_url": "",
         "is_visible": true
     }
