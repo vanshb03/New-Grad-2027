@@ -31708,13 +31708,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793753050,
+        "date_updated": 1795519390,
         "url": "https://go.vansh.nyc/1fQ",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Synhawk",
         "title": "Member of Technical Staff: Junior AI Researcher (Master's)",
         "source": "vanshb03",
