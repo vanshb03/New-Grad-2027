@@ -23757,13 +23757,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793025546,
+        "date_updated": 1795535656,
         "url": "https://go.vansh.nyc/Og",
         "locations": [
             "Portage, MI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Stryker",
         "title": "Design Engineer - Software, RISE",
         "source": "vanshb03",
@@ -32661,13 +32661,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793976309,
+        "date_updated": 1795535656,
         "url": "https://go.vansh.nyc/1kh",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Celonis",
         "title": "Associate Deployment Engineer",
         "source": "vanshb03",
@@ -32677,13 +32677,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793976309,
+        "date_updated": 1795535656,
         "url": "https://go.vansh.nyc/1ki",
         "locations": [
             "Raleigh, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Celonis",
         "title": "Associate Deployment Engineer",
         "source": "vanshb03",
@@ -37660,6 +37660,22 @@
         "source": "vanshb03",
         "id": "ff18715a-6787-4b17-935f-4a954c7012b2",
         "date_posted": 1795517427,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795535483,
+        "url": "https://go.vansh.nyc/1I8",
+        "locations": [
+            "Blacksburg, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Peraton",
+        "title": "New Grad 2027: Software Engineering, Ignite Innovator Pgm",
+        "source": "vanshb03",
+        "id": "a4976623-0838-4711-8a50-b1c5e1fa39a0",
+        "date_posted": 1795478400,
         "company_url": "",
         "is_visible": true
     }
