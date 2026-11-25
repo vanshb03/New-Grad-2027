@@ -37528,13 +37528,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1795477961,
+        "date_updated": 1795634610,
         "url": "https://go.vansh.nyc/1Hy",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Adobe",
         "title": "New Grad 2027: Research Scientist (Master's)",
         "source": "vanshb03",
