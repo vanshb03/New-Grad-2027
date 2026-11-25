@@ -37904,5 +37904,21 @@
         "date_posted": 1795580328,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795584478,
+        "url": "https://go.vansh.nyc/1IZ",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "title": "New Grad 2027: Reverse Engineer - Systems Exploitation",
+        "source": "vanshb03",
+        "id": "6ca2721b-f186-4e2f-bc27-49188fcb797e",
+        "date_posted": 1795564800,
+        "company_url": "",
+        "is_visible": true
     }
 ]
