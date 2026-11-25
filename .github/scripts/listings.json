@@ -38000,5 +38000,55 @@
         "date_posted": 1795636221,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795650886,
+        "url": "https://go.vansh.nyc/1JG",
+        "locations": [
+            "Ashburn, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "ManTech",
+        "title": "Junior Data Analyst",
+        "source": "vanshb03",
+        "id": "11076ed1-5617-47de-b9d6-9ee0658c5078",
+        "date_posted": 1795649036,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795650886,
+        "url": "https://go.vansh.nyc/1JH",
+        "locations": [
+            "Palo Alto, CA",
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Parallel Web Systems",
+        "title": "Software Engineer - Developer Experience",
+        "source": "vanshb03",
+        "id": "dc220f7e-b1e6-415a-82f7-7b74087d36f6",
+        "date_posted": 1795564800,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795650886,
+        "url": "https://go.vansh.nyc/1JI",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Two Sigma",
+        "title": "Quantitative Trader",
+        "source": "vanshb03",
+        "id": "57bb0e44-28a3-483b-b0bb-f08070b0aa22",
+        "date_posted": 1795647999,
+        "company_url": "",
+        "is_visible": true
     }
 ]
