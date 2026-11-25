@@ -44,7 +44,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
-| **Hitachi** | Software Analyst | Toronto, Canada | <a href="https://go.vansh.nyc/1II?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | **ServiceRocket** | Associate Service Delivery Engineer | Toronto, Canada | <a href="https://go.vansh.nyc/1Ic?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | **Ciena** | New Grad: Software Engineering | Ottawa, Canada | <a href="https://go.vansh.nyc/1IC?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | **Trend Micro** | Software Developer 🛂 | Ottawa, Canada | <a href="https://go.vansh.nyc/1H3?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
@@ -97,6 +96,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Tower Research Capital** | New Grad: C++ Software Engineer, MTL | Montreal, Canada | <a href="https://go.vansh.nyc/j2?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 03 |
 | **Oracle** | Software Developer | Remote</br>Canada | <a href="https://go.vansh.nyc/iS?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 19 |
 | **Oracle** | Software Developer - Rotational Program - NetSuite | Kitchiner, Canada | <a href="https://go.vansh.nyc/iR?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 19 |
+| **Hitachi** | Software Analyst | Toronto, Canada | 🔒 | Nov 25 |
 | **American Express** | New Grad 2027: Software Engineer I, Enterprise Technology Services | Toronto, Canada | 🔒 | Nov 16 |
 | **Blackberry** | Systems Software Developer, Sensor Framework | Ottawa, Canada | 🔒 | Nov 11 |
 | **Sur La Table** | Junior Software Engineer | Toronto, Canada</br>Remote | 🔒 | Nov 09 |
