@@ -37920,5 +37920,21 @@
         "date_posted": 1795564800,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795609230,
+        "url": "https://go.vansh.nyc/1J6",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Applied Materials",
+        "title": "Software Engineer II (Master's)",
+        "source": "vanshb03",
+        "id": "99579235-7231-4792-93df-0f8417a6e93a",
+        "date_posted": 1795580362,
+        "company_url": "",
+        "is_visible": true
     }
 ]
