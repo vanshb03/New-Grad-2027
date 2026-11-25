@@ -36464,13 +36464,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1795094350,
+        "date_updated": 1795625615,
         "url": "https://go.vansh.nyc/1CM",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Eight Sleep",
         "title": "New Grad: Engineering",
         "source": "vanshb03",
@@ -37950,6 +37950,22 @@
         "source": "vanshb03",
         "id": "503767c7-7b3e-45f6-a0e5-ea26492d249a",
         "date_posted": 1795609738,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795625461,
+        "url": "https://go.vansh.nyc/1Je",
+        "locations": [
+            "Etobicoke, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Wonderbrands",
+        "title": "New Grad: Growth Intelligence Analyst",
+        "source": "vanshb03",
+        "id": "44cb6f82-55ed-4a5b-8700-d915d79e1351",
+        "date_posted": 1795623766,
         "company_url": "",
         "is_visible": true
     }
