@@ -35870,13 +35870,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794874931,
+        "date_updated": 1795614929,
         "url": "https://go.vansh.nyc/1AH",
         "locations": [
             "Philadelphia, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CrossCountry Consulting",
         "title": "New Grad 2027: Junior Forward Deployed Software Engineer",
         "source": "vanshb03",
@@ -35886,13 +35886,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794874931,
+        "date_updated": 1795614929,
         "url": "https://go.vansh.nyc/1AI",
         "locations": [
             "McLean, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CrossCountry Consulting",
         "title": "Junior Forward Deployed Software Engineer",
         "source": "vanshb03",
@@ -36432,13 +36432,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1795090862,
+        "date_updated": 1795614929,
         "url": "https://go.vansh.nyc/1CK",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Segment",
         "title": "Software Engineer, Platform Engineering",
         "source": "vanshb03",
