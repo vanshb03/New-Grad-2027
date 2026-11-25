@@ -26838,13 +26838,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793171321,
+        "date_updated": 1795636442,
         "url": "https://go.vansh.nyc/Xc",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Agave",
         "title": "New Grad: Full-Stack Software Engineer",
         "source": "vanshb03",
