@@ -37890,13 +37890,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1795580518,
+        "date_updated": 1795591294,
         "url": "https://go.vansh.nyc/1IX",
         "locations": [
             "Phoenix, AZ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Genpact",
         "title": "Developer, Enterprise Applications",
         "source": "vanshb03",
