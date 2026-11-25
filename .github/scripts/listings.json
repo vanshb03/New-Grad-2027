@@ -20385,14 +20385,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793014740,
+        "date_updated": 1795577015,
         "url": "https://go.vansh.nyc/DL",
         "locations": [
             "New York, NY",
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Invisible Tech",
         "title": "Data Scientist",
         "source": "vanshb03",
