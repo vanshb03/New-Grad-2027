@@ -43,7 +43,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | --- | --- | --- | :---: | :---: |
 | **Veeva Systems** | New Grad 2027: Associate Software Engineer 🛂 | Raleigh, NC | <a href="https://go.vansh.nyc/1IJ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | **Johns Hopkins Applied Physics Laboratory** | New Grad 2027: Reverse Engineer - Systems Exploitation | Laurel, MD | <a href="https://go.vansh.nyc/1IZ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
-| **Genpact** | Developer, Enterprise Applications | Phoenix, AZ | <a href="https://go.vansh.nyc/1IX?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | **Deloitte** | Software Engineer | Nashville, TN | <a href="https://go.vansh.nyc/1IT?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | **Shield AI** | New Grad 2027: Engineer II, Software - Ground Control Station - Full Stack 🇺🇸 | Arlington, VA | <a href="https://go.vansh.nyc/1HX?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | **SambaNova Systems** | New Grad: AI Performance Engineer | Austin, TX</br>San Jose, CA | <a href="https://go.vansh.nyc/1HY?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
@@ -859,6 +858,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Softheon** | Software Engineer I - Membership | Remote</br>United States | <a href="https://go.vansh.nyc/iG?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 12 |
 | **Tesla** | Software Engineer, Traction Control & Stability | Palo Alto, CA | <a href="https://go.vansh.nyc/ig?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 05 |
 | **Qualcomm** | Embedded DSP Software Engineer | San Diego, CA | <a href="https://go.vansh.nyc/i2?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 31 |
+| **Genpact** | Developer, Enterprise Applications | Phoenix, AZ | 🔒 | Nov 25 |
 | **Appodeal** | Junior Software Engineer | Parkland, FL | 🔒 | Nov 24 |
 | **MasterBorn** | Junior QA Specialist | Remote | 🔒 | Nov 23 |
 | **Koddi** | Associate Software Engineer | Fort Worth, TX | 🔒 | Nov 23 |
