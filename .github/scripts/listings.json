@@ -37840,5 +37840,37 @@
         "date_posted": 1795563380,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795568312,
+        "url": "https://go.vansh.nyc/1II",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hitachi",
+        "title": "Software Analyst",
+        "source": "vanshb03",
+        "id": "9ee1b0f2-fb38-41a2-8edd-c48914db69c4",
+        "date_posted": 1795568092,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795568312,
+        "url": "https://go.vansh.nyc/1IJ",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Veeva Systems",
+        "title": "New Grad 2027: Associate Software Engineer",
+        "source": "vanshb03",
+        "id": "ec873a84-f310-495d-9f5e-2d96c0c7a6c9",
+        "date_posted": 1795568091,
+        "company_url": "",
+        "is_visible": true
     }
 ]
