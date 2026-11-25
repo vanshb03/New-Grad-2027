@@ -37824,5 +37824,21 @@
         "date_posted": 1795564120,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795567012,
+        "url": "https://go.vansh.nyc/1IG",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SAIC",
+        "title": "Computer Programmer Level 1",
+        "source": "vanshb03",
+        "id": "d477c7ad-e0eb-476b-a922-f5cbc4af10d4",
+        "date_posted": 1795563380,
+        "company_url": "",
+        "is_visible": true
     }
 ]
