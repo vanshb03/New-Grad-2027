@@ -24616,13 +24616,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793027000,
+        "date_updated": 1795622145,
         "url": "https://go.vansh.nyc/PH",
         "locations": [
             "Washington, DC"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Booz Allen",
         "title": "New Grad 2027: Quantum Research Professional",
         "source": "vanshb03",
@@ -24988,14 +24988,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793063868,
+        "date_updated": 1795622145,
         "url": "https://go.vansh.nyc/Tu",
         "locations": [
             "Chicago, IL",
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Old Mission",
         "title": "New Grad 2027: Quantitative Trader (August Start)",
         "source": "vanshb03",
@@ -37842,13 +37842,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1795568312,
+        "date_updated": 1795622145,
         "url": "https://go.vansh.nyc/1II",
         "locations": [
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Hitachi",
         "title": "Software Analyst",
         "source": "vanshb03",
