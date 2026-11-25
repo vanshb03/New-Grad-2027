@@ -37335,13 +37335,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1795386212,
+        "date_updated": 1795640079,
         "url": "https://go.vansh.nyc/1Gw",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "RoadRunner",
         "title": "New Grad: Forward Deployed Engineer",
         "source": "vanshb03",
@@ -37982,6 +37982,22 @@
         "source": "vanshb03",
         "id": "fa7302fe-c956-4e32-b1f6-78b7453f50ef",
         "date_posted": 1795628953,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795639942,
+        "url": "https://go.vansh.nyc/1Jt",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "XPENG Motors",
+        "title": "New Grad: Software Engineer - Computing Platform",
+        "source": "vanshb03",
+        "id": "7ae6fd19-c6d8-4ba8-9c35-ccc5dd237326",
+        "date_posted": 1795636221,
         "company_url": "",
         "is_visible": true
     }
