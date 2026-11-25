@@ -37872,5 +37872,21 @@
         "date_posted": 1795568091,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795573432,
+        "url": "https://go.vansh.nyc/1IT",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Deloitte",
+        "title": "Software Engineer",
+        "source": "vanshb03",
+        "id": "bd14d400-0d65-4404-a7b5-24f4d271a0a6",
+        "date_posted": 1795569265,
+        "company_url": "",
+        "is_visible": true
     }
 ]
