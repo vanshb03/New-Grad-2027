@@ -49,6 +49,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Parallel Web Systems** | Software Engineer - Developer Experience | Palo Alto, CA</br>San Francisco, CA</br>New York, NY | <a href="https://go.vansh.nyc/1JH?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | **Nimble Storage** | Embedded Software Developer | Spring, TX | <a href="https://go.vansh.nyc/1J7?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | **Nexvel** | Vibe Coder - Marketing Tools | Elkins Park, PA | <a href="https://go.vansh.nyc/1JV?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
+| **Manufacturers and Traders Trust** | New Grad 2027: Technology Development Program - Software Engineering, Identity & Risk Technology | Buffalo, NY | <a href="https://go.vansh.nyc/1Ks?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | **ManTech** | Junior Data Analyst 🇺🇸 | Ashburn, VA | <a href="https://go.vansh.nyc/1JG?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | **Johns Hopkins Applied Physics Laboratory** | New Grad 2027: Reverse Engineer - Systems Exploitation | Laurel, MD | <a href="https://go.vansh.nyc/1IZ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | **Eight Sleep** | New Grad: Engineering | New York, NY | <a href="https://go.vansh.nyc/1Ji?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
@@ -762,6 +763,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Tesla** | AI Engineer, Reinforcement Learning, Self-Driving | Palo Alto, CA | <a href="https://go.vansh.nyc/yF?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 07 |
 | **Renaissance Technologies** | Real-Time Trading Programmer 🇺🇸 | East Setauket, NY | <a href="https://go.vansh.nyc/yK?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 07 |
 | **Renaissance Technologies** | Research Scientist 🇺🇸 | East Setauket, NY | <a href="https://go.vansh.nyc/yJ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 07 |
+| **Evolver** | GenAI Engineer (Python) | Palo Alto, CA | <a href="https://go.vansh.nyc/1Kt?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 06 |
 | **Thera** | Founding Engineer 🇺🇸 | New York, NY | <a href="https://go.vansh.nyc/yc?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 30 |
 | **Lumenalta** | Full Stack Engineer | Remote | <a href="https://go.vansh.nyc/xH?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | **Tesla** | In Vehicle Test Engineer, Steering, Vehicle Software | East Liberty, OH | <a href="https://go.vansh.nyc/xm?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
