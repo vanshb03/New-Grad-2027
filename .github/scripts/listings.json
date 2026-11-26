@@ -34665,13 +34665,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794413866,
+        "date_updated": 1795674261,
         "url": "https://go.vansh.nyc/1uL",
         "locations": [
             "Cedar Rapids, IA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "Software Engineer I",
         "source": "vanshb03",
