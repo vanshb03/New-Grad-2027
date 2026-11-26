@@ -68,7 +68,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **PayPal** | New Grad 2027: Software Engineer | San Jose, CA</br>Chicago, IL</br>Austin, TX | <a href="https://go.vansh.nyc/1Io?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | **Iridium Communications** | Software Test Engineer I | Chandler, AZ | <a href="https://go.vansh.nyc/1HZ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | **Consolidated Edison** | Associate, Research & Development | New York, NY | <a href="https://go.vansh.nyc/1IB?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
-| **Boeing** | ASIC/FPGA Design Verification Engineer 🇺🇸 | El Segundo, CA | <a href="https://go.vansh.nyc/1Ix?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | **Analog Devices** | Associate Engineer, Quality Engineering | Wilmington, MA | <a href="https://go.vansh.nyc/1Iw?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | **Amazon** | New Grad 2027: Front-End Engineer | Seattle, WA | <a href="https://go.vansh.nyc/1Iv?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | **Sorenson** | Software Engineer | Salt Lake City, UT | <a href="https://go.vansh.nyc/1Hx?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
@@ -171,7 +170,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **L3Harris Technologies** | Associate, Application Development | Melbourne, FL | <a href="https://go.vansh.nyc/1yb?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | **Johns Hopkins Applied Physics Laboratory** | New Grad: Mission Modeling, Simulation & Software Engineer | Laurel, MD | <a href="https://go.vansh.nyc/1wC?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | **GlobalFoundries** | New Grad 2027: Tapeout Biz Products & Engineering | Austin, TX | <a href="https://go.vansh.nyc/1w3?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
-| **Boeing** | Flight Software Engineer, Vehicle Management Systems 🇺🇸 | El Segundo, CA | <a href="https://go.vansh.nyc/1y8?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | **Bask Health** | New Grad: Frontend Engineer | Remote | <a href="https://go.vansh.nyc/1wd?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | **Bask Health** | Junior Design Engineer | Remote | <a href="https://go.vansh.nyc/1we?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | **Bask** | New Grad: Frontend Engineer | Remote | <a href="https://go.vansh.nyc/1wf?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
@@ -864,6 +862,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Tesla** | Software Engineer, Traction Control & Stability | Palo Alto, CA | <a href="https://go.vansh.nyc/ig?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 05 |
 | **Qualcomm** | Embedded DSP Software Engineer | San Diego, CA | <a href="https://go.vansh.nyc/i2?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 31 |
 | **Genpact** | Developer, Enterprise Applications | Phoenix, AZ | 🔒 | Nov 25 |
+| **Boeing** | ASIC/FPGA Design Verification Engineer 🇺🇸 | El Segundo, CA | 🔒 | Nov 24 |
 | **Appodeal** | Junior Software Engineer | Parkland, FL | 🔒 | Nov 24 |
 | **MasterBorn** | Junior QA Specialist | Remote | 🔒 | Nov 23 |
 | **Koddi** | Associate Software Engineer | Fort Worth, TX | 🔒 | Nov 23 |
@@ -900,6 +899,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Leidos** | Software Engineer 🇺🇸 | Tucson, AZ | 🔒 | Nov 12 |
 | **Dillards** | COBOL Developer | Little Rock, AR | 🔒 | Nov 12 |
 | **Booz Allen** | Junior C++ Software Engineer 🇺🇸 | Beavercreek, OH | 🔒 | Nov 12 |
+| **Boeing** | Flight Software Engineer, Vehicle Management Systems 🇺🇸 | El Segundo, CA | 🔒 | Nov 12 |
 | **Zensar** | Software Engineer, AI Platform Development | San Jose, CA</br>Ann Arbor, MI | 🔒 | Nov 11 |
 | **Zensar** | Software Engineer, AI Platform Development | San Jose, CA | 🔒 | Nov 11 |
 | **Zensar** | Software Engineer - AI Platform Development | San Jose, CA</br>Jersey City, NJ | 🔒 | Nov 11 |
