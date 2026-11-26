@@ -38178,5 +38178,21 @@
         "date_posted": 1795659656,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795681437,
+        "url": "https://go.vansh.nyc/1Ka",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ameren",
+        "title": "Data Analyst, Business Analytics",
+        "source": "vanshb03",
+        "id": "39cb8fa0-3162-45f2-90f6-0d3b88a89b5c",
+        "date_posted": 1795564800,
+        "company_url": "",
+        "is_visible": true
     }
 ]
