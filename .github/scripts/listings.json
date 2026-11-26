@@ -38260,5 +38260,37 @@
         "date_posted": 1795459500,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795724714,
+        "url": "https://go.vansh.nyc/1Ks",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Manufacturers and Traders Trust",
+        "title": "New Grad 2027: Technology Development Program - Software Engineering, Identity & Risk Technology",
+        "source": "vanshb03",
+        "id": "9ef50dfc-771a-4254-91e9-d2da03293e2b",
+        "date_posted": 1795635089,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795724714,
+        "url": "https://go.vansh.nyc/1Kt",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Evolver",
+        "title": "GenAI Engineer (Python)",
+        "source": "vanshb03",
+        "id": "287bf6cf-65fa-4af0-bec7-065534a27342",
+        "date_posted": 1767738956,
+        "company_url": "",
+        "is_visible": true
     }
 ]
