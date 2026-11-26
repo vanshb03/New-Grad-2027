@@ -38228,5 +38228,37 @@
         "date_posted": 1795454100,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795722907,
+        "url": "https://go.vansh.nyc/1Kq",
+        "locations": [
+            "Bldg, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Keysight Technologies",
+        "title": "Machine Learning Engineer - RL & Optimization (Master's)",
+        "source": "vanshb03",
+        "id": "36c7febd-8212-4f9e-9424-ee961a47e4a6",
+        "date_posted": 1795518061,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795722907,
+        "url": "https://go.vansh.nyc/1Kr",
+        "locations": [
+            "Santa Rosa, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Keysight Technologies",
+        "title": "Machine Learning Engineer, RL & Optimization (Master's)",
+        "source": "vanshb03",
+        "id": "b5df0541-e6df-4aed-8817-7f3f01973152",
+        "date_posted": 1795459500,
+        "company_url": "",
+        "is_visible": true
     }
 ]
