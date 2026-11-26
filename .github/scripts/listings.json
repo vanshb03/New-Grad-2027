@@ -38146,5 +38146,37 @@
         "date_posted": 1795564800,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795659872,
+        "url": "https://go.vansh.nyc/1K3",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Scout AI",
+        "title": "New Grad 2027: AI Engineer, AI/ML and Agent Harnessing",
+        "source": "vanshb03",
+        "id": "623f6208-a314-40a2-80fb-22a3d961cf3c",
+        "date_posted": 1795659656,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795659872,
+        "url": "https://go.vansh.nyc/1K4",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Scout AI",
+        "title": "New Grad 2027: Software Engineer, Core Systems",
+        "source": "vanshb03",
+        "id": "f7013c34-350c-4790-88f0-804b95ac2213",
+        "date_posted": 1795659656,
+        "company_url": "",
+        "is_visible": true
     }
 ]
