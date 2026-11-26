@@ -38230,13 +38230,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1795722907,
+        "date_updated": 1795735206,
         "url": "https://go.vansh.nyc/1Kq",
         "locations": [
-            "Bldg, CA"
+            "Santa Rosa, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Keysight Technologies",
         "title": "Machine Learning Engineer - RL & Optimization (Master's)",
         "source": "vanshb03",
