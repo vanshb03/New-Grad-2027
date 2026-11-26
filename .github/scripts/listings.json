@@ -38050,5 +38050,101 @@
         "date_posted": 1795647999,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795652612,
+        "url": "https://go.vansh.nyc/1JS",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CodeRabbit",
+        "title": "New Grad: Software Engineer",
+        "source": "vanshb03",
+        "id": "fc6b3b8c-6433-4010-909a-3c6ac39ac502",
+        "date_posted": 1795564800,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795652612,
+        "url": "https://go.vansh.nyc/1JT",
+        "locations": [
+            "Remote, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "WELLSTAR Technologies",
+        "title": "Junior Software Developer",
+        "source": "vanshb03",
+        "id": "14f24e8b-cdd2-4e10-8ed9-deb62b3889d2",
+        "date_posted": 1795649786,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795652612,
+        "url": "https://go.vansh.nyc/1JU",
+        "locations": [
+            "Remote, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "WELLSTAR Technologies",
+        "title": "Junior Software Developer",
+        "source": "vanshb03",
+        "id": "ca7b222b-0938-4659-8ccd-59df5a859fe6",
+        "date_posted": 1795649786,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795652612,
+        "url": "https://go.vansh.nyc/1JV",
+        "locations": [
+            "Elkins Park, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nexvel",
+        "title": "Vibe Coder - Marketing Tools",
+        "source": "vanshb03",
+        "id": "b7c17e42-8d9c-4adf-9da8-aec51fc0174f",
+        "date_posted": 1795649434,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795652612,
+        "url": "https://go.vansh.nyc/1JW",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ayo Semiconductor",
+        "title": "Machine Learning Researcher (Master's)",
+        "source": "vanshb03",
+        "id": "a13c4255-bd79-4ff5-8b32-52baac2821a7",
+        "date_posted": 1795564800,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795652612,
+        "url": "https://go.vansh.nyc/1JX",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ayo Semiconductor",
+        "title": "Machine Learning Engineer (Master's)",
+        "source": "vanshb03",
+        "id": "8700d55f-a352-43c9-b1d3-c324aaf70b51",
+        "date_posted": 1795564800,
+        "company_url": "",
+        "is_visible": true
     }
 ]
