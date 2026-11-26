@@ -45,6 +45,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
 | **Wonderbrands** | New Grad: Growth Intelligence Analyst | Etobicoke, Canada | <a href="https://go.vansh.nyc/1Je?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
+| **WELLSTAR Technologies** | Junior Software Developer | Remote, Canada | <a href="https://go.vansh.nyc/1JT?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
+| **WELLSTAR Technologies** | Junior Software Developer | Remote, Canada | <a href="https://go.vansh.nyc/1JU?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | **ServiceRocket** | Associate Service Delivery Engineer | Toronto, Canada | <a href="https://go.vansh.nyc/1Ic?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | **Ciena** | New Grad: Software Engineering | Ottawa, Canada | <a href="https://go.vansh.nyc/1IC?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | **Trend Micro** | Software Developer 🛂 | Ottawa, Canada | <a href="https://go.vansh.nyc/1H3?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
