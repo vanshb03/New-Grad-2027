@@ -35275,13 +35275,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794527277,
+        "date_updated": 1795703141,
         "url": "https://go.vansh.nyc/1y8",
         "locations": [
             "El Segundo, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Boeing",
         "title": "Flight Software Engineer, Vehicle Management Systems",
         "source": "vanshb03",
@@ -37778,13 +37778,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1795560683,
+        "date_updated": 1795703141,
         "url": "https://go.vansh.nyc/1Ix",
         "locations": [
             "El Segundo, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Boeing",
         "title": "ASIC/FPGA Design Verification Engineer",
         "source": "vanshb03",
