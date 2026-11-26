@@ -34841,13 +34841,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794440895,
+        "date_updated": 1795654547,
         "url": "https://go.vansh.nyc/1vH",
         "locations": [
             "Richland, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Pacific Northwest National Laboratory",
         "title": "Post-Bachelor Research Associate, Full Stack Product",
         "source": "vanshb03",
