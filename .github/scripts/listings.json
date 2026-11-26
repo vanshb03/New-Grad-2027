@@ -38194,5 +38194,39 @@
         "date_posted": 1795564800,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795684907,
+        "url": "https://go.vansh.nyc/1Kb",
+        "locations": [
+            "Bedford, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MITRE",
+        "title": "Associate Wireless Security Engineer",
+        "source": "vanshb03",
+        "id": "45658bef-4524-4235-ac55-41f6077cdbf0",
+        "date_posted": 1795392000,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795684907,
+        "url": "https://go.vansh.nyc/1Kc",
+        "locations": [
+            "Cupertino, CA",
+            "New York, NY",
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apple",
+        "title": "New Grad 2027: Engineer Evolve Services Rotation Program",
+        "source": "vanshb03",
+        "id": "e46790a3-83b1-4c65-b2ec-ea5cdf7ad636",
+        "date_posted": 1795454100,
+        "company_url": "",
+        "is_visible": true
     }
 ]
