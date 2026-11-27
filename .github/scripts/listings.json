@@ -38052,13 +38052,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1795652612,
+        "date_updated": 1795757534,
         "url": "https://go.vansh.nyc/1JS",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CodeRabbit",
         "title": "New Grad: Software Engineer",
         "source": "vanshb03",
