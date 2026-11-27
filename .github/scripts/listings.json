@@ -38404,5 +38404,21 @@
         "date_posted": 1795792772,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795816555,
+        "url": "https://go.vansh.nyc/1Lx",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Applied Materials",
+        "title": "AI Engineer/Data Scientist",
+        "source": "vanshb03",
+        "id": "1d2234b4-5ccd-4d98-930a-914c07c9bce6",
+        "date_posted": 1795478400,
+        "company_url": "",
+        "is_visible": true
     }
 ]
