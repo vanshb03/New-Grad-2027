@@ -91,7 +91,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Williams International** | Engineer Software/Controls - Rotation | Pontiac, MI | <a href="https://go.vansh.nyc/1Fl?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | **Vertex Service Partners** | Junior AI Engineer | Charlotte, NC | <a href="https://go.vansh.nyc/1FM?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | **Trimont** | New Grad 2027: Technology Analyst | Atlanta, GA | <a href="https://go.vansh.nyc/1FK?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
-| **Rolls-Royce** | New Grad 2027: Junior Machine Learning Engineering | Indianapolis, IN | <a href="https://go.vansh.nyc/1EL?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | **Qualcomm** | DSP Applications Software Engineer - ASICS Engineering | Austin, TX | <a href="https://go.vansh.nyc/1Ec?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | **OPOWER** | New Grad 2027: Software Engineer, Oracle Cloud Infrastructure (OCI) | Nashville, TN | <a href="https://go.vansh.nyc/1EQ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | **NVIDIA** | New Grad 2027: Software Engineer, DL Kernel Libraries | Santa Clara, CA | <a href="https://go.vansh.nyc/1F0?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
@@ -867,6 +866,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Koddi** | Associate Software Engineer | Fort Worth, TX | 🔒 | Nov 23 |
 | **Adobe** | New Grad 2027: Research Scientist (Master's) | San Jose, CA | 🔒 | Nov 23 |
 | **RoadRunner** | New Grad: Forward Deployed Engineer | San Francisco, CA | 🔒 | Nov 22 |
+| **Rolls-Royce** | New Grad 2027: Junior Machine Learning Engineering | Indianapolis, IN | 🔒 | Nov 20 |
 | **Parsons** | Associate Software Engineer 🇺🇸 | Remote | 🔒 | Nov 20 |
 | **Booz Allen** | Software Developer 🇺🇸 | Arlington, VA | 🔒 | Nov 20 |
 | **United Launch Alliance** | Ground Software Avionics & Infrastructure Engineer 1 | Centennial, CO | 🔒 | Nov 19 |
