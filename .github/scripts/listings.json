@@ -24188,13 +24188,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793027000,
+        "date_updated": 1795750502,
         "url": "https://go.vansh.nyc/Pi",
         "locations": [
             "Ottawa, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Ciena",
         "title": "Embedded Software Engineer",
         "source": "vanshb03",
@@ -36884,13 +36884,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1795195427,
+        "date_updated": 1795750502,
         "url": "https://go.vansh.nyc/1EL",
         "locations": [
             "Indianapolis, IN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Rolls-Royce",
         "title": "New Grad 2027: Junior Machine Learning Engineering",
         "source": "vanshb03",
