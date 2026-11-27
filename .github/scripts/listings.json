@@ -19574,13 +19574,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1792812025,
+        "date_updated": 1795746763,
         "url": "https://go.vansh.nyc/Bm",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Citi",
         "title": "New Grad 2027: Technology, Production Support Analyst",
         "source": "vanshb03",
@@ -19702,13 +19702,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1792812025,
+        "date_updated": 1795746763,
         "url": "https://go.vansh.nyc/Bu",
         "locations": [
             "Jersey City, NJ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Citi",
         "title": "New Grad 2027: Application Development Analyst",
         "source": "vanshb03",
@@ -20434,13 +20434,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793018233,
+        "date_updated": 1795746763,
         "url": "https://go.vansh.nyc/Hn",
         "locations": [
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "BDO Canada",
         "title": "New Grad 2027: DevOps Engineer",
         "source": "vanshb03",
@@ -34939,13 +34939,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1794456796,
+        "date_updated": 1795746763,
         "url": "https://go.vansh.nyc/1w2",
         "locations": [
             "Etc, CT"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "Associate Software Engineer I, CDS / Engine System Software",
         "source": "vanshb03",
@@ -36272,13 +36272,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1795000916,
+        "date_updated": 1795746763,
         "url": "https://go.vansh.nyc/1Ca",
         "locations": [
             "Cedar Rapids, IA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "Software Engineer I",
         "source": "vanshb03",
@@ -36900,13 +36900,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1795198906,
+        "date_updated": 1795746763,
         "url": "https://go.vansh.nyc/1EN",
         "locations": [
             "Cedar Rapids, IA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "Software Engineer I",
         "source": "vanshb03",
@@ -37810,13 +37810,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1795564379,
+        "date_updated": 1795746763,
         "url": "https://go.vansh.nyc/1IC",
         "locations": [
             "Ottawa, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Ciena",
         "title": "New Grad: Software Engineering",
         "source": "vanshb03",
@@ -38290,6 +38290,54 @@
         "source": "vanshb03",
         "id": "287bf6cf-65fa-4af0-bec7-065534a27342",
         "date_posted": 1767738956,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795746523,
+        "url": "https://go.vansh.nyc/1KJ",
+        "locations": [
+            "Ottawa, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ciena",
+        "title": "New Grad: Embedded Software Engineer",
+        "source": "vanshb03",
+        "id": "4cd03e48-9f8e-4dcf-aef0-d93459ab6683",
+        "date_posted": 1795573367,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795746523,
+        "url": "https://go.vansh.nyc/1KK",
+        "locations": [
+            "Ottawa, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cisco",
+        "title": "Software Developer I",
+        "source": "vanshb03",
+        "id": "c8ad239a-16d2-491a-a9db-32c2ad6748e8",
+        "date_posted": 1795573367,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795746523,
+        "url": "https://go.vansh.nyc/1KL",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hitachi",
+        "title": "Software Analyst",
+        "source": "vanshb03",
+        "id": "4affe86a-025e-4d68-979e-11288483e735",
+        "date_posted": 1795573367,
         "company_url": "",
         "is_visible": true
     }
