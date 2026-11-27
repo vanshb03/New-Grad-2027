@@ -37480,13 +37480,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1795456210,
+        "date_updated": 1795798764,
         "url": "https://go.vansh.nyc/1H3",
         "locations": [
             "Ottawa, Canada"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Trend Micro",
         "title": "Software Developer",
         "source": "vanshb03",
