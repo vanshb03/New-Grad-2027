@@ -609,7 +609,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Rubrik** | Software Engineer - Product Platform Security | Palo Alto, CA | <a href="https://go.vansh.nyc/1uj?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
 | **Qualcomm** | Memory and Cache Controller Design Engineer, ASIC Engineering (Master's) | San Diego, CA | <a href="https://go.vansh.nyc/HN?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
 | **Hewlett Packard Enterprise** | Systems/Software Engineer I | Houston, TX | <a href="https://go.vansh.nyc/Lg?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
-| **Cincinnati Children’s** | Developer I, Psychiatry | Burnet, TX | <a href="https://go.vansh.nyc/Ic?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
+| **Cincinnati Children’s** | Developer I, Psychiatry | Cincinnati, OH | <a href="https://go.vansh.nyc/Ic?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
 | **Mach Industries** | New Grad 2027: Software Engineer - Software 🛂 | Huntington Beach, CA | <a href="https://go.vansh.nyc/HH?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | **Mach Industries** | Software Engineer 🛂 | Huntington Beach, CA | <a href="https://go.vansh.nyc/HI?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | **Astera Labs** | New Grad: Data Analyst | San Jose, CA | <a href="https://go.vansh.nyc/1un?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
