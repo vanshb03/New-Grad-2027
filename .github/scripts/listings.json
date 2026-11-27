@@ -38180,13 +38180,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1795681437,
+        "date_updated": 1795760921,
         "url": "https://go.vansh.nyc/1Ka",
         "locations": [
             "St. Louis, MO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Ameren",
         "title": "Data Analyst, Business Analytics",
         "source": "vanshb03",
