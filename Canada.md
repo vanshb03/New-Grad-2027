@@ -47,8 +47,10 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Wonderbrands** | New Grad: Growth Intelligence Analyst | Etobicoke, Canada | <a href="https://go.vansh.nyc/1Je?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | **WELLSTAR Technologies** | Junior Software Developer | Remote, Canada | <a href="https://go.vansh.nyc/1JT?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | **WELLSTAR Technologies** | Junior Software Developer | Remote, Canada | <a href="https://go.vansh.nyc/1JU?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
+| **Hitachi** | Software Analyst | Toronto, Canada | <a href="https://go.vansh.nyc/1KL?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
+| **Cisco** | Software Developer I | Ottawa, Canada | <a href="https://go.vansh.nyc/1KK?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
+| **Ciena** | New Grad: Embedded Software Engineer | Ottawa, Canada | <a href="https://go.vansh.nyc/1KJ?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | **ServiceRocket** | Associate Service Delivery Engineer | Toronto, Canada | <a href="https://go.vansh.nyc/1Ic?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
-| **Ciena** | New Grad: Software Engineering | Ottawa, Canada | <a href="https://go.vansh.nyc/1IC?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | **Trend Micro** | Software Developer 🛂 | Ottawa, Canada | <a href="https://go.vansh.nyc/1H3?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
 | **Gradient MSP** | Junior Full Stack Developer | Remote, Canada | <a href="https://go.vansh.nyc/1Gb?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
 | **Trend Micro** | Software Developer 🛂 | Ottawa, Canada | <a href="https://go.vansh.nyc/1Gc?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
@@ -81,7 +83,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Amazon** | New Grad 2027: Software Development Engineer | Vancouver, Canada | <a href="https://go.vansh.nyc/B2?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | **Wonderbrands** | New Grad: Fullstack Software Developer | Etobicoke, Canada | <a href="https://go.vansh.nyc/1ue?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | **Quora** | Machine Learning Engineer | Remote</br>Remote, Canada | <a href="https://go.vansh.nyc/Dx?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
-| **BDO Canada** | New Grad 2027: DevOps Engineer | Toronto, Canada | <a href="https://go.vansh.nyc/Hn?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | **Fellow Insights** | New Grad 2027: Software Engineer | Ottawa, Canada | <a href="https://go.vansh.nyc/If?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 04 |
 | **Harbor** | Junior Developer, Finance Systems | Remote</br>Remote, Canada | <a href="https://go.vansh.nyc/I7?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
 | **AMD** | Silicon Design Engineer | Markham, Canada</br>Ottawa, Canada | <a href="https://go.vansh.nyc/1ud?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
@@ -100,6 +101,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Oracle** | Software Developer | Remote</br>Canada | <a href="https://go.vansh.nyc/iS?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 19 |
 | **Oracle** | Software Developer - Rotational Program - NetSuite | Kitchiner, Canada | <a href="https://go.vansh.nyc/iR?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 19 |
 | **Hitachi** | Software Analyst | Toronto, Canada | 🔒 | Nov 25 |
+| **Ciena** | New Grad: Software Engineering | Ottawa, Canada | 🔒 | Nov 24 |
 | **American Express** | New Grad 2027: Software Engineer I, Enterprise Technology Services | Toronto, Canada | 🔒 | Nov 16 |
 | **Blackberry** | Systems Software Developer, Sensor Framework | Ottawa, Canada | 🔒 | Nov 11 |
 | **Sur La Table** | Junior Software Engineer | Toronto, Canada</br>Remote | 🔒 | Nov 09 |
@@ -123,6 +125,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Bell Canada** | New Grad 2027: Technology Services, Emerging AI and Data Solutions | Verdun, Canada | 🔒 | Oct 19 |
 | **Bell Canada** | New Grad 2027: Technology Services, Product and Initiative Management | Verdun, Canada | 🔒 | Oct 19 |
 | **AMD** | New Grad: Systems Design Engineer | Markham, Canada | 🔒 | Oct 19 |
+| **BDO Canada** | New Grad 2027: DevOps Engineer | Toronto, Canada | 🔒 | Oct 09 |
 | **Motorola** | Junior Software Engineer, AI Agent Platform | Remote, Canada | 🔒 | Oct 05 |
 | **AMD** | RTL/Firmware Design Engineer | Markham, Canada | 🔒 | Sep 28 |
 | **AMD** | Software System Designer | Markham, Canada | 🔒 | Sep 28 |
