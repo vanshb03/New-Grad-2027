@@ -38340,5 +38340,53 @@
         "date_posted": 1795573367,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795771961,
+        "url": "https://go.vansh.nyc/1Lm",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "M&T Bank",
+        "title": "New Grad 2027: Technology Development Program - Software Engineering (Commercial Application Development)",
+        "source": "vanshb03",
+        "id": "41fa8cc1-6758-462f-9921-e8d5c35c0cca",
+        "date_posted": 1795657627,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795771961,
+        "url": "https://go.vansh.nyc/1Ln",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "M&T Bank",
+        "title": "New Grad 2027: Technology Development Program - Software Engineering (AI & Engineering Platforms)",
+        "source": "vanshb03",
+        "id": "1cd4cd21-6f81-4d19-a712-3f13e532d526",
+        "date_posted": 1795657627,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795771961,
+        "url": "https://go.vansh.nyc/1Lo",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "LSEG",
+        "title": "New Grad 2027: AI Product & Business Associate",
+        "source": "vanshb03",
+        "id": "4a39b6a0-a2b1-40a5-a8b8-e44ba9f9ff42",
+        "date_posted": 1795571199,
+        "company_url": "",
+        "is_visible": true
     }
 ]
