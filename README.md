@@ -41,6 +41,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Адамант Про** | Junior+ Developer | Remote | <a href="https://go.vansh.nyc/1Lr?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 27 |
 | **Scout AI** | New Grad 2027: AI Engineer, AI/ML and Agent Harnessing | Sunnyvale, CA | <a href="https://go.vansh.nyc/1K3?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 26 |
 | **Scout AI** | New Grad 2027: Software Engineer, Core Systems | Sunnyvale, CA | <a href="https://go.vansh.nyc/1K4?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 26 |
 | **M&T Bank** | New Grad 2027: Technology Development Program - Software Engineering (Commercial Application Development) | Buffalo, NY | <a href="https://go.vansh.nyc/1Lm?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 26 |
