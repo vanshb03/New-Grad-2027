@@ -38436,5 +38436,37 @@
         "date_posted": 1795823541,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795832968,
+        "url": "https://go.vansh.nyc/1LY",
+        "locations": [
+            "Berkeley Heights, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bank of Montreal",
+        "title": "New Grad: Software Developer",
+        "source": "vanshb03",
+        "id": "a5d92689-990e-48c3-afef-e70f4c02e2b1",
+        "date_posted": 1795828601,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1795832968,
+        "url": "https://go.vansh.nyc/1LZ",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CHEP",
+        "title": "Software Developer - Applications",
+        "source": "vanshb03",
+        "id": "6f8a082c-5b5a-459e-b467-1440e2daf4fa",
+        "date_posted": 1795737600,
+        "company_url": "",
+        "is_visible": true
     }
 ]
