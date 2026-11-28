@@ -38420,5 +38420,21 @@
         "date_posted": 1795478400,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1795825776,
+        "url": "https://go.vansh.nyc/1Lz",
+        "locations": [
+            "Remote, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "neurohire.ai",
+        "title": "Data Engineer (Master's)",
+        "source": "vanshb03",
+        "id": "d6e285c3-6fb0-49f2-934c-42d0462d18fc",
+        "date_posted": 1795823541,
+        "company_url": "",
+        "is_visible": true
     }
 ]
