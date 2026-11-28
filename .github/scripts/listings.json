@@ -26282,13 +26282,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1793095806,
+        "date_updated": 1795857931,
         "url": "https://go.vansh.nyc/Ve",
         "locations": [
             "Rochester, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "L3Harris Technologies",
         "title": "Associate, Software Engineering",
         "source": "vanshb03",
@@ -37384,13 +37384,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1795422046,
+        "date_updated": 1795857931,
         "url": "https://go.vansh.nyc/1GL",
         "locations": [
             "Colorado Springs, CO"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Northrop Grumman",
         "title": "New Grad 2027: Associate Software Engineer / Software Engineer",
         "source": "vanshb03",
