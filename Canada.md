@@ -44,6 +44,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **neurohire.ai** | Data Engineer (Master's) | Remote, Canada | <a href="https://go.vansh.nyc/1Lz?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 27 |
 | **Wonderbrands** | New Grad: Growth Intelligence Analyst | Etobicoke, Canada | <a href="https://go.vansh.nyc/1Je?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | **WELLSTAR Technologies** | Junior Software Developer | Remote, Canada | <a href="https://go.vansh.nyc/1JT?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | **WELLSTAR Technologies** | Junior Software Developer | Remote, Canada | <a href="https://go.vansh.nyc/1JU?s=B"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
